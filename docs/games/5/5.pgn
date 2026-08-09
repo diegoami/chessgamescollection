@@ -1,0 +1,16 @@
+[Event "Let\\'s Play!"]
+[Site "Chess.com"]
+[Date "2024.08.25"]
+[Round "?"]
+[White "diegoami"]
+[Black "paandroid"]
+[Result "0-1"]
+[TimeControl "1/86400"]
+[WhiteElo "1570"]
+[BlackElo "1584"]
+[Termination "paandroid won by resignation"]
+[ECO "A20"]
+[EndDate "2024.09.25"]
+[Link "https://www.chess.com/game/daily/695105555?move=0"]
+
+1. c4 { +0.00 } 1... e5 { +0.14 } 2. d3 { -0.09 } 2... Nf6 { -0.02 } 3. Nc3 { -0.10 } 3... Nc6 { -0.04 } 4. Nf3 { +0.00 } 4... d5 { -0.02 } 5. cxd5 { +0.05 } 5... Nxd5 { +0.11 } 6. g3 { +0.04 } 6... Nxc3 { +0.35 } 7. bxc3 { +0.20 } 7... Be7 { +0.26 } 8. Bg2 { +0.21 } 8... O-O { +0.23 } 9. O-O { +0.24 } 9... Be6 { +0.27 } 10. a4 { +0.28 } 10... a5 { +0.35 } 11. Ba3 { +0.00 } 11... Bxa3 { +0.03 } 12. Rxa3 { +0.00 } 12... Qd7 { +0.14 } 13. Re1 { +0.06 } 13... Rad8 { +0.00 } 14. Ng5 { -0.08 } 14... Bf5 { +0.00 } 15. Rb3 { -0.17 } 15... b6 { -0.17 } 16. Qc1 { -0.34 } 16... h6 { -0.35 } 17. Ne4 { -0.34 } 17... Bh3 { -0.12 } 18. Bf3 $2 { -1.30 } ( 18. Bxh3 Qxh3 19. f3 Qe6 20. Rb5 f5 21. Nd2 e4 $10 ) 18... f5 { -1.47 } ( 18... f5 19. Nd2 e4 20. Bh1 exd3 21. exd3 Qxd3 22. Bxc6 $17 ) 19. Nd2 { -1.37 } 19... Rfe8 $6 { -0.68 } ( 19... e4 20. Bh1 exd3 21. exd3 Qxd3 22. Bxc6 Qxd2 23. Qxd2 $17 ) 20. Nc4 $2 { -1.98 } ( 20. Rb2 Nb8 $15 ) ( 20. Rb2 Nb8 $15 ) 20... e4 { -2.14 } ( 20... e4 21. Bh5 $17 ) 21. dxe4 $2 { -4.16 } ( 21. Bh5 $17 ) 21... fxe4 $2 { -2.47 } ( 21... Qf7 22. exf5 Qxc4 23. Rb5 Na7 24. Rb2 Bxf5 25. Rd1 $19 ) ( 21... Qf7 22. exf5 Qxc4 23. Rb5 Na7 24. Rb2 Bxf5 25. Rd1 $19 ) 22. Bh1 $2 { -5.10 } ( 22. Bh5 Rf8 23. Rb5 Qe6 24. Ne3 Na7 25. Rb1 g6 $17 ) ( 22. Bh5 Rf8 23. Rb5 Qe6 24. Ne3 Na7 25. Rb1 g6 $17 ) 22... Qf7 { -5.00 } ( 22... Qe6 23. Nxa5 Nxa5 24. Rb5 Nc4 25. a5 Nxa5 26. Rb4 $19 ) 23. Rd1 $6 { -5.94 } ( 23. Nxa5 Nxa5 24. Rb4 Rf8 25. Qf4 Qxf4 26. gxf4 Rxf4 $19 ) 23... Qxc4 { -5.64 } ( 23... Rf8 24. f4 Qxc4 25. Rxd8 Rxd8 26. Rb2 Qd5 27. Qe1 $19 ) 0-1
