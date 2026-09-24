@@ -10,32 +10,30 @@
 [BlackElo "1922"]
 [EventDate "2006.??.??"]
 [PostmortemId "799732fb35"]
-[PostmortemAnalysis "Stockfish 19, depth 18"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
 
-1. e4 { [%eval 0.28] } 1... d5 { [%eval 0.62] } 2. exd5 { [%eval 0.55] } 2...
-Nf6 { [%eval 0.64] } 3. d4 { [%eval 0.66] } 3... Nxd5 { [%eval 0.67] } 4. c4
-{ [%eval 0.52] } 4... Nb4 { [%eval 1.56] } 5. a3 { [%eval 1.42] } 5... N4c6
-{ [%eval 1.51] } 6. Nf3 { [%eval 1.45] } 6... Bg4 { [%eval 1.30] } 7. Be2
-{ [%eval 0.73] } 7... Nd7 { [%eval 1.86] } 8. O-O { [%eval 0.96] } 8... e5
-{ [%eval 0.85] } 9. d5 { [%eval 0.44] } 9... Bxf3 { [%eval 0.40] } 10. dxc6
-{ [%eval -0.44] } 10... Bxc6 { [%eval -0.39] } 11. Nc3 { [%eval -0.70] } 11...
-a5 { [%eval -0.54] } 12. Be3 { [%eval -0.78] } 12... Qf6 { [%eval -0.06] } 13.
-Qc2 { [%eval -0.61] } 13... Bd6 { [%eval 0.00] } 14. Rad1 { [%eval -0.39] }
-14... Qh4 { [%eval 0.28] } 15. Nd5 { [%eval 0.09] } 15... Bxd5 { [%eval 0.17] }
-16. cxd5 { [%eval -0.88] } 16... O-O { [%eval -0.89] } 17. h3 { [%eval -1.97] }
-17... f5 { [%eval -1.48] } 18. f3 { [%eval -2.53] } 18... Qf6 $6
-{ [%eval -1.16] } ( 18... e4 19. Qd2 Qg3 20. f4 Nf6 21. Bf2 Qg6 22. Bd4 $17 )
-19. Bd3 { [%eval -1.62] } ( 19. Bb5 Rf7 20. Bxd7 Rxd7 21. Bc5 Re7 22. Bxd6 cxd6
-$17 ) 19... g6 { [%eval -1.12] } 20. Bb5 { [%eval -1.04] } 20... Rad8
-{ [%eval -0.87] } 21. Bh6 { [%eval -1.16] } 21... Rf7 { [%eval -1.12] } 22. f4
-{ [%eval -1.93] } 22... exf4 { [%eval -2.29] } 23. Bxf4 $2 { [%eval -6.60] } (
-23. Bxd7 Rdxd7 24. Bxf4 Rfe7 25. Qd2 b6 26. Rfe1 Bxf4 $17 ) 23... Bxf4
-{ [%eval -6.55] } ( 23... Bxf4 24. Rxf4 Qb6+ 25. Kh2 Qxb5 26. Qxc7 Rdf8 27. Qc3
-$19 ) 24. Rxf4 { [%eval -6.42] } 24... Qb6+ { [%eval -6.76] } 25. Kh1
-{ [%eval -6.84] } 25... Qxb5 { [%eval -6.88] } 26. Qxc7 { [%eval -6.83] } 26...
-Re8 { [%eval -6.76] } 27. d6 { [%eval -7.38] } 27... b6 { [%eval -6.19] } 28.
-Qc3 { [%eval -6.17] } 28... Qe5 { [%eval -6.26] } 29. Qd2 { [%eval -6.91] }
-29... Nc5 { [%eval -7.05] } 30. Rc4 { [%eval -7.24] } 30... Ne4
-{ [%eval -6.90] } 31. Qd4 { [%eval -7.16] } 31... Qxd4 { [%eval -6.81] } 32.
-Rdxd4 { [%eval -6.79] } 32... Rd7 { [%eval -6.78] } 33. Rc6 { [%eval -6.79] }
-33... Rb8 { [%eval -6.96] } 0-1
+1. e4 { [%eval 0.19] } 1... d5 { [%eval 0.70] } 2. exd5 { [%eval 0.60] } 2...
+Nf6 { [%eval 0.56] } 3. d4 { [%eval 0.62] } 3... Nxd5 { [%eval 0.75] } 4. c4
+{ [%eval 0.66] } 4... Nb4 { [%eval 1.29] } 5. a3 { [%eval 1.43] } 5... N4c6
+{ [%eval 1.37] } 6. Nf3 { [%eval 1.24] } 6... Bg4 { [%eval 1.32] } 7. Be2
+{ [%eval 0.63] } 7... Nd7 { [%eval 1.56] } 8. O-O { [%eval 0.87] } 8... e5
+{ [%eval 1.03] } 9. d5 { [%eval 0.53] } 9... Bxf3 { [%eval 0.39] } 10. dxc6
+{ [%eval -0.26] } 10... Bxc6 { [%eval -0.33] } 11. Nc3 { [%eval -0.56] } 11...
+a5 { [%eval -0.50] } 12. Be3 { [%eval -0.67] } 12... Qf6 { [%eval -0.07] } 13.
+Qc2 { [%eval -0.65] } 13... Bd6 { [%eval 0.00] } 14. Rad1 { [%eval -0.48] }
+14... Qh4 { [%eval 0.29] } 15. Nd5 { [%eval 0.05] } 15... Bxd5 { [%eval 0.19] }
+16. cxd5 { [%eval -0.82] } 16... O-O { [%eval -0.85] } 17. h3 { [%eval -1.79] }
+17... f5 { [%eval -1.42] } 18. f3 { [%eval -2.36] } 18... Qf6 { [%eval -1.35] }
+19. Bd3 { [%eval -1.63] } 19... g6 { [%eval -1.13] } 20. Bb5 { [%eval -1.05] }
+20... Rad8 { [%eval -0.73] } 21. Bh6 { [%eval -1.00] } 21... Rf7
+{ [%eval -0.97] } 22. f4 { [%eval -2.08] } 22... exf4 { [%eval -2.20] } 23.
+Bxf4 $2 { [%eval -6.66] } ( 23. Bxd7 Rfxd7 24. Bxf4 Bxf4 25. Rxf4 Qb6+ 26. Kh1
+Rxd5 $17 ) 23... Bxf4 { [%eval -6.66] } ( 23... Bxf4 24. Rxf4 Qb6+ 25. Rfd4
+Qxb5 26. Qxc7 Re8 27. b4 $19 ) 24. Rxf4 { [%eval -6.58] } 24... Qb6+
+{ [%eval -6.71] } 25. Kh1 { [%eval -6.97] } 25... Qxb5 { [%eval -6.95] } 26.
+Qxc7 { [%eval -6.91] } 26... Re8 { [%eval -6.93] } 27. d6 { [%eval -7.57] }
+27... b6 { [%eval -6.53] } 28. Qc3 { [%eval -6.55] } 28... Qe5
+{ [%eval -6.39] } 29. Qd2 { [%eval -7.29] } 29... Nc5 { [%eval -7.27] } 30. Rc4
+{ [%eval -7.19] } 30... Ne4 { [%eval -7.22] } 31. Qd4 { [%eval -7.15] } 31...
+Qxd4 { [%eval -6.98] } 32. Rdxd4 { [%eval -6.93] } 32... Rd7 { [%eval -6.97] }
+33. Rc6 { [%eval -7.10] } 33... Rb8 { [%eval -7.04] } 0-1

@@ -45,7 +45,12 @@ https://diegoami.github.io/chessgamescollection/:
 - `book/games/`: one normalized PGN per game, read from
   [DA_chessgames](https://github.com/diegoami/DA_chessgames). The first batch is the
   over-the-board games.
-- `book/analyzed/`: the same games analyzed by Stockfish. They are kept in git so the analysis is
-  never redone.
+- `book/analyzed/`: the same games analyzed by **Stockfish 19 at depth 22**. They are kept in git
+  so the analysis is never redone. Depth 22 was chosen on 2026-09-24 after comparing depths 18 and
+  22 on a sample of 15 of these games. Depth 18 flagged 3 moves as mistakes that depth 22 judges
+  fine (about 1 in 8 of its critical moments), and depth 22 missed nothing big that depth 18 found.
+  Depth 22 costs 4.4× the time: 40 minutes for these 148 games on a 32-thread machine. To change
+  engine or depth, delete `book/analyzed/` and analyze again, because already-analyzed games are
+  skipped.
 - `book/site/`: the generated site, with one article per game and "what would you play?" questions
   at the critical moments. Don't edit it; rebuild it.

@@ -9,18 +9,18 @@
 [WhiteElo "1717"]
 [BlackElo "2019"]
 [PostmortemId "e73f287c06"]
-[PostmortemAnalysis "Stockfish 19, depth 18"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
 
-1. e4 { [%eval 0.28] } 1... e6 { [%eval 0.31] } 2. d4 { [%eval 0.39] } 2... d5
-{ [%eval 0.38] } 3. Nc3 { [%eval 0.35] } 3... Bb4 { [%eval 0.61] } 4. Ne2
-{ [%eval 0.29] } 4... dxe4 { [%eval 0.12] } 5. a3 { [%eval 0.20] } 5... Be7
-{ [%eval 0.34] } 6. Nxe4 { [%eval 0.33] } 6... Nf6 { [%eval 0.43] } 7. N2g3
-{ [%eval 0.07] } 7... b6 { [%eval 0.56] } 8. c3 { [%eval 0.21] } 8... Bb7
-{ [%eval 0.44] } 9. Bd3 { [%eval 0.17] } 9... Nbd7 { [%eval 0.17] } 10. O-O
-{ [%eval -0.09] } 10... O-O { [%eval -0.09] } 11. Bf4 { [%eval -0.64] } 11...
-c5 { [%eval -0.25] } 12. dxc5 { [%eval -0.18] } 12... Nxc5 { [%eval -0.07] }
-13. Nxc5 { [%eval -0.06] } 13... Bxc5 { [%eval -0.08] } 14. Qc2 $4
-{ [%eval -6.83] } ( 14. Re1 h6 15. h3 Nd5 16. Bd2 Qh4 17. Ne4 Rfd8 $10 ) 14...
-Qd5 { [%eval -6.79] } ( 14... Qd5 15. Be4 Nxe4 16. Qxe4 Qxe4 17. Nxe4 Bxe4 18.
-a4 $19 ) 15. Be4 { [%eval -6.79] } 15... Nxe4 { [%eval -6.70] } 16. Rad1
-{ [%eval -9.08] } 16... Nd2 { [%eval -9.07] } 0-1
+1. e4 { [%eval 0.19] } 1... e6 { [%eval 0.38] } 2. d4 { [%eval 0.38] } 2... d5
+{ [%eval 0.50] } 3. Nc3 { [%eval 0.47] } 3... Bb4 { [%eval 0.61] } 4. Ne2
+{ [%eval 0.22] } 4... dxe4 { [%eval 0.21] } 5. a3 { [%eval 0.25] } 5... Be7
+{ [%eval 0.36] } 6. Nxe4 { [%eval 0.26] } 6... Nf6 { [%eval 0.35] } 7. N2g3
+{ [%eval 0.12] } 7... b6 { [%eval 0.70] } 8. c3 { [%eval 0.16] } 8... Bb7
+{ [%eval 0.39] } 9. Bd3 { [%eval 0.12] } 9... Nbd7 { [%eval 0.09] } 10. O-O
+{ [%eval -0.05] } 10... O-O { [%eval 0.03] } 11. Bf4 { [%eval -0.45] } 11... c5
+{ [%eval -0.09] } 12. dxc5 { [%eval -0.16] } 12... Nxc5 { [%eval -0.08] } 13.
+Nxc5 { [%eval 0.00] } 13... Bxc5 { [%eval 0.00] } 14. Qc2 $4 { [%eval -6.85] }
+( 14. Re1 Nd5 15. Bd2 Nf6 $10 ) 14... Qd5 { [%eval -7.03] } ( 14... Qd5 15. Ne4
+Nxe4 16. Bxe4 Qxe4 17. Qxe4 Bxe4 18. a4 $19 ) 15. Be4 { [%eval -6.97] } 15...
+Nxe4 { [%eval -6.96] } 16. Rad1 { [%eval -9.03] } 16... Nd2 { [%eval -8.93] }
+0-1

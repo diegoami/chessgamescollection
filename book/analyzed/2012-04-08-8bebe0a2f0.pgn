@@ -8,17 +8,22 @@
 [ECO "C44"]
 [SourceDate "2012.04.06"]
 [PostmortemId "8bebe0a2f0"]
-[PostmortemAnalysis "Stockfish 19, depth 18"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
 
-1. e4 { [%eval 0.28] } 1... e5 { [%eval 0.31] } 2. Nf3 { [%eval 0.38] } 2...
-Nc6 { [%eval 0.19] } 3. d4 { [%eval -0.02] } 3... exd4 { [%eval 0.00] } 4. Bc4
-{ [%eval -0.02] } 4... Bc5 { [%eval 0.02] } 5. c3 { [%eval 0.08] } 5... dxc3
-{ [%eval 0.85] } 6. Bxf7+ { [%eval 0.82] } 6... Kf8 { [%eval 1.94] } 7. O-O
-{ [%eval 0.92] } 7... Qe7 $6 { [%eval 3.12] } ( 7... Qf6 8. Bxg8 cxb2 9. Bxb2
-Qxb2 10. Qd5 Qf6 11. Qxc5+ $14 ) 8. Bxg8 { [%eval 1.91] } ( 8. Bb3 c2 9. Qxc2
-d6 10. Nc3 Nf6 11. h3 Ne5 $18 ) 8... cxb2 { [%eval 2.04] } 9. Bxb2
-{ [%eval 1.86] } 9... Rxg8 { [%eval 3.16] } 10. Nc3 { [%eval 3.46] } 10... d6
-{ [%eval 3.55] } 11. Nd5 { [%eval 3.74] } 11... Qd8 { [%eval 3.81] } 12. Qd2
-{ [%eval 3.96] } 12... g5 { [%eval 5.55] } 13. Nf6 { [%eval 6.19] } 13... Rg7
-{ [%eval 7.60] } 14. Nxg5 { [%eval 7.52] } 14... Rg6 { [%eval 7.92] } 15. Qf4
-{ [%eval 8.53] } 15... Qe7 { [%eval 9.99] } 16. Nd5+ { [%eval 10.16] } *
+1. e4 { [%eval 0.19] } 1... e5 { [%eval 0.26] } 2. Nf3 { [%eval 0.23] } 2...
+Nc6 { [%eval 0.19] } 3. d4 { [%eval -0.02] } 3... exd4 { [%eval 0.03] } 4. Bc4
+{ [%eval -0.02] } 4... Bc5 { [%eval -0.01] } 5. c3 { [%eval -0.02] } 5... dxc3
+{ [%eval 0.84] } 6. Bxf7+ { [%eval 0.87] } 6... Kf8 $6 { [%eval 2.61] } ( 6...
+Kxf7 7. Qd5+ Ke8 8. Qh5+ Kf8 9. Qxc5+ Qe7 10. Qxe7+ $14 ) 7. O-O $6
+{ [%eval 0.79] } ( 7. Bb3 d6 8. h3 c2 9. Bxc2 h6 10. Nc3 g5 $16 ) ( 7. Bb3 d6
+8. h3 c2 9. Bxc2 h6 10. Nc3 g5 $16 ) 7... Qe7 $6 { [%eval 3.22] } ( 7... Qf6 8.
+Qd5 cxb2 9. Bxb2 Qxb2 10. Bxg8 Qf6 11. Qxc5+ $14 ) ( 7... Qf6 8. Qd5 cxb2 9.
+Bxb2 Qxb2 10. Bxg8 Qf6 11. Qxc5+ $14 ) 8. Bxg8 { [%eval 2.04] } ( 8. Bb3 c2 9.
+Qxc2 d6 10. h3 Nf6 11. Nc3 Ne5 $18 ) 8... cxb2 { [%eval 2.11] } 9. Bxb2
+{ [%eval 2.00] } 9... Rxg8 $6 { [%eval 3.60] } ( 9... Kxg8 10. Nc3 h6 11. Nd5
+Qf7 12. Nxc7 Rb8 13. Ne8 $16 ) 10. Nc3 { [%eval 4.17] } ( 10. Nc3 d6 11. Nd5
+Qd8 12. Rc1 b6 13. Re1 Bg4 $18 ) 10... d6 { [%eval 4.29] } 11. Nd5
+{ [%eval 4.49] } 11... Qd8 { [%eval 4.59] } 12. Qd2 { [%eval 4.36] } 12... g5
+{ [%eval 6.37] } 13. Nf6 { [%eval 6.64] } 13... Rg7 { [%eval 7.71] } 14. Nxg5
+{ [%eval 8.13] } 14... Rg6 { [%eval 8.77] } 15. Qf4 { [%eval 8.70] } 15... Qe7
+{ [%eval 10.55] } 16. Nd5+ { [%eval 10.78] } *
