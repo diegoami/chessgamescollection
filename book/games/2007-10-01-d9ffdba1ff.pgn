@@ -1,0 +1,14 @@
+[Event "OIS 2007"]
+[Site "?"]
+[Date "2007.10.01"]
+[Round "?"]
+[White "Diego Amicabile"]
+[Black "Guido Stoll"]
+[Result "0-1"]
+[ECO "C44"]
+[WhiteElo "1656"]
+[BlackElo "1722"]
+[TimeControl "7200"]
+[PostmortemId "d9ffdba1ff"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bc5 5. O-O d6 6. Re1 Ne5 7. Nxd4 Nxc4 0-1

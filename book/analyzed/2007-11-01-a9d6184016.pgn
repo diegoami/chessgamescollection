@@ -1,0 +1,40 @@
+[Event "Nibelungen Open IV"]
+[Site "Saxonia Systems AG"]
+[Date "2007.11.01"]
+[Round "?"]
+[White "Diego Amicabile"]
+[Black "Daniel Schalow"]
+[Result "1/2-1/2"]
+[ECO "B01"]
+[WhiteElo "1660"]
+[BlackElo "1984"]
+[TimeControl "40/7200:20/3600:1800"]
+[PostmortemId "a9d6184016"]
+[PostmortemAnalysis "Stockfish 19, depth 18"]
+
+1. e4 { [%eval 0.28] } 1... d5 { [%eval 0.62] } 2. exd5 { [%eval 0.55] } 2...
+Qxd5 { [%eval 0.69] } 3. Nc3 { [%eval 0.70] } 3... Qa5 { [%eval 0.68] } 4. Nf3
+{ [%eval 0.68] } 4... Nf6 { [%eval 0.69] } 5. Be2 { [%eval 0.60] } 5... c6
+{ [%eval 0.56] } 6. O-O { [%eval 0.33] } 6... Bf5 { [%eval 0.47] } 7. b4
+{ [%eval 0.20] } 7... Qc7 { [%eval 0.21] } 8. b5 { [%eval -0.06] } 8... c5
+{ [%eval 0.92] } 9. a4 { [%eval 0.82] } 9... Nbd7 { [%eval 0.97] } 10. Bb2
+{ [%eval 0.66] } 10... e5 { [%eval 1.19] } 11. h3 { [%eval 0.98] } 11... Bd6
+{ [%eval 0.98] } 12. Bc4 { [%eval 1.04] } 12... O-O { [%eval 1.02] } 13. Nh4
+{ [%eval 0.76] } 13... Be6 { [%eval 0.65] } 14. Bxe6 { [%eval 0.69] } 14...
+fxe6 { [%eval 0.68] } 15. d3 { [%eval 0.27] } 15... Nd5 { [%eval 1.25] } 16.
+Ne4 { [%eval 1.19] } 16... N7f6 { [%eval 2.03] } 17. Nxd6 { [%eval 1.51] }
+17... Qxd6 { [%eval 1.93] } 18. Qe2 { [%eval 2.04] } 18... Nd7 { [%eval 2.10] }
+19. Nf3 { [%eval 1.22] } 19... Rf5 { [%eval 1.48] } 20. Rae1 { [%eval 0.76] }
+20... Nf4 { [%eval 0.88] } 21. Qe4 { [%eval 0.80] } 21... Raf8 { [%eval 0.82] }
+22. Nxe5 { [%eval 0.58] } 22... Rg5 { [%eval 0.64] } 23. Nc4 $4
+{ [%eval -6.30] } ( 23. Kh1 Nxg2 24. Nc4 Qd5 25. Qxe6+ Qxe6 26. Rxe6 Rf3 $14 )
+23... Rxg2+ $4 { [%eval 6.76] } ( 23... Nxh3+ 24. Kh1 Rh5 25. g3 Nxf2+ 26. Kg2
+Nxe4 27. Nxd6 $19 ) ( 23... Nxh3+ 24. Kh1 Rh5 25. g3 Nxf2+ 26. Kg2 Nxe4 27.
+Nxd6 $19 ) 24. Qxg2 { [%eval 7.16] } ( 24. Qxg2 Nxg2 25. Nxd6 Nxe1 26. Rxe1 b6
+27. Kf1 Nf6 $18 ) 24... Qe7 { [%eval 7.29] } 25. Qg4 { [%eval 7.37] } 25... Rf5
+{ [%eval 9.23] } 26. Qxf5 { [%eval 9.39] } 26... Qh4 { [%eval 10.26] } 27. Qe4
+{ [%eval 8.74] } 27... Nxh3+ { [%eval 9.21] } 28. Kh2 $4 { [%eval 0.00] } ( 28.
+Kg2 Nf4+ 29. Kf3 Qh3+ 30. Kxf4 e5+ 31. Nxe5 Nf8 $18 ) 28... Nf4+
+{ [%eval 0.00] } ( 28... Nf4+ 29. Kg1 Qg4+ 30. Kh1 Qh3+ 31. Kg1 Qg4+ $10 ) 29.
+Kg1 { [%eval 0.00] } 29... Qg4+ { [%eval 0.00] } 30. Kh1 { [%eval 0.00] } 30...
+Qh3+ { [%eval 0.00] } 1/2-1/2

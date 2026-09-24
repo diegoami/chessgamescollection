@@ -1,0 +1,37 @@
+[Event "OIS München 2006"]
+[Site "?"]
+[Date "2006.10.01"]
+[Round "?"]
+[White "Diego Amicabile"]
+[Black "Valon Rashila"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+[WhiteElo "1718"]
+[BlackElo "1562"]
+[EventDate "2006.??.??"]
+[PostmortemId "931cdc8d15"]
+[PostmortemAnalysis "Stockfish 19, depth 18"]
+
+1. e4 { [%eval 0.28] } 1... e5 { [%eval 0.31] } 2. Nf3 { [%eval 0.38] } 2...
+Nf6 { [%eval 0.43] } 3. Nxe5 { [%eval 0.42] } 3... d6 { [%eval 0.38] } 4. Nf3
+{ [%eval 0.36] } 4... Nxe4 { [%eval 0.37] } 5. d4 { [%eval 0.42] } 5... d5
+{ [%eval 0.40] } 6. Bd3 { [%eval 0.38] } 6... Nc6 { [%eval 0.41] } 7. O-O
+{ [%eval 0.36] } 7... Bd6 { [%eval 1.18] } 8. c4 { [%eval 1.13] } 8... Be7 $2
+{ [%eval 5.14] } ( 8... Nf6 9. c5 Be7 10. h3 O-O 11. Nc3 Nb4 12. Bb5 $16 ) 9.
+Bf4 $4 { [%eval 0.68] } ( 9. cxd5 Qxd5 10. Bxe4 Qxe4 11. Re1 Qd5 12. Nc3 Qd8
+$18 ) ( 9. cxd5 Qxd5 10. Bxe4 Qxe4 11. Re1 Qd5 12. Nc3 Qd8 $18 ) 9... a6 $2
+{ [%eval 3.33] } ( 9... Nb4 10. Re1 Nxd3 11. Qxd3 c6 12. cxd5 cxd5 13. Nc3 $14
+) ( 9... Nb4 10. Re1 Nxd3 11. Qxd3 c6 12. cxd5 cxd5 13. Nc3 $14 ) 10. Re1 $6
+{ [%eval 1.30] } ( 10. cxd5 Qxd5 11. Bxe4 Qxe4 12. Bxc7 O-O 13. Nc3 Qf5 $18 ) (
+10. cxd5 Qxd5 11. Bxe4 Qxe4 12. Bxc7 O-O 13. Nc3 Qf5 $18 ) 10... Nf6
+{ [%eval 1.28] } ( 10... Nf6 11. Nc3 dxc4 12. Bxc4 O-O 13. d5 Na7 14. Qd3 $16 )
+11. Nc3 { [%eval 1.32] } 11... O-O { [%eval 2.13] } 12. cxd5 { [%eval 2.44] }
+12... Nb4 { [%eval 1.92] } 13. Rc1 $6 { [%eval 0.29] } ( 13. Bc4 b5 14. Bb3 Bb7
+15. Qe2 Re8 16. Ne5 Nbxd5 $16 ) 13... Nbxd5 { [%eval 0.70] } ( 13... Nfxd5 14.
+Nxd5 Nxd5 15. Bg3 c6 16. h3 a5 17. a3 $10 ) 14. Nxd5 { [%eval 0.34] } 14...
+Nxd5 { [%eval 0.30] } 15. Be5 { [%eval 0.15] } 15... c6 { [%eval 0.19] } 16. a3
+{ [%eval 0.20] } 16... Bg4 { [%eval 0.22] } 17. Bb1 { [%eval 0.01] } 17... Bd6
+{ [%eval 0.42] } 18. Qd3 { [%eval 0.32] } 18... g6 { [%eval 0.30] } 19. Bxd6
+{ [%eval -0.10] } 19... Qxd6 { [%eval -0.08] } 20. Ng5 { [%eval -0.10] } 20...
+Bf5 { [%eval 0.00] } 21. Ne4 { [%eval -0.33] } 21... Bxe4 { [%eval -0.31] } 22.
+Rxe4 { [%eval -0.43] } 22... Rae8 { [%eval -0.34] } 1/2-1/2

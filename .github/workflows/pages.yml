@@ -1,0 +1,34 @@
+name: Pages
+
+# Publishes the book site that pgn-postmortem builds into book/site/.
+# The site is plain static HTML (relative links, no Jekyll), so it is
+# uploaded as is.
+on:
+  push:
+    branches: [main]
+    paths: ["book/site/**", ".github/workflows/pages.yml"]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: book/site
+      - id: deployment
+        uses: actions/deploy-pages@v4

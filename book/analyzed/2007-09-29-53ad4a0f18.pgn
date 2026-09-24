@@ -1,0 +1,32 @@
+[Event "OIS 2007"]
+[Site "?"]
+[Date "2007.09.29"]
+[Round "1"]
+[White "Diego Amicabile"]
+[Black "Dorit Huber"]
+[Result "1-0"]
+[ECO "B56"]
+[WhiteElo "1656"]
+[BlackElo "1243"]
+[PostmortemId "53ad4a0f18"]
+[PostmortemAnalysis "Stockfish 19, depth 18"]
+
+1. e4 { [%eval 0.28] } 1... c5 { [%eval 0.27] } 2. Nf3 { [%eval 0.36] } 2...
+Nc6 { [%eval 0.34] } 3. d4 { [%eval 0.30] } 3... cxd4 { [%eval 0.36] } 4. Nxd4
+{ [%eval 0.31] } 4... d6 { [%eval 0.48] } 5. Nc3 { [%eval 0.45] } 5... Nf6
+{ [%eval 0.39] } 6. Bb5 { [%eval 0.14] } 6... Bd7 { [%eval 0.16] } 7. Be3
+{ [%eval 0.21] } 7... e6 { [%eval 0.36] } 8. Nf3 { [%eval -0.25] } 8... a6
+{ [%eval -0.26] } 9. Be2 { [%eval -0.31] } 9... Be7 { [%eval -0.27] } 10. Qd2
+{ [%eval -0.26] } 10... Qc7 { [%eval -0.34] } 11. h3 { [%eval -0.35] } 11...
+Rc8 { [%eval -0.27] } 12. O-O { [%eval -0.20] } 12... Na5 { [%eval -0.16] } 13.
+Rad1 { [%eval -0.26] } 13... e5 { [%eval 0.51] } 14. Rfe1 { [%eval 0.00] }
+14... Nc4 { [%eval 0.92] } 15. Bxc4 { [%eval 1.00] } 15... Qxc4
+{ [%eval 0.83] } 16. Bg5 { [%eval 0.88] } 16... Qb4 { [%eval 1.22] } 17. Nxe5
+{ [%eval 1.26] } 17... Qxb2 { [%eval 1.15] } 18. Bxf6 { [%eval 0.87] } 18...
+gxf6 { [%eval 1.59] } 19. Nxd7 { [%eval 1.72] } 19... Kxd7 $2 { [%eval 6.33] }
+( 19... Qxc3 20. Nb6 Qxd2 21. Rxd2 Rc6 22. Nd5 Bd8 23. c3 $16 ) 20. Re3
+{ [%eval 5.65] } ( 20. Nd5 Rxc2 21. Qe3 Qe5 22. Qa7 Ke8 23. Qxb7 Bd8 $18 )
+20... Rc6 { [%eval 7.47] } 21. Rb1 { [%eval 7.55] } 21... Qa3 { [%eval 9.33] }
+22. Rxb7+ { [%eval 9.60] } 22... Rc7 { [%eval 11.74] } 23. Rxc7+
+{ [%eval 11.74] } 23... Kxc7 { [%eval 12.20] } 24. Nd5+ { [%eval 12.56] } 24...
+Kd7 { [%eval 13.71] } 25. Rxa3 { [%eval 13.58] } 1-0

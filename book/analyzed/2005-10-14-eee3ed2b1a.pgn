@@ -1,0 +1,37 @@
+[Event "Clubmeisterschaft 2006"]
+[Site "München"]
+[Date "2005.10.14"]
+[Round "?"]
+[White "Bernhard Rohrer"]
+[Black "Diego Amicabile"]
+[Result "1-0"]
+[ECO "C00"]
+[WhiteElo "1802"]
+[BlackElo "1718"]
+[EventDate "2005.??.??"]
+[PostmortemId "eee3ed2b1a"]
+[PostmortemAnalysis "Stockfish 19, depth 18"]
+
+1. e4 { [%eval 0.28] } 1... e6 { [%eval 0.31] } 2. Nf3 { [%eval 0.13] } 2... d5
+{ [%eval 0.18] } 3. Nc3 { [%eval 0.00] } 3... d4 { [%eval 0.04] } 4. Ne2
+{ [%eval 0.12] } 4... c5 { [%eval 0.12] } 5. Ng3 { [%eval -0.40] } 5... Nc6
+{ [%eval -0.39] } 6. Bc4 { [%eval -0.33] } 6... Bd6 { [%eval -0.10] } 7. O-O
+{ [%eval -0.02] } 7... Bxg3 { [%eval 0.69] } 8. fxg3 { [%eval 0.77] } 8... Nf6
+{ [%eval 1.22] } 9. d3 { [%eval 1.31] } 9... Qc7 { [%eval 1.68] } 10. a3
+{ [%eval 1.18] } 10... h6 { [%eval 1.35] } 11. Rb1 { [%eval 0.83] } 11... e5
+{ [%eval 1.26] } 12. Nh4 { [%eval 1.03] } 12... Bg4 { [%eval 1.72] } 13. Qe1
+{ [%eval 1.48] } 13... Qe7 { [%eval 2.05] } 14. Nf5 { [%eval 1.64] } 14... Bxf5
+{ [%eval 1.63] } 15. Rxf5 { [%eval 1.60] } 15... a6 { [%eval 1.87] } 16. a4
+{ [%eval 1.23] } 16... O-O { [%eval 1.59] } 17. Qf1 $6 { [%eval 0.12] } ( 17.
+Qe2 b5 18. axb5 axb5 19. Bxb5 Na5 20. g4 Rfb8 $16 ) 17... Nb4 $6
+{ [%eval 1.80] } ( 17... Ne8 18. Rf2 Nd6 19. Bb3 Rac8 20. Bd2 b5 21. Bd5 $10 )
+( 17... Ne8 18. Rf2 Nd6 19. Bb3 Rac8 20. Bd2 b5 21. Bd5 $10 ) 18. c3
+{ [%eval 0.95] } ( 18. Bxh6 b5 19. Bb3 c4 20. dxc4 bxc4 21. Bxc4 Nxc2 $16 )
+18... Nc6 $2 { [%eval 4.13] } ( 18... b5 19. axb5 axb5 20. Bxb5 Rfb8 21. cxb4
+Rxb5 22. Bxh6 $14 ) 19. Bxh6 { [%eval 4.22] } ( 19. Bxh6 Nh7 20. Bd2 Rad8 21.
+g4 g6 22. Rf3 Kg7 $18 ) 19... Nxe4 { [%eval 4.65] } 20. Bxg7 { [%eval 5.27] }
+20... Kxg7 { [%eval 5.22] } 21. dxe4 { [%eval 5.46] } 21... f6 { [%eval 5.60] }
+22. Qf3 { [%eval 5.04] } 22... Rh8 $6 { [%eval 10.61] } ( 22... Qe8 23. Rf1 Qg6
+24. g4 Ne7 25. Rh5 b5 26. Be6 $18 ) 23. Qg4+ { [%eval 10.35] } ( 23. Qg4+ Kf8
+24. Qg6 Qh7 25. Rxf6+ Ke7 26. Rf7+ Qxf7 $18 ) 23... Kf8 { [%eval 11.18] } 24.
+Rbf1 { [%eval 9.24] } 24... Rh6 { [%eval #1] } 25. Qg8# 1-0

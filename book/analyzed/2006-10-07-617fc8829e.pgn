@@ -1,0 +1,42 @@
+[Event "OIS München 2006"]
+[Site "München"]
+[Date "2006.10.07"]
+[Round "?"]
+[White "Diego Amicabile"]
+[Black "Berthold Karcher"]
+[Result "0-1"]
+[ECO "D94"]
+[WhiteElo "1718"]
+[BlackElo "1569"]
+[EventDate "2006.??.??"]
+[EventRounds "9"]
+[PostmortemId "617fc8829e"]
+[PostmortemAnalysis "Stockfish 19, depth 18"]
+
+1. Nf3 { [%eval 0.24] } 1... Nf6 { [%eval 0.27] } 2. d4 { [%eval 0.24] } 2...
+g6 { [%eval 0.27] } 3. c4 { [%eval 0.29] } 3... Bg7 { [%eval 0.31] } 4. Nc3
+{ [%eval 0.36] } 4... d5 { [%eval 0.45] } 5. e3 { [%eval 0.01] } 5... O-O
+{ [%eval 0.01] } 6. b4 { [%eval -0.26] } 6... c6 { [%eval -0.08] } 7. a4
+{ [%eval -0.05] } 7... a6 { [%eval 0.28] } 8. Ba3 { [%eval -0.05] } 8... dxc4
+{ [%eval 0.30] } 9. Bxc4 { [%eval 0.29] } 9... b5 { [%eval 0.22] } 10. Bd3
+{ [%eval -0.04] } 10... Nbd7 { [%eval 0.09] } 11. O-O { [%eval 0.08] } 11...
+Nb6 { [%eval 0.90] } 12. Bb2 { [%eval 0.16] } 12... Be6 { [%eval 0.15] } 13.
+Ne5 { [%eval -0.30] } 13... Qd6 { [%eval 0.02] } 14. Qc2 { [%eval -0.13] }
+14... Rac8 { [%eval -0.17] } 15. Ne4 $6 { [%eval -1.48] } ( 15. Rfc1 Nbd5 16.
+Ba3 Nxc3 17. Qxc3 Nd5 18. Qe1 Nb6 $10 ) 15... Nxe4 { [%eval -1.28] } ( 15...
+Nxe4 16. Bxe4 Nxa4 17. Rfc1 f5 18. Bf3 f4 19. Nd3 $17 ) 16. Bxe4
+{ [%eval -1.35] } 16... Nxa4 { [%eval -1.33] } 17. Nxc6 $2 { [%eval -5.40] } (
+17. Rfc1 f5 18. Bf3 f4 19. Nd3 fxe3 20. fxe3 Bc4 $17 ) 17... Nxb2
+{ [%eval -5.39] } ( 17... Nxb2 18. Qc5 Rfe8 19. Rxa6 Bc4 20. Rfa1 Nd3 21. Bxd3
+$19 ) 18. Qxb2 { [%eval -6.09] } 18... Rxc6 { [%eval -6.16] } 19. Bxc6
+{ [%eval -6.08] } 19... Qxc6 { [%eval -6.13] } 20. Rfc1 { [%eval -6.18] } 20...
+Bc4 { [%eval -6.19] } 21. Qd2 { [%eval -6.32] } 21... Rd8 { [%eval -6.37] } 22.
+Qc2 { [%eval -6.34] } 22... e5 { [%eval -6.15] } 23. dxe5 { [%eval -6.08] }
+23... Bxe5 { [%eval -6.19] } 24. Rab1 { [%eval -6.16] } 24... Qc7
+{ [%eval -6.15] } 25. h3 { [%eval -6.01] } 25... Qe7 { [%eval -5.96] } 26. Rd1
+{ [%eval -6.04] } 26... Rxd1+ { [%eval -6.12] } 27. Rxd1 { [%eval -6.20] }
+27... Qxb4 { [%eval -6.45] } 28. Qe4 { [%eval -6.52] } 28... Qc3
+{ [%eval -5.91] } 29. f4 { [%eval -6.32] } 29... Bf6 { [%eval -6.25] } 30. g4
+{ [%eval -6.78] } 30... Be2 { [%eval -6.57] } 31. Qe8+ { [%eval -7.98] } 31...
+Kg7 { [%eval -8.26] } 32. Rb1 { [%eval -9.15] } 32... Qc2 { [%eval -10.79] }
+33. Re1 { [%eval #-4] } 33... Bf3 { [%eval #-3] } 0-1

@@ -1,0 +1,28 @@
+[Event "Festival Verona 2008"]
+[Site "Saxonia Systems AG"]
+[Date "2008.01.06"]
+[Round "?"]
+[White "Maccapan Fabio"]
+[Black "Amicabile Diego"]
+[Result "1/2-1/2"]
+[ECO "A04"]
+[WhiteElo "2060"]
+[BlackElo "1874"]
+[EventDate "2008.??.??"]
+[PostmortemId "45a3fdcd80"]
+[PostmortemAnalysis "Stockfish 19, depth 18"]
+
+1. Nf3 { [%eval 0.24] } 1... e6 { [%eval 0.25] } 2. g3 { [%eval 0.19] } 2... f5
+{ [%eval 0.54] } 3. Bg2 { [%eval 0.53] } 3... Nf6 { [%eval 0.58] } 4. O-O
+{ [%eval 0.61] } 4... d5 { [%eval 0.77] } 5. d3 { [%eval 0.40] } 5... Bd6
+{ [%eval 0.73] } 6. Nbd2 { [%eval 0.29] } 6... O-O { [%eval 0.38] } 7. Qe1
+{ [%eval -0.19] } 7... e5 { [%eval -0.07] } 8. e4 { [%eval 0.01] } 8... fxe4
+{ [%eval -0.04] } 9. dxe4 { [%eval -0.02] } 9... dxe4 { [%eval 0.56] } 10. Nxe4
+{ [%eval 0.56] } 10... Nxe4 { [%eval 1.64] } 11. Qxe4 { [%eval 1.89] } 11...
+Nc6 { [%eval 1.82] } 12. Ng5 { [%eval 1.95] } 12... g6 { [%eval 2.14] } 13.
+Qd5+ { [%eval 1.84] } 13... Kg7 { [%eval 1.96] } 14. Ne6+ { [%eval 0.81] }
+14... Bxe6 { [%eval 0.69] } 15. Qxe6 { [%eval 0.76] } 15... Nd4
+{ [%eval 0.75] } 16. Qh3 { [%eval 0.18] } 16... Ne2+ { [%eval 0.24] } 17. Kh1
+{ [%eval 0.17] } 17... Nxc1 { [%eval 0.25] } 18. Raxc1 { [%eval 0.17] } 18...
+c6 { [%eval 0.22] } 19. Qe6 { [%eval 0.11] } 19... Re8 { [%eval 0.17] } 20. Qb3
+{ [%eval 0.17] } 1/2-1/2

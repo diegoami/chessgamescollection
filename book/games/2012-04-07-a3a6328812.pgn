@@ -1,0 +1,20 @@
+[Event "?"]
+[Site "?"]
+[Date "2012.04.07"]
+[Round "?"]
+[White "Winter, Michael"]
+[Black "Amicabile, Diego"]
+[Result "*"]
+[ECO "A25"]
+[SourceDate "2012.04.06"]
+[PostmortemId "a3a6328812"]
+
+1. c4 f5 2. Nc3 e5 3. g3 Nf6 4. Bg2 Nc6 5. d3 Bb4 6. Bd2 O-O 7. Nh3 a5 8. O-O
+Kh8 9. Ng5 h6 10. Nf3 d6 11. Qc1 Bxc3 12. bxc3 Qe7 13. Rb1 Rg8 14. h4 e4 15.
+Nd4 Nxd4 16. cxd4 b6 17. Bxh6 gxh6 18. Qxh6+ Nh7 19. dxe4 Bb7 20. Rb5 fxe4 21.
+Rh5 Rae8 22. g4 Rxg4 23. Kh2 Qg7 24. Bh3 Qxh6 25. Rxh6 Rf4 26. e3 Rf6 27. Rh5
+Bc8 28. Bxc8 Rxc8 29. Kh3 Rg8 30. Kh2 Rgg6 31. a3 Kg7 32. a4 Rh6 33. Rg1+ Rfg6
+34. Rxg6+ Kxg6 35. Rxh6+ Kxh6 36. Kg3 Nf6 37. Kf4 c6 38. Kf5 d5 39. cxd5 Nxd5
+40. Kxe4 Nc3+ 41. Ke5 Nxa4 42. f4 Nc3 43. f5 Nd5 44. e4 Ne7 45. Ke6 Ng8 46. f6
+Nxf6 47. Kxf6 a4 48. e5 a3 49. e6 a2 50. e7 a1=Q 51. e8=Q Qxd4+ 52. Kf5 Qd3+
+53. Kg4 Qg6+ 54. Qxg6+ Kxg6 *

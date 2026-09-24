@@ -1,0 +1,21 @@
+[Event "MEM H/2"]
+[Site "?"]
+[Date "2008.01.12"]
+[Round "?"]
+[White "Amicabile, Diego"]
+[Black "Hanspeter, Hecht"]
+[Result "0-1"]
+[ECO "C10"]
+[WhiteElo "1709"]
+[BlackElo "1748"]
+[TimeControl "2700+45"]
+[PostmortemId "1d7e223d96"]
+
+1. e4 e6 2. d4 d5 3. Nd2 dxe4 4. Nxe4 Bd7 5. Nf3 Bc6 6. Bd3 Nd7 7. O-O Ngf6 8.
+Ng3 Be7 9. b3 O-O 10. Bb2 b6 11. c4 Bb7 12. Rc1 c5 13. Qe2 Qc7 14. Rfd1 Rad8
+15. Bb1 Bd6 16. dxc5 bxc5 17. Ng5 Be5 18. Rxd7 Nxd7 19. Bxh7+ Kh8 20. Bxe5 Qxe5
+21. Qh5 g6 22. Bxg6+ Kg7 23. Qh7+ Kf6 24. N5e4+ Bxe4 25. Nxe4+ Ke7 26. Qh4+ Nf6
+27. Qxf6+ Qxf6 28. Nxf6 Kxf6 29. Bc2 Rd2 30. Kf1 Rfd8 31. h4 Rh8 32. Ke1 Rd4
+33. g3 Ke5 34. Rd1 Rxd1+ 35. Kxd1 f5 36. a3 a5 37. Kd2 Kd4 38. Bd1 e5 39. h5 e4
+40. Kc2 Rh6 41. g4 fxg4 42. Bxg4 Rf6 43. Be2 Rxf2 44. Kd2 e3+ 45. Ke1 Rh2 46.
+Kd1 Kc3 47. b4 Rh1+ 0-1

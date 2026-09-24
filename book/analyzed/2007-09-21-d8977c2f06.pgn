@@ -1,0 +1,28 @@
+[Event "Clubmeisterschaft 2008"]
+[Site "?"]
+[Date "2007.09.21"]
+[Round "?"]
+[White "Diego Amicabile"]
+[Black "Hans-Peter Mundt"]
+[Result "1-0"]
+[ECO "C44"]
+[WhiteElo "1657"]
+[BlackElo "1184"]
+[TimeControl "7200"]
+[PostmortemId "d8977c2f06"]
+[PostmortemAnalysis "Stockfish 19, depth 18"]
+
+1. e4 { [%eval 0.28] } 1... e5 { [%eval 0.31] } 2. Nf3 { [%eval 0.38] } 2...
+Nc6 { [%eval 0.19] } 3. d4 { [%eval -0.02] } 3... exd4 { [%eval 0.00] } 4. Bc4
+{ [%eval -0.02] } 4... Bb4+ { [%eval 0.18] } 5. c3 { [%eval 0.09] } 5... dxc3
+{ [%eval 0.09] } 6. O-O { [%eval -0.05] } 6... cxb2 { [%eval 0.81] } 7. Bxb2
+{ [%eval 0.71] } 7... Bf8 $6 { [%eval 2.66] } ( 7... Nf6 8. e5 Nh5 9. Nbd2 d5
+10. exd6 O-O 11. Ne4 $14 ) 8. Re1 { [%eval 2.65] } ( 8. Nc3 Be7 9. Qb3 Na5 10.
+Bxf7+ Kf8 11. Qa4 Kxf7 $16 ) 8... d6 { [%eval 3.07] } 9. Nc3 $6
+{ [%eval 1.61] } ( 9. Qb3 Be6 10. Bxe6 fxe6 11. Qxe6+ Qe7 12. Qb3 O-O-O $18 )
+9... Nge7 $6 { [%eval 2.91] } ( 9... Be7 10. Nd5 Nf6 11. Nxe7 Qxe7 12. e5 dxe5
+13. Qb3 $16 ) ( 9... Be7 10. Nd5 Nf6 11. Nxe7 Qxe7 12. e5 dxe5 13. Qb3 $16 )
+10. Qb3 { [%eval 1.81] } ( 10. Nd5 Na5 11. Bf1 c6 12. Ne3 c5 13. h4 Nac6 $16 )
+10... f6 $4 { [%eval #2] } ( 10... Be6 11. Bxe6 fxe6 12. Qxe6 Qd7 13. Qb3 O-O-O
+14. Nd5 $16 ) 11. Bf7+ { [%eval #1] } ( 11. Bf7+ Kd7 12. Qe6# $18 ) 11... Kd7
+{ [%eval #1] } 12. Qe6# 1-0

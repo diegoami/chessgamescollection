@@ -1,0 +1,29 @@
+[Event "Clubmeisterschaft 2006"]
+[Site "Saxonia Systems AG"]
+[Date "2005.12.09"]
+[Round "?"]
+[White "Horst Hradetzky"]
+[Black "Diego Amicabile"]
+[Result "1/2-1/2"]
+[ECO "D33"]
+[WhiteElo "1809"]
+[BlackElo "1718"]
+[EventDate "2005.??.??"]
+[PostmortemId "195b325bff"]
+[PostmortemAnalysis "Stockfish 19, depth 18"]
+
+1. c4 { [%eval 0.17] } 1... Nf6 { [%eval 0.29] } 2. g3 { [%eval 0.18] } 2... c5
+{ [%eval 0.28] } 3. Bg2 { [%eval 0.22] } 3... Nc6 { [%eval 0.26] } 4. Nc3
+{ [%eval 0.26] } 4... e6 { [%eval 0.28] } 5. Nf3 { [%eval 0.27] } 5... d5
+{ [%eval 0.25] } 6. cxd5 { [%eval 0.31] } 6... exd5 { [%eval 0.20] } 7. d4
+{ [%eval 0.19] } 7... cxd4 { [%eval 0.25] } 8. Nxd4 { [%eval 0.25] } 8... Be6
+{ [%eval 0.84] } 9. O-O { [%eval 0.91] } 9... h6 { [%eval 1.80] } 10. b3
+{ [%eval 0.71] } 10... Bc5 { [%eval 0.59] } 11. Nxe6 { [%eval 0.60] } 11...
+fxe6 { [%eval 0.57] } 12. Bb2 { [%eval 0.43] } 12... O-O { [%eval 0.39] } 13.
+Rc1 { [%eval 0.48] } 13... Ng4 { [%eval 0.29] } 14. e3 { [%eval -0.16] } 14...
+Nxf2 { [%eval 0.15] } 15. Qe2 { [%eval 0.18] } 15... Qg5 { [%eval 0.53] } 16.
+Nxd5 { [%eval 0.52] } 16... Nh3+ { [%eval 0.45] } 17. Bxh3 { [%eval 0.44] }
+17... Rxf1+ { [%eval 0.40] } 18. Kxf1 { [%eval 0.16] } 18... Qxd5
+{ [%eval 0.12] } 19. Bxe6+ { [%eval 0.18] } 19... Qxe6 { [%eval 0.12] } 20.
+Rxc5 { [%eval 0.17] } 20... Re8 { [%eval 0.16] } 21. Qc4 { [%eval 0.00] }
+1/2-1/2

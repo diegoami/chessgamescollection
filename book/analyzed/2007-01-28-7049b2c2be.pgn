@@ -1,0 +1,28 @@
+[Event "MEM H /4"]
+[Site "?"]
+[Date "2007.01.28"]
+[Round "?"]
+[White "Florian Borchert"]
+[Black "Diego Amicabile"]
+[Result "1/2-1/2"]
+[ECO "B25"]
+[WhiteElo "1657"]
+[BlackElo "1718"]
+[EventDate "2007.??.??"]
+[TimeControl "40/7200:20/3600:1800"]
+[PostmortemId "7049b2c2be"]
+[PostmortemAnalysis "Stockfish 19, depth 18"]
+
+1. e4 { [%eval 0.28] } 1... c5 { [%eval 0.27] } 2. Nc3 { [%eval 0.13] } 2...
+Nc6 { [%eval 0.29] } 3. g3 { [%eval -0.01] } 3... Nf6 { [%eval 0.01] } 4. Bg2
+{ [%eval 0.00] } 4... g6 { [%eval 0.00] } 5. d3 { [%eval 0.02] } 5... Bg7
+{ [%eval -0.05] } 6. Nge2 { [%eval -0.03] } 6... d6 { [%eval -0.01] } 7. O-O
+{ [%eval 0.01] } 7... a6 { [%eval 0.18] } 8. f4 { [%eval 0.20] } 8... Qc7
+{ [%eval 0.40] } 9. h3 { [%eval 0.30] } 9... Bd7 { [%eval 0.60] } 10. Rb1
+{ [%eval 0.25] } 10... Rb8 { [%eval 0.40] } 11. g4 { [%eval 0.42] } 11... Qc8
+{ [%eval 0.70] } 12. f5 { [%eval 0.61] } 12... Ne5 { [%eval 0.73] } 13. Ng3
+{ [%eval 0.75] } 13... b5 { [%eval 1.54] } 14. Be3 $6 { [%eval 0.17] } ( 14. g5
+Ng8 15. Nd5 b4 16. Bf4 h6 17. f6 Bf8 $16 ) 14... b4 { [%eval 0.18] } ( 14... b4
+15. Nce2 h6 16. Nf4 g5 17. Nfh5 Nxh5 18. Nxh5 $10 ) 15. Nce2 { [%eval 0.19] }
+15... Bc6 { [%eval 0.97] } 16. Qd2 { [%eval 0.13] } 16... Ng8 { [%eval 0.98] }
+1/2-1/2

@@ -1,0 +1,16 @@
+[Event "MMM 2008"]
+[Site "?"]
+[Date "2008.04.17"]
+[Round "?"]
+[White "Amicabile, Diego"]
+[Black "Jakowetz, Andreas"]
+[Result "1-0"]
+[ECO "C56"]
+[WhiteElo "1743"]
+[BlackElo "1604"]
+[TimeControl "900+5"]
+[PostmortemId "a13038a7a6"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Nf6 5. e5 Ng4 6. O-O Ngxe5 7. Nxe5 Nxe5
+8. Re1 Be7 9. Rxe5 d6 10. Re1 c5 11. c3 dxc3 12. Nxc3 O-O 13. Bf4 Be6 14. Bd5
+Qd7 15. Bg3 1-0

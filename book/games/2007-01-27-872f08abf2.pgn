@@ -1,0 +1,27 @@
+[Event "MEM H/4"]
+[Site "?"]
+[Date "2007.01.27"]
+[Round "?"]
+[White "Diego Amicabile"]
+[Black "Hans Kohl"]
+[Result "1-0"]
+[ECO "E72"]
+[WhiteElo "1718"]
+[BlackElo "1841"]
+[EventDate "2007.??.??"]
+[TimeControl "240+2"]
+[PostmortemId "872f08abf2"]
+
+1. c4 Nf6 2. g3 g6 3. Bg2 Bg7 4. d4 O-O 5. Nc3 d6 6. e4 c6 7. Nge2 Bd7 8. O-O
+Qc8 9. Re1 e5 10. dxe5 dxe5 11. b3 Na6 12. Bb2 Rd8 13. a3 Nc5 14. Qc2 Bh3 15.
+Rad1 Bxg2 16. Rxd8+ Qxd8 17. Kxg2 Qc7 18. b4 Ne6 19. Rd1 Rd8 20. f3 Rxd1 21.
+Nxd1 Ne8 22. Qd3 Qd6 23. Qxd6 Nxd6 24. Ne3 f6 25. a4 Bh6 26. Ng4 Nxc4 27. Nxh6+
+Kg7 28. Bc1 a5 29. b5 cxb5 30. axb5 a4 31. Ng4 a3 32. Nc3 Nd4 33. Ne3 Nxe3+ 34.
+Bxe3 Nxb5 35. Bd2 Nd6 36. Kf2 b5 37. Na2 f5 38. exf5 gxf5 39. Bc3 Kf6 40. Ke2
+Ke6 41. Nb4 e4 42. fxe4 Nxe4 43. Bd2 Kd6 44. Bc1 Ke5 45. Bxa3 f4 46. Nd3+ Kf5
+47. Nxf4 Kg4 48. Ke3 Nxg3 49. hxg3 Kxg3 50. Ne2+ Kg2 51. Bd6 h5 52. Nf4+ Kg3
+53. Nxh5+ Kg2 54. Kf4 Kf2 55. Ng3 Kg2 56. Bc5 b4 57. Bxb4 Kf2 58. Bc5+ Kg2 59.
+Kg4 Kh2 60. Kf3 Kh3 61. Ne4 Kh2 62. Be3 Kh1 63. Bf4 Kg1 64. Nf2 Kf1 65. Bh2 Ke1
+66. Ne4 Kf1 67. Nd2+ Ke1 68. Ke3 Kd1 69. Kd3 Ke1 70. Bg3+ Kd1 71. Nc4 Kc1 72.
+Bf2 Kd1 73. Nb2+ Kc1 74. Kc3 Kb1 75. Be3 Ka2 76. Nc4 Ka1 77. Kb3 Kb1 78. Na3+
+Ka1 79. Bd4# 1-0

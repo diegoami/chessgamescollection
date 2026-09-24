@@ -1,0 +1,32 @@
+[Event "Clubmeisterschaft 2007"]
+[Site "München"]
+[Date "2006.10.27"]
+[Round "?"]
+[White "Werner Linn"]
+[Black "Diego Amicabile"]
+[Result "1/2-1/2"]
+[ECO "E20"]
+[WhiteElo "1619"]
+[BlackElo "1718"]
+[EventDate "2006.??.??"]
+[EventRounds "5"]
+[PostmortemId "56e66ceaf7"]
+[PostmortemAnalysis "Stockfish 19, depth 18"]
+
+1. d4 { [%eval 0.20] } 1... e6 { [%eval 0.26] } 2. c4 { [%eval 0.20] } 2... Nf6
+{ [%eval 0.19] } 3. Nc3 { [%eval 0.19] } 3... Bb4 { [%eval 0.21] } 4. Bd2
+{ [%eval 0.07] } 4... c5 { [%eval -0.01] } 5. Nf3 { [%eval -0.02] } 5... cxd4
+{ [%eval -0.01] } 6. Nxd4 { [%eval 0.06] } 6... Nc6 { [%eval 0.01] } 7. Nxc6
+{ [%eval 0.00] } 7... bxc6 { [%eval 0.07] } 8. a3 { [%eval -0.01] } 8... Be7
+{ [%eval 0.23] } 9. b4 { [%eval -0.50] } 9... O-O { [%eval -0.37] } 10. e4
+{ [%eval -0.63] } 10... Qc7 { [%eval -0.11] } 11. Bd3 { [%eval -0.18] } 11...
+Bb7 { [%eval 0.18] } 12. O-O { [%eval 0.17] } 12... d5 { [%eval 0.43] } 13.
+exd5 { [%eval 0.44] } 13... cxd5 { [%eval 0.42] } 14. cxd5 { [%eval 0.14] }
+14... Rfd8 { [%eval 0.23] } 15. Qb1 { [%eval -0.86] } 15... exd5
+{ [%eval -0.04] } 16. h3 { [%eval -0.36] } 16... d4 { [%eval 0.07] } 17. Ne4
+{ [%eval 0.02] } 17... Nxe4 { [%eval 0.03] } 18. Bxe4 { [%eval 0.05] } 18...
+Bxe4 { [%eval 0.14] } 19. Qxe4 { [%eval 0.10] } 19... Bf6 { [%eval 0.36] } 20.
+Rfc1 { [%eval 0.34] } 20... Qd7 { [%eval 0.26] } 21. Qd3 { [%eval 0.27] } 21...
+Rac8 { [%eval 0.32] } 22. f4 { [%eval -0.20] } 22... h6 { [%eval 0.05] } 23.
+Rxc8 { [%eval 0.03] } 23... Rxc8 { [%eval 0.03] } 24. Rc1 { [%eval 0.00] }
+24... Rxc1+ { [%eval -0.03] } 25. Bxc1 { [%eval 0.00] } 1/2-1/2

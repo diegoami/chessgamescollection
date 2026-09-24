@@ -1,0 +1,17 @@
+[Event "MEM H/4"]
+[Site "?"]
+[Date "2007.01.21"]
+[Round "?"]
+[White "Diego Amicabile"]
+[Black "Ramiz Dervisevic"]
+[Result "1/2-1/2"]
+[ECO "B07"]
+[WhiteElo "1718"]
+[BlackElo "1815"]
+[EventDate "2007.??.??"]
+[TimeControl "240+2"]
+[PostmortemId "d27fbaae6f"]
+
+1. e4 d6 2. d4 Nf6 3. Nc3 g6 4. f3 Bg7 5. Be3 c6 6. Bc4 b5 7. Bb3 a5 8. a3 O-O
+9. Qd2 Nbd7 10. Bh6 Qb6 11. Nge2 c5 12. Bxg7 Kxg7 13. Nd5 Nxd5 14. Bxd5 Bb7 15.
+Bxb7 Qxb7 16. O-O Qb6 17. Rfd1 Rfc8 18. c3 cxd4 19. Qxd4+ 1/2-1/2

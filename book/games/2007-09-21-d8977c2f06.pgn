@@ -1,0 +1,15 @@
+[Event "Clubmeisterschaft 2008"]
+[Site "?"]
+[Date "2007.09.21"]
+[Round "?"]
+[White "Diego Amicabile"]
+[Black "Hans-Peter Mundt"]
+[Result "1-0"]
+[ECO "C44"]
+[WhiteElo "1657"]
+[BlackElo "1184"]
+[TimeControl "7200"]
+[PostmortemId "d8977c2f06"]
+
+1. e4 e5 2. Nf3 Nc6 3. d4 exd4 4. Bc4 Bb4+ 5. c3 dxc3 6. O-O cxb2 7. Bxb2 Bf8
+8. Re1 d6 9. Nc3 Nge7 10. Qb3 f6 11. Bf7+ Kd7 12. Qe6# 1-0

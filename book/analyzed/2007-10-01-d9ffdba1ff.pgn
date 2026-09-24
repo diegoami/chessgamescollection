@@ -1,0 +1,21 @@
+[Event "OIS 2007"]
+[Site "?"]
+[Date "2007.10.01"]
+[Round "?"]
+[White "Diego Amicabile"]
+[Black "Guido Stoll"]
+[Result "0-1"]
+[ECO "C44"]
+[WhiteElo "1656"]
+[BlackElo "1722"]
+[TimeControl "7200"]
+[PostmortemId "d9ffdba1ff"]
+[PostmortemAnalysis "Stockfish 19, depth 18"]
+
+1. e4 { [%eval 0.28] } 1... e5 { [%eval 0.31] } 2. Nf3 { [%eval 0.38] } 2...
+Nc6 { [%eval 0.19] } 3. d4 { [%eval -0.02] } 3... exd4 { [%eval 0.00] } 4. Bc4
+{ [%eval -0.02] } 4... Bc5 { [%eval 0.02] } 5. O-O { [%eval -0.35] } 5... d6
+{ [%eval -0.38] } 6. Re1 { [%eval -0.56] } 6... Ne5 { [%eval 0.11] } 7. Nxd4 $4
+{ [%eval -5.91] } ( 7. c3 Qf6 8. Nxd4 Ne7 9. Bb5+ N7c6 10. Be3 Ng4 $10 ) 7...
+Nxc4 { [%eval -5.57] } ( 7... Nxc4 8. Nc3 Ne7 9. Nf5 O-O 10. Qg4 Ng6 11. Qh5
+$19 ) 0-1

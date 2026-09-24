@@ -35,3 +35,17 @@ scripts/update_games.sh
 
 or the two steps individually — see pgn-postmortem's README and its `publish-games` skill for the
 full workflow.
+
+## The book (`book/`)
+
+`book/` is built with the [pgn-postmortem](https://github.com/diegoami/pgn-postmortem) library
+(installed with pip, not the sibling scripts above) and published with GitHub Pages at
+https://diegoami.github.io/chessgamescollection/:
+
+- `book/games/`: one normalized PGN per game, read from
+  [DA_chessgames](https://github.com/diegoami/DA_chessgames). The first batch is the
+  over-the-board games.
+- `book/analyzed/`: the same games analyzed by Stockfish. They are kept in git so the analysis is
+  never redone.
+- `book/site/`: the generated site, with one article per game and "what would you play?" questions
+  at the critical moments. Don't edit it; rebuild it.

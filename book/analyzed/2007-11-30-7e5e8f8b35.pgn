@@ -1,0 +1,42 @@
+[Event "Tarrasch München Hauptturnier"]
+[Site "?"]
+[Date "2007.11.30"]
+[Round "?"]
+[White "Julian zur Lage"]
+[Black "Diego Amicabile"]
+[Result "0-1"]
+[ECO "A92"]
+[WhiteElo "1861"]
+[BlackElo "1709"]
+[PostmortemId "7e5e8f8b35"]
+[PostmortemAnalysis "Stockfish 19, depth 18"]
+
+1. d4 { [%eval 0.20] } 1... e6 { [%eval 0.26] } 2. c4 { [%eval 0.20] } 2... f5
+{ [%eval 0.53] } 3. Nf3 { [%eval 0.47] } 3... Nf6 { [%eval 0.50] } 4. g3
+{ [%eval 0.53] } 4... Be7 { [%eval 0.50] } 5. Bg2 { [%eval 0.46] } 5... O-O
+{ [%eval 0.52] } 6. O-O { [%eval 0.53] } 6... a5 { [%eval 0.60] } 7. Nc3
+{ [%eval 0.59] } 7... Ne4 { [%eval 0.70] } 8. Qc2 { [%eval 0.80] } 8... d5
+{ [%eval 0.86] } 9. Ne5 { [%eval 0.80] } 9... Nd7 { [%eval 1.43] } 10. Nxd7
+{ [%eval 0.63] } 10... Bxd7 $6 { [%eval 2.16] } ( 10... Qxd7 11. Bf4 Nxc3 12.
+Qxc3 c6 13. Rfc1 Qd8 14. a4 $14 ) 11. cxd5 { [%eval 2.24] } ( 11. cxd5 exd5 12.
+Nxd5 Bc6 13. Nxe7+ Qxe7 14. Bf4 Rf7 $16 ) 11... Nxc3 { [%eval 2.45] } 12. bxc3
+{ [%eval 2.94] } 12... Rb8 { [%eval 2.88] } 13. Rb1 { [%eval 3.11] } 13... b5
+{ [%eval 2.97] } 14. Bf4 { [%eval 2.20] } 14... Bg5 { [%eval 3.55] } 15. Bxg5
+{ [%eval 3.67] } 15... Qxg5 { [%eval 3.79] } 16. dxe6 { [%eval 2.65] } 16...
+Bxe6 { [%eval 2.87] } 17. a4 { [%eval 2.52] } 17... f4 { [%eval 2.60] } 18. Qe4
+{ [%eval 2.85] } 18... Bc4 { [%eval 2.87] } 19. axb5 { [%eval 2.99] } 19...
+Rbe8 { [%eval 3.01] } 20. Qc6 { [%eval 3.81] } 20... Bxe2 { [%eval 3.81] } 21.
+Bd5+ $4 { [%eval -1.39] } ( 21. Qd5+ Qxd5 22. Bxd5+ Kh8 23. Rfe1 Bxb5 24. Rxe8
+Bxe8 $18 ) 21... Kh8 { [%eval -1.54] } ( 21... Kh8 22. Rbe1 Qh5 23. c4 Bxf1 24.
+Rxf1 Qh3 25. Bg2 $17 ) 22. Rfe1 $6 { [%eval -3.26] } ( 22. c4 Bxf1 23. Rxf1
+fxg3 24. hxg3 Qd2 25. Kg2 a4 $17 ) 22... fxg3 { [%eval -3.81] } ( 22... fxg3
+23. hxg3 Qf5 24. f4 Qd3 25. Kh2 Qd2 26. Bg2 $19 ) 23. hxg3 { [%eval -3.93] }
+23... Qf5 { [%eval -4.17] } 24. f4 { [%eval -4.07] } 24... Qd3
+{ [%eval -4.31] } 25. Kf2 { [%eval -6.90] } 25... g5 { [%eval -4.83] } 26. Rh1
+$6 { [%eval -11.41] } ( 26. Rb2 Qe3+ 27. Kg2 Bf3+ 28. Bxf3 Qxe1 29. Rf2 gxf4
+$19 ) 26... gxf4 { [%eval -12.62] } ( 26... gxf4 27. Rxh7+ Qxh7 28. Rh1 fxg3+
+29. Kxg3 Re3+ 30. Kg2 $19 ) 27. Rxh7+ { [%eval -13.84] } 27... Qxh7
+{ [%eval -14.60] } 28. Rh1 { [%eval -17.05] } 28... fxg3+ { [%eval #-8] } 29.
+Kxg3 { [%eval #-8] } 29... Re3+ { [%eval #-7] } 30. Kg2 { [%eval #-7] } 30...
+Bf1+ { [%eval -13.35] } 31. Kg1 { [%eval #-7] } 31... Rg3+ { [%eval -7.88] }
+32. Bg2 { [%eval -8.54] } 0-1

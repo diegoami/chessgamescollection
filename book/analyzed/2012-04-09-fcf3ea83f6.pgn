@@ -1,0 +1,40 @@
+[Event "?"]
+[Site "?"]
+[Date "2012.04.09"]
+[Round "?"]
+[White "Amicabile"]
+[Black "Baric"]
+[Result "*"]
+[ECO "B12"]
+[SourceDate "2012.04.06"]
+[PostmortemId "fcf3ea83f6"]
+[PostmortemAnalysis "Stockfish 19, depth 18"]
+
+1. e4 { [%eval 0.28] } 1... c6 { [%eval 0.40] } 2. d4 { [%eval 0.30] } 2... d5
+{ [%eval 0.45] } 3. f3 { [%eval 0.21] } 3... e6 { [%eval 0.25] } 4. Nc3
+{ [%eval 0.27] } 4... Bb4 { [%eval 0.24] } 5. Ne2 { [%eval -0.07] } 5... Ne7
+{ [%eval 0.00] } 6. a3 { [%eval 0.14] } 6... Ba5 { [%eval 0.00] } 7. Be3
+{ [%eval -0.07] } 7... O-O { [%eval -0.01] } 8. Qd3 { [%eval -0.06] } 8... f5
+{ [%eval 0.52] } 9. e5 { [%eval 0.55] } 9... Ng6 { [%eval 0.90] } 10. Nf4
+{ [%eval 0.34] } 10... Nxf4 { [%eval 0.39] } 11. Bxf4 { [%eval 0.57] } 11...
+Nd7 { [%eval 0.81] } 12. h4 { [%eval 0.19] } 12... c5 { [%eval 0.20] } 13. Be2
+{ [%eval -0.24] } 13... cxd4 { [%eval 0.01] } 14. Qxd4 { [%eval -0.11] } 14...
+Bxc3+ { [%eval 0.82] } 15. Qxc3 { [%eval 1.09] } 15... Nb6 { [%eval 0.97] } 16.
+h5 { [%eval 0.71] } 16... Bd7 { [%eval 0.72] } 17. Qd2 { [%eval 0.87] } 17...
+h6 { [%eval 0.90] } 18. Rh3 { [%eval 0.00] } 18... Rc8 { [%eval 0.00] } 19.
+Bxh6 { [%eval 0.00] } 19... Nc4 $6 { [%eval 1.94] } ( 19... gxh6 20. Qxh6 f4
+21. Qg6+ Kh8 22. Qh6+ Kg8 $10 ) 20. Bxc4 { [%eval 2.01] } ( 20. Bxc4 Rxc4 21.
+Be3 Rh4 22. Bg5 Qb6 23. O-O-O Rxh3 $16 ) 20... Rxc4 { [%eval 1.86] } 21. O-O-O
+$4 { [%eval -3.62] } ( 21. Be3 Qc7 22. c3 Qxe5 23. O-O-O f4 24. Bd4 Qg5 $16 )
+21... gxh6 $2 { [%eval 0.00] } ( 21... Ba4 22. c3 Bxd1 23. Bg5 Qb6 24. Kxd1 d4
+25. Rg3 $19 ) ( 21... Ba4 22. c3 Bxd1 23. Bg5 Qb6 24. Kxd1 d4 25. Rg3 $19 ) 22.
+Rg3+ $2 { [%eval -2.55] } ( 22. b3 Rc8 23. Qxh6 f4 24. Rd4 Qb6 25. Qg5+ Kh8 $10
+) ( 22. b3 Rc8 23. Qxh6 f4 24. Rd4 Qb6 25. Qg5+ Kh8 $10 ) 22... Kh7
+{ [%eval -2.72] } ( 22... Kh7 23. Rg6 f4 24. b3 Rc6 25. Qd3 Rf5 26. Kb2 $17 )
+23. Rg6 { [%eval -2.74] } 23... f4 { [%eval -2.65] } 24. b3 { [%eval -2.65] }
+24... Rc6 { [%eval -2.86] } 25. g4 { [%eval -2.81] } 25... Be8
+{ [%eval -1.76] } 26. Qd3 { [%eval -1.35] } 26... Rc3 $2 { [%eval 0.86] } (
+26... Qb6 27. Rxe6+ Kg8 28. Rxc6 Qxc6 29. Qd4 b6 30. Kb2 $17 ) 27. Qxc3
+{ [%eval 0.97] } ( 27. Qxc3 Bxg6 28. hxg6+ Kxg6 29. Kb1 Qb6 30. Rd4 Kg5 $14 )
+27... Bxg6 { [%eval 1.09] } 28. hxg6+ { [%eval 0.90] } 28... Kxg6
+{ [%eval 1.04] } 29. Qb4 { [%eval 0.84] } 29... Rf7 { [%eval 0.87] } *

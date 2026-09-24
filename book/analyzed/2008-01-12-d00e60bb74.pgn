@@ -1,0 +1,64 @@
+[Event "MEM H/2"]
+[Site "?"]
+[Date "2008.01.12"]
+[Round "?"]
+[White "Amicabile, Diego"]
+[Black "Ronkina, Vera"]
+[Result "1-0"]
+[ECO "C06"]
+[WhiteElo "1709"]
+[BlackElo "1687"]
+[TimeControl "2700+45"]
+[PostmortemId "d00e60bb74"]
+[PostmortemAnalysis "Stockfish 19, depth 18"]
+
+1. e4 { [%eval 0.28] } 1... e6 { [%eval 0.31] } 2. d4 { [%eval 0.39] } 2... d5
+{ [%eval 0.38] } 3. Nd2 { [%eval 0.19] } 3... Nf6 { [%eval 0.40] } 4. e5
+{ [%eval 0.40] } 4... Nfd7 { [%eval 0.35] } 5. Bd3 { [%eval 0.47] } 5... c5
+{ [%eval 0.46] } 6. c3 { [%eval 0.48] } 6... Nc6 { [%eval 0.45] } 7. Ne2
+{ [%eval 0.43] } 7... f5 $6 { [%eval 1.80] } ( 7... cxd4 8. cxd4 f6 9. exf6
+Nxf6 10. Nf3 Bd6 11. O-O $14 ) 8. Nf4 { [%eval 1.51] } ( 8. Nf3 Be7 9. h4 Nf8
+10. h5 Bd7 11. Be3 Qc7 $16 ) 8... Qe7 { [%eval 1.49] } 9. Nf3 { [%eval 0.87] }
+9... c4 $6 { [%eval 2.99] } ( 9... g5 10. Nxe6 Qxe6 11. Nxg5 Qg6 12. g4 Ndxe5
+13. dxe5 $14 ) 10. Bc2 { [%eval 2.09] } ( 10. Be2 Nb6 11. h4 Bd7 12. g4 g6 13.
+gxf5 gxf5 $16 ) 10... b5 $6 { [%eval 3.73] } ( 10... g5 11. Nxg5 Qxg5 12. Nxe6
+Qxg2 13. Qh5+ Qg6 14. Nc7+ $16 ) 11. h4 { [%eval 3.90] } ( 11. h4 g6 12. Ng5
+Nb6 13. g4 Bh6 14. gxf5 exf5 $18 ) 11... Nb6 { [%eval 3.81] } 12. Ng5
+{ [%eval 3.96] } 12... g6 { [%eval 3.92] } 13. g4 { [%eval 3.97] } 13... Bd7
+{ [%eval 4.68] } 14. gxf5 { [%eval 4.76] } 14... exf5 { [%eval 4.50] } 15. Qf3
+{ [%eval 4.74] } 15... Nd8 { [%eval 6.12] } 16. Rg1 $6 { [%eval 3.38] } ( 16.
+a4 bxa4 17. Nxd5 Bc6 18. Nxe7 Bxf3 19. Nxf3 Bxe7 $18 ) 16... Bh6
+{ [%eval 3.78] } ( 16... Bh6 17. Ne2 Nc6 18. Nf7 Qxf7 19. Bxh6 O-O-O 20. Nf4
+$18 ) 17. Nxd5 $6 { [%eval 1.67] } ( 17. Nh5 Bg7 18. Nf4 Bh6 19. Ne2 Rg8 20.
+Bf4 Bf8 $18 ) 17... Nxd5 { [%eval 1.71] } ( 17... Nxd5 18. Qxd5 Bc6 19. Qc5 Qd7
+20. d5 Qxd5 21. Qxd5 $16 ) 18. Qxd5 { [%eval 1.77] } 18... Bc6 { [%eval 1.48] }
+19. Qc5 { [%eval 1.55] } 19... Qxc5 { [%eval 2.45] } 20. dxc5 { [%eval 2.39] }
+20... Bf8 { [%eval 3.05] } 21. Be3 { [%eval 3.23] } 21... Nb7 { [%eval 3.32] }
+22. Ne6 { [%eval 3.85] } 22... Kd7 { [%eval 3.78] } 23. Nxf8+ { [%eval 3.48] }
+23... Rhxf8 { [%eval 3.61] } 24. O-O-O+ { [%eval 3.61] } 24... Ke6
+{ [%eval 3.76] } 25. f4 { [%eval 2.83] } 25... Rad8 { [%eval 2.62] } 26. b4
+{ [%eval 2.17] } 26... Bf3 $6 { [%eval 3.77] } ( 26... Rxd1+ 27. Rxd1 Rg8 28.
+a4 a6 29. Bf2 h5 30. Be3 $16 ) 27. Rd4 $6 { [%eval 1.90] } ( 27. Rdf1 Bd5 28.
+h5 Rg8 29. Rg5 a6 30. Rfg1 Kf7 $18 ) ( 27. Rdf1 Bd5 28. h5 Rg8 29. Rg5 a6 30.
+Rfg1 Kf7 $18 ) 27... Rd7 { [%eval 2.95] } ( 27... Rxd4 28. Bxd4 Nd8 29. a4 a6
+30. Kd2 Nc6 31. Ke3 $16 ) 28. Rf1 { [%eval 2.04] } 28... Bd5 { [%eval 2.78] }
+29. a4 { [%eval 2.99] } 29... a6 { [%eval 2.87] } 30. Kb2 { [%eval 2.73] }
+30... Ra8 { [%eval 3.99] } 31. Ra1 { [%eval 3.83] } 31... Nd8 $6
+{ [%eval 6.64] } ( 31... Rdd8 32. h5 Bc6 33. Rg1 Rg8 34. Rg5 Rae8 35. Rd2 $18 )
+32. axb5 { [%eval 7.24] } ( 32. Rxd5 Rxd5 33. axb5 Kd7 34. Rxa6 Rxa6 35. bxa6
+Kc8 $18 ) 32... Bb7 { [%eval 8.08] } 33. Rxd7 { [%eval 7.37] } 33... Kxd7
+{ [%eval 7.56] } 34. c6+ { [%eval 7.51] } 34... Nxc6 { [%eval 7.44] } 35. bxc6+
+{ [%eval 7.35] } 35... Bxc6 { [%eval 7.29] } 36. Rd1+ { [%eval 7.39] } 36...
+Ke8 { [%eval 7.67] } 37. Rd6 { [%eval 7.73] } 37... Bd7 { [%eval 8.16] } 38.
+Bd1 { [%eval 7.40] } 38... a5 { [%eval 8.17] } 39. Bf3 { [%eval 8.25] } 39...
+Rb8 { [%eval 8.44] } 40. Rb6 { [%eval 7.96] } 40... Rxb6 { [%eval 7.86] } 41.
+Bxb6 { [%eval 7.41] } 41... a4 { [%eval 8.26] } 42. Bd5 { [%eval 8.75] } 42...
+Bb5 { [%eval 8.90] } 43. Ka3 { [%eval 9.08] } 43... Kf8 { [%eval 9.17] } 44.
+Bf3 { [%eval 8.31] } 44... Kf7 { [%eval 9.20] } 45. Bd1 { [%eval 8.49] } 45...
+Ke6 { [%eval 9.08] } 46. Bxa4 { [%eval 9.26] } 46... Ba6 { [%eval 9.30] } 47.
+b5 { [%eval 9.60] } 47... Bb7 { [%eval 10.00] } 48. Kb4 { [%eval 10.16] } 48...
+Kd5 { [%eval 10.92] } 49. Bc2 { [%eval 10.23] } 49... Bc8 { [%eval 10.18] } 50.
+Bd4 { [%eval 10.37] } 50... Bb7 { [%eval 11.21] } 51. Ka5 { [%eval 10.56] }
+51... Bc8 { [%eval 10.85] } 52. Kb6 { [%eval 10.67] } 52... Bd7
+{ [%eval 11.00] } 53. Ka6 { [%eval 10.80] } 53... Bc8+ { [%eval 11.04] } 54.
+Ka7 { [%eval 10.97] } 1-0

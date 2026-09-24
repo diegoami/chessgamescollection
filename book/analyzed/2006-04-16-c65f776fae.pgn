@@ -1,0 +1,37 @@
+[Event "Neckar Open B"]
+[Site "?"]
+[Date "2006.04.16"]
+[Round "6"]
+[White "Diego Amicabile"]
+[Black "David Yang"]
+[Result "1/2-1/2"]
+[ECO "C07"]
+[WhiteElo "1718"]
+[BlackElo "1500"]
+[EventDate "2006.??.??"]
+[PostmortemId "c65f776fae"]
+[PostmortemAnalysis "Stockfish 19, depth 18"]
+
+1. e4 { [%eval 0.28] } 1... e6 { [%eval 0.31] } 2. d4 { [%eval 0.39] } 2... d5
+{ [%eval 0.38] } 3. Nd2 { [%eval 0.19] } 3... c5 { [%eval 0.14] } 4. Bb5+
+{ [%eval -0.09] } 4... Bd7 { [%eval -0.11] } 5. Bxd7+ { [%eval -0.09] } 5...
+Qxd7 { [%eval -0.09] } 6. Ngf3 { [%eval -0.19] } 6... Nc6 { [%eval -0.06] } 7.
+c3 { [%eval -0.51] } 7... cxd4 { [%eval -0.47] } 8. cxd4 { [%eval -0.50] } 8...
+Bb4 { [%eval 0.01] } 9. e5 { [%eval -0.13] } 9... Nge7 { [%eval 0.11] } 10. O-O
+{ [%eval -0.12] } 10... Bxd2 { [%eval 0.07] } 11. Bxd2 { [%eval 0.09] } 11...
+Rc8 { [%eval 0.18] } 12. a3 { [%eval 0.04] } 12... O-O { [%eval 0.03] } 13. Be3
+{ [%eval -0.04] } 13... Na5 { [%eval 0.03] } 14. Qd3 { [%eval -0.03] } 14...
+Qa4 { [%eval 0.00] } 15. b4 { [%eval -0.74] } 15... Nc4 { [%eval -0.24] } 16.
+Ng5 { [%eval -0.34] } 16... Ng6 { [%eval -0.32] } 17. f4 $6 { [%eval -1.83] } (
+17. h4 Nb2 18. Qb1 Qc2 19. Nf3 Na4 20. Qxc2 Rxc2 $10 ) 17... h6
+{ [%eval -1.98] } ( 17... h6 18. Nf3 Nxe3 19. Qxe3 Qc2 20. g3 Ne7 21. Nh4 $17 )
+18. Nh3 { [%eval -3.08] } 18... Nb2 { [%eval -1.90] } 19. Qe2 $6
+{ [%eval -4.44] } ( 19. Qb1 Qc2 20. f5 exf5 21. Rxf5 Qxb1+ 22. Rxb1 Na4 $17 )
+19... Qc2 $6 { [%eval -2.03] } ( 19... Rc2 20. Qe1 Ne7 21. g4 Nc4 22. Rc1 Qb3
+23. Rxc2 $19 ) ( 19... Rc2 20. Qe1 Ne7 21. g4 Nc4 22. Rc1 Qb3 23. Rxc2 $19 )
+20. Qg4 $6 { [%eval -4.48] } ( 20. Qxc2 Rxc2 21. Rac1 Re2 22. Rfe1 Rxe1+ 23.
+Rxe1 Ne7 $17 ) ( 20. Qxc2 Rxc2 21. Rac1 Re2 22. Rfe1 Rxe1+ 23. Rxe1 Ne7 $17 )
+20... Qe4 { [%eval -3.54] } ( 20... Ne7 21. Kh1 Nc4 22. Bg1 Nd2 23. Rf2 Nf5 24.
+Qe2 $19 ) 21. Rf3 { [%eval -4.50] } 21... Rc3 { [%eval -3.98] } 22. Nf2
+{ [%eval -4.75] } 22... Qf5 $2 { [%eval -1.20] } ( 22... Qc2 23. Qh3 Nc4 24. f5
+exf5 25. Rf1 Rxa3 26. Bc1 $19 ) 1/2-1/2

@@ -1,0 +1,45 @@
+[Event "Neckar Open B"]
+[Site "?"]
+[Date "2006.04.16"]
+[Round "7"]
+[White "Alissa Xua Berger"]
+[Black "Diego Amicabile"]
+[Result "0-1"]
+[ECO "A03"]
+[WhiteElo "1507"]
+[BlackElo "1718"]
+[EventDate "2006.??.??"]
+[PostmortemId "b23df7d21c"]
+[PostmortemAnalysis "Stockfish 19, depth 18"]
+
+1. f4 { [%eval -0.31] } 1... d5 { [%eval -0.24] } 2. b3 { [%eval -0.52] } 2...
+Nf6 { [%eval -0.31] } 3. e3 { [%eval -0.18] } 3... c5 { [%eval -0.17] } 4. Bb5+
+{ [%eval -0.32] } 4... Bd7 { [%eval -0.30] } 5. Bxd7+ { [%eval -0.26] } 5...
+Qxd7 { [%eval -0.30] } 6. Nf3 { [%eval -0.26] } 6... e6 { [%eval -0.03] } 7.
+O-O { [%eval -0.14] } 7... Be7 { [%eval -0.14] } 8. Bb2 { [%eval -0.15] } 8...
+Nc6 { [%eval -0.05] } 9. Ne5 { [%eval -0.01] } 9... Qc7 { [%eval -0.11] } 10.
+Nxc6 { [%eval -0.15] } 10... Qxc6 { [%eval -0.08] } 11. d3 { [%eval -0.16] }
+11... b5 { [%eval -0.05] } 12. Nd2 { [%eval -0.01] } 12... a5 { [%eval 0.29] }
+13. c4 { [%eval -0.22] } 13... O-O { [%eval -0.24] } 14. Nf3 { [%eval -0.43] }
+14... Ng4 { [%eval 0.00] } 15. Ne5 { [%eval -0.52] } 15... Nxe5
+{ [%eval -0.52] } 16. Bxe5 { [%eval -0.51] } 16... dxc4 { [%eval -0.52] } 17.
+dxc4 { [%eval -0.47] } 17... Rfd8 { [%eval -0.31] } 18. Qh5 $6
+{ [%eval -1.96] } ( 18. Qg4 g6 19. Qe2 b4 20. e4 Ra7 21. f5 exf5 $10 ) 18...
+bxc4 { [%eval -1.92] } ( 18... bxc4 19. bxc4 f6 20. Bb2 Rd3 21. Qe2 Qe4 22. Kf2
+$17 ) 19. bxc4 { [%eval -1.95] } 19... Rd2 { [%eval -1.12] } 20. Rf3
+{ [%eval -2.28] } 20... Qe4 { [%eval -2.18] } 21. Rg3 { [%eval -2.66] } 21...
+Bf8 $2 { [%eval -0.10] } ( 21... f6 22. Bc3 Rc2 23. Be1 g6 24. h4 a4 25. Rd1
+$17 ) 22. Bxg7 $4 { [%eval -5.13] } ( 22. Qg5 Qf5 23. Qh4 Rad8 24. h3 R8d7 25.
+Kh2 Re2 $10 ) ( 22. Qg5 Qf5 23. Qh4 Rad8 24. h3 R8d7 25. Kh2 Re2 $10 ) 22...
+Bxg7 { [%eval -5.39] } ( 22... Bxg7 23. Qg4 Qg6 24. Qf3 Qf6 25. Qxa8+ Rd8 26.
+Qxd8+ $19 ) 23. Qh6 { [%eval -7.48] } 23... Rxg2+ { [%eval -6.33] } 24. Rxg2
+{ [%eval -6.81] } 24... Qxg2+ { [%eval -6.85] } 25. Kxg2 { [%eval -6.65] }
+25... Bxh6 { [%eval -6.30] } 26. Kf3 { [%eval -6.60] } 26... Rd8
+{ [%eval -5.91] } 27. Ke2 { [%eval -6.52] } 27... Rb8 { [%eval -6.40] } 28. Rd1
+{ [%eval -6.70] } 28... Rb2+ { [%eval -6.74] } 29. Rd2 { [%eval -6.63] } 29...
+Rxd2+ { [%eval -6.07] } 30. Kxd2 { [%eval -6.56] } 30... Bg7 { [%eval -5.66] }
+31. a4 { [%eval -6.39] } 31... f5 { [%eval -7.21] } 32. h4 { [%eval -7.59] }
+32... Kf7 { [%eval -7.83] } 33. Ke2 { [%eval -8.32] } 33... Kg6
+{ [%eval -8.37] } 34. Kf3 { [%eval -8.63] } 34... Kh5 { [%eval -9.01] } 35. Kg3
+{ [%eval -10.06] } 35... Bc3 { [%eval -13.43] } 36. Kh3 { [%eval -13.71] }
+36... Bd2 { [%eval -21.30] } 0-1

@@ -1,0 +1,36 @@
+[Event "MMM 2008"]
+[Site "?"]
+[Date "2008.03.12"]
+[Round "?"]
+[White "Amicabile, Diego"]
+[Black "Domabyl, Hans"]
+[Result "1/2-1/2"]
+[ECO "C50"]
+[WhiteElo "1743"]
+[BlackElo "1777"]
+[PostmortemId "85b90371b1"]
+[PostmortemAnalysis "Stockfish 19, depth 18"]
+
+1. e4 { [%eval 0.28] } 1... e5 { [%eval 0.31] } 2. Nf3 { [%eval 0.38] } 2...
+Nc6 { [%eval 0.19] } 3. d4 { [%eval -0.02] } 3... exd4 { [%eval 0.00] } 4. Bc4
+{ [%eval -0.02] } 4... d6 { [%eval 0.35] } 5. Nxd4 { [%eval 0.36] } 5... Nf6
+{ [%eval 0.37] } 6. Nc3 { [%eval 0.41] } 6... Be7 { [%eval 0.36] } 7. O-O
+{ [%eval 0.33] } 7... O-O { [%eval 0.36] } 8. Nxc6 { [%eval 0.27] } 8... bxc6
+{ [%eval 0.28] } 9. f3 { [%eval 0.12] } 9... Be6 { [%eval 0.27] } 10. Bb3
+{ [%eval 0.21] } 10... Nd7 { [%eval 0.32] } 11. Be3 { [%eval 0.28] } 11... Bf6
+{ [%eval 0.28] } 12. Bd4 { [%eval 0.01] } 12... Bxd4+ { [%eval 0.01] } 13. Qxd4
+{ [%eval 0.00] } 13... Qf6 { [%eval 0.39] } 14. Qxf6 { [%eval 0.11] } 14...
+Nxf6 { [%eval 0.11] } 15. Ne2 { [%eval 0.07] } 15... c5 { [%eval 0.29] } 16.
+Nf4 { [%eval 0.21] } 16... Bd7 { [%eval 0.34] } 17. Rad1 { [%eval 0.00] } 17...
+Bb5 { [%eval -0.03] } 18. c4 { [%eval -0.05] } 18... Bc6 { [%eval -0.05] } 19.
+Bc2 { [%eval -0.08] } 19... a5 { [%eval -0.10] } 20. Rfe1 { [%eval -0.13] }
+20... Rfe8 { [%eval -0.06] } 21. b3 { [%eval -0.13] } 21... Re7
+{ [%eval -0.07] } 22. Kf2 { [%eval 0.03] } 22... Rae8 { [%eval 0.03] } 23. Rb1
+{ [%eval -0.05] } 23... Kf8 { [%eval 0.03] } 24. Bd3 { [%eval -0.13] } 24... g5
+{ [%eval -0.07] } 25. Ne2 { [%eval -0.16] } 25... Nd7 { [%eval -0.19] } 26. Nc3
+{ [%eval -0.26] } 26... Ne5 { [%eval -0.33] } 27. Bf1 { [%eval -0.44] } 27...
+h5 { [%eval -0.39] } 28. g3 $6 { [%eval -1.90] } ( 28. Be2 h4 29. Rbd1 f6 30.
+g3 Rh7 31. Rg1 Ng6 $10 ) 28... Re6 $6 { [%eval -0.32] } ( 28... g4 29. fxg4
+Nxg4+ 30. Kg1 Nf6 31. Re3 Nxe4 32. Nxe4 $17 ) ( 28... g4 29. fxg4 Nxg4+ 30. Kg1
+Nf6 31. Re3 Nxe4 32. Nxe4 $17 ) 29. Re3 { [%eval -0.82] } ( 29. Be2 g4 30. f4
+Nd7 31. Bd3 Nf6 32. Nd5 Nxe4+ $10 ) 29... Rf6 { [%eval -0.40] } 1/2-1/2

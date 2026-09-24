@@ -1,0 +1,4 @@
+# Local environment and scratch output of trial runs.
+.venv/
+book/*.log
+book/sample-*/

@@ -1,0 +1,16 @@
+[Event "?"]
+[Site "?"]
+[Date "2012.04.09"]
+[Round "?"]
+[White "Amicabile"]
+[Black "Baric"]
+[Result "*"]
+[ECO "B12"]
+[SourceDate "2012.04.06"]
+[PostmortemId "fcf3ea83f6"]
+
+1. e4 c6 2. d4 d5 3. f3 e6 4. Nc3 Bb4 5. Ne2 Ne7 6. a3 Ba5 7. Be3 O-O 8. Qd3 f5
+9. e5 Ng6 10. Nf4 Nxf4 11. Bxf4 Nd7 12. h4 c5 13. Be2 cxd4 14. Qxd4 Bxc3+ 15.
+Qxc3 Nb6 16. h5 Bd7 17. Qd2 h6 18. Rh3 Rc8 19. Bxh6 Nc4 20. Bxc4 Rxc4 21. O-O-O
+gxh6 22. Rg3+ Kh7 23. Rg6 f4 24. b3 Rc6 25. g4 Be8 26. Qd3 Rc3 27. Qxc3 Bxg6
+28. hxg6+ Kxg6 29. Qb4 Rf7 *

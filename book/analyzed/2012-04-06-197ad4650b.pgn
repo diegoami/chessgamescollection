@@ -1,0 +1,32 @@
+[Event "?"]
+[Site "?"]
+[Date "2012.04.06"]
+[Round "?"]
+[White "brühan, caren"]
+[Black "amicabile, diego"]
+[Result "0-1"]
+[ECO "A80"]
+[EventDate "2012.04.06"]
+[SourceDate "2012.04.06"]
+[PostmortemId "197ad4650b"]
+[PostmortemAnalysis "Stockfish 19, depth 18"]
+
+1. d4 { [%eval 0.20] } 1... f5 { [%eval 0.45] } 2. Nf3 { [%eval 0.47] } 2... e6
+{ [%eval 0.52] } 3. e3 { [%eval 0.30] } 3... Nf6 { [%eval 0.36] } 4. Bd3
+{ [%eval 0.31] } 4... b6 { [%eval 0.30] } 5. O-O { [%eval 0.31] } 5... Bb7
+{ [%eval 0.28] } 6. c3 { [%eval 0.07] } 6... Be7 { [%eval 0.10] } 7. Nbd2
+{ [%eval 0.10] } 7... O-O { [%eval 0.13] } 8. Re1 { [%eval -0.29] } 8... Ne4
+{ [%eval -0.28] } 9. Qc2 { [%eval -0.39] } 9... d5 { [%eval -0.50] } 10. Ne5
+{ [%eval -0.42] } 10... Nd7 { [%eval -0.43] } 11. Nxd7 { [%eval -0.34] } 11...
+Qxd7 { [%eval -0.32] } 12. f3 { [%eval -0.38] } 12... Nf6 { [%eval -0.30] } 13.
+e4 { [%eval -0.72] } 13... fxe4 { [%eval -0.19] } 14. fxe4 { [%eval -0.18] }
+14... e5 { [%eval -0.17] } 15. dxe5 $4 { [%eval -6.87] } ( 15. exd5 exd4 16.
+cxd4 Nxd5 17. Nf3 Nb4 18. Qb3+ Bd5 $10 ) 15... Bc5+ { [%eval -7.03] } ( 15...
+Bc5+ 16. Kh1 Ng4 17. Re2 Nf2+ 18. Rxf2 Rxf2 19. Qd1 $19 ) 16. Kh1
+{ [%eval -7.06] } 16... Ng4 { [%eval -7.28] } 17. h3 { [%eval -7.04] } 17...
+Nxe5 $6 { [%eval -3.71] } ( 17... Nf2+ 18. Kh2 Qe7 19. Nf1 Qxe5+ 20. Ng3 Bd6
+21. Re3 $19 ) 18. exd5 { [%eval -3.65] } ( 18. b4 Bf2 19. Re2 Rad8 20. Nf1 Nxd3
+21. Qxd3 Bh4 $19 ) 18... Nxd3 { [%eval -3.74] } 19. Qxd3 { [%eval -3.93] }
+19... Bxd5 { [%eval -3.23] } 20. Nf3 $2 { [%eval -11.97] } ( 20. Ne4 Rae8 21.
+Bd2 Qc6 22. Nxc5 Bxg2+ 23. Kg1 Rd8 $19 ) 20... Rxf3 { [%eval -12.92] } ( 20...
+Rxf3 21. Re3 Bxe3 22. Bxe3 Rg3 23. Kg1 Rxg2+ 24. Kf1 $19 ) 0-1
