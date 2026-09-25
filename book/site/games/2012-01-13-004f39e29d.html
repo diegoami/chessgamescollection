@@ -34,12 +34,33 @@
 <tr><th>Opening</th><td>A90</td></tr>
 <tr><th>Moves</th><td>28</td></tr>
 <tr><th>Analysis</th><td>Stockfish 19, depth 22</td></tr>
-<tr><th>Critical moments</th><td><a href="#moment-1">1</a>, <a href="#moment-2">2</a></td></tr>
+<tr><th>Critical moments</th><td><a href="#moment-1">1</a>, <a href="#moment-2">2</a>, <a href="#moment-3">3</a></td></tr>
 </table>
-<p class="lead"><b>Apelt vs. Amicabile</b> is a chess game played on 13 January 2012. Apelt, with the white pieces, won in 28 moves. The opening is classified as ECO A90. The engine found two critical moments, where a single move cost at least 20 points of winning chances; each is a “what would you play?” question below.</p>
+<p class="lead"><b>Apelt vs. Amicabile</b> is a chess game played on 13 January 2012. Apelt, with the white pieces, won in 28 moves. The opening is classified as ECO A90. The engine found three critical moments, where a single move cost at least 20 points of winning chances or changed the expected result; each is a “what would you play?” question below.</p>
 <h2 id="game">The game</h2>
-<p class="moves">1. d4 f5 2. g3 e6 3. Bg2 Nf6 4. c4 Bb4+ 5. Bd2 Qe7 6. a3 Bxd2+ 7. Nxd2 O-O 8. e3 a5 9. Ne2 d6 10. Nc3 c6 11. O-O Kh8 12. e4 e5 13. exf5 exd4 14. Re1 Qd8 15. Nce4 Bxf5 16. Ng5 Nbd7 17. Ne6 Bxe6 18. Rxe6 Ne5 19. c5 <b>Nfg4?!</b> <span class="note">(An inaccuracy: Black's winning chances fall from 50% to 38%.)</span> 20. Rxd6 <b>Qg5?!</b> <span class="note">(An inaccuracy: Black's winning chances fall from 40% to 26%.)</span> 21. Ne4 Qf5 22. Qxd4 Rae8</p>
+<p class="moves">1. d4 f5 2. g3 e6 3. Bg2 Nf6 4. c4 Bb4+ 5. Bd2 Qe7 6. a3 Bxd2+ 7. Nxd2 O-O 8. e3 a5 9. Ne2 d6 10. Nc3 c6 11. O-O Kh8 12. e4 e5 13. exf5 exd4 14. Re1 Qd8 15. Nce4 Bxf5 16. Ng5 Nbd7 17. Ne6 Bxe6 18. Rxe6 Ne5 19. c5</p>
 <div class="moment" id="moment-1">
+<figure>
+<div class="board" role="img" aria-label="After 19. c5, Black to move. White: Kg1, Qd1, Ra1, Re6, Bg2, Nd2, pawns b2, f2, h2, a3, g3, c5. Black: Kh8, Qd8, Ra8, Rf8, Ne5, Nf6, pawns d4, a5, c6, d6, b7, g7, h7.">
+<i data-r="1"></i><i class="wK"></i><i></i><i></i><i class="wQ"></i><i></i><i></i><i class="wR"></i>
+<i class="wP" data-r="2"></i><i class="wB"></i><i class="wP"></i><i></i><i class="wN"></i><i></i><i class="wP"></i><i></i>
+<i data-r="3"></i><i class="wP"></i><i></i><i></i><i></i><i></i><i></i><i class="wP"></i>
+<i data-r="4"></i><i></i><i></i><i></i><i class="bP"></i><i class="hl"></i><i></i><i></i>
+<i data-r="5"></i><i></i><i></i><i class="bN"></i><i></i><i class="wP hl"></i><i></i><i class="bP"></i>
+<i data-r="6"></i><i></i><i class="bN"></i><i class="wR"></i><i class="bP"></i><i class="bP"></i><i></i><i></i>
+<i class="bP" data-r="7"></i><i class="bP"></i><i></i><i></i><i></i><i></i><i class="bP"></i><i></i>
+<i class="bK" data-r="8" data-f="h"></i><i data-f="g"></i><i class="bR" data-f="f"></i><i data-f="e"></i><i class="bQ" data-f="d"></i><i data-f="c"></i><i data-f="b"></i><i class="bR" data-f="a"></i>
+</div>
+<figcaption>Critical moment 1. After 19. c5, Black to move. <b>What would you play?</b></figcaption>
+</figure>
+<details class="answer">
+<summary>Show the answer</summary>
+<p><b>Best was 19... Nf7</b>, the engine's line being 19... Nf7 20. cxd6 Ng5 21. Re5 Nf7 <span class="sym">=</span>. With it, Black's winning chances stay at 50%.</p>
+<p>In the game Black played <b>19... Nfg4?!</b>, an inaccuracy that turned a level game into a losing one. Black's winning chances fell from 50% to 38%. The refutation: 20. Rxd6 Qe8 21. Ne4 d3 22. h3 Nf6 23. Nxf6 gxf6 <span class="sym">±</span>.</p>
+</details>
+</div>
+<p class="moves"><b>19... Nfg4?!</b> <span class="note">(An inaccuracy that turned a level game into a losing one: Black's winning chances fall from 50% to 38%.)</span> 20. Rxd6 <b>Qg5?!</b> <span class="note">(An inaccuracy: Black's winning chances fall from 40% to 26%.)</span> 21. Ne4 Qf5 22. Qxd4 Rae8</p>
+<div class="moment" id="moment-2">
 <figure>
 <div class="board" role="img" aria-label="After 22... Rae8, White to move. White: Kg1, Qd4, Ra1, Rd6, Bg2, Ne4, pawns b2, f2, h2, a3, g3, c5. Black: Kh8, Qf5, Re8, Rf8, Ng4, Ne5, pawns a5, c6, b7, g7, h7.">
 <i class="hl" data-r="8"></i><i></i><i></i><i></i><i class="bR hl"></i><i class="bR"></i><i></i><i class="bK"></i>
@@ -51,16 +72,16 @@
 <i data-r="2"></i><i class="wP"></i><i></i><i></i><i></i><i class="wP"></i><i class="wB"></i><i class="wP"></i>
 <i class="wR" data-r="1" data-f="a"></i><i data-f="b"></i><i data-f="c"></i><i data-f="d"></i><i data-f="e"></i><i data-f="f"></i><i class="wK" data-f="g"></i><i data-f="h"></i>
 </div>
-<figcaption>Critical moment 1. After 22... Rae8, White to move. <b>What would you play?</b></figcaption>
+<figcaption>Critical moment 2. After 22... Rae8, White to move. <b>What would you play?</b></figcaption>
 </figure>
 <details class="answer">
 <summary>Show the answer</summary>
 <p><b>Best was 23. f4</b>, the engine's line being 23. f4 Nf7 24. Rd7 Rd8 25. Rd1 h6 26. Rd3 Rfe8 <span class="sym">+−</span>. With it, White's winning chances stay at 79%.</p>
-<p>In the game White played <b>23. h3?</b>, a mistake. White's winning chances fell from 79% to 52%. The refutation: 23... Nf3+ 24. Bxf3 Qxf3 25. Ng5 Qxf2+ 26. Qxf2 Nxf2 27. Ne6 <span class="sym">=</span>.</p>
+<p>In the game White played <b>23. h3?</b>, a mistake that turned a winning game into a level one. White's winning chances fell from 79% to 52%. The refutation: 23... Nf3+ 24. Bxf3 Qxf3 25. Ng5 Qxf2+ 26. Qxf2 Nxf2 27. Ne6 <span class="sym">=</span>.</p>
 </details>
 </div>
-<p class="moves"><b>23. h3?</b> <span class="note">(A mistake: White's winning chances fall from 79% to 52%.)</span></p>
-<div class="moment" id="moment-2">
+<p class="moves"><b>23. h3?</b> <span class="note">(A mistake that turned a winning game into a level one: White's winning chances fall from 79% to 52%.)</span></p>
+<div class="moment" id="moment-3">
 <figure>
 <div class="board" role="img" aria-label="After 23. h3, Black to move. White: Kg1, Qd4, Ra1, Rd6, Bg2, Ne4, pawns b2, f2, a3, g3, h3, c5. Black: Kh8, Qf5, Re8, Rf8, Ng4, Ne5, pawns a5, c6, b7, g7, h7.">
 <i data-r="1"></i><i class="wK"></i><i></i><i></i><i></i><i></i><i></i><i class="wR"></i>
@@ -72,15 +93,15 @@
 <i class="bP" data-r="7"></i><i class="bP"></i><i></i><i></i><i></i><i></i><i class="bP"></i><i></i>
 <i class="bK" data-r="8" data-f="h"></i><i data-f="g"></i><i class="bR" data-f="f"></i><i class="bR" data-f="e"></i><i data-f="d"></i><i data-f="c"></i><i data-f="b"></i><i data-f="a"></i>
 </div>
-<figcaption>Critical moment 2. After 23. h3, Black to move. <b>What would you play?</b></figcaption>
+<figcaption>Critical moment 3. After 23. h3, Black to move. <b>What would you play?</b></figcaption>
 </figure>
 <details class="answer">
 <summary>Show the answer</summary>
 <p><b>Best was 23... Nf3+</b>, the engine's line being 23... Nf3+ 24. Bxf3 Qxf3 25. Ng5 Qxf2+ 26. Qxf2 Nxf2 27. Ne6 <span class="sym">=</span>. With it, Black's winning chances stay at 48%.</p>
-<p>In the game Black played <b>23... Nh6??</b>, a blunder. Black's winning chances fell from 48% to 13%. The refutation: 24. Rxh6 gxh6 25. Rd1 Rd8 26. Nd6 Qf6 27. f4 Ng6 <span class="sym">+−</span>.</p>
+<p>In the game Black played <b>23... Nh6??</b>, a blunder that turned a level game into a losing one. Black's winning chances fell from 48% to 13%. The refutation: 24. Rxh6 gxh6 25. Rd1 Rd8 26. Nd6 Qf6 27. f4 Ng6 <span class="sym">+−</span>.</p>
 </details>
 </div>
-<p class="moves"><b>23... Nh6??</b> <span class="note">(A blunder: Black's winning chances fall from 48% to 13%.)</span> 24. Rxh6 gxh6 25. f4 Qd7 26. Nd6 Qg7 27. fxe5 Rxe5 28. Qc3 1–0</p>
+<p class="moves"><b>23... Nh6??</b> <span class="note">(A blunder that turned a level game into a losing one: Black's winning chances fall from 48% to 13%.)</span> 24. Rxh6 gxh6 25. f4 Qd7 26. Nd6 Qg7 27. fxe5 Rxe5 28. Qc3 1–0</p>
 <h2 id="conclusion">Conclusion</h2>
 <p>The game ended 1–0 after 28. Qc3. Apelt was clearly ahead: the engine gives 88% winning chances. In the engine's grading, White made one mistake, and Black made two inaccuracies and one blunder.</p>
 <h2 id="pgn">PGN</h2>
