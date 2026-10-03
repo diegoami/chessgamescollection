@@ -1,0 +1,46 @@
+[Event "www.ChessWorld.net server game"]
+[Site "www.ChessWorld.net "]
+[Date "2005.09.28"]
+[Round "?"]
+[White "Dangerkitty"]
+[Black "Diego Amicabile"]
+[Result "1-0"]
+[BlackElo "1958"]
+[EventDate "2005.??.??"]
+[PostmortemId "3d22fde9d0"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. e4 { [%eval 0.19] } 1... e6 { [%eval 0.38] } 2. d3 { [%eval -0.09] } 2... d5
+{ [%eval -0.01] } 3. Nd2 { [%eval -0.03] } 3... Nf6 { [%eval 0.00] } 4. Ngf3
+{ [%eval -0.04] } 4... b6 { [%eval 0.47] } 5. e5 { [%eval 0.50] } 5... Nfd7
+{ [%eval 0.44] } 6. g3 { [%eval -0.09] } 6... c5 { [%eval -0.16] } 7. Bg2
+{ [%eval -0.62] } 7... Nc6 { [%eval -0.65] } 8. Qe2 { [%eval -0.84] } 8... Qc7
+{ [%eval 0.03] } 9. O-O { [%eval -0.02] } 9... Ndxe5 { [%eval 0.01] } 10. Re1
+$6 { [%eval -1.48] } ( 10. Nxe5 Qxe5 11. Qxe5 Nxe5 12. Re1 Nc6 13. Bxd5 Bb7 $10
+) 10... Bd6 { [%eval -1.48] } ( 10... Nxf3+ 11. Qxf3 Be7 12. Nc4 O-O 13. Bf4
+Qd8 14. Ne5 $17 ) 11. Nxe5 { [%eval -1.49] } 11... Nxe5 $6 { [%eval 0.10] } (
+11... Bxe5 12. c4 O-O 13. cxd5 exd5 14. Bxd5 Bb7 15. Nc4 $17 ) 12. f4
+{ [%eval -0.35] } ( 12. Nc4 dxc4 13. Bxa8 cxd3 14. cxd3 O-O 15. Bg2 Nc6 $10 )
+12... Nc6 { [%eval -0.35] } 13. Bxd5 { [%eval -0.39] } 13... O-O
+{ [%eval -0.38] } 14. Bg2 { [%eval -0.42] } 14... Bb7 { [%eval -0.36] } 15. Ne4
+{ [%eval -0.68] } 15... Nd4 { [%eval -0.59] } 16. Qf2 { [%eval -0.53] } 16...
+Rfd8 { [%eval -0.09] } 17. c3 { [%eval -0.12] } 17... Nf5 { [%eval -0.01] } 18.
+g4 { [%eval -0.03] } 18... Ne7 { [%eval -0.07] } 19. h4 { [%eval -0.61] } 19...
+f5 $6 { [%eval 0.82] } ( 19... Rac8 20. Qg3 Bc6 21. h5 h6 22. Be3 Nd5 23. Nxd6
+$15 ) 20. Ng5 { [%eval 0.59] } ( 20. Ng5 Bxg2 21. Qxg2 Qc6 22. Qe2 Rf8 23.
+Qxe6+ Kh8 $14 ) 20... Qd7 { [%eval 1.57] } 21. Nxe6 { [%eval 0.98] } 21... Re8
+{ [%eval 1.05] } 22. Bxb7 { [%eval 1.13] } 22... Qxb7 { [%eval 0.99] } 23. h5
+$6 { [%eval -0.29] } ( 23. Qg3 fxg4 24. Qxg4 g6 25. h5 Qd5 26. hxg6 hxg6 $14 )
+23... fxg4 { [%eval -0.30] } ( 23... fxg4 24. f5 g3 25. Qf1 Qd5 26. Nxg7 Kxg7
+27. f6+ $10 ) 24. f5 { [%eval -0.12] } 24... g3 { [%eval -0.10] } 25. Qf1
+{ [%eval -0.15] } 25... g2 { [%eval 0.00] } 26. Qf2 { [%eval 0.00] } 26... Qd5
+{ [%eval 0.00] } 27. Nxg7 { [%eval -0.06] } 27... Kxg7 { [%eval 0.00] } 28. f6+
+{ [%eval -0.12] } 28... Kh8 { [%eval 0.00] } 29. f7 { [%eval -0.42] } 29...
+Bh2+ { [%eval -0.43] } 30. Kxh2 { [%eval -0.41] } 30... Qxh5+ { [%eval -0.54] }
+31. Kxg2 { [%eval -0.39] } 31... Qg6+ $4 { [%eval 6.26] } ( 31... Rg8+ 32.
+fxg8=R+ Rxg8+ 33. Kf1 Qh3+ 34. Ke2 Rg2 35. Qxg2 $10 ) 32. Kf1 { [%eval 6.51] }
+( 32. Kf1 Qxd3+ 33. Re2 Qh3+ 34. Qg2 Qxg2+ 35. Kxg2 Rf8 $18 ) 32... Qxd3+
+{ [%eval 6.44] } 33. Re2 { [%eval 6.58] } 33... Qh3+ { [%eval 6.58] } 34. Qg2
+{ [%eval 6.58] } 34... Qf5+ { [%eval 7.85] } 35. Rf2 { [%eval 7.96] } 35...
+Qd3+ { [%eval 7.78] } 36. Kg1 { [%eval 7.91] } 36... Rg8 { [%eval 8.07] } 37.
+Bg5 { [%eval 8.27] } 37... Rxg5 { [%eval 9.17] } 38. Qxg5 { [%eval 9.01] } 1-0

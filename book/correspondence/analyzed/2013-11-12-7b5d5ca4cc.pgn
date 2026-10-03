@@ -1,0 +1,38 @@
+[Event "Karpov-like tournament - Round 2"]
+[Site "Chess.com"]
+[Date "2013.11.12"]
+[Round "?"]
+[White "Poompat"]
+[Black "diegoami"]
+[Result "1-0"]
+[ECO "B22"]
+[WhiteElo "2261"]
+[BlackElo "1714"]
+[TimeControl "1 in 7 days"]
+[EndDate "2013.12.25"]
+[Termination "Poompat won by resignation"]
+[PostmortemId "7b5d5ca4cc"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. e4 { [%eval 0.19] } 1... c5 { [%eval 0.32] } 2. d4 { [%eval 0.03] } 2...
+cxd4 { [%eval 0.10] } 3. c3 { [%eval -0.27] } 3... Nf6 { [%eval 0.13] } 4. e5
+{ [%eval 0.06] } 4... Nd5 { [%eval 0.08] } 5. Nf3 { [%eval 0.15] } 5... Nc6
+{ [%eval 0.08] } 6. Bc4 { [%eval 0.04] } 6... Nb6 { [%eval 0.08] } 7. Bb3
+{ [%eval 0.04] } 7... d3 { [%eval 0.91] } 8. Qxd3 { [%eval 0.86] } 8... e6
+{ [%eval 1.83] } 9. O-O { [%eval 0.95] } 9... d6 { [%eval 0.90] } 10. exd6
+{ [%eval 0.90] } 10... Bxd6 { [%eval 0.84] } 11. Bc2 { [%eval 0.83] } 11... Qc7
+{ [%eval 1.05] } 12. h3 { [%eval 0.42] } 12... Bd7 { [%eval 0.41] } 13. a4
+{ [%eval 0.39] } 13... Nd5 { [%eval 0.81] } 14. Na3 { [%eval 0.88] } 14... a6
+{ [%eval 0.83] } 15. Nc4 { [%eval 0.81] } 15... Be7 { [%eval 0.77] } 16. Re1
+{ [%eval 0.63] } 16... h6 { [%eval 1.15] } 17. b4 { [%eval 1.33] } 17... Nf6
+{ [%eval 1.67] } 18. Be3 { [%eval 2.15] } 18... O-O $6 { [%eval 4.60] } ( 18...
+Rc8 19. Bb3 b5 20. Nb6 Rb8 21. axb5 axb5 22. Ra6 $16 ) 19. b5 { [%eval 3.49] }
+( 19. Bb6 Qf4 20. b5 axb5 21. axb5 Nb4 22. cxb4 Bxb5 $18 ) 19... axb5
+{ [%eval 3.55] } 20. axb5 { [%eval 3.60] } 20... Rxa1 { [%eval 3.62] } 21. Rxa1
+{ [%eval 3.60] } 21... Nb8 { [%eval 4.92] } 22. Bb6 { [%eval 4.82] } 22... Qf4
+{ [%eval 6.20] } 23. Ne3 { [%eval 4.56] } 23... Rc8 { [%eval 5.02] } 24. Ra4 $2
+{ [%eval 1.84] } ( 24. Bd4 Qd6 25. Ne5 Qc7 26. N5g4 Kf8 27. Be5 Qd8 $18 ) 24...
+Qd6 { [%eval 2.37] } ( 24... Qd6 25. Bd4 Be8 26. Nc4 Qf4 27. g3 Qf5 28. Qxf5
+$16 ) 25. Bd4 { [%eval 2.51] } 25... Nd5 $2 { [%eval #2] } ( 25... Be8 26. Nc4
+Qf4 27. g3 Qf5 28. Qxf5 exf5 29. Bxf6 $16 ) 26. Qh7+ { [%eval #1] } ( 26. Qh7+
+Kf8 27. Qh8# $18 ) 1-0

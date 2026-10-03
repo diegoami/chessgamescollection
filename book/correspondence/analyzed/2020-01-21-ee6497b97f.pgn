@@ -1,0 +1,24 @@
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2020.01.21"]
+[Round "?"]
+[White "diegoami"]
+[Black "NickTom1999"]
+[Result "1-0"]
+[ECO "B12"]
+[WhiteElo "1840"]
+[BlackElo "1819"]
+[EventDate "2020.??.??"]
+[PostmortemId "ee6497b97f"]
+[PostmortemAnalysis "Stockfish 16, depth 22"]
+
+1. e4 { [%eval 0.23] } 1... c6 { [%eval 0.30] } 2. d4 { [%eval 0.28] } 2... d5
+{ [%eval 0.38] } 3. e5 { [%eval 0.38] } 3... Bf5 { [%eval 0.23] } 4. Nf3
+{ [%eval 0.23] } 4... e6 { [%eval 0.17] } 5. a3 { [%eval 0.17] } 5... c5
+{ [%eval 0.30] } 6. c4 { [%eval -0.01] } 6... Nc6 { [%eval 0.54] } 7. Nc3
+{ [%eval -0.15] } 7... dxc4 { [%eval -0.14] } 8. Bxc4 { [%eval -0.66] } 8...
+Nxd4 $4 { [%eval 4.07] } ( 8... cxd4 9. Ne2 Rc8 10. O-O Bg4 11. Bb5 Bxf3 12.
+gxf3 $15 ) 9. Nxd4 { [%eval 4.33] } ( 9. Nxd4 Qxd4 10. Qa4+ b5 11. Nxb5 Qxe5+
+12. Be3 Be7 $18 ) 9... cxd4 { [%eval 5.95] } 10. Qa4+ { [%eval 6.15] } 10...
+Ke7 { [%eval 9.20] } 11. Qb4+ { [%eval 9.88] } 11... Kd7 { [%eval 10.02] } 12.
+Qxb7+ { [%eval 10.19] } 1-0

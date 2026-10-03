@@ -1,0 +1,24 @@
+[Event "Six Pack"]
+[Site "Chess.com"]
+[Date "2011.09.20"]
+[Round "?"]
+[White "Wes1985"]
+[Black "diegoami"]
+[Result "0-1"]
+[ECO "B48"]
+[WhiteElo "1729"]
+[BlackElo "1847"]
+[EventDate "2011.??.??"]
+[TimeControl "1"]
+[PostmortemId "92edf776df"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. e4 { [%eval 0.19] } 1... c5 { [%eval 0.32] } 2. Nf3 { [%eval 0.31] } 2... e6
+{ [%eval 0.50] } 3. Nc3 { [%eval 0.32] } 3... a6 { [%eval 0.34] } 4. d4
+{ [%eval 0.33] } 4... cxd4 { [%eval 0.37] } 5. Nxd4 { [%eval 0.37] } 5... Qc7
+{ [%eval 0.41] } 6. Be3 { [%eval 0.00] } 6... Nc6 { [%eval 0.40] } 7. Qd2
+{ [%eval 0.36] } 7... Nf6 { [%eval 0.22] } 8. O-O-O { [%eval 0.26] } 8... Bb4
+{ [%eval 0.61] } 9. f3 { [%eval 0.61] } 9... O-O { [%eval 0.62] } 10. g4
+{ [%eval 0.70] } 10... Rd8 { [%eval 1.25] } 11. h4 $6 { [%eval 0.02] } ( 11. a3
+Bf8 12. g5 Nh5 13. Qf2 b5 14. Nxc6 dxc6 $16 ) 11... d5 { [%eval 0.03] } ( 11...
+d5 12. g5 Nh5 13. a3 Ba5 14. exd5 exd5 15. Bd3 $10 ) 0-1

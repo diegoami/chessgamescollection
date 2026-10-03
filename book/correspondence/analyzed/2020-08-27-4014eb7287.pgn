@@ -1,0 +1,27 @@
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2020.08.27"]
+[Round "?"]
+[White "diegoami"]
+[Black "Gopaxyi1008hyi"]
+[Result "1-0"]
+[ECO "B22"]
+[WhiteElo "1817"]
+[BlackElo "1793"]
+[EventDate "2020.??.??"]
+[PostmortemId "4014eb7287"]
+[PostmortemAnalysis "Stockfish 16, depth 22"]
+
+1. e4 { [%eval 0.23] } 1... c5 { [%eval 0.37] } 2. Nf3 { [%eval 0.41] } 2... g6
+{ [%eval 0.36] } 3. c3 { [%eval 0.44] } 3... Nc6 { [%eval 0.63] } 4. d4
+{ [%eval 0.60] } 4... e6 $6 { [%eval 1.76] } ( 4... d5 5. exd5 Qxd5 6. Be2 Bg7
+7. c4 Qd6 8. d5 $14 ) 5. d5 { [%eval 1.78] } ( 5. d5 Nb8 6. d6 Bg7 7. h4 h6 8.
+e5 b6 $16 ) 5... Na5 { [%eval 1.83] } 6. Bb5 { [%eval 1.17] } 6... a6
+{ [%eval 1.19] } 7. Ba4 { [%eval 0.45] } 7... b5 { [%eval 0.67] } 8. Bc2
+{ [%eval 0.57] } 8... Bb7 { [%eval 0.64] } 9. O-O { [%eval 0.66] } 9... Nf6
+{ [%eval 1.16] } 10. Bg5 { [%eval 1.07] } 10... h6 { [%eval 1.15] } 11. Bh4
+{ [%eval 0.96] } 11... g5 { [%eval 1.12] } 12. Bg3 { [%eval 1.00] } 12... exd5
+{ [%eval 1.10] } 13. exd5 { [%eval 1.17] } 13... Bxd5 { [%eval 1.25] } 14. Re1+
+{ [%eval 1.01] } 14... Be7 { [%eval 1.41] } 15. Be5 { [%eval 0.33] } 15... Be6
+{ [%eval 0.27] } 16. Nbd2 { [%eval 0.29] } 16... Kf8 { [%eval 0.25] } 17. Ne4
+{ [%eval 0.25] } 1-0

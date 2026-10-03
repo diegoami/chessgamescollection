@@ -1,0 +1,32 @@
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2015.02.03"]
+[Round "?"]
+[White "Viktorsson_Svavar"]
+[Black "diegoami"]
+[Result "1-0"]
+[ECO "B22"]
+[WhiteElo "1649"]
+[BlackElo "1630"]
+[TimeControl "1 in 2 days"]
+[EndDate "2015.02.13"]
+[Termination "Viktorsson_Svavar won by resignation"]
+[PostmortemId "951e6622fe"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. e4 { [%eval 0.19] } 1... c5 { [%eval 0.32] } 2. Nf3 { [%eval 0.31] } 2... e6
+{ [%eval 0.50] } 3. c3 { [%eval 0.27] } 3... Qc7 { [%eval 0.83] } 4. d4
+{ [%eval 0.94] } 4... cxd4 { [%eval 0.82] } 5. cxd4 { [%eval 0.90] } 5... a6
+{ [%eval 1.70] } 6. Nc3 { [%eval 1.72] } 6... Nc6 { [%eval 1.91] } 7. g3
+{ [%eval 0.89] } 7... Nf6 { [%eval 1.31] } 8. Bg2 { [%eval 0.95] } 8... Bb4
+{ [%eval 1.84] } 9. Bf4 $6 { [%eval 0.46] } ( 9. e5 Ne4 10. O-O Bxc3 11. bxc3
+Nxc3 12. Qd2 Nd5 $16 ) 9... d6 { [%eval 0.50] } ( 9... d6 10. O-O Bxc3 11. bxc3
+e5 12. Be3 Na5 13. Qd3 $14 ) 10. O-O { [%eval 0.40] } 10... O-O $6
+{ [%eval 1.84] } ( 10... Bxc3 11. bxc3 e5 12. Bc1 O-O 13. Nh4 h6 14. f4 $14 )
+11. Rc1 $6 { [%eval 0.43] } ( 11. e5 dxe5 12. dxe5 Nd5 13. Nxd5 exd5 14. e6 Bd6
+$16 ) ( 11. e5 dxe5 12. dxe5 Nd5 13. Nxd5 exd5 14. e6 Bd6 $16 ) 11... b6 $4
+{ [%eval 6.18] } ( 11... Bxc3 12. bxc3 e5 13. Be3 h6 14. Qc2 Ng4 15. Bd2 $14 )
+( 11... Bxc3 12. bxc3 e5 13. Be3 h6 14. Qc2 Ng4 15. Bd2 $14 ) 12. e5
+{ [%eval 6.40] } ( 12. Ne2 Qd7 13. a3 Ba5 14. Bxd6 Qxd6 15. e5 Nxe5 $18 ) 12...
+dxe5 { [%eval 7.29] } 13. Nxe5 { [%eval 7.21] } 13... Bb7 { [%eval 7.26] } 14.
+Nxc6 { [%eval 7.13] } 1-0

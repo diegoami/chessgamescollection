@@ -1,0 +1,22 @@
+[Event "Tourn. n378"]
+[Site "www.chess-mail.com"]
+[Date "2005.09.15"]
+[Round "1"]
+[White "Diego Amicabile"]
+[Black "Mcduellmug"]
+[Result "1-0"]
+[WhiteElo "1499"]
+[BlackElo "1599"]
+[EventDate "2005.??.??"]
+[PostmortemId "61a12c44d8"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. e4 { [%eval 0.19] } 1... e5 { [%eval 0.26] } 2. Nf3 { [%eval 0.23] } 2... d6
+{ [%eval 0.67] } 3. d4 { [%eval 0.58] } 3... Bg4 { [%eval 1.25] } 4. dxe5
+{ [%eval 1.05] } 4... d5 $2 { [%eval 4.51] } ( 4... Nc6 5. exd6 Bxd6 6. Nc3 Qd7
+7. Be3 O-O-O 8. Bb5 $16 ) 5. exd5 { [%eval 4.68] } ( 5. exd5 Nd7 6. Qe2 Qe7 7.
+Nbd2 O-O-O 8. h3 Bxf3 $18 ) 5... a6 { [%eval 6.01] } 6. Nc3 { [%eval 5.77] }
+6... Nd7 { [%eval 5.93] } 7. Bf4 { [%eval 5.60] } 7... Bxf3 { [%eval 6.94] } 8.
+Qxf3 { [%eval 7.31] } 8... Bb4 { [%eval 7.44] } 9. O-O-O { [%eval 7.30] } 9...
+g5 { [%eval 7.79] } 10. Bg3 { [%eval 7.86] } 10... h5 { [%eval 8.52] } 11. e6
+{ [%eval 8.56] } 1-0

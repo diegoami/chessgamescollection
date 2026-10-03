@@ -1,0 +1,38 @@
+[Event "www.ChessWorld.net server game"]
+[Site "www.ChessWorld.net "]
+[Date "2007.11.13"]
+[Round "?.103"]
+[White "Benrubs"]
+[Black "Diego Amicabile"]
+[Result "0-1"]
+[ECO "A84"]
+[WhiteElo "1849"]
+[BlackElo "2018"]
+[EventDate "2007.??.??"]
+[PostmortemId "23c6c65f89"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. Nf3 { [%eval 0.16] } 1... e6 { [%eval 0.16] } 2. d4 { [%eval 0.21] } 2... f5
+{ [%eval 0.55] } 3. Bf4 { [%eval 0.52] } 3... Nf6 { [%eval 0.43] } 4. c4
+{ [%eval 0.31] } 4... Be7 { [%eval 0.50] } 5. e3 { [%eval 0.47] } 5... b6
+{ [%eval 0.48] } 6. Be2 { [%eval 0.42] } 6... O-O { [%eval 0.42] } 7. O-O
+{ [%eval 0.38] } 7... Bb7 { [%eval 0.49] } 8. Nc3 { [%eval 0.50] } 8... Ne4
+{ [%eval 0.59] } 9. d5 $6 { [%eval -0.71] } ( 9. Nxe4 Bxe4 10. h4 Bb7 11. Rc1
+a5 12. a3 Na6 $14 ) 9... Na6 $6 { [%eval 0.93] } ( 9... Nxc3 10. bxc3 Na6 11.
+Nd4 Nc5 12. dxe6 dxe6 13. Bf3 $15 ) ( 9... Nxc3 10. bxc3 Na6 11. Nd4 Nc5 12.
+dxe6 dxe6 13. Bf3 $15 ) 10. Nxe4 { [%eval 1.02] } ( 10. Nxe4 fxe4 11. Nd4 Bf6
+12. Bg3 exd5 13. cxd5 Nc5 $14 ) 10... fxe4 { [%eval 0.94] } 11. Ne5
+{ [%eval 0.11] } 11... exd5 { [%eval 0.68] } 12. cxd5 { [%eval 0.61] } 12...
+Nb4 { [%eval 0.79] } 13. Bc4 { [%eval 0.87] } 13... d6 { [%eval 0.75] } 14. Ng4
+$6 { [%eval -1.41] } ( 14. Nc6 Bxc6 15. dxc6+ d5 16. a3 dxc4 17. axb4 Bf6 $14 )
+14... h5 $6 { [%eval 0.30] } ( 14... b5 15. Bxb5 h5 16. Qb3 a5 17. a3 Na6 18.
+Ne5 $17 ) ( 14... b5 15. Bxb5 h5 16. Qb3 a5 17. a3 Na6 18. Ne5 $17 ) 15. a3 $4
+{ [%eval -4.74] } ( 15. Ne5 b5 16. Bb3 Qe8 17. Nc6 Nd3 18. f3 Nxb2 $10 ) ( 15.
+Ne5 b5 16. Bb3 Qe8 17. Nc6 Nd3 18. f3 Nxb2 $10 ) 15... Nd3 { [%eval -4.72] } (
+15... Nd3 16. Nh6+ gxh6 17. Qxh5 Nxf4 18. exf4 Bf6 19. Qxh6 $19 ) 16. Bxd3
+{ [%eval -4.62] } 16... exd3 { [%eval -4.89] } 17. Ne5 $6 { [%eval -8.77] } (
+17. Nh6+ gxh6 18. Qxd3 Rf6 19. Rac1 Qd7 20. b4 Rc8 $19 ) 17... dxe5
+{ [%eval -8.75] } ( 17... dxe5 18. Bg3 Qxd5 19. f3 e4 20. f4 Bf6 21. Rb1 $19 )
+18. Bxe5 { [%eval -9.53] } 18... Qxd5 { [%eval -9.47] } 19. f3
+{ [%eval -9.39] } 19... Qxe5 { [%eval -9.37] } 20. Qd2 { [%eval -10.11] } 20...
+Rad8 { [%eval -10.24] } 0-1

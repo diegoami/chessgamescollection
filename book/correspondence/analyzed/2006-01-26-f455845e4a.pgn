@@ -1,0 +1,15 @@
+[Event "www.ChessWorld.net server game"]
+[Site "www.ChessWorld.net "]
+[Date "2006.01.26"]
+[Round "?"]
+[White "watote"]
+[Black "Diego Amicabile"]
+[Result "0-1"]
+[BlackElo "2067"]
+[EventDate "2006.??.??"]
+[PostmortemId "f455845e4a"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. d4 { [%eval 0.19] } 1... Nf6 { [%eval 0.20] } 2. c4 { [%eval 0.22] } 2... e6
+{ [%eval 0.29] } 3. Nf3 { [%eval 0.30] } 3... d5 { [%eval 0.12] } 4. Bg5
+{ [%eval -0.04] } 4... Nbd7 { [%eval 0.23] } 0-1

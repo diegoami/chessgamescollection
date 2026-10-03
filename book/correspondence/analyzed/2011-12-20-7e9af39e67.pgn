@@ -1,0 +1,38 @@
+[Event "Knock-out Tournament - Round 1"]
+[Site "Chess.com"]
+[Date "2011.12.20"]
+[Round "?"]
+[White "profor"]
+[Black "diegoami"]
+[Result "1-0"]
+[ECO "B47"]
+[WhiteElo "1946"]
+[BlackElo "1851"]
+[EventDate "2011.??.??"]
+[PostmortemId "7e9af39e67"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. e4 { [%eval 0.19] } 1... c5 { [%eval 0.32] } 2. Nf3 { [%eval 0.31] } 2... e6
+{ [%eval 0.50] } 3. d4 { [%eval 0.46] } 3... cxd4 { [%eval 0.44] } 4. Nxd4
+{ [%eval 0.38] } 4... Nc6 { [%eval 0.41] } 5. Nxc6 { [%eval 0.14] } 5... bxc6
+{ [%eval 0.15] } 6. Nc3 { [%eval 0.01] } 6... Qc7 { [%eval 0.07] } 7. Bd3
+{ [%eval 0.04] } 7... Nf6 { [%eval 0.22] } 8. O-O { [%eval 0.01] } 8... d5
+{ [%eval 0.17] } 9. Bg5 { [%eval 0.19] } 9... Be7 { [%eval 0.20] } 10. Kh1
+{ [%eval -0.09] } 10... Bb7 { [%eval -0.09] } 11. f4 { [%eval -0.14] } 11... h6
+{ [%eval -0.15] } 12. Bxf6 { [%eval -0.10] } 12... Bxf6 { [%eval -0.12] } 13.
+e5 { [%eval -0.43] } 13... Be7 { [%eval -0.44] } 14. Qg4 { [%eval -0.56] }
+14... O-O $6 { [%eval 0.60] } ( 14... g6 15. h3 h5 16. Qg3 c5 17. b3 a6 18.
+Rab1 $15 ) 15. Rae1 { [%eval 0.56] } ( 15. Rf3 Kh8 16. Raf1 f5 17. Qg6 Qd7 18.
+Ne2 c5 $14 ) 15... c5 $6 { [%eval 1.80] } ( 15... Bc8 16. Ne2 Kh8 17. Ng3 g6
+18. Nh5 Qd8 19. Qh3 $14 ) 16. f5 { [%eval 2.21] } ( 16. f5 exf5 17. Qxf5 g6 18.
+Qg4 Bg5 19. h4 Bd2 $16 ) 16... exf5 { [%eval 2.54] } 17. Qxf5 { [%eval 2.79] }
+17... g6 { [%eval 2.79] } 18. Qh3 $2 { [%eval 0.01] } ( 18. Qg4 Bg5 19. h4 Bd2
+20. Nb5 Qe7 21. Re2 c4 $16 ) 18... Bg5 { [%eval 0.45] } ( 18... Kg7 19. b3 c4
+20. bxc4 dxc4 21. Be4 Bxe4 22. Rxe4 $10 ) 19. e6 { [%eval 0.38] } 19... f5
+{ [%eval 0.38] } 20. e7 { [%eval 0.32] } 20... Rfe8 $4 { [%eval 6.74] } ( 20...
+Bxe7 21. Qxh6 Rf6 22. Ne2 Bd8 23. b4 Qh7 24. Qxh7+ $10 ) 21. Re6
+{ [%eval 6.65] } ( 21. Re6 Kh8 22. Nb5 Qxe7 23. Rxe7 Rxe7 24. Qg3 c4 $18 )
+21... Rxe7 { [%eval 7.79] } 22. Rxg6+ { [%eval 7.72] } 22... Rg7
+{ [%eval 7.85] } 23. Qxf5 { [%eval 7.78] } 23... Rxg6 { [%eval 9.19] } 24.
+Qxg6+ { [%eval 9.30] } 24... Qg7 { [%eval 9.28] } 25. Qe6+ { [%eval 9.99] }
+25... Kh8 { [%eval 10.36] } 26. Rf7 { [%eval 10.73] } 1-0

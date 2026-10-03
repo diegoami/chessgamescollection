@@ -1,0 +1,41 @@
+[Event "Online Chess"]
+[Site "Chess.com"]
+[Date "2009.10.31"]
+[Round "1"]
+[White "Reginald Palantir Limiter"]
+[Black "Diego Amicabile"]
+[Result "1-0"]
+[ECO "B48"]
+[WhiteElo "1759"]
+[BlackElo "1639"]
+[EventDate "2009.??.??"]
+[TimeControl "1"]
+[PostmortemId "3a72dd18f7"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. e4 { [%eval 0.19] } 1... c5 { [%eval 0.32] } 2. Nf3 { [%eval 0.31] } 2... e6
+{ [%eval 0.50] } 3. d4 { [%eval 0.46] } 3... cxd4 { [%eval 0.44] } 4. Nxd4
+{ [%eval 0.38] } 4... Nc6 { [%eval 0.41] } 5. Nc3 { [%eval 0.41] } 5... Qc7
+{ [%eval 0.39] } 6. Be3 { [%eval 0.32] } 6... a6 { [%eval 0.34] } 7. Qd2
+{ [%eval 0.24] } 7... Nf6 { [%eval 0.32] } 8. O-O-O { [%eval 0.23] } 8... Bb4
+{ [%eval 0.39] } 9. f3 { [%eval 0.55] } 9... O-O { [%eval 0.63] } 10. a3
+{ [%eval 0.63] } 10... Be7 { [%eval 0.67] } 11. g4 { [%eval 0.71] } 11... b5
+{ [%eval 0.73] } 12. g5 { [%eval 0.31] } 12... Nh5 { [%eval 0.18] } 13. Nxc6
+{ [%eval -0.40] } 13... Qxc6 $6 { [%eval 1.68] } ( 13... dxc6 14. f4 a5 15. a4
+Rd8 16. Qf2 Rxd1+ 17. Kxd1 $15 ) 14. Be2 { [%eval 2.01] } ( 14. Be2 b4 15. axb4
+Bxb4 16. Qd4 Bxc3 17. Qxc3 Qxc3 $16 ) 14... g6 { [%eval 2.19] } 15. Qd4 $6
+{ [%eval 0.16] } ( 15. f4 Bb7 16. Rhg1 b4 17. axb4 Bxb4 18. Bd4 Qc7 $16 ) 15...
+Bb7 $6 { [%eval 1.31] } ( 15... Qc7 16. Kb1 Rb8 17. Na2 Nf4 18. Bxf4 Qxf4 19.
+h4 $10 ) ( 15... Qc7 16. Kb1 Rb8 17. Na2 Nf4 18. Bxf4 Qxf4 19. h4 $10 ) 16.
+Qxd7 { [%eval 1.38] } ( 16. Qxd7 Bc5 17. Bxc5 Qxc5 18. Kb1 Nf4 19. h4 Rac8 $16
+) 16... Rfe8 { [%eval 1.73] } 17. f4 { [%eval 1.44] } 17... Rac8
+{ [%eval 1.91] } 18. Bxh5 $6 { [%eval 0.56] } ( 18. Qxc6 Bxc6 19. Rhf1 f5 20.
+e5 h6 21. gxh6 Kh7 $16 ) 18... gxh5 { [%eval 0.57] } ( 18... gxh5 19. Qxc6 Bxc6
+20. Bb6 h6 21. gxh6 Kh7 22. Rhf1 $14 ) 19. Qxc6 { [%eval 0.74] } 19... Bxc6
+{ [%eval 0.67] } 20. Rhe1 { [%eval 0.30] } 20... Bb7 { [%eval 1.29] } 21. Rd7
+{ [%eval 0.89] } 21... Rxc3 $2 { [%eval 3.52] } ( 21... Bc6 22. Ra7 Ra8 23.
+Rxa8 Rxa8 24. Bd4 h6 25. Bf6 $14 ) 22. bxc3 { [%eval 3.62] } ( 22. bxc3 Bxa3+
+23. Kd2 Bxe4 24. Ra1 b4 25. cxb4 Bxb4+ $18 ) 22... Bxe4 { [%eval 4.99] } 23.
+Kb2 { [%eval 5.06] } 23... Bf8 { [%eval 5.05] } 24. Bc5 { [%eval 5.06] } 24...
+Bxc5 { [%eval 5.30] } 25. Rxe4 { [%eval 5.55] } 25... Rc8 { [%eval 5.85] } 26.
+Kb3 { [%eval 5.59] } 26... a5 { [%eval 6.09] } 27. Rb7 { [%eval 6.39] } 1-0

@@ -1,0 +1,62 @@
+[Event "www.ChessWorld.net server game"]
+[Site "www.ChessWorld.net "]
+[Date "2005.09.22"]
+[Round "?"]
+[White "Allen de Ohio"]
+[Black "Diego Amicabile"]
+[Result "0-1"]
+[BlackElo "2027"]
+[EventDate "2005.??.??"]
+[PostmortemId "5586e90276"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. d4 { [%eval 0.19] } 1... Nf6 { [%eval 0.20] } 2. c4 { [%eval 0.22] } 2... c5
+{ [%eval 0.77] } 3. e3 { [%eval 0.26] } 3... g6 { [%eval 0.40] } 4. Nc3
+{ [%eval 0.23] } 4... Bg7 { [%eval 0.37] } 5. Nf3 { [%eval -0.02] } 5... O-O
+{ [%eval 0.38] } 6. Be2 { [%eval -0.07] } 6... cxd4 { [%eval 0.00] } 7. exd4
+{ [%eval -0.08] } 7... d5 { [%eval -0.06] } 8. h3 { [%eval -0.05] } 8... Nc6
+{ [%eval -0.04] } 9. O-O { [%eval -0.07] } 9... dxc4 { [%eval -0.11] } 10. Bxc4
+{ [%eval -0.11] } 10... a6 { [%eval -0.01] } 11. Re1 { [%eval -0.36] } 11... b5
+{ [%eval -0.23] } 12. Bf1 { [%eval -0.40] } 12... Bb7 { [%eval -0.37] } 13. Bg5
+{ [%eval -0.39] } 13... Nb4 { [%eval -0.07] } 14. Be2 { [%eval -0.14] } 14...
+Rc8 { [%eval -0.05] } 15. a3 { [%eval -0.18] } 15... Nbd5 { [%eval -0.17] } 16.
+Qd2 $2 { [%eval -3.14] } ( 16. Nxd5 Bxd5 17. a4 Ne4 18. Bf4 Qd7 19. axb5 axb5
+$10 ) 16... Nxc3 { [%eval -3.37] } ( 16... Nxc3 17. bxc3 Ne4 18. Qb2 Nxc3 19.
+Rac1 Nxe2+ 20. Qxe2 $19 ) 17. bxc3 { [%eval -3.29] } 17... Ne4
+{ [%eval -3.28] } 18. Bxe7 $6 { [%eval -7.18] } ( 18. Qb2 Nxc3 19. Rac1 Nxe2+
+20. Qxe2 Re8 21. Rcd1 Qd7 $19 ) 18... Nxd2 { [%eval -5.91] } ( 18... Qxe7 19.
+Qe3 Rxc3 20. Bd3 Qd6 21. Rec1 Rfc8 22. Qe1 $19 ) 19. Bxd8 { [%eval -6.05] }
+19... Nxf3+ { [%eval -6.11] } 20. Bxf3 { [%eval -6.10] } 20... Bxf3
+{ [%eval -6.01] } 21. Be7 { [%eval -5.98] } 21... Bd5 { [%eval -5.59] } 22.
+Bxf8 { [%eval -5.80] } 22... Bxf8 { [%eval -5.82] } 23. Re5 { [%eval -5.73] }
+23... Be6 { [%eval -5.26] } 24. a4 { [%eval -5.17] } 24... Bd6
+{ [%eval -5.05] } 25. Re3 { [%eval -4.96] } 25... b4 { [%eval -4.95] } 26. cxb4
+{ [%eval -5.35] } 26... Bxb4 { [%eval -5.10] } 27. Rd1 { [%eval -5.53] } 27...
+Bd5 { [%eval -5.20] } 28. Re5 { [%eval -5.46] } 28... Rd8 { [%eval -5.42] } 29.
+a5 { [%eval -5.49] } 29... Bxa5 { [%eval -5.55] } 30. Ra1 { [%eval -5.67] }
+30... Bc3 { [%eval -4.49] } 31. Rxa6 { [%eval -4.38] } 31... Bxd4
+{ [%eval -4.20] } 32. Re1 { [%eval -4.17] } 32... Bc4 { [%eval -4.19] } 33. Ra4
+{ [%eval -4.26] } 33... Bb5 { [%eval -4.19] } 34. Ra2 { [%eval -4.23] } 34...
+Bc3 { [%eval -4.43] } 35. Rc1 { [%eval -4.43] } 35... Bd4 $4 { [%eval -0.12] }
+( 35... Bf6 36. Ra5 Be8 37. Ra2 Kg7 38. Re2 Bb5 39. Ra2 $19 ) 36. Ra5 $4
+{ [%eval -4.39] } ( 36. Rd2 Bxf2+ 37. Rxf2 Rd5 38. Rb2 Bd7 39. Rcc2 Bf5 $10 ) (
+36. Rd2 Bxf2+ 37. Rxf2 Rd5 38. Rb2 Bd7 39. Rcc2 Bf5 $10 ) 36... Bd3 $2
+{ [%eval -1.02] } ( 36... Be8 37. Ra2 Bf6 38. Re2 Kg7 39. Ra2 Rd6 40. Kh1 $19 )
+( 36... Be8 37. Ra2 Bf6 38. Re2 Kg7 39. Ra2 Rd6 40. Kh1 $19 ) 37. Rd1 $2
+{ [%eval -4.39] } ( 37. Ra2 Be5 38. Rd1 Rc8 39. Rad2 Bf5 40. Rd8+ Rxd8 $17 ) (
+37. Ra2 Be5 38. Rd1 Rc8 39. Rad2 Bf5 40. Rd8+ Rxd8 $17 ) 37... Bb6 $4
+{ [%eval -0.30] } ( 37... Be2 38. Rc1 Bf6 39. Ra2 Bb5 40. Ra5 Be8 41. Ra2 $19 )
+( 37... Be2 38. Rc1 Bf6 39. Ra2 Bb5 40. Ra5 Be8 41. Ra2 $19 ) 38. Ra3
+{ [%eval -0.45] } ( 38. Ra3 Be4 39. Rxd8+ Bxd8 40. Ra4 f5 41. h4 Be7 $10 )
+38... Be4 { [%eval -0.33] } 39. Re1 $4 { [%eval -4.38] } ( 39. Rxd8+ Bxd8 40.
+Ra4 f5 41. h4 Kg7 42. Kh2 Bb6 $10 ) 39... f5 { [%eval -3.32] } ( 39... Bf5 40.
+Ra6 Rd6 41. Rea1 Kg7 42. R6a2 Bd8 43. Kh1 $19 ) 40. Rb3 { [%eval -3.32] } 40...
+Bd4 { [%eval -3.41] } 41. Rb5 { [%eval -3.55] } 41... Kf7 { [%eval -3.31] } 42.
+Rc1 { [%eval -3.41] } 42... Ke6 { [%eval -3.02] } 43. Rc7 $6 { [%eval -6.46] }
+( 43. Ra5 Rd6 44. Ra2 Rb6 45. Ra4 Be5 46. Ra7 Bb7 $19 ) 43... Rd7 $4
+{ [%eval -0.46] } ( 43... Ra8 44. Rc1 Ra2 45. Rf1 Bd3 46. Rb4 Bc5 47. Re1+ $19
+) ( 43... Ra8 44. Rc1 Ra2 45. Rf1 Bd3 46. Rb4 Bc5 47. Re1+ $19 ) 44. Rc8 $4
+{ [%eval -6.44] } ( 44. Rxd7 Kxd7 45. Rb8 Kd6 46. Rf8 Kd5 47. Rd8+ Kc4 $15 ) (
+44. Rxd7 Kxd7 45. Rb8 Kd6 46. Rf8 Kd5 47. Rd8+ Kc4 $15 ) 44... Ra7
+{ [%eval -6.30] } ( 44... Ra7 45. Rc1 Ra2 46. Rf1 Bd3 47. Rb4 Bc5 48. Re1+ $19
+) 45. Rc1 { [%eval -6.34] } 45... Ra2 { [%eval -6.30] } 0-1

@@ -1,0 +1,28 @@
+[Event "The Road To Mastery"]
+[Site "Chess.com"]
+[Date "2012.01.10"]
+[Round "?"]
+[White "diegoami"]
+[Black "MyBabeLuvsMe"]
+[Result "1/2-1/2"]
+[ECO "C56"]
+[WhiteElo "1894"]
+[BlackElo "1941"]
+[EventDate "2012.??.??"]
+[TimeControl "1"]
+[PostmortemId "5331d6895a"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. e4 { [%eval 0.19] } 1... e5 { [%eval 0.26] } 2. Nf3 { [%eval 0.23] } 2...
+Nc6 { [%eval 0.19] } 3. d4 { [%eval -0.02] } 3... exd4 { [%eval 0.03] } 4. Bc4
+{ [%eval -0.02] } 4... Nf6 { [%eval 0.01] } 5. O-O { [%eval -0.14] } 5... Nxe4
+{ [%eval -0.11] } 6. Re1 { [%eval -0.08] } 6... d5 { [%eval -0.16] } 7. Bxd5
+{ [%eval -0.13] } 7... Qxd5 { [%eval -0.08] } 8. Nc3 { [%eval -0.12] } 8... Qh5
+{ [%eval 0.03] } 9. Nxe4 { [%eval -0.07] } 9... Be6 { [%eval 0.05] } 10. Bg5
+{ [%eval 0.02] } 10... Bd6 { [%eval -0.04] } 11. Nxd6+ { [%eval -0.01] } 11...
+cxd6 { [%eval -0.02] } 12. Bf4 { [%eval -0.02] } 12... O-O-O { [%eval 0.20] }
+13. Nxd4 { [%eval 0.31] } 13... Qxd1 { [%eval 0.27] } 14. Raxd1
+{ [%eval 0.21] } 14... Nxd4 { [%eval 0.40] } 15. Rxd4 { [%eval 0.27] } 15... d5
+{ [%eval 0.31] } 16. Re3 { [%eval 0.41] } 16... Rd7 { [%eval 0.36] } 17. b3
+{ [%eval 0.07] } 17... Re8 { [%eval 0.00] } 18. h3 { [%eval 0.00] } 18... f6
+{ [%eval 0.00] } 19. Rd2 { [%eval 0.00] } 1/2-1/2

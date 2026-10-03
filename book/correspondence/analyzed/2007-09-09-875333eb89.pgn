@@ -1,0 +1,23 @@
+[Event "www.ChessWorld.net server game"]
+[Site "www.ChessWorld.net "]
+[Date "2007.09.09"]
+[Round "?.131"]
+[White "Diego Amicabile"]
+[Black "Milos78475"]
+[Result "0-1"]
+[ECO "B17"]
+[WhiteElo "2068"]
+[BlackElo "2151"]
+[EventDate "2007.??.??"]
+[PostmortemId "875333eb89"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. e4 { [%eval 0.19] } 1... c6 { [%eval 0.31] } 2. d4 { [%eval 0.26] } 2... d5
+{ [%eval 0.25] } 3. Nc3 { [%eval 0.33] } 3... dxe4 { [%eval 0.39] } 4. Nxe4
+{ [%eval 0.39] } 4... Nd7 { [%eval 0.45] } 5. Nf3 { [%eval 0.32] } 5... Ngf6
+{ [%eval 0.35] } 6. Ng3 { [%eval 0.13] } 6... e6 { [%eval 0.15] } 7. Bd3
+{ [%eval 0.09] } 7... Be7 { [%eval 0.08] } 8. O-O { [%eval 0.08] } 8... O-O
+{ [%eval 0.06] } 9. c4 { [%eval 0.05] } 9... c5 { [%eval 0.16] } 10. Bf4
+{ [%eval -0.03] } 10... cxd4 { [%eval 0.00] } 11. Nxd4 $4 { [%eval -5.51] } (
+11. a3 b6 12. Nxd4 Bb7 13. Re1 a6 14. Nf3 Re8 $10 ) 11... e5 { [%eval -5.60] }
+( 11... e5 12. Be3 exd4 13. Bxd4 Nc5 14. Bc2 Bg4 15. f3 $19 ) 0-1

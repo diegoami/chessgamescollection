@@ -1,0 +1,38 @@
+[Event "www.ChessWorld.net server game"]
+[Site "www.ChessWorld.net "]
+[Date "2005.08.16"]
+[Round "?"]
+[White "Wojtek1977"]
+[Black "Diego Amicabile"]
+[Result "0-1"]
+[ECO "B10"]
+[WhiteElo "1503"]
+[BlackElo "2060"]
+[EventDate "2005.??.??"]
+[PostmortemId "1c088251b3"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. e4 { [%eval 0.19] } 1... c6 { [%eval 0.31] } 2. Bc4 { [%eval -0.40] } 2...
+d5 { [%eval -0.30] } 3. exd5 { [%eval -0.32] } 3... cxd5 { [%eval -0.25] } 4.
+Bb5+ { [%eval -0.33] } 4... Bd7 { [%eval -0.29] } 5. Nc3 { [%eval -0.64] } 5...
+d4 { [%eval -0.76] } 6. Bxd7+ { [%eval -0.68] } 6... Qxd7 { [%eval -0.64] } 7.
+Ne4 { [%eval -0.97] } 7... e5 { [%eval -0.99] } 8. d3 { [%eval -0.99] } 8...
+Nc6 { [%eval -0.85] } 9. c3 $6 { [%eval -2.44] } ( 9. Nf3 f5 10. Ng3 Nf6 11.
+O-O O-O-O 12. Re1 Bd6 $15 ) 9... f5 { [%eval -2.48] } ( 9... f5 10. Ng3 dxc3
+11. Nf3 O-O-O 12. bxc3 f4 13. Ne4 $17 ) 10. Ng5 { [%eval -2.97] } 10... Nf6 $6
+{ [%eval -1.60] } ( 10... dxc3 11. bxc3 O-O-O 12. d4 exd4 13. Ne2 d3 14. Nd4
+$17 ) 11. Qb3 { [%eval -2.65] } ( 11. Ne2 dxc3 12. bxc3 O-O-O 13. d4 exd4 14.
+O-O h6 $17 ) 11... Nd5 $6 { [%eval -0.70] } ( 11... h6 12. N5f3 dxc3 13. Ne2 e4
+14. dxe4 fxe4 15. Nh4 $17 ) 12. N1f3 $2 { [%eval -4.15] } ( 12. Ne2 Na5 13. Qd1
+dxc3 14. bxc3 Bd6 15. O-O O-O $15 ) ( 12. Ne2 Na5 13. Qd1 dxc3 14. bxc3 Bd6 15.
+O-O O-O $15 ) 12... h6 { [%eval -4.77] } ( 12... h6 13. Nh3 g5 14. Nhg1 dxc3
+15. bxc3 e4 16. Nd4 $19 ) 13. Nh3 { [%eval -4.86] } 13... O-O-O
+{ [%eval -4.10] } 14. Qc4 { [%eval -6.49] } 14... Kb8 { [%eval -6.70] } 15. b4
+{ [%eval -7.67] } 15... dxc3 { [%eval -6.75] } 16. Rb1 { [%eval -8.59] } 16...
+Ndxb4 { [%eval -8.45] } 17. O-O { [%eval -9.01] } 17... Qxd3 { [%eval -8.94] }
+18. Qb3 { [%eval -9.12] } 18... c2 { [%eval -9.09] } 19. Rb2 { [%eval -9.11] }
+19... Qxb3 { [%eval -9.14] } 20. axb3 { [%eval -9.04] } 20... g5
+{ [%eval -9.20] } 21. Bxg5 { [%eval -9.75] } 21... hxg5 { [%eval -9.74] } 22.
+Nhxg5 { [%eval -9.66] } 22... Rd1 { [%eval -9.25] } 23. Rxc2 { [%eval -9.21] }
+23... Rxf1+ { [%eval -9.41] } 24. Kxf1 { [%eval -9.41] } 24... Nxc2
+{ [%eval -9.27] } 0-1

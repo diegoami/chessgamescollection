@@ -1,0 +1,35 @@
+[Event "www.ChessWorld.net server game"]
+[Site "www.ChessWorld.net "]
+[Date "2005.08.16"]
+[Round "?"]
+[White "sjm"]
+[Black "Diego Amicabile"]
+[Result "0-1"]
+[BlackElo "1822"]
+[EventDate "2005.??.??"]
+[PostmortemId "9e719faea5"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. c4 { [%eval 0.18] } 1... e5 { [%eval 0.19] } 2. e4 { [%eval -0.27] } 2... c5
+{ [%eval 0.16] } 3. Be2 { [%eval 0.01] } 3... Nc6 { [%eval 0.09] } 4. Nf3
+{ [%eval -0.04] } 4... Nf6 { [%eval 0.10] } 5. d3 { [%eval 0.03] } 5... Be7
+{ [%eval 0.04] } 6. Nc3 { [%eval 0.01] } 6... O-O { [%eval 0.00] } 7. h3
+{ [%eval 0.00] } 7... d6 { [%eval 0.02] } 8. Nh4 $6 { [%eval -1.51] } ( 8. a3
+a5 9. Bd2 Bd7 10. O-O h6 11. b3 b6 $10 ) 8... Nd4 $6 { [%eval -0.05] } ( 8...
+Nxe4 9. dxe4 Bxh4 10. O-O Be6 11. Be3 Nd4 12. Qd2 $17 ) ( 8... Nxe4 9. dxe4
+Bxh4 10. O-O Be6 11. Be3 Nd4 12. Qd2 $17 ) 9. g3 { [%eval -1.09] } ( 9. Nf3
+Nxe2 10. Qxe2 Ne8 11. Rb1 Nc7 12. b4 b6 $10 ) 9... a6 { [%eval -0.70] } 10. Nf3
+{ [%eval -0.84] } 10... Bd7 { [%eval -0.52] } 11. Nxd4 { [%eval -0.99] } 11...
+cxd4 { [%eval -0.97] } 12. Nd5 { [%eval -1.02] } 12... Nxd5 { [%eval -0.84] }
+13. cxd5 { [%eval -1.07] } 13... f5 { [%eval -1.04] } 14. Bd2 { [%eval -1.79] }
+14... Rc8 { [%eval -0.78] } 15. a4 $6 { [%eval -2.34] } ( 15. h4 h6 16. Bf3
+fxe4 17. Bxe4 Bf5 18. Rc1 Rxc1 $15 ) 15... fxe4 { [%eval -2.07] } ( 15... Bg5
+16. Bxg5 Qxg5 17. Bf3 fxe4 18. Bxe4 Bf5 19. h4 $17 ) 16. dxe4 { [%eval -2.12] }
+16... Qb6 $6 { [%eval -0.53] } ( 16... Bg5 17. Bxg5 Qxg5 18. Bg4 Bxg4 19. hxg4
+Qg6 20. Qe2 $17 ) 17. b3 $2 { [%eval -4.31] } ( 17. Bd3 Qd8 18. h4 Qe8 19. f4
+Qg6 20. Kf2 b5 $15 ) ( 17. Bd3 Qd8 18. h4 Qe8 19. f4 Qg6 20. Kf2 b5 $15 ) 17...
+d3 { [%eval -4.30] } ( 17... d3 18. Bf3 Rc2 19. Be3 Qb4+ 20. Kf1 Qxb3 21. Kg2
+$19 ) 18. Bf3 { [%eval -4.37] } 18... Rc2 { [%eval -4.94] } 19. b4 $6
+{ [%eval -9.54] } ( 19. Be3 Qb4+ 20. Kf1 Qxb3 21. Kg2 Bxa4 22. h4 Qc4 $19 )
+19... Bg5 { [%eval -9.78] } ( 19... Bg5 20. O-O Rxd2 21. Qxd2 Bxd2 22. Rad1
+Rxf3 23. Kg2 $19 ) 20. Bxg5 { [%eval #-1] } 20... Qxf2# 0-1

@@ -1,0 +1,41 @@
+[Event "www.ChessWorld.net server game"]
+[Site "www.ChessWorld.net "]
+[Date "2005.08.27"]
+[Round "?"]
+[White "Diego Amicabile"]
+[Black "chuck54"]
+[Result "1-0"]
+[ECO "C44"]
+[WhiteElo "2061"]
+[BlackElo "1940"]
+[EventDate "2005.??.??"]
+[PostmortemId "212a461307"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. e4 { [%eval 0.19] } 1... e5 { [%eval 0.26] } 2. Nf3 { [%eval 0.23] } 2...
+Nc6 { [%eval 0.19] } 3. d4 { [%eval -0.02] } 3... d6 { [%eval 0.94] } 4. dxe5
+{ [%eval 0.54] } 4... Nxe5 { [%eval 0.54] } 5. Nxe5 { [%eval 0.32] } 5... dxe5
+{ [%eval 0.28] } 6. Qxd8+ { [%eval 0.24] } 6... Kxd8 { [%eval 0.22] } 7. Bc4
+{ [%eval 0.23] } 7... Ke8 { [%eval 0.21] } 8. Be3 { [%eval 0.19] } 8... Bd7
+{ [%eval 0.54] } 9. Nc3 { [%eval 0.33] } 9... Bb4 { [%eval 0.34] } 10. O-O-O
+{ [%eval 0.36] } 10... c6 $6 { [%eval 2.41] } ( 10... Bxc3 11. bxc3 Nf6 12. f3
+b6 13. g4 Ke7 14. g5 $10 ) 11. Bxf7+ { [%eval 2.51] } ( 11. Bxf7+ Ke7 12. Bb3
+Nf6 13. f3 Be6 14. a3 Bd6 $16 ) 11... Ke7 { [%eval 2.52] } 12. Bc4
+{ [%eval 2.28] } 12... Nf6 { [%eval 2.33] } 13. f3 { [%eval 2.36] } 13... Be6
+{ [%eval 2.29] } 14. Bxe6 { [%eval 2.41] } 14... Kxe6 { [%eval 2.35] } 15. Ne2
+{ [%eval 2.18] } 15... b5 { [%eval 2.24] } 16. Rd3 { [%eval 2.50] } 16... Rhd8
+{ [%eval 2.35] } 17. Rhd1 { [%eval 2.29] } 17... Rxd3 { [%eval 3.47] } 18. Rxd3
+$6 { [%eval 1.71] } ( 18. cxd3 Ba5 19. d4 Bb6 20. Kc2 Nd7 21. b3 Rc8 $18 )
+18... Be7 { [%eval 1.97] } ( 18... a6 19. Ng1 a5 20. Kb1 a4 21. Nh3 Nd7 22.
+Ng5+ $16 ) 19. c3 { [%eval 1.70] } 19... a5 { [%eval 1.64] } 20. b3
+{ [%eval 1.05] } 20... Ra7 $4 { [%eval 8.07] } ( 20... a4 21. Rd2 h5 22. Kb2
+Nd7 23. b4 Rc8 24. Rc2 $16 ) 21. Bxa7 { [%eval 7.92] } ( 21. Bxa7 a4 22. bxa4
+bxa4 23. c4 Bb4 24. Kc2 Nd7 $18 ) 21... Ba3+ { [%eval 8.06] } 22. Kc2
+{ [%eval 8.06] } 22... Be7 { [%eval 8.06] } 23. c4 { [%eval 7.95] } 23... Bb4
+{ [%eval 8.05] } 24. c5 { [%eval 8.26] } 24... Nd7 { [%eval 8.58] } 25. Rd6+
+{ [%eval 8.63] } 25... Ke7 { [%eval 8.69] } 26. Rxc6 { [%eval 8.76] } 26... g6
+{ [%eval 9.03] } 27. Nc3 { [%eval 8.91] } 27... Ba3 { [%eval 10.05] } 28. Nxb5
+{ [%eval 10.26] } 28... Bb4 { [%eval 10.32] } 29. Nc7 { [%eval 9.37] } 29...
+Nf6 { [%eval 9.72] } 30. Rxf6 { [%eval 8.99] } 30... Kxf6 { [%eval 9.22] } 31.
+Nd5+ { [%eval 9.16] } 31... Ke6 { [%eval 11.10] } 32. Nxb4 { [%eval 11.90] }
+1-0

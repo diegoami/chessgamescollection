@@ -1,0 +1,39 @@
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2017.03.11"]
+[Round "?"]
+[White "a_l_l_in"]
+[Black "diegoami"]
+[Result "1-0"]
+[WhiteElo "1834"]
+[BlackElo "1810"]
+[ECO "B23"]
+[TimeControl "1 in 3 days"]
+[EndDate "2017.04.26"]
+[Termination "a_l_l_in won by resignation"]
+[PostmortemId "be037e476d"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. e4 { [%eval 0.19] } 1... c5 { [%eval 0.32] } 2. Nc3 { [%eval 0.19] } 2... e6
+{ [%eval 0.31] } 3. g3 { [%eval 0.01] } 3... d5 { [%eval 0.11] } 4. exd5
+{ [%eval 0.10] } 4... exd5 { [%eval 0.13] } 5. Bg2 { [%eval -0.12] } 5... Nf6
+{ [%eval -0.17] } 6. d3 { [%eval -0.16] } 6... h6 { [%eval -0.18] } 7. Nge2
+{ [%eval -0.14] } 7... Be7 { [%eval 0.16] } 8. O-O { [%eval -0.09] } 8... O-O
+{ [%eval 0.19] } 9. Nf4 { [%eval 0.11] } 9... Be6 $2 { [%eval 3.90] } ( 9... d4
+10. Ncd5 Nbd7 11. Bd2 Bd6 12. Re1 a5 13. Qe2 $10 ) 10. Re1 $6 { [%eval 1.32] }
+( 10. Nxe6 fxe6 11. Qe2 Qc8 12. Bh3 Kh8 13. Qxe6 Qxe6 $18 ) ( 10. Nxe6 fxe6 11.
+Qe2 Qc8 12. Bh3 Kh8 13. Qxe6 Qxe6 $18 ) 10... Qd7 $6 { [%eval 3.28] } ( 10...
+Bg4 11. Qd2 Bd6 12. Nfxd5 Nxd5 13. Nxd5 Nc6 14. b3 $16 ) ( 10... Bg4 11. Qd2
+Bd6 12. Nfxd5 Nxd5 13. Nxd5 Nc6 14. b3 $16 ) 11. Qe2 { [%eval 2.89] } ( 11.
+Rxe6 fxe6 12. Bh3 Qe8 13. Nxe6 Na6 14. Nxf8 Bxf8 $18 ) 11... Nc6
+{ [%eval 2.96] } 12. Nxe6 { [%eval 2.74] } 12... fxe6 { [%eval 2.96] } 13.
+Qxe6+ { [%eval 2.68] } 13... Qxe6 { [%eval 2.76] } 14. Rxe6 { [%eval 2.74] }
+14... Rad8 { [%eval 2.79] } 15. Bd2 { [%eval 2.61] } 15... Bd6 $6
+{ [%eval 4.44] } ( 15... Rf7 16. Rae1 Rd7 17. Ne2 Nd8 18. Bh3 Nxe6 19. Bxe6 $16
+) 16. Nxd5 { [%eval 4.63] } ( 16. Nxd5 Nd4 17. Rxf6 gxf6 18. c3 Ne6 19. Bxh6
+Rf7 $18 ) 16... Nxd5 { [%eval 6.49] } 17. Bxd5 { [%eval 6.46] } 17... Kh8
+{ [%eval 6.51] } 18. Bxc6 { [%eval 6.54] } 18... bxc6 { [%eval 6.40] } 19. Bc3
+{ [%eval 6.35] } 19... Rfe8 { [%eval 6.89] } 20. Rxh6+ { [%eval 7.01] } 20...
+Kg8 { [%eval 6.98] } 21. Rg6 { [%eval 6.94] } 21... Be5 { [%eval 7.15] } 22.
+Bxe5 { [%eval 7.07] } 22... Rxe5 { [%eval 6.80] } 23. Rxc6 { [%eval 6.86] }
+23... Rf8 { [%eval 7.30] } 24. f4 { [%eval 7.45] } 1-0

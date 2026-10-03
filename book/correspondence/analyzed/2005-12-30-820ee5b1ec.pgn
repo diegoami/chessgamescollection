@@ -1,0 +1,21 @@
+[Event "www.ChessWorld.net server game"]
+[Site "www.ChessWorld.net "]
+[Date "2005.12.30"]
+[Round "?"]
+[White "GUAYACAN"]
+[Black "Diego Amicabile"]
+[Result "1-0"]
+[BlackElo "2057"]
+[EventDate "2005.??.??"]
+[PostmortemId "820ee5b1ec"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. e4 { [%eval 0.19] } 1... c6 { [%eval 0.31] } 2. d4 { [%eval 0.26] } 2... d5
+{ [%eval 0.25] } 3. Nc3 { [%eval 0.33] } 3... b5 { [%eval 1.16] } 4. e5
+{ [%eval 1.17] } 4... b4 { [%eval 1.06] } 5. Na4 { [%eval 1.12] } 5... e6
+{ [%eval 1.24] } 6. Nf3 { [%eval 1.16] } 6... Ba6 { [%eval 1.79] } 7. Bxa6
+{ [%eval 1.79] } 7... Nxa6 { [%eval 1.78] } 8. c3 { [%eval 1.27] } 8... c5
+{ [%eval 1.31] } 9. O-O { [%eval 1.17] } 9... bxc3 { [%eval 1.22] } 10. Nxc3
+{ [%eval 1.37] } 10... f6 $4 { [%eval 7.02] } ( 10... Qd7 11. Bd2 Rc8 12. dxc5
+Nxc5 13. Qe2 d4 14. Ne4 $16 ) 11. Qa4+ { [%eval 7.15] } ( 11. Qa4+ Qd7 12. Qxa6
+c4 13. Bf4 Ne7 14. exf6 gxf6 $18 ) 1-0

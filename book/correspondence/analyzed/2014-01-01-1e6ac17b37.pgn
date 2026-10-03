@@ -1,0 +1,26 @@
+[Event "Strong and long"]
+[Site "Chess.com"]
+[Date "2014.01.01"]
+[Round "?"]
+[White "Kenstark19"]
+[Black "diegoami"]
+[Result "0-1"]
+[ECO "B40"]
+[WhiteElo "1348"]
+[BlackElo "1718"]
+[TimeControl "1 in 7 days"]
+[EndDate "2014.03.14"]
+[Termination "diegoami won on time"]
+[PostmortemId "1e6ac17b37"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. e4 { [%eval 0.19] } 1... c5 { [%eval 0.32] } 2. Nf3 { [%eval 0.31] } 2... e6
+{ [%eval 0.50] } 3. Bc4 { [%eval -0.02] } 3... Nc6 { [%eval 0.02] } 4. O-O
+{ [%eval 0.05] } 4... Nge7 { [%eval 0.37] } 5. d4 { [%eval 0.19] } 5... cxd4
+{ [%eval 0.20] } 6. Nxd4 { [%eval 0.25] } 6... Ng6 { [%eval 0.32] } 7. Nxc6
+{ [%eval -0.08] } 7... bxc6 { [%eval 0.01] } 8. Nc3 { [%eval -0.15] } 8... Bc5
+{ [%eval -0.04] } 9. a3 { [%eval -0.39] } 9... O-O { [%eval -0.27] } 10. b4
+{ [%eval -0.26] } 10... Bb6 { [%eval -0.04] } 11. Bb3 $6 { [%eval -1.49] } (
+11. Na4 Bc7 12. Bd3 Nf4 13. Re1 Nxd3 14. cxd3 a5 $10 ) 11... d5 $6
+{ [%eval -0.14] } ( 11... Ba6 12. Re1 Qf6 13. Qd2 Bc7 14. Bb2 Bf4 15. Qd1 $17 )
+( 11... Ba6 12. Re1 Qf6 13. Qd2 Bc7 14. Bb2 Bf4 15. Qd1 $17 ) 0-1

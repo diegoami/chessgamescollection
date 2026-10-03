@@ -1,0 +1,39 @@
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2017.08.15"]
+[Round "?"]
+[White "pakikay"]
+[Black "diegoami"]
+[Result "1-0"]
+[WhiteElo "1796"]
+[BlackElo "1796"]
+[ECO "B44"]
+[TimeControl "1 in 7 days"]
+[Termination "pakikay won by resignation"]
+[EndDate "2017.08.30"]
+[PostmortemId "9b8d02a61a"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. e4 { [%eval 0.19] } 1... c5 { [%eval 0.32] } 2. Nf3 { [%eval 0.31] } 2... e6
+{ [%eval 0.50] } 3. d4 { [%eval 0.46] } 3... cxd4 { [%eval 0.44] } 4. Nxd4
+{ [%eval 0.38] } 4... Nc6 { [%eval 0.41] } 5. c3 { [%eval 0.00] } 5... Nf6
+{ [%eval -0.01] } 6. Bd3 { [%eval -0.13] } 6... Bc5 { [%eval 0.63] } 7. Nb3
+{ [%eval -0.17] } 7... Bb6 { [%eval -0.22] } 8. O-O { [%eval -0.16] } 8... O-O
+{ [%eval -0.15] } 9. Bg5 { [%eval -0.11] } 9... d5 { [%eval -0.12] } 10. exd5
+{ [%eval -0.28] } 10... exd5 { [%eval -0.24] } 11. N1d2 { [%eval -0.33] } 11...
+Ne5 { [%eval -0.03] } 12. Be2 { [%eval -0.19] } 12... Qd6 { [%eval -0.02] } 13.
+Nd4 { [%eval -0.18] } 13... Bd7 { [%eval 0.00] } 14. f4 $6 { [%eval -1.92] } (
+14. N2f3 Rfe8 15. Nxe5 Qxe5 16. Be3 h5 17. Nf3 Qd6 $10 ) 14... Neg4
+{ [%eval -2.23] } ( 14... Nc6 15. Nb3 Ne4 16. Kh1 Nxd4 17. Nxd4 Rfe8 18. Bh4
+$17 ) 15. Rf3 { [%eval -2.41] } 15... Rfe8 { [%eval -2.64] } 16. Nf1
+{ [%eval -2.55] } 16... Ne4 { [%eval -2.80] } 17. Bh4 { [%eval -2.79] } 17...
+Qh6 { [%eval -2.76] } 18. Bg3 { [%eval -4.21] } 18... Rac8 $6 { [%eval -1.97] }
+( 18... Nxg3 19. Rxg3 Nf6 20. Rg5 Ne4 21. Rxd5 Bc6 22. Re5 $19 ) 19. Rd3 $6
+{ [%eval -3.73] } ( 19. h3 Ngf6 20. a4 Nxg3 21. Nxg3 Ne4 22. a5 Bc5 $17 ) ( 19.
+h3 Ngf6 20. a4 Nxg3 21. Nxg3 Ne4 22. a5 Bc5 $17 ) 19... Nc5 { [%eval -3.78] } (
+19... Nc5 20. Rd2 Nf6 21. Bd3 Ne6 22. Kh1 Nxd4 23. cxd4 $19 ) 20. Rf3
+{ [%eval -4.43] } 20... Ne6 { [%eval -3.08] } 21. a4 { [%eval -4.48] } 21...
+Qf6 { [%eval -4.55] } 22. Rd3 { [%eval -4.60] } 22... Nxd4 { [%eval -3.59] }
+23. cxd4 { [%eval -4.05] } 23... Rc4 { [%eval -4.08] } 24. Bxg4
+{ [%eval -4.84] } 24... Rxd4 { [%eval -4.90] } 25. Rxd4 { [%eval -4.91] } 25...
+Bxg4 { [%eval -5.22] } 1-0

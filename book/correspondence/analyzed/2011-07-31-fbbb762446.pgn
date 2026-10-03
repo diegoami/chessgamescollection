@@ -1,0 +1,36 @@
+[Event "www.ChessWorld.net server game"]
+[Site "www.ChessWorld.net "]
+[Date "2011.07.31"]
+[Round "?.28"]
+[White "ittybittypitty"]
+[Black "Diego Amicabile"]
+[Result "1-0"]
+[ECO "B47"]
+[WhiteElo "2153"]
+[BlackElo "2137"]
+[EventDate "2011.??.??"]
+[PostmortemId "fbbb762446"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. e4 { [%eval 0.19] } 1... c5 { [%eval 0.32] } 2. Nf3 { [%eval 0.31] } 2... e6
+{ [%eval 0.50] } 3. d4 { [%eval 0.46] } 3... cxd4 { [%eval 0.44] } 4. Nxd4
+{ [%eval 0.38] } 4... Nc6 { [%eval 0.41] } 5. Nc3 { [%eval 0.41] } 5... Qc7
+{ [%eval 0.39] } 6. Ndb5 { [%eval 0.28] } 6... Qb8 { [%eval 0.29] } 7. g3
+{ [%eval 0.17] } 7... Nf6 { [%eval 0.23] } 8. Bf4 { [%eval 0.35] } 8... e5
+{ [%eval 0.39] } 9. Bg5 { [%eval 0.31] } 9... a6 { [%eval 0.32] } 10. Na3
+{ [%eval 0.06] } 10... b5 { [%eval 0.09] } 11. Bxf6 { [%eval 0.10] } 11... gxf6
+$6 { [%eval 1.32] } ( 11... b4 12. Nc4 bxc3 13. Bg5 h6 14. Be3 cxb2 15. Rb1 $10
+) 12. Nd5 { [%eval 1.26] } ( 12. Nd5 Qd6 13. Bxb5 axb5 14. Nxb5 Qb8 15. Nbc7+
+Kd8 $16 ) 12... Bg7 $6 { [%eval 3.01] } ( 12... Qd6 13. Bxb5 axb5 14. Nxb5 Qb8
+15. Nbc7+ Kd8 16. Nxa8 $16 ) 13. Qg4 { [%eval 2.17] } ( 13. c3 Ne7 14. Nxe7
+Kxe7 15. Nc2 h5 16. Ne3 d6 $18 ) 13... Kf8 { [%eval 2.15] } 14. c3
+{ [%eval 1.86] } 14... h5 { [%eval 1.55] } 15. Qf3 { [%eval 1.63] } 15... Rh6
+$6 { [%eval 4.01] } ( 15... Ne7 16. Nxe7 Kxe7 17. Nc2 d5 18. Ne3 d4 19. cxd4
+$16 ) 16. Nc2 { [%eval 3.54] } ( 16. Bh3 b4 17. Nc4 f5 18. Bxf5 Qb5 19. Nce3
+Bb7 $18 ) 16... d6 { [%eval 3.68] } 17. Nce3 { [%eval 3.85] } 17... b4
+{ [%eval 3.83] } 18. Bg2 { [%eval 3.84] } 18... bxc3 { [%eval 4.66] } 19. bxc3
+{ [%eval 4.59] } 19... Be6 { [%eval 4.80] } 20. O-O { [%eval 4.77] } 20... Qd8
+{ [%eval 5.93] } 21. Nf5 { [%eval 5.75] } 21... Bxf5 { [%eval 6.50] } 22. exf5
+{ [%eval 6.38] } 22... Rc8 { [%eval 6.60] } 23. Rfd1 { [%eval 5.81] } 23... Na5
+{ [%eval 6.53] } 24. Bf1 { [%eval 5.44] } 24... Nc4 { [%eval 6.50] } 25. Qe4
+{ [%eval 6.55] } 25... Nb2 { [%eval 8.11] } 26. Rd2 { [%eval 8.27] } 1-0

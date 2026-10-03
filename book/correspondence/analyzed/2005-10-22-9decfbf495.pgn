@@ -1,0 +1,22 @@
+[Event "www.ChessWorld.net server game"]
+[Site "www.ChessWorld.net "]
+[Date "2005.10.22"]
+[Round "?"]
+[White "Diego Amicabile"]
+[Black "HaydenJames"]
+[Result "1-0"]
+[BlackElo "2069"]
+[EventDate "2005.??.??"]
+[PostmortemId "9decfbf495"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. d4 { [%eval 0.19] } 1... Nf6 { [%eval 0.20] } 2. Nf3 { [%eval 0.25] } 2...
+e6 { [%eval 0.23] } 3. g3 { [%eval 0.15] } 3... b6 { [%eval 0.34] } 4. Bg2
+{ [%eval 0.29] } 4... Bb7 { [%eval 0.32] } 5. c4 { [%eval 0.28] } 5... Be7
+{ [%eval 0.29] } 6. Nc3 { [%eval 0.23] } 6... d5 { [%eval 0.25] } 7. O-O
+{ [%eval 0.31] } 7... c5 { [%eval 1.10] } 8. Bf4 { [%eval 0.36] } 8... dxc4
+{ [%eval 0.47] } 9. Qa4+ { [%eval 0.16] } 9... Nc6 $4 { [%eval 7.09] } ( 9...
+Nbd7 10. dxc5 Bxc5 11. Ne5 Bxg2 12. Kxg2 a6 13. Qxc4 $10 ) 10. Ne5
+{ [%eval 7.10] } ( 10. Ne5 O-O 11. Bxc6 Bxc6 12. Nxc6 Qe8 13. Nxe7+ Qxe7 $18 )
+10... Qc8 { [%eval 7.97] } 11. Nxc6 { [%eval 7.93] } 11... Bxc6
+{ [%eval 8.64] } 12. Qxc6+ { [%eval 8.81] } 1-0

@@ -1,0 +1,70 @@
+[Event "www.ChessWorld.net server game"]
+[Site "www.ChessWorld.net "]
+[Date "2007.07.16"]
+[Round "?.72"]
+[White "esteritafelix"]
+[Black "Diego Amicabile"]
+[Result "0-1"]
+[ECO "B08"]
+[WhiteElo "2001"]
+[BlackElo "2059"]
+[EventDate "2007.??.??"]
+[PostmortemId "b0294dd374"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. e4 { [%eval 0.19] } 1... g6 { [%eval 0.67] } 2. d4 { [%eval 0.62] } 2... Bg7
+{ [%eval 0.53] } 3. Nf3 { [%eval 0.42] } 3... d6 { [%eval 0.43] } 4. Bc4
+{ [%eval 0.36] } 4... Nf6 { [%eval 0.37] } 5. Nc3 { [%eval 0.20] } 5... O-O
+{ [%eval 0.25] } 6. O-O { [%eval 0.22] } 6... c6 { [%eval 0.68] } 7. Bg5
+{ [%eval 0.12] } 7... b5 { [%eval 0.08] } 8. Bb3 { [%eval -0.17] } 8... a5
+{ [%eval 0.21] } 9. e5 { [%eval -0.19] } 9... dxe5 { [%eval 0.18] } 10. dxe5
+{ [%eval 0.18] } 10... Ng4 { [%eval 0.39] } 11. Qe2 $2 { [%eval -2.24] } ( 11.
+a4 Nxe5 12. Nxe5 Qxd1 13. Raxd1 Bxe5 14. Rfe1 Bxc3 $10 ) 11... a4
+{ [%eval -2.30] } ( 11... a4 12. Rad1 Qe8 13. Nxa4 bxa4 14. Bc4 Kh8 15. h3 $17
+) 12. Rad1 { [%eval -2.35] } 12... Qc7 { [%eval -1.68] } 13. Bd5
+{ [%eval -1.90] } 13... cxd5 { [%eval -1.28] } 14. Nxd5 { [%eval -1.39] } 14...
+Qb7 { [%eval -1.25] } 15. Nxe7+ { [%eval -1.44] } 15... Kh8 { [%eval -1.44] }
+16. h3 { [%eval -1.32] } 16... Nh6 { [%eval -1.31] } 17. Bf6 { [%eval -1.75] }
+17... Nc6 { [%eval -1.77] } 18. Nxc6 $6 { [%eval -3.19] } ( 18. Qe3 Ng8 19. Nd5
+Bxf6 20. Nxf6 Nce7 21. Ne4 Nf5 $17 ) 18... Qxc6 { [%eval -2.32] } ( 18... Bxf6
+19. Ncd4 Be7 20. Nxb5 Nf5 21. c4 Qb6 22. Rfe1 $19 ) 19. Nd4 { [%eval -2.64] }
+19... Qb6 { [%eval -2.31] } 20. Qe3 $6 { [%eval -5.14] } ( 20. Bxg7+ Kxg7 21.
+Nxb5 a3 22. b3 Ba6 23. c4 Bxb5 $17 ) 20... Kg8 $4 { [%eval 6.43] } ( 20... Bxf6
+21. exf6 Ng8 22. Rfe1 Bd7 23. Qd2 Qxf6 24. Qb4 $19 ) ( 20... Bxf6 21. exf6 Ng8
+22. Rfe1 Bd7 23. Qd2 Qxf6 24. Qb4 $19 ) 21. g4 $4 { [%eval -1.63] } ( 21. Bxg7
+Nf5 22. Nxf5 Qxe3 23. fxe3 Bxf5 24. Bxf8 Kxf8 $18 ) ( 21. Bxg7 Nf5 22. Nxf5
+Qxe3 23. fxe3 Bxf5 24. Bxf8 Kxf8 $18 ) 21... Ra6 { [%eval -1.73] } ( 21... Ra6
+22. Rfe1 Nxg4 23. hxg4 Bxf6 24. exf6 Bxg4 25. f3 $17 ) 22. c3 { [%eval -2.24] }
+22... Re8 { [%eval -2.37] } 23. Qf4 { [%eval -2.86] } 23... Kf8 $2
+{ [%eval -0.32] } ( 23... Kh8 24. Bxg7+ Kxg7 25. Rfe1 Ng8 26. a3 Qc5 27. h4 $17
+) 24. Rfe1 $6 { [%eval -1.96] } ( 24. Nf3 a3 25. b3 Bxf6 26. exf6 Nxg4 27. Qb4+
+Kg8 $10 ) ( 24. Nf3 a3 25. b3 Bxf6 26. exf6 Nxg4 27. Qb4+ Kg8 $10 ) 24... Ng8
+$6 { [%eval -0.48] } ( 24... Qb8 25. Qf3 Ng8 26. g5 Be6 27. c4 bxc4 28. Qa3+
+$17 ) ( 24... Qb8 25. Qf3 Ng8 26. g5 Be6 27. c4 bxc4 28. Qa3+ $17 ) 25. Bxg7+
+$6 { [%eval -2.83] } ( 25. g5 Qb7 26. Re3 a3 27. bxa3 Be6 28. Nxe6+ Raxe6 $15 )
+( 25. g5 Qb7 26. Re3 a3 27. bxa3 Be6 28. Nxe6+ Raxe6 $15 ) 25... Kxg7
+{ [%eval -2.83] } ( 25... Kxg7 26. h4 h6 27. h5 g5 28. Qg3 Qc5 29. Nf5+ $17 )
+26. h4 { [%eval -2.70] } 26... b4 $6 { [%eval -0.73] } ( 26... h6 27. h5 g5 28.
+Qg3 Qc5 29. b4 axb3 30. axb3 $17 ) 27. h5 $6 { [%eval -3.01] } ( 27. cxb4 Ra7
+28. b5 h6 29. g5 Rae7 30. b3 axb3 $15 ) ( 27. cxb4 Ra7 28. b5 h6 29. g5 Rae7
+30. b3 axb3 $15 ) 27... bxc3 { [%eval -3.09] } ( 27... bxc3 28. bxc3 Qc5 29. c4
+h6 30. Nb5 g5 31. Qd4 $19 ) 28. bxc3 { [%eval -3.27] } 28... a3 $6
+{ [%eval -1.34] } ( 28... Qc5 29. c4 h6 30. Nb5 g5 31. Qd4 Qxd4 32. Rxd4 $19 )
+29. g5 { [%eval -1.23] } ( 29. c4 Re7 30. Re3 h6 31. hxg6 fxg6 32. Nb5 Rf7 $17
+) 29... gxh5 { [%eval -0.74] } 30. Rb1 $2 { [%eval -4.87] } ( 30. e6 Rxe6 31.
+Nxe6+ Bxe6 32. Qe5+ f6 33. gxf6+ Nxf6 $15 ) 30... Qg6 { [%eval -5.04] } ( 30...
+Qg6 31. Kh2 Ne7 32. Rb3 Rf8 33. c4 Kg8 34. Rf3 $19 ) 31. Nb5 { [%eval -5.48] }
+31... Rc6 { [%eval -4.65] } 32. Kh2 { [%eval -5.62] } 32... Qf5
+{ [%eval -5.51] } 33. Rb4 { [%eval -5.52] } 33... Ne7 { [%eval -5.29] } 34. Nd6
+{ [%eval -6.22] } 34... Qxf4+ { [%eval -6.11] } 35. Rxf4 { [%eval -5.85] }
+35... Rf8 { [%eval -5.77] } 36. c4 { [%eval -5.92] } 36... Ng6
+{ [%eval -3.84] } 37. Rd4 $6 { [%eval -6.20] } ( 37. Rf6 Bd7 38. Re3 Kg8 39.
+Re4 h4 40. Re3 Kg7 $19 ) 37... Be6 { [%eval -6.11] } ( 37... Be6 38. Kg1 Rb6
+39. Rd3 Rfb8 40. Rc3 Rb1 41. Rxb1 $19 ) 38. f4 { [%eval -6.31] } 38... Nh4
+{ [%eval -6.46] } 39. Kg3 { [%eval -6.52] } 39... Nf5+ { [%eval -7.17] } 40.
+Nxf5+ { [%eval -7.30] } 40... Bxf5 { [%eval -7.39] } 41. Re3 { [%eval -7.46] }
+41... Rfc8 { [%eval -7.52] } 42. Rxa3 { [%eval -7.99] } 42... Rxc4
+{ [%eval -8.22] } 43. Ra4 { [%eval -10.57] } 43... Rc3+ { [%eval -9.77] } 44.
+Kf2 { [%eval -10.22] } 44... Rc2+ { [%eval -10.68] } 45. Ke1 { [%eval -11.73] }
+45... Rc1+ { [%eval -8.92] } 46. Rd1 { [%eval -9.62] } 46... Rxd1+
+{ [%eval -9.41] } 47. Kxd1 { [%eval -9.02] } 47... Bc2+ { [%eval -9.31] } 0-1

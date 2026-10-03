@@ -1,0 +1,35 @@
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2019.09.30"]
+[Round "?"]
+[White "diegoami"]
+[Black "SkelterHelter99"]
+[Result "1-0"]
+[ECO "C03"]
+[WhiteElo "1802"]
+[BlackElo "1836"]
+[EventDate "2019.??.??"]
+[TimeControl "1/86400:0"]
+[PostmortemId "79e4113ee7"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. e4 { [%eval 0.19] } 1... e6 { [%eval 0.38] } 2. d4 { [%eval 0.38] } 2... d5
+{ [%eval 0.50] } 3. Nd2 { [%eval 0.22] } 3... Bd7 { [%eval 0.52] } 4. Ngf3
+{ [%eval 0.47] } 4... c6 $6 { [%eval 1.72] } ( 4... dxe4 5. Nxe4 Bc6 6. Bd3 Nd7
+7. O-O Ngf6 8. Ng3 $14 ) 5. Bd3 { [%eval 1.68] } ( 5. Bd3 Bd6 6. O-O Ne7 7. Re1
+Ng6 8. g3 O-O $16 ) 5... dxe4 { [%eval 2.27] } 6. Nxe4 { [%eval 2.22] } 6... h6
+{ [%eval 2.82] } 7. O-O { [%eval 2.98] } 7... Nf6 { [%eval 3.24] } 8. c4
+{ [%eval 2.53] } 8... Be7 { [%eval 2.84] } 9. b3 { [%eval 1.88] } 9... O-O
+{ [%eval 2.63] } 10. Bb2 { [%eval 1.54] } 10... Na6 { [%eval 2.20] } 11. a3
+{ [%eval 1.45] } 11... Nxe4 { [%eval 2.05] } 12. Bxe4 { [%eval 1.96] } 12...
+Bf6 { [%eval 2.41] } 13. Qe2 { [%eval 2.36] } 13... Qb6 { [%eval 3.66] } 14.
+Bc2 { [%eval 3.29] } 14... Qc7 { [%eval 3.95] } 15. Qe4 { [%eval 3.12] } 15...
+g6 { [%eval 3.11] } 16. Nh4 $6 { [%eval 1.47] } ( 16. Rad1 Rad8 17. b4 Bg7 18.
+Rfe1 Be8 19. Qh4 Rd7 $18 ) 16... Bxh4 $2 { [%eval 6.03] } ( 16... Be8 17. Nf3
+c5 18. Ne5 Rd8 19. d5 exd5 20. cxd5 $16 ) ( 16... Be8 17. Nf3 c5 18. Ne5 Rd8
+19. d5 exd5 20. cxd5 $16 ) 17. Qxh4 { [%eval 6.06] } ( 17. Qxh4 h5 18. Rae1
+Rae8 19. d5 e5 20. Qg5 Qd8 $18 ) 17... Kh7 { [%eval 5.83] } 18. d5
+{ [%eval 6.10] } 18... f6 { [%eval 7.15] } 19. Bc1 { [%eval 7.43] } 19... Kg8
+{ [%eval 8.27] } 20. Qxh6 { [%eval 7.54] } 20... Kf7 { [%eval 13.88] } 21.
+Bxg6+ { [%eval 15.26] } 21... Ke7 { [%eval 16.92] } 22. Qg7+ { [%eval 17.62] }
+22... Kd6 { [%eval 17.64] } 23. dxe6 { [%eval 18.02] } 1-0

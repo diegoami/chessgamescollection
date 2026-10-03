@@ -1,0 +1,28 @@
+[Event "Hafnarfj&ouml;r&eth;ur open - Round 2"]
+[Site "Chess.com"]
+[Date "2011.11.14"]
+[Round "?"]
+[White "Oraekja"]
+[Black "diegoami"]
+[Result "1/2-1/2"]
+[ECO "A80"]
+[WhiteElo "1935"]
+[BlackElo "1852"]
+[EventDate "2011.??.??"]
+[PostmortemId "0f0ebe6139"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. d4 { [%eval 0.19] } 1... f5 { [%eval 0.53] } 2. f4 { [%eval 0.06] } 2... e6
+{ [%eval 0.04] } 3. Nf3 { [%eval 0.04] } 3... Nf6 { [%eval 0.10] } 4. e3
+{ [%eval 0.10] } 4... b6 { [%eval 0.02] } 5. Bd3 { [%eval -0.17] } 5... Bb7
+{ [%eval 0.00] } 6. O-O { [%eval -0.20] } 6... Be7 { [%eval 0.32] } 7. c4
+{ [%eval 0.37] } 7... O-O { [%eval 0.29] } 8. Nc3 { [%eval 0.32] } 8... Ne4
+{ [%eval 0.51] } 9. Qc2 { [%eval 0.29] } 9... d5 { [%eval 0.32] } 10. Ne5
+{ [%eval 0.05] } 10... Nd7 { [%eval -0.09] } 11. b3 { [%eval -0.66] } 11... c5
+{ [%eval -0.37] } 12. a4 $2 { [%eval -2.94] } ( 12. Nf3 Rc8 13. Bb2 cxd4 14.
+Nxd4 Ndc5 15. Be2 Qe8 $10 ) 12... cxd4 { [%eval -3.22] } ( 12... cxd4 13. Ne2
+dxe3 14. Bxe3 Rc8 15. Nxd7 Qxd7 16. Rad1 $17 ) 13. Nb5 { [%eval -3.00] } 13...
+Nxe5 { [%eval -3.08] } 14. fxe5 { [%eval -3.08] } 14... dxe3 { [%eval -3.24] }
+15. Bxe3 { [%eval -3.15] } 15... a6 { [%eval -2.47] } 16. Bxe4
+{ [%eval -2.63] } 16... axb5 { [%eval -2.78] } 17. Bf3 { [%eval -2.73] }
+1/2-1/2

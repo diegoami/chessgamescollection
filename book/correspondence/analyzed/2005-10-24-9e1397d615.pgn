@@ -1,0 +1,18 @@
+[Event "www.ChessWorld.net server game"]
+[Site "www.ChessWorld.net "]
+[Date "2005.10.24"]
+[Round "?"]
+[White "GambitKing"]
+[Black "Diego Amicabile"]
+[Result "0-1"]
+[BlackElo "2077"]
+[EventDate "2005.??.??"]
+[PostmortemId "9e1397d615"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. e4 { [%eval 0.19] } 1... e6 { [%eval 0.38] } 2. d4 { [%eval 0.38] } 2... d5
+{ [%eval 0.50] } 3. exd5 { [%eval 0.15] } 3... exd5 { [%eval 0.16] } 4. Nf3
+{ [%eval 0.16] } 4... Nf6 { [%eval 0.17] } 5. Bd3 { [%eval 0.18] } 5... Be7
+{ [%eval 0.20] } 6. O-O { [%eval 0.20] } 6... O-O { [%eval 0.22] } 7. Bg5
+{ [%eval 0.09] } 7... Bg4 { [%eval 0.17] } 8. Nbd2 { [%eval 0.12] } 8... Nbd7
+{ [%eval 0.17] } 0-1

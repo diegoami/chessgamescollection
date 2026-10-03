@@ -1,0 +1,31 @@
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2012.01.08"]
+[Round "?"]
+[White "diegoami"]
+[Black "demmm"]
+[Result "1-0"]
+[ECO "B30"]
+[WhiteElo "1893"]
+[BlackElo "1850"]
+[EventDate "2012.??.??"]
+[TimeControl "1"]
+[PostmortemId "5718ceb0ba"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. e4 { [%eval 0.19] } 1... c5 { [%eval 0.32] } 2. Nf3 { [%eval 0.31] } 2...
+Nc6 { [%eval 0.35] } 3. Bb5 { [%eval 0.39] } 3... a6 { [%eval 0.65] } 4. Bxc6
+{ [%eval 0.61] } 4... bxc6 { [%eval 0.61] } 5. O-O { [%eval 0.62] } 5... d5
+{ [%eval 0.74] } 6. Nc3 { [%eval 0.86] } 6... Bg4 { [%eval 0.80] } 7. h3
+{ [%eval 0.95] } 7... Bd7 $6 { [%eval 2.24] } ( 7... Bxf3 8. Qxf3 Nf6 9. d3 Rc8
+10. Na4 e6 11. b3 $14 ) 8. d3 { [%eval 2.39] } ( 8. d3 e6 9. Na4 Ne7 10. b3 f6
+11. Ba3 Ng6 $16 ) 8... e6 { [%eval 2.30] } 9. Bf4 { [%eval 1.39] } 9... Nf6
+{ [%eval 1.99] } 10. Re1 { [%eval 1.85] } 10... Be7 { [%eval 2.28] } 11. e5
+{ [%eval 2.33] } 11... Nh5 { [%eval 2.60] } 12. Bh2 $6 { [%eval 0.64] } ( 12.
+Bc1 f5 13. g4 fxg4 14. hxg4 O-O 15. gxh5 Rf5 $16 ) 12... g6 $6 { [%eval 1.87] }
+( 12... f5 13. exf6 gxf6 14. Na4 Ng7 15. Nd2 Qa5 16. c3 $14 ) ( 12... f5 13.
+exf6 gxf6 14. Na4 Ng7 15. Nd2 Qa5 16. c3 $14 ) 13. Ne2 { [%eval 1.57] } ( 13.
+g4 Ng7 14. Qd2 g5 15. Na4 h5 16. b3 Kf8 $16 ) 13... O-O { [%eval 1.83] } 14. g4
+{ [%eval 1.85] } 14... Ng7 { [%eval 1.70] } 15. Bf4 { [%eval 1.02] } 15... g5
+{ [%eval 1.28] } 16. Bd2 { [%eval 0.50] } 16... f6 { [%eval 0.52] } 17. exf6
+{ [%eval 0.50] } 17... Bxf6 { [%eval 0.57] } 18. c3 { [%eval -0.49] } 1-0

@@ -1,0 +1,33 @@
+[Event "Karpov-like tournament - Round 1"]
+[Site "Chess.com"]
+[Date "2011.10.22"]
+[Round "?"]
+[White "diegoami"]
+[Black "remmy_b"]
+[Result "1-0"]
+[ECO "C50"]
+[WhiteElo "1791"]
+[BlackElo "1683"]
+[EventDate "2011.??.??"]
+[PostmortemId "d00f33ff47"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. e4 { [%eval 0.19] } 1... e5 { [%eval 0.26] } 2. Nf3 { [%eval 0.23] } 2...
+Nc6 { [%eval 0.19] } 3. d4 { [%eval -0.02] } 3... exd4 { [%eval 0.03] } 4. Bc4
+{ [%eval -0.02] } 4... Be7 { [%eval 0.41] } 5. c3 { [%eval 0.27] } 5... d6
+{ [%eval 0.73] } 6. cxd4 { [%eval 0.56] } 6... Bg4 { [%eval 1.08] } 7. Qb3
+{ [%eval 0.97] } 7... Bxf3 { [%eval 0.98] } 8. Qxf3 { [%eval 0.38] } 8... Nf6
+{ [%eval 0.38] } 9. Be3 { [%eval 0.30] } 9... O-O $6 { [%eval 1.90] } ( 9... d5
+10. exd5 Nb4 11. Bb3 Nbxd5 12. Nc3 c6 13. g4 $10 ) 10. Nc3 { [%eval 2.07] } (
+10. Nc3 Nb4 11. O-O c6 12. Bb3 d5 13. e5 Ne8 $16 ) 10... Re8 { [%eval 2.75] }
+11. O-O { [%eval 2.94] } 11... Na5 { [%eval 3.67] } 12. Bd3 { [%eval 2.64] }
+12... b6 $6 { [%eval 5.75] } ( 12... c5 13. dxc5 Nc6 14. Qg3 dxc5 15. Rad1 Qc8
+16. f4 $16 ) 13. Rac1 { [%eval 5.04] } ( 13. Rad1 Nd7 14. b4 Nc6 15. a3 a5 16.
+b5 Na7 $18 ) 13... c5 { [%eval 5.49] } 14. dxc5 $6 { [%eval 2.88] } ( 14. Bb5
+Rf8 15. e5 Nd7 16. Rfd1 cxd4 17. Bxd4 Rc8 $18 ) 14... dxc5 $6 { [%eval 5.07] }
+( 14... bxc5 15. Bb5 Rf8 16. Rfd1 a6 17. Bf1 Qe8 18. g4 $16 ) ( 14... bxc5 15.
+Bb5 Rf8 16. Rfd1 a6 17. Bf1 Qe8 18. g4 $16 ) 15. Rfd1 $6 { [%eval 3.19] } ( 15.
+Bb5 Bd6 16. Bxe8 Qxe8 17. Bf4 Bxf4 18. Qxf4 Nc6 $18 ) ( 15. Bb5 Bd6 16. Bxe8
+Qxe8 17. Bf4 Bxf4 18. Qxf4 Nc6 $18 ) 15... Qc7 { [%eval 4.17] } ( 15... Nc6 16.
+Qg3 g6 17. Bb5 Qc8 18. e5 Nh5 19. Qf3 $18 ) 16. Bf4 { [%eval 4.49] } 16... Bd6
+{ [%eval 6.90] } 17. Nb5 { [%eval 6.99] } 1-0

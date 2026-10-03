@@ -1,0 +1,31 @@
+[Event "The Road To Mastery"]
+[Site "Chess.com"]
+[Date "2012.01.10"]
+[Round "?"]
+[White "AronNimzovich"]
+[Black "diegoami"]
+[Result "0-1"]
+[ECO "A03"]
+[WhiteElo "1824"]
+[BlackElo "1892"]
+[EventDate "2012.??.??"]
+[TimeControl "1"]
+[PostmortemId "accadb346c"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. f4 { [%eval -0.29] } 1... d5 { [%eval -0.22] } 2. Nf3 { [%eval -0.16] } 2...
+c5 { [%eval -0.18] } 3. b3 { [%eval -0.22] } 3... Nc6 { [%eval -0.16] } 4. Bb2
+{ [%eval -0.46] } 4... Nf6 { [%eval -0.07] } 5. e3 { [%eval -0.04] } 5... Bg4
+{ [%eval 0.04] } 6. Bb5 { [%eval 0.08] } 6... e6 { [%eval 0.37] } 7. O-O
+{ [%eval 0.15] } 7... Bd6 { [%eval 0.26] } 8. Qe1 { [%eval 0.00] } 8... O-O
+{ [%eval 0.44] } 9. Bxc6 { [%eval 0.33] } 9... bxc6 { [%eval 0.45] } 10. Ne5
+{ [%eval 0.31] } 10... Bxe5 { [%eval 0.43] } 11. Bxe5 { [%eval 0.27] } 11... a5
+{ [%eval 0.65] } 12. a4 { [%eval 0.38] } 12... Nd7 { [%eval 0.60] } 13. Bb2
+{ [%eval 0.38] } 13... Bf5 { [%eval 0.96] } 14. Qg3 { [%eval 0.09] } 14... f6
+{ [%eval 0.13] } 15. d3 { [%eval 0.18] } 15... Qe7 { [%eval 0.84] } 16. Nd2
+{ [%eval 0.92] } 16... e5 { [%eval 1.12] } 17. fxe5 { [%eval 1.01] } 17... fxe5
+{ [%eval 0.86] } 18. Rae1 { [%eval 0.11] } 18... Bg6 { [%eval 0.55] } 19. Nf3
+{ [%eval 0.13] } 19... Rae8 { [%eval 0.65] } 20. Nh4 { [%eval 0.62] } 20... Qe6
+{ [%eval 1.39] } 21. Nxg6 { [%eval 0.76] } 21... Qxg6 { [%eval 1.69] } 22. Qxg6
+{ [%eval 1.19] } 22... hxg6 { [%eval 1.19] } 23. Bc3 { [%eval 1.46] } 23... Ra8
+{ [%eval 1.24] } 0-1

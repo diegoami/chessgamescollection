@@ -1,0 +1,25 @@
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2013.05.14"]
+[Round "?"]
+[White "Wazenow"]
+[Black "diegoami"]
+[Result "0-1"]
+[ECO "A10"]
+[WhiteElo "1721"]
+[BlackElo "1733"]
+[TimeControl "1 in 2 days"]
+[EndDate "2013.05.21"]
+[Termination "diegoami won on time"]
+[PostmortemId "d7c1ae5556"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. c4 { [%eval 0.18] } 1... f5 { [%eval 0.47] } 2. g3 { [%eval 0.29] } 2... Nf6
+{ [%eval 0.57] } 3. Bg2 { [%eval 0.18] } 3... e5 { [%eval 0.26] } 4. d4
+{ [%eval 0.19] } 4... d6 { [%eval 0.13] } 5. Nc3 { [%eval 0.06] } 5... Be7
+{ [%eval 0.00] } 6. Nf3 { [%eval -0.01] } 6... O-O { [%eval 1.04] } 7. dxe5
+{ [%eval 1.29] } 7... dxe5 { [%eval 1.28] } 8. Qxd8 { [%eval 1.21] } 8... Rxd8
+{ [%eval 1.11] } 9. Nxe5 { [%eval 1.07] } 9... c6 { [%eval 1.19] } 10. Bd2
+{ [%eval 0.48] } 10... Na6 { [%eval 1.21] } 11. O-O-O { [%eval 1.19] } 11...
+Be6 { [%eval 1.15] } 12. b3 { [%eval 1.24] } 12... Nc7 { [%eval 1.93] } 13. h3
+{ [%eval 1.79] } 13... Bc5 { [%eval 1.89] } 0-1

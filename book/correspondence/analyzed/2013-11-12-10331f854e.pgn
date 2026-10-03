@@ -1,0 +1,39 @@
+[Event "Karpov-like tournament - Round 2"]
+[Site "Chess.com"]
+[Date "2013.11.12"]
+[Round "?"]
+[White "diegoami"]
+[Black "GYMBOW"]
+[Result "1-0"]
+[ECO "B51"]
+[WhiteElo "1722"]
+[BlackElo "1759"]
+[TimeControl "1 in 7 days"]
+[EndDate "2013.12.02"]
+[Termination "diegoami won by resignation"]
+[PostmortemId "10331f854e"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. e4 { [%eval 0.19] } 1... c5 { [%eval 0.32] } 2. Nf3 { [%eval 0.31] } 2...
+Nc6 { [%eval 0.35] } 3. Bb5 { [%eval 0.39] } 3... d6 { [%eval 0.38] } 4. O-O
+{ [%eval 0.38] } 4... Bg4 { [%eval 0.73] } 5. h3 { [%eval 0.58] } 5... Bd7
+{ [%eval 0.84] } 6. Qe2 { [%eval 0.38] } 6... e6 { [%eval 0.48] } 7. Nc3
+{ [%eval 0.20] } 7... Nge7 { [%eval 0.10] } 8. d3 { [%eval -0.25] } 8... Ng6
+{ [%eval 0.21] } 9. Be3 { [%eval 0.07] } 9... Be7 { [%eval 0.02] } 10. d4
+{ [%eval 0.05] } 10... cxd4 { [%eval 0.00] } 11. Nxd4 { [%eval -0.01] } 11...
+O-O { [%eval -0.03] } 12. f4 { [%eval 0.00] } 12... Nxd4 { [%eval 0.00] } 13.
+Bxd4 { [%eval 0.04] } 13... e5 { [%eval -0.03] } 14. Be3 { [%eval -0.25] }
+14... exf4 { [%eval -0.23] } 15. Bxf4 { [%eval -0.49] } 15... Be6
+{ [%eval -0.31] } 16. Be3 { [%eval -0.45] } 16... a6 { [%eval -0.08] } 17. Ba4
+{ [%eval -0.44] } 17... b5 { [%eval 0.00] } 18. Bb3 { [%eval -0.06] } 18...
+Bxb3 { [%eval 0.08] } 19. axb3 { [%eval 0.00] } 19... Ne5 { [%eval 0.76] } 20.
+Nd5 { [%eval 0.82] } 20... f6 $6 { [%eval 2.88] } ( 20... Bg5 21. Bf2 Qb8 22.
+Nb6 Ra7 23. b4 f5 24. exf5 $14 ) 21. Rfd1 { [%eval 2.22] } ( 21. Nb6 Ra7 22.
+Nd5 Ra8 23. Ra2 h6 24. c4 b4 $16 ) 21... Nd7 { [%eval 3.46] } 22. c4
+{ [%eval 3.46] } 22... bxc4 { [%eval 3.42] } 23. bxc4 { [%eval 3.54] } 23...
+Rf7 { [%eval 3.55] } 24. b4 { [%eval 3.71] } 24... Qc8 { [%eval 4.55] } 25. Bf4
+{ [%eval 3.13] } 25... Qc6 { [%eval 4.39] } 26. b5 { [%eval 4.97] } 26... axb5
+{ [%eval 5.72] } 27. cxb5 { [%eval 5.90] } 27... Qb7 { [%eval 6.44] } 28. Rxa8+
+{ [%eval 6.64] } 28... Qxa8 { [%eval 6.65] } 29. b6 { [%eval 4.62] } 29... Qc6
+{ [%eval 6.37] } 30. Rb1 { [%eval 5.98] } 30... Bd8 { [%eval 7.33] } 31. b7
+{ [%eval 7.25] } 31... Nb6 { [%eval 12.31] } 32. b8=Q { [%eval 12.47] } 1-0

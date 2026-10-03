@@ -1,0 +1,26 @@
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2020.07.28"]
+[Round "?"]
+[White "ReginaldTriffidshire"]
+[Black "diegoami"]
+[Result "1-0"]
+[ECO "C01"]
+[WhiteElo "1856"]
+[BlackElo "1822"]
+[EventDate "2020.??.??"]
+[PostmortemId "2b32529046"]
+[PostmortemAnalysis "Stockfish 16, depth 22"]
+
+1. d4 { [%eval 0.30] } 1... e6 { [%eval 0.32] } 2. e4 { [%eval 0.32] } 2... d5
+{ [%eval 0.40] } 3. Bd3 { [%eval -0.04] } 3... dxe4 { [%eval -0.05] } 4. Bxe4
+{ [%eval -0.12] } 4... Nf6 { [%eval -0.14] } 5. Bf3 { [%eval -0.11] } 5... Bd6
+{ [%eval 0.04] } 6. Ne2 { [%eval 0.10] } 6... O-O { [%eval 0.18] } 7. O-O
+{ [%eval -0.04] } 7... Nbd7 { [%eval 0.14] } 8. c4 { [%eval -0.19] } 8... e5
+{ [%eval -0.17] } 9. Nbc3 { [%eval -0.15] } 9... Re8 { [%eval -0.20] } 10. g3
+{ [%eval -1.04] } 10... exd4 { [%eval -0.98] } 11. Qxd4 { [%eval -1.47] } 11...
+Ne5 { [%eval -0.87] } 12. Bg2 { [%eval -0.96] } 12... a6 { [%eval 0.04] } 13.
+Bf4 { [%eval -0.14] } 13... c6 $4 { [%eval 3.71] } ( 13... Qe7 14. Bg5 Neg4 15.
+Nf4 Qe5 16. Bxf6 Qxf6 17. Qxf6 $10 ) 14. Rad1 { [%eval 3.65] } ( 14. Rfd1 Bg4
+15. Qxd6 Qxd6 16. Rxd6 Nxc4 17. Rd4 Nxb2 $18 ) 14... Bh3 { [%eval 4.64] } 15.
+Qxd6 { [%eval 4.26] } 1-0

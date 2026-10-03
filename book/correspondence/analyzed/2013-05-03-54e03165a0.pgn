@@ -1,0 +1,37 @@
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2013.05.03"]
+[Round "?"]
+[White "diegoami"]
+[Black "sunyma"]
+[Result "0-1"]
+[ECO "C44"]
+[WhiteElo "1736"]
+[BlackElo "1739"]
+[TimeControl "1 in 2 days"]
+[EndDate "2013.05.13"]
+[Termination "sunyma won by resignation"]
+[PostmortemId "54e03165a0"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. e4 { [%eval 0.19] } 1... e5 { [%eval 0.26] } 2. Nf3 { [%eval 0.23] } 2...
+Nc6 { [%eval 0.19] } 3. d4 { [%eval -0.02] } 3... exd4 { [%eval 0.03] } 4. Bc4
+{ [%eval -0.02] } 4... h6 { [%eval 0.57] } 5. O-O { [%eval 0.45] } 5... Bc5
+{ [%eval 0.98] } 6. c3 { [%eval 0.99] } 6... d6 { [%eval 0.96] } 7. cxd4
+{ [%eval 0.99] } 7... Bb6 { [%eval 1.10] } 8. Nc3 { [%eval 1.18] } 8... Bg4
+{ [%eval 1.18] } 9. h3 { [%eval 0.50] } 9... Bh5 $6 { [%eval 1.94] } ( 9...
+Bxf3 10. Qxf3 Qf6 11. Qd1 Qxd4 12. Qb3 O-O-O 13. Be3 $14 ) 10. g4
+{ [%eval 1.89] } ( 10. g4 Bg6 11. d5 Ne5 12. Nxe5 dxe5 13. Kh2 Nf6 $16 ) 10...
+Bg6 { [%eval 1.96] } 11. Re1 { [%eval 1.67] } 11... Nge7 { [%eval 1.93] } 12.
+Bf4 { [%eval 1.83] } 12... Qd7 $2 { [%eval 5.64] } ( 12... O-O 13. a3 Bh7 14.
+Bg3 a6 15. Rc1 Kh8 16. d5 $16 ) 13. Qd2 $4 { [%eval 0.79] } ( 13. d5 Ne5 14.
+Bxe5 dxe5 15. Bb5 c6 16. Nxe5 Qc8 $18 ) ( 13. d5 Ne5 14. Bxe5 dxe5 15. Bb5 c6
+16. Nxe5 Qc8 $18 ) 13... h5 { [%eval 0.71] } ( 13... h5 14. d5 Ne5 15. Nxe5
+dxe5 16. Bxe5 hxg4 17. Bb5 $14 ) 14. e5 { [%eval -0.13] } 14... d5
+{ [%eval 0.01] } 15. e6 { [%eval -0.41] } 15... fxe6 { [%eval -0.27] } 16. Bf1
+{ [%eval -1.24] } 16... hxg4 { [%eval -1.30] } 17. Ng5 $2 { [%eval -4.92] } (
+17. hxg4 O-O-O 18. Bg2 Rhf8 19. Rad1 Bh7 20. Qe3 Ng6 $17 ) 17... Nxd4
+{ [%eval -5.54] } ( 17... Nxd4 18. Nb5 Nxb5 19. Bxb5 Qxb5 20. Rxe6 gxh3 21. Kh2
+$19 ) 18. hxg4 { [%eval -6.57] } 18... O-O-O { [%eval -6.85] } 19. Rac1
+{ [%eval -7.08] } 19... Rh4 { [%eval -7.44] } 20. f3 { [%eval #-10] } 20...
+Nxf3+ { [%eval #-9] } 0-1

@@ -1,0 +1,35 @@
+[Event "www.ChessWorld.net server game"]
+[Site "www.ChessWorld.net "]
+[Date "2006.01.26"]
+[Round "?"]
+[White "Diego Amicabile"]
+[Black "The Leopard"]
+[Result "1-0"]
+[BlackElo "2050"]
+[EventDate "2006.??.??"]
+[PostmortemId "96909eda68"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. e4 { [%eval 0.19] } 1... e5 { [%eval 0.26] } 2. d4 { [%eval -0.10] } 2...
+exd4 { [%eval -0.04] } 3. Nf3 { [%eval -0.03] } 3... Nc6 { [%eval 0.09] } 4.
+Bd2 $6 { [%eval -1.53] } ( 4. Nxd4 Nf6 5. Nxc6 bxc6 6. Bd3 d5 7. Nc3 Bb4 $10 )
+4... Bc5 { [%eval -1.01] } ( 4... d5 5. Bd3 Nf6 6. Bg5 Be7 7. Bxf6 Bxf6 8. O-O
+$17 ) 5. Bc4 { [%eval -1.56] } 5... h6 { [%eval -0.46] } 6. O-O
+{ [%eval -0.42] } 6... d6 { [%eval -0.40] } 7. c3 { [%eval -0.38] } 7... Nf6
+{ [%eval -0.01] } 8. Re1 $6 { [%eval -1.81] } ( 8. cxd4 Nxd4 9. Nxd4 Bxd4 10.
+Qa4+ Kf8 11. Bc3 Bxc3 $10 ) 8... O-O { [%eval -1.10] } ( 8... Ng4 9. Rf1 O-O
+10. Bf4 Qf6 11. Bg3 Nge5 12. Nxe5 $17 ) 9. cxd4 { [%eval -1.22] } 9... Nxd4
+{ [%eval -1.23] } 10. Nxd4 { [%eval -1.28] } 10... Bxd4 { [%eval -1.12] } 11.
+Bc3 { [%eval -1.16] } 11... Bxc3 { [%eval -1.01] } 12. Nxc3 { [%eval -0.93] }
+12... Be6 { [%eval -0.18] } 13. Qe2 { [%eval -1.24] } 13... Qd7
+{ [%eval -0.79] } 14. Rac1 { [%eval -1.12] } 14... c6 { [%eval -0.94] } 15. e5
+$6 { [%eval -2.50] } ( 15. Bd3 Rfe8 16. Qd2 Rad8 17. h3 Qc7 18. Bb1 Qb6 $15 )
+15... dxe5 { [%eval -2.49] } ( 15... Bxc4 16. Qxc4 dxe5 17. Rxe5 Qd2 18. Rb1
+Rfe8 19. Ne4 $17 ) 16. Rcd1 { [%eval -3.51] } 16... Qe7 $2 { [%eval -0.61] } (
+16... Bxc4 17. Qxc4 Qc7 18. h3 Rae8 19. Qc5 Qb6 20. Qxb6 $19 ) 17. Bxe6 $6
+{ [%eval -2.36] } ( 17. Qxe5 Rfe8 18. Qg3 Rad8 19. Rxd8 Qxd8 20. Bxe6 Qd2 $15 )
+( 17. Qxe5 Rfe8 18. Qg3 Rad8 19. Rxd8 Qxd8 20. Bxe6 Qd2 $15 ) 17... Qxe6
+{ [%eval -2.38] } ( 17... Qxe6 18. Qxe5 Qxe5 19. Rxe5 Rfd8 20. Ree1 Rxd1 21.
+Rxd1 $17 ) 18. f4 $6 { [%eval -4.85] } ( 18. Qxe5 Qxe5 19. Rxe5 Rfd8 20. Ree1
+Rxd1 21. Rxd1 Kf8 $17 ) 18... exf4 { [%eval -5.22] } ( 18... exf4 19. Qxe6 fxe6
+20. Rxe6 Rae8 21. Red6 Rf7 22. a4 $19 ) 19. Qf3 { [%eval -6.01] } 1-0

@@ -1,0 +1,40 @@
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2015.07.06"]
+[Round "?"]
+[White "hrudanes"]
+[Black "diegoami"]
+[Result "1-0"]
+[ECO "A84"]
+[WhiteElo "1665"]
+[BlackElo "1651"]
+[TimeControl "1 in 3 days"]
+[EndDate "2015.07.12"]
+[Termination "hrudanes won by resignation"]
+[PostmortemId "dc2d1994dc"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. d4 { [%eval 0.19] } 1... f5 { [%eval 0.53] } 2. c4 { [%eval 0.47] } 2... e6
+{ [%eval 0.42] } 3. Nc3 { [%eval 0.40] } 3... Nf6 { [%eval 0.42] } 4. Bg5
+{ [%eval 0.36] } 4... Be7 { [%eval 0.39] } 5. e3 { [%eval 0.33] } 5... O-O
+{ [%eval 0.34] } 6. Bd3 { [%eval 0.31] } 6... d5 { [%eval 1.00] } 7. Nf3
+{ [%eval 0.90] } 7... c6 { [%eval 0.96] } 8. Qc2 { [%eval 0.74] } 8... a5
+{ [%eval 0.98] } 9. h3 { [%eval 1.00] } 9... Na6 { [%eval 1.32] } 10. a3
+{ [%eval 1.50] } 10... h6 { [%eval 1.69] } 11. Bf4 { [%eval 1.85] } 11... g5 $6
+{ [%eval 3.27] } ( 11... dxc4 12. Bxc4 b5 13. Be2 Bd7 14. O-O Be8 15. Rfd1 $16
+) 12. Be5 { [%eval 3.18] } ( 12. Be5 Nd7 13. Bh2 Kg7 14. cxd5 cxd5 15. Rc1 Nf6
+$18 ) 12... Bd7 { [%eval 4.52] } 13. c5 { [%eval 3.22] } 13... b6
+{ [%eval 3.18] } 14. Na4 { [%eval 2.02] } 14... bxc5 { [%eval 1.86] } 15. Nxc5
+{ [%eval 0.90] } 15... Nxc5 { [%eval 0.98] } 16. dxc5 { [%eval 0.98] } 16...
+Ne4 { [%eval 0.80] } 17. Bxe4 { [%eval 0.51] } 17... fxe4 { [%eval 0.54] } 18.
+Nh2 { [%eval 0.16] } 18... Rf5 { [%eval 0.21] } 19. Ng4 { [%eval 0.03] } 19...
+Qf8 { [%eval 0.40] } 20. O-O $2 { [%eval -2.48] } ( 20. Bd4 Be8 21. Qb3 e5 22.
+Bxe5 Bxc5 23. Qb7 Ra7 $14 ) 20... Rb8 $4 { [%eval 5.86] } ( 20... h5 21. f3
+hxg4 22. fxg4 Rxf1+ 23. Rxf1 Qh6 24. b4 $17 ) ( 20... h5 21. f3 hxg4 22. fxg4
+Rxf1+ 23. Rxf1 Qh6 24. b4 $17 ) 21. Bxb8 { [%eval 5.95] } ( 21. Bxb8 Qxb8 22.
+Nxh6+ Kg7 23. Nxf5+ exf5 24. Rab1 f4 $18 ) 21... Qxb8 { [%eval 6.15] } 22.
+Nxh6+ { [%eval 6.06] } 22... Kh7 { [%eval 6.65] } 23. Nxf5 { [%eval 6.47] }
+23... exf5 { [%eval 6.54] } 24. Rab1 { [%eval 6.04] } 24... Qb5
+{ [%eval 7.57] } 25. b4 { [%eval 7.58] } 25... axb4 { [%eval 8.47] } 26. axb4
+{ [%eval 7.10] } 26... Bc8 { [%eval 8.22] } 27. Qc3 { [%eval 7.94] } 27... Ba6
+{ [%eval 8.85] } 28. Qe5 { [%eval 8.77] } 1-0

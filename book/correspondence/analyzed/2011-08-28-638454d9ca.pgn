@@ -1,0 +1,28 @@
+[Event "Karpov-like tournament - Round 1"]
+[Site "Chess.com"]
+[Date "2011.08.28"]
+[Round "?"]
+[White "diegoami"]
+[Black "nat_novice"]
+[Result "0-1"]
+[ECO "C56"]
+[WhiteElo "1787"]
+[BlackElo "2087"]
+[EventDate "2011.??.??"]
+[PostmortemId "638454d9ca"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. e4 { [%eval 0.19] } 1... e5 { [%eval 0.26] } 2. Nf3 { [%eval 0.23] } 2...
+Nc6 { [%eval 0.19] } 3. d4 { [%eval -0.02] } 3... exd4 { [%eval 0.03] } 4. Bc4
+{ [%eval -0.02] } 4... Nf6 { [%eval 0.01] } 5. O-O { [%eval -0.14] } 5... Bc5
+{ [%eval 0.41] } 6. e5 { [%eval 0.42] } 6... d5 { [%eval 0.40] } 7. exf6
+{ [%eval 0.30] } 7... dxc4 { [%eval 0.36] } 8. fxg7 { [%eval 0.44] } 8... Rg8
+{ [%eval 0.29] } 9. Bg5 { [%eval 0.31] } 9... f6 { [%eval 0.48] } 10. Re1+
+{ [%eval 0.34] } 10... Kf7 { [%eval 0.40] } 11. Ne5+ { [%eval 0.00] } 11...
+Nxe5 { [%eval 0.00] } 12. Rxe5 { [%eval 0.00] } 12... Be7 { [%eval 0.00] } 13.
+Qh5+ { [%eval 0.00] } 13... Kxg7 { [%eval 0.00] } 14. Qh6+ { [%eval 0.00] }
+14... Kf7 { [%eval 0.00] } 15. Qxh7+ { [%eval 0.00] } 15... Rg7
+{ [%eval 0.00] } 16. Qh5+ { [%eval 0.00] } 16... Kg8 { [%eval 0.41] } 17. Rxe7
+$4 { [%eval -6.78] } ( 17. Bxf6 Bg4 18. Bxe7 Qxe7 19. Rxe7 Bxh5 20. Re1 b5 $14
+) 17... Qxe7 { [%eval -6.59] } ( 17... Qxe7 18. Bd2 Qe4 19. f3 Qe2 20. g3 Bd7
+21. Qd5+ $19 ) 18. Nd2 { [%eval -7.63] } 18... Rxg5 { [%eval -7.52] } 0-1

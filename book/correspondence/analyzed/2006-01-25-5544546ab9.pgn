@@ -1,0 +1,36 @@
+[Event "www.ChessWorld.net server game"]
+[Site "www.ChessWorld.net "]
+[Date "2006.01.25"]
+[Round "?"]
+[White "Diego Amicabile"]
+[Black "goffy"]
+[Result "0-1"]
+[WhiteElo "1957"]
+[BlackElo "1781"]
+[EventDate "2006.??.??"]
+[PostmortemId "5544546ab9"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. e4 { [%eval 0.19] } 1... g6 { [%eval 0.67] } 2. d4 { [%eval 0.62] } 2... Bg7
+{ [%eval 0.53] } 3. Nc3 { [%eval 0.59] } 3... d6 { [%eval 0.62] } 4. f4
+{ [%eval 0.66] } 4... Nf6 { [%eval 0.54] } 5. Nf3 { [%eval 0.54] } 5... O-O
+{ [%eval 0.54] } 6. Bd3 { [%eval 0.67] } 6... c5 { [%eval 0.96] } 7. dxc5
+{ [%eval 1.10] } 7... dxc5 { [%eval 1.09] } 8. O-O { [%eval 0.52] } 8... a6
+{ [%eval 1.63] } 9. a4 { [%eval 0.75] } 9... Nc6 { [%eval 0.70] } 10. Be3
+{ [%eval -0.07] } 10... Nd4 $6 { [%eval 1.31] } ( 10... Ng4 11. Bxc5 Qa5 12.
+Bf2 Nxf2 13. Rxf2 Bxc3 14. bxc3 $10 ) 11. e5 { [%eval 0.31] } ( 11. h3 Rb8 12.
+Qe1 b6 13. Rd1 Bb7 14. e5 Nd5 $16 ) 11... Ng4 { [%eval 0.41] } 12. Bd2
+{ [%eval 0.11] } 12... Nf5 $6 { [%eval 1.87] } ( 12... Nxf3+ 13. gxf3 Qd4+ 14.
+Kg2 c4 15. Be4 Ne3+ 16. Bxe3 $10 ) 13. h3 $4 { [%eval -1.82] } ( 13. Qe1 Nd4
+14. h3 Nh6 15. a5 Nhf5 16. Na4 Qc7 $16 ) ( 13. Qe1 Nd4 14. h3 Nh6 15. a5 Nhf5
+16. Na4 Qc7 $16 ) 13... Nge3 { [%eval -1.82] } ( 13... Nge3 14. Qc1 Nxf1 15.
+Qxf1 f6 16. exf6 exf6 17. a5 $17 ) 14. Qe2 { [%eval -1.93] } 14... Nxf1
+{ [%eval -2.09] } 15. Rxf1 $6 { [%eval -4.26] } ( 15. Qxf1 f6 16. exf6 exf6 17.
+Re1 Bd7 18. Qf2 Bc6 $17 ) 15... Ng3 { [%eval -4.31] } ( 15... Ng3 16. Qf2 Nxf1
+17. Bxf1 b6 18. Be3 Bb7 19. Ng5 $19 ) 16. Qf2 { [%eval -4.35] } 16... Nxf1
+{ [%eval -4.45] } 17. Qxf1 { [%eval -4.17] } 17... Be6 { [%eval -4.41] } 18.
+Ne4 { [%eval -6.31] } 18... Qb6 { [%eval -4.55] } 19. Be3 { [%eval -4.89] }
+19... Qxb2 { [%eval -5.00] } 20. Bxc5 { [%eval -5.20] } 20... Rfe8
+{ [%eval -4.93] } 21. c3 { [%eval -6.03] } 21... Rad8 { [%eval -5.80] } 22. Bb4
+{ [%eval -6.57] } 22... Bd5 { [%eval -6.69] } 23. Qe1 { [%eval -7.03] } 23...
+Bc6 { [%eval -6.98] } 24. a5 { [%eval -9.06] } 24... Rxd3 { [%eval -9.16] } 0-1

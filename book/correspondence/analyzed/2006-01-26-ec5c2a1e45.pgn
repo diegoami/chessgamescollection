@@ -1,0 +1,19 @@
+[Event "www.ChessWorld.net server game"]
+[Site "www.ChessWorld.net "]
+[Date "2006.01.26"]
+[Round "?"]
+[White "nrgjr2000"]
+[Black "Diego Amicabile"]
+[Result "1-0"]
+[BlackElo "2022"]
+[EventDate "2006.??.??"]
+[PostmortemId "ec5c2a1e45"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. Nf3 { [%eval 0.16] } 1... c5 { [%eval 0.35] } 2. g3 { [%eval 0.06] } 2...
+Nc6 { [%eval 0.12] } 3. Bg2 { [%eval 0.09] } 3... d5 { [%eval 0.17] } 4. O-O
+{ [%eval -0.31] } 4... e5 { [%eval -0.30] } 5. d3 { [%eval -0.32] } 5... Nf6
+{ [%eval -0.16] } 6. Bg5 { [%eval -0.39] } 6... Ne4 $4 { [%eval 9.85] } ( 6...
+Be7 7. Bxf6 Bxf6 8. Nfd2 Be6 9. Nc3 d4 10. Na4 $10 ) 7. Bxd8 { [%eval 9.43] } (
+7. Bxd8 Nd6 8. Bc7 h5 9. c4 h4 10. cxd5 h3 $18 ) 7... Kxd8 { [%eval 9.76] } 8.
+dxe4 { [%eval 9.89] } 1-0

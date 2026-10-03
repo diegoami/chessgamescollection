@@ -1,0 +1,17 @@
+[Event "www.ChessWorld.net server game"]
+[Site "www.ChessWorld.net "]
+[Date "2006.01.26"]
+[Round "?"]
+[White "Diego Amicabile"]
+[Black "Chetan199"]
+[Result "0-1"]
+[BlackElo "1918"]
+[EventDate "2006.??.??"]
+[PostmortemId "8609439171"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. Nf3 { [%eval 0.16] } 1... e6 { [%eval 0.16] } 2. c4 { [%eval 0.12] } 2... d5
+{ [%eval 0.15] } 3. d4 { [%eval 0.22] } 3... Bb4+ { [%eval 0.29] } 4. Nc3
+{ [%eval 0.18] } 4... dxc4 { [%eval 0.41] } 5. b3 $4 { [%eval -8.08] } ( 5. e3
+b5 6. a4 c6 7. Bd2 a5 8. axb5 Bxc3 $14 ) 5... Bxc3+ { [%eval -7.70] } ( 5...
+Bxc3+ 6. Bd2 Bxa1 7. Qxa1 Nf6 8. e3 Ne4 9. Bc3 $19 ) 0-1

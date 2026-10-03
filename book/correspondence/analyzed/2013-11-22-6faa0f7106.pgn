@@ -1,0 +1,27 @@
+[Event "Take your time and enjoy - Round 1"]
+[Site "Chess.com"]
+[Date "2013.11.22"]
+[Round "?"]
+[White "murailleechecs"]
+[Black "diegoami"]
+[Result "0-1"]
+[ECO "A90"]
+[WhiteElo "1569"]
+[BlackElo "1700"]
+[TimeControl "1 in 14 days"]
+[EndDate "2013.12.01"]
+[Termination "diegoami won by resignation"]
+[PostmortemId "6faa0f7106"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. d4 { [%eval 0.19] } 1... f5 { [%eval 0.53] } 2. c4 { [%eval 0.47] } 2... e6
+{ [%eval 0.42] } 3. Nf3 { [%eval 0.52] } 3... Nf6 { [%eval 0.55] } 4. g3
+{ [%eval 0.39] } 4... d5 { [%eval 0.54] } 5. Bg2 { [%eval 0.40] } 5... c6
+{ [%eval 0.41] } 6. O-O { [%eval 0.37] } 6... Bd6 { [%eval 0.34] } 7. Nc3
+{ [%eval 0.29] } 7... O-O { [%eval 0.30] } 8. Qb3 { [%eval 0.29] } 8... Qe8
+{ [%eval 0.44] } 9. Bg5 { [%eval 0.32] } 9... Nbd7 { [%eval 0.50] } 10. Rfe1
+{ [%eval 0.14] } 10... Ne4 { [%eval 0.10] } 11. cxd5 { [%eval 0.00] } 11...
+exd5 { [%eval 0.00] } 12. Nd2 $4 { [%eval -7.04] } ( 12. Bf4 Bxf4 13. gxf4 Qh5
+14. e3 g5 15. Ne2 Kh8 $10 ) 12... Nxg5 { [%eval -6.89] } ( 12... Nxg5 13. e4
+fxe4 14. Ncxe4 Nxe4 15. Nxe4 Qg6 16. Nxd6 $19 ) 13. h4 { [%eval -7.30] } 13...
+Ne6 { [%eval -6.77] } 14. e4 { [%eval -6.96] } 0-1

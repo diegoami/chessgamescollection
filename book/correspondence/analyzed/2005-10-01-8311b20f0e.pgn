@@ -1,0 +1,37 @@
+[Event "www.ChessWorld.net server game"]
+[Site "www.ChessWorld.net "]
+[Date "2005.10.01"]
+[Round "?"]
+[White "bored with chess"]
+[Black "Diego Amicabile"]
+[Result "1-0"]
+[BlackElo "1995"]
+[EventDate "2005.??.??"]
+[PostmortemId "8311b20f0e"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. Nf3 { [%eval 0.16] } 1... c5 { [%eval 0.35] } 2. c4 { [%eval 0.27] } 2...
+Nc6 { [%eval 0.27] } 3. d4 { [%eval 0.32] } 3... cxd4 { [%eval 0.26] } 4. Nxd4
+{ [%eval 0.30] } 4... Nf6 { [%eval 0.27] } 5. Nc3 { [%eval 0.26] } 5... g6
+{ [%eval 0.43] } 6. Nxc6 { [%eval -0.09] } 6... bxc6 { [%eval 0.18] } 7. e4
+{ [%eval 0.01] } 7... d6 { [%eval 0.06] } 8. Be2 { [%eval 0.03] } 8... Bg7
+{ [%eval 0.06] } 9. O-O { [%eval 0.11] } 9... O-O { [%eval 0.04] } 10. Bg5
+{ [%eval -0.08] } 10... Qa5 { [%eval 0.08] } 11. Qd2 { [%eval 0.02] } 11... Rb8
+{ [%eval 0.28] } 12. Rab1 { [%eval -0.02] } 12... Re8 { [%eval 0.03] } 13. Bh6
+{ [%eval -0.26] } 13... Bh8 { [%eval 0.17] } 14. Rbc1 { [%eval -0.01] } 14...
+Qb4 { [%eval 0.00] } 15. b3 { [%eval 0.00] } 15... Be6 { [%eval 0.44] } 16. Be3
+{ [%eval 0.15] } 16... a5 { [%eval 0.39] } 17. f4 { [%eval 0.00] } 17... Red8
+{ [%eval 0.75] } 18. f5 { [%eval 0.59] } 18... Bd7 { [%eval 0.70] } 19. Rcd1
+{ [%eval 0.20] } 19... Be8 { [%eval 0.21] } 20. fxg6 { [%eval 0.01] } 20...
+fxg6 { [%eval 0.98] } 21. c5 { [%eval 0.09] } 21... Nxe4 $4 { [%eval 5.53] } (
+21... Bf7 22. cxd6 Rxd6 23. Qc2 Rbd8 24. Kh1 Rxd1 25. Bxd1 $10 ) 22. Nxe4
+{ [%eval 6.34] } ( 22. Nxe4 Qxe4 23. Rf4 Qe5 24. Bd4 Qxf4 25. Qxf4 e5 $18 )
+22... Qxe4 { [%eval 6.74] } 23. cxd6 $6 { [%eval 3.22] } ( 23. Rf4 Qe6 24. Bg4
+Qe5 25. Qf2 Bd7 26. Bd4 Qxf4 $18 ) 23... Rxd6 { [%eval 3.53] } ( 23... exd6 24.
+Bf3 Qe5 25. Bg5 Rd7 26. Bxc6 Qc5+ 27. Qf2 $18 ) 24. Bd3 { [%eval 3.78] } 24...
+Rxd3 { [%eval 3.66] } 25. Qxd3 { [%eval 3.78] } 25... Qxd3 { [%eval 3.79] } 26.
+Rxd3 { [%eval 3.81] } 26... Be5 { [%eval 5.04] } 27. Bf4 { [%eval 5.02] } 27...
+Bxf4 { [%eval 4.99] } 28. Rxf4 { [%eval 4.86] } 28... Bf7 { [%eval 5.66] } 29.
+Rd7 { [%eval 5.65] } 29... Kf8 { [%eval 5.92] } 30. Rc7 { [%eval 5.60] } 30...
+Rb6 { [%eval 7.15] } 31. Re4 { [%eval 7.09] } 31... e6 { [%eval 8.74] } 32. Rf4
+{ [%eval 8.54] } 1-0

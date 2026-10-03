@@ -1,0 +1,62 @@
+[Event "www.ChessWorld.net server game"]
+[Site "www.ChessWorld.net "]
+[Date "2007.03.19"]
+[Round "?.22"]
+[White "Diego Amicabile"]
+[Black "wolf05"]
+[Result "1/2-1/2"]
+[ECO "B17"]
+[WhiteElo "2059"]
+[BlackElo "2070"]
+[EventDate "2007.??.??"]
+[PostmortemId "0d0341e278"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. e4 { [%eval 0.19] } 1... c6 { [%eval 0.31] } 2. d4 { [%eval 0.26] } 2... d5
+{ [%eval 0.25] } 3. Nc3 { [%eval 0.33] } 3... dxe4 { [%eval 0.39] } 4. Nxe4
+{ [%eval 0.39] } 4... Nd7 { [%eval 0.45] } 5. Nf3 { [%eval 0.32] } 5... Ngf6
+{ [%eval 0.35] } 6. Bd3 { [%eval 0.12] } 6... Nxe4 { [%eval 0.12] } 7. Bxe4
+{ [%eval 0.16] } 7... Nf6 { [%eval 0.10] } 8. Bd3 { [%eval 0.15] } 8... Bg4
+{ [%eval 0.14] } 9. O-O { [%eval -0.28] } 9... e6 { [%eval 0.13] } 10. Bf4
+{ [%eval -0.39] } 10... Be7 { [%eval 0.12] } 11. c3 { [%eval -0.02] } 11... O-O
+{ [%eval 0.17] } 12. h3 { [%eval 0.12] } 12... Bxf3 { [%eval 0.20] } 13. Qxf3
+{ [%eval 0.26] } 13... Nd5 { [%eval 0.22] } 14. Bd2 { [%eval 0.24] } 14... Nf6
+{ [%eval 0.30] } 15. Rfe1 { [%eval 0.26] } 15... Qc7 { [%eval 0.56] } 16. Bf4
+{ [%eval 0.44] } 16... Qd7 { [%eval 0.56] } 17. Be5 { [%eval 0.61] } 17... Rad8
+{ [%eval 0.90] } 18. Rad1 { [%eval 0.97] } 18... Qc8 { [%eval 1.12] } 19. c4
+{ [%eval 1.15] } 19... c5 $6 { [%eval 3.58] } ( 19... Rd7 20. Bc2 Rfd8 21. Rc1
+h6 22. a3 Kf8 23. g3 $16 ) 20. Bb1 $2 { [%eval 0.09] } ( 20. d5 exd5 21. cxd5
+Rxd5 22. Bxf6 Rxd3 23. Rxd3 Bxf6 $18 ) ( 20. d5 exd5 21. cxd5 Rxd5 22. Bxf6
+Rxd3 23. Rxd3 Bxf6 $18 ) 20... cxd4 { [%eval 0.16] } ( 20... cxd4 21. b3 Rd7
+22. Bxd4 b6 23. Rd3 Rfd8 24. Red1 $10 ) 21. Bxd4 { [%eval -0.08] } 21... a6
+{ [%eval 0.35] } 22. b3 { [%eval 0.38] } 22... Qc7 { [%eval 0.40] } 23. Bc3
+{ [%eval 0.21] } 23... Rxd1 { [%eval 0.09] } 24. Rxd1 { [%eval 0.05] } 24...
+Rd8 { [%eval 0.25] } 25. Rxd8+ { [%eval 0.15] } 25... Qxd8 { [%eval 0.37] } 26.
+Bc2 { [%eval 0.25] } 26... Qc7 { [%eval 0.29] } 27. Qd3 { [%eval 0.00] } 27...
+g6 { [%eval 0.59] } 28. Qf3 { [%eval 0.00] } 28... Ne8 { [%eval 0.33] } 29. Qe3
+{ [%eval 0.00] } 29... Bf8 { [%eval 0.44] } 30. Qe5 { [%eval 0.00] } 30... Qxe5
+{ [%eval 0.00] } 31. Bxe5 { [%eval 0.00] } 31... f5 { [%eval 0.27] } 32. f3
+{ [%eval -0.03] } 32... Bc5+ { [%eval 0.00] } 33. Kf1 { [%eval 0.00] } 33...
+Kf7 { [%eval 0.37] } 34. Ke2 { [%eval 0.00] } 34... Ke7 { [%eval 0.20] } 35.
+Kd3 { [%eval 0.00] } 35... Kd7 { [%eval 0.42] } 36. Bc3 { [%eval 0.52] } 36...
+Nd6 { [%eval 0.30] } 37. b4 { [%eval 0.29] } 37... Bf2 { [%eval 0.30] } 38. a4
+{ [%eval 0.20] } 38... Kc6 { [%eval 0.68] } 39. c5 { [%eval 0.41] } 39... Nf7
+{ [%eval 0.88] } 40. Kc4 { [%eval 0.83] } 40... Bg3 { [%eval 0.83] } 41. b5+
+{ [%eval 0.84] } 41... axb5+ { [%eval 0.86] } 42. axb5+ { [%eval 0.79] } 42...
+Kc7 { [%eval 0.80] } 43. Kb4 { [%eval 0.75] } 43... Kd7 { [%eval 1.31] } 44.
+Ba4 { [%eval 0.68] } 44... Kc8 { [%eval 1.23] } 45. c6 { [%eval 0.36] } 45...
+bxc6 { [%eval 0.25] } 46. bxc6 { [%eval 0.20] } 46... Kc7 { [%eval 0.21] } 47.
+Kc5 { [%eval 0.19] } 47... Bd6+ { [%eval 0.69] } 48. Kb5 { [%eval 0.70] } 48...
+Nd8 { [%eval 0.66] } 49. Ba5+ { [%eval 0.70] } 49... Kc8 { [%eval 0.90] } 50.
+Bb3 { [%eval 0.63] } 50... Bc7 $6 { [%eval 2.44] } ( 50... Bh2 51. Bb6 Bg3 52.
+Ba4 Nf7 53. Ka6 Be5 54. Bd1 $14 ) 51. Be1 { [%eval 1.79] } ( 51. Bd2 Bd6 52.
+Kb6 Be5 53. Kc5 h6 54. h4 g5 $16 ) 51... h6 { [%eval 2.14] } 52. g4 $6
+{ [%eval 0.71] } ( 52. Bd2 g5 53. Bc4 Bh2 54. Kc5 Be5 55. f4 gxf4 $16 ) 52...
+f4 $2 { [%eval 4.93] } ( 52... fxg4 53. fxg4 g5 54. Bc2 Nf7 55. Bf2 Bh2 56. Bb3
+$14 ) ( 52... fxg4 53. fxg4 g5 54. Bc2 Nf7 55. Bf2 Bh2 56. Bb3 $14 ) 53. h4
+{ [%eval 5.72] } ( 53. h4 Bd6 54. Ba5 Bb8 55. Bc2 Bc7 56. Bb4 Nf7 $18 ) 53...
+g5 { [%eval 6.21] } 54. hxg5 { [%eval 6.25] } 54... hxg5 { [%eval 6.11] } 55.
+Bb4 { [%eval 6.28] } 55... Be5 { [%eval 6.17] } 56. Be7 $4 { [%eval 0.56] } (
+56. Ba5 Bd6 57. Bc4 Bc7 58. Bc3 Bd6 59. Kb6 e5 $18 ) 56... Kc7 { [%eval 0.58] }
+( 56... Kc7 57. Bxg5 Nxc6 58. Bd1 Kd6 59. Bh6 Nd4+ 60. Kc4 $14 ) 57. Bxd8+
+{ [%eval 0.00] } 57... Kxd8 { [%eval 0.00] } 58. Bxe6 { [%eval 0.00] } 1/2-1/2

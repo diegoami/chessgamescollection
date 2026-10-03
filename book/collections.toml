@@ -1,0 +1,17 @@
+[[collection]]
+slug = "otb"
+title = "Over-the-board games"
+inputs = ["games/*.pgn"]
+analyzed_dir = "analyzed"
+player = "Diego Amicabile"
+aliases = ["diegoami", "Amicabile, Diego", "Amicabile", "Amicabile Diego", "Diego , Amicabile"]
+description = "Tournament and club games over the board, analyzed with Stockfish at depth 22."
+
+[[collection]]
+slug = "correspondence"
+title = "Correspondence games"
+inputs = ["../../DA_chessgames/correspondence/*.pgn"]
+analyzed_dir = "correspondence/analyzed"
+player = "Diego Amicabile"
+aliases = ["diegoami", "Amicabile, Diego", "DiegoAmicabile"]
+description = "Correspondence chess games, analyzed with Stockfish at depth 22."

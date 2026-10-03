@@ -1,0 +1,27 @@
+[Event "www.ChessWorld.net server game"]
+[Site "www.ChessWorld.net "]
+[Date "2006.03.05"]
+[Round "?"]
+[White "Diego Amicabile"]
+[Black "engelleik"]
+[Result "1-0"]
+[BlackElo "2053"]
+[EventDate "2006.??.??"]
+[PostmortemId "a14f05733a"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. Nf3 { [%eval 0.16] } 1... d5 { [%eval 0.21] } 2. c4 { [%eval -0.10] } 2...
+dxc4 { [%eval 0.30] } 3. Na3 { [%eval -0.09] } 3... e5 { [%eval 0.31] } 4. Nxe5
+{ [%eval 0.40] } 4... Bxa3 { [%eval 0.29] } 5. Qa4+ { [%eval 0.50] } 5... c6
+{ [%eval 1.33] } 6. Qxa3 { [%eval 1.40] } 6... Qd5 { [%eval 1.87] } 7. d4
+{ [%eval 0.85] } 7... Qxd4 $6 { [%eval 2.09] } ( 7... Ne7 8. Bd2 b5 9. Bb4 Ng6
+10. O-O-O a5 11. Nxg6 $14 ) 8. Nf3 $6 { [%eval 0.29] } ( 8. Qg3 Nd7 9. Nxc4
+Qxc4 10. Qxg7 Ndf6 11. Bd2 Be6 $16 ) ( 8. Qg3 Nd7 9. Nxc4 Qxc4 10. Qxg7 Ndf6
+11. Bd2 Be6 $16 ) 8... Qe4 { [%eval 0.26] } ( 8... Qe4 9. Nd2 Qe6 10. h4 Na6
+11. Rh3 Qe7 12. Rc3 $10 ) 9. g3 { [%eval 0.05] } 9... Ne7 { [%eval 0.00] } 10.
+Bg2 { [%eval 0.00] } 10... O-O { [%eval 0.00] } 11. O-O { [%eval 0.00] } 11...
+Be6 $4 { [%eval 6.58] } ( 11... Nd5 12. Re1 Na6 13. Bd2 Re8 14. Rac1 Nac7 15.
+Ng5 $10 ) 12. Qxe7 { [%eval 6.69] } ( 12. Qxe7 Nd7 13. Bf4 Qxe2 14. Nd4 Qg4 15.
+Nxe6 Qxe6 $18 ) 12... Nd7 { [%eval 6.69] } 13. Be3 { [%eval 6.71] } 13... Rfe8
+{ [%eval 6.74] } 14. Qb4 { [%eval 6.74] } 14... b5 { [%eval 7.76] } 15. Nd4
+{ [%eval 8.04] } 15... g6 { [%eval 9.88] } 16. Bxe4 { [%eval 9.90] } 1-0

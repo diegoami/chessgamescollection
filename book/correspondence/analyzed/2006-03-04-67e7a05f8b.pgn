@@ -1,0 +1,12 @@
+[Event "www.ChessWorld.net server game"]
+[Site "www.ChessWorld.net "]
+[Date "2006.03.04"]
+[Round "?"]
+[White "Diego Amicabile"]
+[Black "Johnny G"]
+[Result "*"]
+[EventDate "2006.??.??"]
+[PostmortemId "67e7a05f8b"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. e4 { [%eval 0.19] } *

@@ -1,0 +1,36 @@
+[Event "Take your time and enjoy - Round 1"]
+[Site "Chess.com"]
+[Date "2013.11.22"]
+[Round "?"]
+[White "diegoami"]
+[Black "DaveEklund"]
+[Result "0-1"]
+[ECO "C05"]
+[WhiteElo "1721"]
+[BlackElo "2327"]
+[TimeControl "1 in 14 days"]
+[EndDate "2013.12.07"]
+[Termination "DaveEklund won by resignation"]
+[PostmortemId "3046fd4533"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. e4 { [%eval 0.19] } 1... e6 { [%eval 0.38] } 2. d4 { [%eval 0.38] } 2... d5
+{ [%eval 0.50] } 3. Nd2 { [%eval 0.22] } 3... Nf6 { [%eval 0.33] } 4. e5
+{ [%eval 0.38] } 4... Nfd7 { [%eval 0.41] } 5. f4 { [%eval 0.56] } 5... c5
+{ [%eval 0.55] } 6. c3 { [%eval 0.58] } 6... Nc6 { [%eval 0.58] } 7. Ne2
+{ [%eval 0.01] } 7... Qb6 { [%eval 0.26] } 8. Nf3 { [%eval 0.26] } 8... f6
+{ [%eval 0.17] } 9. g3 { [%eval 0.25] } 9... cxd4 { [%eval 0.07] } 10. cxd4
+{ [%eval -0.01] } 10... Bb4+ { [%eval 0.00] } 11. Bd2 { [%eval -0.81] } 11...
+fxe5 { [%eval -0.78] } 12. fxe5 { [%eval -1.65] } 12... O-O { [%eval -1.65] }
+13. Bg2 { [%eval -1.75] } 13... Ndxe5 { [%eval -1.70] } 14. dxe5
+{ [%eval -1.80] } 14... Nxe5 { [%eval -1.92] } 15. Nc3 $2 { [%eval -5.68] } (
+15. Bxb4 Qxb4+ 16. Kf2 Qe4 17. Nc3 Nd3+ 18. Kf1 Qc4 $17 ) 15... Nd3+
+{ [%eval -6.70] } ( 15... Nd3+ 16. Ke2 Nxb2 17. Qc2 Qa6+ 18. Ke1 Nd3+ 19. Kd1
+$19 ) 16. Ke2 { [%eval -6.90] } 16... Nxb2 { [%eval -6.86] } 17. Qc2
+{ [%eval -6.79] } 17... Qa6+ { [%eval -6.79] } 18. Ke1 { [%eval -6.84] } 18...
+Nd3+ { [%eval -6.84] } 19. Kd1 { [%eval -6.74] } 19... Nf2+ { [%eval -6.74] }
+20. Kc1 { [%eval -8.32] } 20... Ba3+ { [%eval -8.69] } 21. Kb1
+{ [%eval -8.84] } 21... e5 { [%eval -9.18] } 22. Nxe5 { [%eval -20.85] } 22...
+Bf5 { [%eval -8.81] } 23. Bxd5+ { [%eval -9.62] } 23... Kh8 { [%eval -9.78] }
+24. Ne4 { [%eval #-9] } 24... Nxe4 { [%eval #-8] } 25. Bxe4 { [%eval #-4] }
+25... Qb6+ { [%eval #-3] } 0-1

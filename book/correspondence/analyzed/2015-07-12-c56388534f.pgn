@@ -1,0 +1,38 @@
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2015.07.12"]
+[Round "?"]
+[White "diegoami"]
+[Black "deigloriam"]
+[Result "1-0"]
+[ECO "C84"]
+[WhiteElo "1691"]
+[BlackElo "1549"]
+[TimeControl "1 in 3 days"]
+[EndDate "2015.07.27"]
+[Termination "diegoami won by resignation"]
+[PostmortemId "c56388534f"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. e4 { [%eval 0.19] } 1... e5 { [%eval 0.26] } 2. Nf3 { [%eval 0.23] } 2...
+Nc6 { [%eval 0.19] } 3. Bb5 { [%eval 0.21] } 3... a6 { [%eval 0.38] } 4. Ba4
+{ [%eval 0.25] } 4... Nf6 { [%eval 0.30] } 5. O-O { [%eval 0.25] } 5... Be7
+{ [%eval 0.29] } 6. Re1 { [%eval 0.31] } 6... O-O { [%eval 1.39] } 7. c3
+{ [%eval 0.46] } 7... b5 { [%eval 0.37] } 8. Bc2 { [%eval 0.12] } 8... d6
+{ [%eval 0.41] } 9. h3 { [%eval 0.38] } 9... Qd7 { [%eval 0.82] } 10. d4
+{ [%eval 0.85] } 10... h6 { [%eval 1.00] } 11. Nbd2 { [%eval 1.00] } 11... exd4
+{ [%eval 1.69] } 12. cxd4 { [%eval 1.74] } 12... Bb7 { [%eval 1.80] } 13. Nf1
+{ [%eval 1.88] } 13... Nd8 { [%eval 2.84] } 14. b4 { [%eval 2.11] } 14... c5 $6
+{ [%eval 5.10] } ( 14... Nc6 15. Rb1 Rfe8 16. Ng3 a5 17. bxa5 Nxa5 18. a4 $16 )
+15. bxc5 { [%eval 5.14] } ( 15. bxc5 dxc5 16. d5 c4 17. Bb2 Ne8 18. Ne3 Bb4 $18
+) 15... dxc5 { [%eval 5.06] } 16. d5 { [%eval 4.99] } 16... c4 { [%eval 5.46] }
+17. Ne5 $6 { [%eval 2.86] } ( 17. Bb2 Rc8 18. Bd4 Ne6 19. dxe6 fxe6 20. Ng3 Qe8
+$18 ) 17... Qc7 { [%eval 3.05] } ( 17... Qc7 18. Nf3 Bc5 19. Ne3 Re8 20. Nf5
+Bf8 21. Qd4 $16 ) 18. f4 { [%eval 2.30] } 18... Bd6 { [%eval 2.46] } 19. Ng4
+{ [%eval 2.46] } 19... Bc5+ $6 { [%eval 4.06] } ( 19... Nxg4 20. Qxg4 f5 21.
+exf5 Bb4 22. Rd1 Nf7 23. Rb1 $16 ) 20. Kh1 { [%eval 4.22] } ( 20. Kh1 Nxg4 21.
+Qxg4 Bc8 22. Qf3 f6 23. Ng3 g6 $18 ) 20... Nxg4 { [%eval 4.16] } 21. Qxg4
+{ [%eval 4.13] } 21... Bc8 { [%eval 4.53] } 22. f5 { [%eval 3.62] } 22... Qb6
+$6 { [%eval 7.03] } ( 22... h5 23. Qxh5 Qe5 24. Be3 Bd6 25. Rad1 f6 26. Bd4 $18
+) 23. e5 { [%eval 7.16] } ( 23. e5 Bf2 24. Re4 Ra7 25. Rb1 Rb7 26. Re2 Qd4 $18
+) 23... Re8 { [%eval 9.14] } 24. e6 { [%eval 9.13] } 1-0

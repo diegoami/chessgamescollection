@@ -1,0 +1,35 @@
+[Event "www.ChessWorld.net server game"]
+[Site "www.ChessWorld.net "]
+[Date "2005.09.27"]
+[Round "?"]
+[White "Diego Amicabile"]
+[Black "GlennM"]
+[Result "0-1"]
+[BlackElo "2318"]
+[EventDate "2005.??.??"]
+[PostmortemId "48ae7de21f"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. d4 { [%eval 0.19] } 1... Nf6 { [%eval 0.20] } 2. c4 { [%eval 0.22] } 2... e6
+{ [%eval 0.29] } 3. Nc3 { [%eval 0.15] } 3... Bb4 { [%eval 0.17] } 4. Qc2
+{ [%eval 0.16] } 4... d5 { [%eval 0.12] } 5. cxd5 { [%eval 0.17] } 5... exd5
+{ [%eval 0.11] } 6. Bg5 { [%eval 0.11] } 6... O-O { [%eval 0.11] } 7. e3
+{ [%eval 0.16] } 7... Nbd7 { [%eval 0.38] } 8. Bd3 { [%eval 0.24] } 8... h6
+{ [%eval 0.32] } 9. Bh4 { [%eval 0.23] } 9... c5 { [%eval 0.29] } 10. Nf3
+{ [%eval 0.09] } 10... Qa5 { [%eval 0.51] } 11. O-O { [%eval 0.48] } 11... c4
+{ [%eval 0.55] } 12. Bf5 { [%eval 0.54] } 12... Re8 { [%eval 0.47] } 13. a3
+{ [%eval 0.05] } 13... Bxc3 { [%eval 0.03] } 14. bxc3 { [%eval -0.05] } 14...
+Ne4 { [%eval -0.22] } 15. Bxe4 { [%eval -0.35] } 15... dxe4 { [%eval -0.27] }
+16. Nd2 { [%eval -0.17] } 16... Nb6 { [%eval -0.13] } 17. Rfc1
+{ [%eval -1.02] } 17... Bg4 { [%eval -0.92] } 18. a4 { [%eval -2.05] } 18...
+Be2 { [%eval -1.83] } 19. Qb2 { [%eval -2.08] } 19... Bd3 { [%eval -2.14] } 20.
+Qb4 $6 { [%eval -4.38] } ( 20. Bg3 Re6 21. h3 a6 22. Ra2 Rc8 23. Bf4 Rec6 $17 )
+20... Qxb4 { [%eval -4.43] } ( 20... Qxb4 21. cxb4 Rac8 22. Nb1 Bxb1 23. Raxb1
+c3 24. a5 $19 ) 21. cxb4 { [%eval -4.56] } 21... a5 { [%eval -4.00] } 22. b5
+{ [%eval -4.31] } 22... Rec8 { [%eval -2.83] } 23. f3 { [%eval -3.00] } 23...
+f5 { [%eval -2.86] } 24. fxe4 { [%eval -4.30] } 24... fxe4 { [%eval -4.53] }
+25. g4 { [%eval -6.09] } 25... Nd5 { [%eval -6.05] } 26. Bf2 { [%eval -6.29] }
+26... c3 { [%eval -6.42] } 27. Nb3 { [%eval -6.79] } 27... b6 { [%eval -6.82] }
+28. h4 { [%eval -6.97] } 28... Rf8 { [%eval -6.24] } 29. Kg2 { [%eval -7.25] }
+29... Rac8 { [%eval -7.33] } 30. Bg1 { [%eval -7.45] } 30... Rf3
+{ [%eval -6.89] } 31. Re1 { [%eval -7.77] } 31... Rc4 { [%eval -7.04] } 0-1

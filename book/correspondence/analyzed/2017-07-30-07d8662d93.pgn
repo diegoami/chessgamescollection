@@ -1,0 +1,31 @@
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2017.07.30"]
+[Round "?"]
+[White "anshu_kumar_pandey"]
+[Black "diegoami"]
+[Result "0-1"]
+[ECO "B20"]
+[WhiteElo "1657"]
+[BlackElo "1807"]
+[TimeControl "1 in 10 days"]
+[EndDate "2017.09.02"]
+[Termination "diegoami won on time"]
+[PostmortemId "07d8662d93"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. e4 { [%eval 0.19] } 1... c5 { [%eval 0.32] } 2. Bc4 { [%eval -0.04] } 2...
+e6 { [%eval -0.01] } 3. d3 { [%eval -0.19] } 3... Qc7 { [%eval 0.24] } 4. Ne2
+{ [%eval 0.03] } 4... Ne7 { [%eval 0.49] } 5. a3 { [%eval 0.28] } 5... Ng6
+{ [%eval 0.68] } 6. Nbc3 { [%eval 0.60] } 6... a6 { [%eval 0.62] } 7. Be3
+{ [%eval 0.27] } 7... Nc6 { [%eval 0.59] } 8. Qd2 { [%eval 0.40] } 8... b5
+{ [%eval 0.46] } 9. Bb3 { [%eval 0.22] } 9... Bb7 { [%eval 0.11] } 10. Nf4
+{ [%eval -0.74] } 10... Bd6 { [%eval -0.52] } 11. Nxg6 { [%eval -0.49] } 11...
+hxg6 { [%eval -0.46] } 12. f4 $6 { [%eval -1.59] } ( 12. Ne2 Ne5 13. f3 Be7 14.
+Bf2 c4 15. Ba2 d5 $15 ) 12... f6 { [%eval -0.50] } ( 12... Nd4 13. a4 b4 14.
+Ne2 Nxe2 15. Qxe2 Bxf4 16. O-O-O $17 ) 13. g4 $2 { [%eval -3.04] } ( 13. O-O-O
+Nd4 14. Kb1 Qb6 15. h4 a5 16. Ne2 f5 $15 ) 13... Nd4 { [%eval -3.18] } ( 13...
+Nd4 14. O-O-O b4 15. Nb1 Bxf4 16. Bxf4 Qxf4 17. Qxf4 $19 ) 14. Qf2
+{ [%eval -3.30] } 14... g5 { [%eval -3.80] } 15. Bxd4 { [%eval -3.60] } 15...
+cxd4 { [%eval -3.86] } 16. Ne2 { [%eval -3.35] } 16... gxf4 { [%eval -3.58] }
+0-1

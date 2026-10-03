@@ -1,0 +1,41 @@
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2017.07.26"]
+[Round "?"]
+[White "jstrommer55"]
+[Black "diegoami"]
+[Result "1-0"]
+[WhiteElo "1857"]
+[BlackElo "1857"]
+[ECO "B44"]
+[TimeControl "1/864000"]
+[Termination "jstrommer55 won by resignation"]
+[EndDate "2017.10.12"]
+[PostmortemId "c4bb081994"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. e4 { [%eval 0.19] } 1... c5 { [%eval 0.32] } 2. Nf3 { [%eval 0.31] } 2... e6
+{ [%eval 0.50] } 3. d4 { [%eval 0.46] } 3... cxd4 { [%eval 0.44] } 4. Nxd4
+{ [%eval 0.38] } 4... Nc6 { [%eval 0.41] } 5. Nb3 { [%eval 0.03] } 5... Qc7
+{ [%eval 0.16] } 6. Nc3 { [%eval 0.14] } 6... a6 { [%eval 0.16] } 7. g3
+{ [%eval 0.03] } 7... Nge7 $6 { [%eval 1.17] } ( 7... Nf6 8. Bg2 Be7 9. Qe2 O-O
+10. O-O Rb8 11. a4 $10 ) 8. Bg2 { [%eval 0.67] } ( 8. Be3 d6 9. f4 Ng8 10. Qe2
+Nf6 11. O-O-O b5 $16 ) 8... Ng6 { [%eval 1.09] } 9. O-O { [%eval 0.81] } 9...
+Be7 { [%eval 0.77] } 10. a3 { [%eval 0.45] } 10... b5 { [%eval 0.48] } 11. Be3
+{ [%eval 0.08] } 11... Bb7 { [%eval 0.72] } 12. f4 { [%eval 0.63] } 12... d6
+{ [%eval 0.71] } 13. f5 { [%eval 0.18] } 13... Nge5 { [%eval 0.05] } 14. Bh3
+{ [%eval -0.26] } 14... Nc4 { [%eval -0.33] } 15. Bc1 { [%eval -0.38] } 15...
+Bc8 { [%eval -0.29] } 16. fxe6 { [%eval -0.32] } 16... Bxe6 { [%eval -0.29] }
+17. Bxe6 { [%eval -0.28] } 17... fxe6 { [%eval -0.27] } 18. Qg4
+{ [%eval -0.49] } 18... O-O-O $2 { [%eval 2.70] } ( 18... Kd7 19. Qe2 N6e5 20.
+Nd1 h5 21. Nd4 Na5 22. Kg2 $15 ) 19. Qxe6+ { [%eval 1.83] } ( 19. a4 h5 20.
+Qxe6+ Qd7 21. Qxd7+ Kxd7 22. Rf7 Ke8 $16 ) 19... Qd7 { [%eval 1.86] } 20. Qd5
+{ [%eval 2.06] } 20... Bf6 { [%eval 2.98] } 21. a4 { [%eval 3.20] } 21... Nb6
+{ [%eval 3.61] } 22. Qd3 { [%eval 3.81] } 22... Nb4 { [%eval 4.63] } 23. Qe2
+{ [%eval 5.13] } 23... bxa4 { [%eval 6.16] } 24. Be3 { [%eval 6.16] } 24... Qc6
+{ [%eval 8.66] } 25. Na5 { [%eval 8.72] } 25... Qc7 { [%eval 8.64] } 26. Nxa4
+{ [%eval 8.68] } 26... Nxa4 { [%eval 9.35] } 27. Rxa4 { [%eval 9.45] } 27... d5
+{ [%eval 9.99] } 28. Rxb4 { [%eval 8.22] } 28... Qxa5 { [%eval 8.43] } 29. c3
+{ [%eval 8.74] } 29... Rd7 { [%eval 9.70] } 30. exd5 { [%eval 9.90] } 30...
+Qxd5 { [%eval 9.58] } 31. Qxa6+ { [%eval 9.96] } 31... Rb7 { [%eval 16.58] }
+32. Qa8+ { [%eval 17.74] } 1-0

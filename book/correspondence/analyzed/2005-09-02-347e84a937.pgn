@@ -1,0 +1,36 @@
+[Event "www.ChessWorld.net server game"]
+[Site "www.ChessWorld.net "]
+[Date "2005.09.02"]
+[Round "?"]
+[White "nitousche"]
+[Black "Diego Amicabile"]
+[Result "0-1"]
+[BlackElo "2077"]
+[EventDate "2005.??.??"]
+[PostmortemId "347e84a937"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. e3 { [%eval 0.11] } 1... e5 { [%eval 0.20] } 2. d4 { [%eval 0.18] } 2...
+exd4 { [%eval 0.22] } 3. exd4 { [%eval 0.22] } 3... d5 { [%eval 0.20] } 4. Nf3
+{ [%eval 0.17] } 4... Nf6 { [%eval 0.15] } 5. Bg5 { [%eval -0.02] } 5... Bf5
+{ [%eval 0.42] } 6. Bd3 { [%eval 0.36] } 6... Bxd3 { [%eval 0.47] } 7. Qxd3
+{ [%eval 0.34] } 7... Be7 { [%eval 0.59] } 8. Nbd2 { [%eval 0.34] } 8... O-O
+{ [%eval 0.30] } 9. O-O { [%eval 0.12] } 9... Nbd7 { [%eval 0.12] } 10. Ne5
+{ [%eval 0.00] } 10... c6 { [%eval 0.00] } 11. Nxd7 { [%eval -0.05] } 11...
+Qxd7 { [%eval 0.00] } 12. Nf3 { [%eval -0.03] } 12... Rfe8 { [%eval -0.13] }
+13. Ne5 { [%eval -0.10] } 13... Qc7 { [%eval 0.00] } 14. c4 { [%eval -0.37] }
+14... Ne4 { [%eval 0.00] } 15. Bf4 { [%eval -0.52] } 15... Bd6 { [%eval 0.07] }
+16. f3 { [%eval -0.33] } 16... f6 { [%eval 0.00] } 17. fxe4 { [%eval 0.00] }
+17... fxe5 { [%eval 0.00] } 18. dxe5 { [%eval 0.00] } 18... Bxe5
+{ [%eval 0.13] } 19. Bxe5 { [%eval 0.06] } 19... Rxe5 { [%eval 0.00] } 20. exd5
+{ [%eval 0.00] } 20... Rd8 { [%eval 0.01] } 21. Rfd1 { [%eval 0.06] } 21...
+cxd5 { [%eval 0.00] } 22. Qg3 { [%eval -0.24] } 22... d4 { [%eval -0.10] } 23.
+Rac1 { [%eval -0.74] } 23... Qc5 { [%eval -0.23] } 24. a3 $4 { [%eval -6.08] }
+( 24. Rd3 h6 25. Rcd1 Re2 26. b3 Rxa2 27. Qh4 Rd6 $10 ) 24... d3+
+{ [%eval -6.15] } ( 24... d3+ 25. Qf2 Qe7 26. h3 Re2 27. Qg3 d2 28. Rb1 $19 )
+25. Kh1 { [%eval -6.54] } 25... Re3 { [%eval -5.22] } 26. Qf2 { [%eval -5.14] }
+26... Qe5 { [%eval -5.11] } 27. b3 { [%eval -8.07] } 27... Re2
+{ [%eval -8.33] } 28. Qf1 { [%eval -9.22] } 28... d2 { [%eval -9.73] } 29. Rc2
+{ [%eval -11.10] } 29... Re1 { [%eval #-10] } 30. Rxe1 { [%eval #-6] } 30...
+dxe1=Q { [%eval #-8] } 31. Qg1 { [%eval #-2] } 31... Qxg1+ { [%eval #-1] } 32.
+Kxg1 { [%eval #-1] } 32... Qe1# 0-1

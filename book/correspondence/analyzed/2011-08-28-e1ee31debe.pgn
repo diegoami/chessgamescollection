@@ -1,0 +1,37 @@
+[Event "Karpov-like tournament - Round 1"]
+[Site "Chess.com"]
+[Date "2011.08.28"]
+[Round "?"]
+[White "remmy_b"]
+[Black "diegoami"]
+[Result "0-1"]
+[ECO "B49"]
+[WhiteElo "1716"]
+[BlackElo "1796"]
+[EventDate "2011.??.??"]
+[PostmortemId "e1ee31debe"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. e4 { [%eval 0.19] } 1... c5 { [%eval 0.32] } 2. Nf3 { [%eval 0.31] } 2... e6
+{ [%eval 0.50] } 3. Nc3 { [%eval 0.32] } 3... a6 { [%eval 0.34] } 4. d4
+{ [%eval 0.33] } 4... cxd4 { [%eval 0.37] } 5. Nxd4 { [%eval 0.37] } 5... Nc6
+{ [%eval 0.37] } 6. Be3 { [%eval 0.38] } 6... Qc7 { [%eval 0.37] } 7. Be2
+{ [%eval 0.32] } 7... Nf6 { [%eval 0.35] } 8. O-O { [%eval 0.29] } 8... Bb4
+{ [%eval 0.51] } 9. Nxc6 { [%eval 0.25] } 9... bxc6 { [%eval 0.40] } 10. Qd3
+{ [%eval -0.07] } 10... d5 { [%eval 0.00] } 11. exd5 { [%eval 0.00] } 11...
+cxd5 { [%eval 0.00] } 12. Rad1 { [%eval -0.64] } 12... Bb7 { [%eval -0.11] }
+13. a3 { [%eval -0.40] } 13... Be7 { [%eval -0.30] } 14. Rfe1 { [%eval -0.92] }
+14... O-O { [%eval -0.81] } 15. Bg5 { [%eval -1.36] } 15... Rfd8
+{ [%eval -0.59] } 16. Bf3 { [%eval -1.19] } 16... Rac8 { [%eval -0.91] } 17. h3
+{ [%eval -1.28] } 17... a5 { [%eval -0.74] } 18. Rd2 { [%eval -1.53] } 18...
+Ne4 { [%eval -0.66] } 19. Bxe7 { [%eval -0.54] } 19... Nxd2 { [%eval -0.74] }
+20. Bxd8 { [%eval -0.52] } 20... Nxf3+ { [%eval -0.66] } 21. Qxf3
+{ [%eval -0.74] } 21... Rxd8 { [%eval -0.63] } 22. Qd3 { [%eval -0.63] } 22...
+Rc8 { [%eval -0.61] } 23. Qb5 { [%eval -0.59] } 23... h6 { [%eval -0.56] } 24.
+a4 { [%eval -1.47] } 24... Rb8 { [%eval -1.19] } 25. Qd3 { [%eval -1.44] }
+25... Qb6 { [%eval -0.41] } 26. b3 { [%eval -0.69] } 26... Ba6
+{ [%eval -0.76] } 27. Qg3 $6 { [%eval -2.68] } ( 27. Qd1 Rd8 28. Ne2 d4 29. Nf4
+Qc7 30. Qd2 Kh7 $15 ) 27... Rc8 { [%eval -3.07] } ( 27... Rc8 28. Rc1 Qd4 29.
+Nb5 Qb2 30. Qf4 e5 31. Qd2 $17 ) 28. Qe3 $6 { [%eval -6.68] } ( 28. Rc1 Qd4 29.
+Nb5 Qb2 30. Qf4 e5 31. Qd2 d4 $19 ) 28... d4 { [%eval -6.79] } ( 28... Qxe3 29.
+Rxe3 d4 30. Re4 dxc3 31. Rd4 Bb7 32. f3 $19 ) 0-1

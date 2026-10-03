@@ -1,0 +1,38 @@
+[Event "www.ChessWorld.net server game"]
+[Site "www.ChessWorld.net "]
+[Date "2005.08.15"]
+[Round "?"]
+[White "Diego Amicabile"]
+[Black "silveira"]
+[Result "1-0"]
+[ECO "C34"]
+[WhiteElo "1980"]
+[BlackElo "1788"]
+[EventDate "2005.??.??"]
+[PostmortemId "4710711f12"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. e4 { [%eval 0.19] } 1... e5 { [%eval 0.26] } 2. f4 { [%eval -0.45] } 2...
+exf4 { [%eval -0.60] } 3. Nf3 { [%eval -0.68] } 3... Bd6 $6 { [%eval 1.23] } (
+3... g5 4. d4 g4 5. Ne5 Qh4+ 6. g3 fxg3 7. Qxg4 $15 ) 4. d4 { [%eval 1.29] } (
+4. d4 c6 5. e5 Bc7 6. Bxf4 d6 7. Bc4 dxe5 $16 ) 4... g5 { [%eval 2.18] } 5. h3
+{ [%eval 1.18] } 5... f6 { [%eval 1.95] } 6. c4 { [%eval 1.14] } 6... b6
+{ [%eval 1.80] } 7. a3 { [%eval 1.77] } 7... Bb7 { [%eval 2.06] } 8. Nc3
+{ [%eval 2.09] } 8... Nc6 { [%eval 1.96] } 9. Bd3 { [%eval 1.76] } 9... Na5 $6
+{ [%eval 4.26] } ( 9... Nh6 10. Qc2 Qe7 11. Nd5 Qf7 12. b4 Ne7 13. c5 $16 ) 10.
+b4 { [%eval 4.30] } ( 10. b4 Nc6 11. Bb2 Nh6 12. Qc2 O-O 13. O-O-O Rf7 $18 )
+10... Nb3 $6 { [%eval 8.19] } ( 10... Nc6 11. Bb2 Nh6 12. Qc2 O-O 13. O-O-O Rf7
+14. Kb1 $18 ) 11. Qxb3 { [%eval 7.97] } ( 11. Qxb3 Nh6 12. Ra2 a5 13. Re2 Kf8
+14. c5 Be7 $18 ) 11... Qe7 { [%eval 8.96] } 12. Bb2 { [%eval 8.37] } 12... f5
+{ [%eval 8.50] } 13. e5 { [%eval 8.42] } 13... g4 { [%eval 8.84] } 14. hxg4
+{ [%eval 8.66] } 14... Bxf3 { [%eval 10.23] } 15. gxf3 { [%eval 10.22] } 15...
+c5 { [%eval 10.94] } 16. Nb5 { [%eval 10.32] } 16... Bb8 { [%eval 10.35] } 17.
+Bxf5 { [%eval 9.59] } 17... cxd4 { [%eval 10.03] } 18. Kf2 { [%eval 8.78] }
+18... a6 { [%eval 9.95] } 19. Nxd4 { [%eval 10.46] } 19... Bxe5
+{ [%eval 10.52] } 20. Rae1 { [%eval 11.00] } 20... Qf6 { [%eval 11.86] } 21.
+Rxe5+ { [%eval 9.66] } 21... Qxe5 { [%eval 10.04] } 22. Re1 { [%eval 10.39] }
+22... Qe7 { [%eval 11.28] } 23. Rxe7+ { [%eval 10.54] } 23... Nxe7
+{ [%eval 10.71] } 24. c5 { [%eval 11.12] } 24... bxc5 { [%eval 11.44] } 25.
+bxc5 { [%eval 11.15] } 25... h5 { [%eval 16.14] } 26. c6 { [%eval 12.92] }
+26... Nxf5 { [%eval #8] } 27. cxd7+ { [%eval #7] } 27... Kxd7 { [%eval #6] }
+28. Qb7+ { [%eval #5] } 28... Ke8 { [%eval #5] } 1-0

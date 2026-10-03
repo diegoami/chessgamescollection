@@ -1,0 +1,35 @@
+[Event "www.ChessWorld.net server game"]
+[Site "www.ChessWorld.net "]
+[Date "2005.09.28"]
+[Round "?"]
+[White "Diego Amicabile"]
+[Black "thetrainer6"]
+[Result "0-1"]
+[BlackElo "2430"]
+[EventDate "2005.??.??"]
+[PostmortemId "e1c1c5db48"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. d4 { [%eval 0.19] } 1... Nf6 { [%eval 0.20] } 2. c4 { [%eval 0.22] } 2... c5
+{ [%eval 0.77] } 3. d5 { [%eval 0.69] } 3... g6 { [%eval 0.71] } 4. Nc3
+{ [%eval 0.79] } 4... d6 { [%eval 0.77] } 5. e4 { [%eval 0.70] } 5... Bg7
+{ [%eval 0.70] } 6. Nf3 { [%eval 0.69] } 6... O-O { [%eval 0.76] } 7. h3
+{ [%eval 0.72] } 7... e6 { [%eval 0.69] } 8. Bd3 { [%eval 0.63] } 8... Re8
+{ [%eval 1.03] } 9. O-O { [%eval 1.22] } 9... exd5 { [%eval 1.17] } 10. cxd5
+{ [%eval 1.21] } 10... a6 { [%eval 1.33] } 11. a4 { [%eval 1.28] } 11... Nh5
+{ [%eval 1.45] } 12. Bg5 { [%eval 1.30] } 12... Bf6 { [%eval 1.22] } 13. Be3
+{ [%eval 1.23] } 13... Nd7 { [%eval 1.25] } 14. Qd2 { [%eval 0.99] } 14... Qc7
+{ [%eval 1.78] } 15. Rfc1 { [%eval 1.15] } 15... Ne5 { [%eval 1.20] } 16. Be2
+{ [%eval 1.22] } 16... Nxf3+ { [%eval 1.25] } 17. Bxf3 { [%eval 1.20] } 17...
+Ng7 { [%eval 1.23] } 18. a5 { [%eval 1.09] } 18... b5 { [%eval 0.94] } 19. axb6
+{ [%eval 0.73] } 19... Qxb6 { [%eval 0.83] } 20. Na4 { [%eval 0.50] } 20... Qd8
+{ [%eval 0.43] } 21. Rab1 { [%eval 0.15] } 21... a5 { [%eval 0.17] } 22. b3
+{ [%eval -0.07] } 22... Bh4 { [%eval 0.40] } 23. Qc2 { [%eval -0.15] } 23... f5
+{ [%eval -0.11] } 24. g3 $6 { [%eval -2.04] } ( 24. Nc3 Bf6 25. Re1 Rb8 26. Bf4
+Rb4 27. e5 Rxf4 $10 ) 24... fxe4 { [%eval -1.83] } ( 24... fxe4 25. Bxe4 Bxh3
+26. Re1 Bf6 27. Nb2 Nf5 28. Kh2 $17 ) 25. Bxe4 { [%eval -2.27] } 25... Bxh3
+{ [%eval -2.45] } 26. Bxg6 $2 { [%eval -7.33] } ( 26. Re1 Nf5 27. Bf4 Nd4 28.
+Qd3 Bg5 29. Bxg6 Rxe1+ $17 ) 26... hxg6 { [%eval -7.27] } ( 26... hxg6 27. gxh4
+Bf5 28. Bg5 Bxc2 29. Bxd8 Bxb1 30. Bc7 $19 ) 27. gxh4 { [%eval -7.22] } 27...
+Bf5 { [%eval -7.12] } 28. Qc4 { [%eval -7.58] } 28... Re4 { [%eval -7.76] } 29.
+Qe2 { [%eval -8.54] } 0-1

@@ -1,0 +1,39 @@
+[Event "www.ChessWorld.net server game"]
+[Site "www.ChessWorld.net "]
+[Date "2007.02.25"]
+[Round "?.215"]
+[White "Paulo Moreno"]
+[Black "Diego Amicabile"]
+[Result "1/2-1/2"]
+[ECO "B07"]
+[WhiteElo "1891"]
+[BlackElo "1990"]
+[EventDate "2007.??.??"]
+[PostmortemId "dfa6961158"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. d4 { [%eval 0.19] } 1... Nf6 { [%eval 0.20] } 2. Nf3 { [%eval 0.25] } 2...
+g6 { [%eval 0.37] } 3. Nbd2 { [%eval 0.12] } 3... Bg7 { [%eval 0.41] } 4. e4
+{ [%eval 0.26] } 4... d6 { [%eval 0.22] } 5. Bc4 { [%eval 0.22] } 5... O-O
+{ [%eval 0.14] } 6. O-O { [%eval 0.21] } 6... c6 { [%eval 0.45] } 7. c3
+{ [%eval 0.46] } 7... b5 { [%eval 0.52] } 8. Bb3 { [%eval 0.35] } 8... a5
+{ [%eval 0.52] } 9. a4 { [%eval 0.57] } 9... Nbd7 { [%eval 1.22] } 10. axb5
+{ [%eval 0.84] } 10... cxb5 { [%eval 0.79] } 11. Re1 { [%eval 0.08] } 11... e6
+{ [%eval 0.17] } 12. Nf1 { [%eval 0.10] } 12... Bb7 { [%eval 0.17] } 13. e5 $6
+{ [%eval -0.95] } ( 13. Ng3 a4 14. Bc2 Qc7 15. h3 Bc6 16. Be3 h6 $10 ) 13...
+dxe5 { [%eval -0.91] } ( 13... dxe5 14. Nxe5 Nxe5 15. dxe5 Nd7 16. Bf4 Qc7 17.
+Qe2 $15 ) 14. dxe5 { [%eval -1.45] } 14... Ng4 { [%eval -1.60] } 15. Bf4
+{ [%eval -1.49] } 15... Qc7 { [%eval -1.48] } 16. h3 { [%eval -1.89] } 16...
+Ngxe5 { [%eval -1.86] } 17. Nxe5 { [%eval -1.73] } 17... Bxe5 { [%eval -1.49] }
+18. Bxe5 { [%eval -1.59] } 18... Nxe5 { [%eval -1.56] } 19. Qe2
+{ [%eval -1.68] } 19... Nc4 $6 { [%eval -0.30] } ( 19... Qc6 20. Ne3 a4 21. Ba2
+Qc5 22. Nc2 Nc6 23. Rad1 $17 ) 20. Ne3 { [%eval -1.39] } ( 20. Bxc4 Qxc4 21.
+Qxc4 bxc4 22. Ne3 Rfc8 23. Red1 Rc5 $10 ) 20... Nxe3 { [%eval -1.39] } 21. Qxe3
+{ [%eval -1.44] } 21... Qc6 { [%eval -1.07] } 22. f3 { [%eval -1.67] } 22...
+Rad8 $6 { [%eval 0.01] } ( 22... a4 23. Bc2 Rfd8 24. Red1 Qc7 25. Rxd8+ Rxd8
+26. Rd1 $17 ) 23. Rxa5 { [%eval 0.00] } ( 23. Rxa5 Rd6 24. Bd1 Rfd8 25. Be2 Rd5
+26. Rea1 Rf8 $10 ) 23... Ra8 { [%eval 0.21] } 24. Raa1 { [%eval 0.00] } 24...
+Rfd8 { [%eval 0.01] } 25. Bc2 { [%eval 0.00] } 25... b4 { [%eval 0.00] } 26.
+Be4 { [%eval 0.00] } 26... Qc7 { [%eval 0.12] } 27. Bxb7 { [%eval 0.00] } 27...
+Qxb7 { [%eval 0.00] } 28. cxb4 { [%eval 0.00] } 28... Qxb4 { [%eval -0.03] }
+29. Qc3 { [%eval -0.10] } 1/2-1/2

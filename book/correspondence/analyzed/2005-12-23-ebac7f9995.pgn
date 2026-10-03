@@ -1,0 +1,18 @@
+[Event "www.ChessWorld.net server game"]
+[Site "www.ChessWorld.net "]
+[Date "2005.12.23"]
+[Round "?"]
+[White "Voprak Ylotana"]
+[Black "Diego Amicabile"]
+[Result "1-0"]
+[BlackElo "2080"]
+[EventDate "2005.??.??"]
+[PostmortemId "ebac7f9995"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. d4 { [%eval 0.19] } 1... Nf6 { [%eval 0.20] } 2. c4 { [%eval 0.22] } 2... e6
+{ [%eval 0.29] } 3. Nc3 { [%eval 0.15] } 3... Bb4 { [%eval 0.17] } 4. Nf3
+{ [%eval 0.13] } 4... b6 { [%eval 0.24] } 5. Qb3 { [%eval 0.10] } 5... c5
+{ [%eval 0.12] } 6. a3 { [%eval -0.08] } 6... Ne4 $4 { [%eval 7.60] } ( 6...
+Ba5 7. Bd2 d5 8. e3 O-O 9. Qc2 Nc6 10. dxc5 $10 ) 7. axb4 { [%eval 7.19] } ( 7.
+axb4 Nxc3 8. bxc3 Bb7 9. dxc5 bxc5 10. bxc5 Bxf3 $18 ) 1-0

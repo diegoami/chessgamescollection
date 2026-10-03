@@ -1,0 +1,64 @@
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2015.09.25"]
+[Round "?"]
+[White "diegoami"]
+[Black "itaygad"]
+[Result "1-0"]
+[ECO "C05"]
+[WhiteElo "1774"]
+[BlackElo "1662"]
+[TimeControl "1 in 3 days"]
+[EndDate "2015.11.26"]
+[Termination "diegoami won by resignation"]
+[PostmortemId "7dd3cfa302"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. e4 { [%eval 0.19] } 1... e6 { [%eval 0.38] } 2. d4 { [%eval 0.38] } 2... d5
+{ [%eval 0.50] } 3. Nd2 { [%eval 0.22] } 3... Nf6 { [%eval 0.33] } 4. e5
+{ [%eval 0.38] } 4... Nfd7 { [%eval 0.41] } 5. c3 { [%eval 0.47] } 5... c5
+{ [%eval 0.49] } 6. Bd3 { [%eval 0.39] } 6... Nc6 { [%eval 0.44] } 7. Ndf3
+{ [%eval 0.15] } 7... cxd4 { [%eval 0.35] } 8. cxd4 { [%eval 0.33] } 8... f6
+{ [%eval 0.26] } 9. exf6 { [%eval 0.24] } 9... Nxf6 { [%eval 0.40] } 10. Ne2
+{ [%eval 0.42] } 10... Bd7 { [%eval 0.61] } 11. O-O { [%eval 0.62] } 11... Nb4
+{ [%eval 0.89] } 12. Bb1 { [%eval 0.78] } 12... Bb5 $2 { [%eval 4.96] } ( 12...
+Bd6 13. a3 Nc6 14. Bf4 Bxf4 15. Nxf4 O-O 16. Re1 $14 ) 13. a3 { [%eval 4.71] }
+( 13. a3 Nc6 14. Re1 Bxe2 15. Qxe2 Qe7 16. Bc2 Qd6 $18 ) 13... Nc6
+{ [%eval 4.78] } 14. Bg5 $6 { [%eval 3.01] } ( 14. Re1 Bxe2 15. Qxe2 Be7 16.
+Qxe6 Qd7 17. Bf5 Qxe6 $18 ) 14... Be7 { [%eval 3.77] } ( 14... Bd6 15. Re1 Ne7
+16. Ne5 O-O 17. Nf4 Bd7 18. Nxd7 $18 ) 15. Bd3 $2 { [%eval 0.53] } ( 15. Re1
+Bxe2 16. Qxe2 Qd6 17. Qxe6 Qxe6 18. Rxe6 Kf7 $18 ) 15... Bxd3 { [%eval 0.56] }
+( 15... Bxd3 16. Qxd3 O-O 17. Rae1 Qd7 18. Ne5 Qe8 19. Qh3 $14 ) 16. Qxd3
+{ [%eval 0.57] } 16... Ne4 { [%eval 0.81] } 17. Bxe7 { [%eval 0.75] } 17...
+Qxe7 { [%eval 0.71] } 18. Rac1 { [%eval 0.16] } 18... O-O { [%eval 0.26] } 19.
+Nc3 { [%eval 0.00] } 19... Ng5 { [%eval 0.25] } 20. Nxg5 { [%eval -0.07] }
+20... Qxg5 { [%eval 0.00] } 21. Rfe1 { [%eval -0.09] } 21... a6
+{ [%eval 0.04] } 22. Rcd1 { [%eval -0.06] } 22... Rf4 { [%eval 0.71] } 23. Qe3
+{ [%eval 0.83] } 23... Re8 $2 { [%eval 4.28] } ( 23... Nd8 24. Na4 Rc8 25. Nc5
+Rf5 26. Qxg5 Rxg5 27. f3 $14 ) 24. g3 $2 { [%eval 0.52] } ( 24. Nxd5 Rg4 25.
+Qxg5 Rxg5 26. Nc7 Re7 27. Nxe6 Rd5 $18 ) ( 24. Nxd5 Rg4 25. Qxg5 Rxg5 26. Nc7
+Re7 27. Nxe6 Rd5 $18 ) 24... Ref8 $2 { [%eval 3.84] } ( 24... Rg4 25. Qxg5 Rxg5
+26. Na4 Kf7 27. Nc5 Re7 28. Kg2 $14 ) ( 24... Rg4 25. Qxg5 Rxg5 26. Na4 Kf7 27.
+Nc5 Re7 28. Kg2 $14 ) 25. Qxe6+ { [%eval 3.78] } ( 25. Qxe6+ R8f7 26. Qc8+ Rf8
+27. Qxb7 R4f6 28. Qd7 Qh5 $18 ) 25... Kh8 { [%eval 3.96] } 26. Qe3 $6
+{ [%eval 1.81] } ( 26. Qxd5 Qxd5 27. Nxd5 Rxd4 28. Rxd4 Nxd4 29. Re7 g5 $18 )
+26... R4f5 { [%eval 2.97] } ( 26... Qg6 27. Rd2 R4f5 28. Qd3 Qf7 29. Nd1 Rf6
+30. Qc2 $16 ) 27. Qxg5 { [%eval 2.87] } 27... Rxg5 { [%eval 2.86] } 28. b4
+{ [%eval 2.21] } 28... Rgf5 { [%eval 2.00] } 29. f4 { [%eval 1.78] } 29... Rd8
+{ [%eval 2.94] } 30. Na4 { [%eval 3.07] } 30... Rf7 { [%eval 2.83] } 31. Nc5
+{ [%eval 3.12] } 31... a5 $6 { [%eval 5.36] } ( 31... h6 32. Re6 Rc8 33. Rd6 a5
+34. bxa5 Nxd4 35. Rxd5 $18 ) 32. b5 { [%eval 5.50] } ( 32. b5 Na7 33. a4 Nc8
+34. Re5 Nb6 35. Rde1 Rdf8 $18 ) 32... Na7 { [%eval 5.52] } 33. a4
+{ [%eval 5.60] } 33... b6 { [%eval 6.09] } 34. Nd3 { [%eval 5.52] } 34... Nc8
+{ [%eval 5.65] } 35. Ne5 { [%eval 5.44] } 35... Re7 { [%eval 6.25] } 36. Nc6
+{ [%eval 6.34] } 36... Rxe1+ { [%eval 6.42] } 37. Rxe1 { [%eval 6.29] } 37...
+Rf8 { [%eval 6.29] } 38. Re5 { [%eval 6.21] } 38... Nd6 { [%eval 6.30] } 39.
+Rxd5 { [%eval 6.25] } 39... Ne4 { [%eval 6.26] } 40. Re5 { [%eval 6.31] } 40...
+Nc3 { [%eval 6.64] } 41. d5 { [%eval 6.58] } 41... Nxa4 { [%eval 6.42] } 42. d6
+{ [%eval 6.41] } 42... Nc5 { [%eval 6.53] } 43. Re7 { [%eval 6.16] } 43... a4
+{ [%eval 6.33] } 44. d7 { [%eval 6.54] } 44... Nxd7 { [%eval 6.51] } 45. Rxd7
+{ [%eval 6.35] } 45... Ra8 { [%eval 6.41] } 46. Nb4 { [%eval 5.84] } 46... a3
+{ [%eval 6.16] } 47. Rb7 { [%eval 5.06] } 47... h6 { [%eval 5.91] } 48. Rxb6
+{ [%eval 5.95] } 48... a2 { [%eval 5.97] } 49. Nxa2 { [%eval 5.92] } 49... Rxa2
+{ [%eval 5.72] } 50. Rb8+ { [%eval 4.92] } 50... Kh7 { [%eval 5.25] } 51. f5
+{ [%eval 5.25] } 51... Rb2 { [%eval 5.89] } 52. b6 { [%eval 5.98] } 1-0

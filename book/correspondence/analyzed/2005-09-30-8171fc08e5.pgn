@@ -1,0 +1,40 @@
+[Event "www.ChessWorld.net server game"]
+[Site "www.ChessWorld.net "]
+[Date "2005.09.30"]
+[Round "?"]
+[White "Diego Amicabile"]
+[Black "DocUnk"]
+[Result "0-1"]
+[BlackElo "2143"]
+[EventDate "2005.??.??"]
+[PostmortemId "8171fc08e5"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. e4 { [%eval 0.19] } 1... d5 { [%eval 0.70] } 2. exd5 { [%eval 0.60] } 2...
+Nf6 { [%eval 0.56] } 3. d4 { [%eval 0.62] } 3... Nxd5 { [%eval 0.75] } 4. c4
+{ [%eval 0.66] } 4... Nb6 { [%eval 1.07] } 5. Nc3 { [%eval 0.33] } 5... e5
+{ [%eval 0.46] } 6. d5 { [%eval 0.03] } 6... c6 { [%eval 0.26] } 7. Nf3
+{ [%eval 0.06] } 7... cxd5 { [%eval 0.29] } 8. cxd5 { [%eval 0.23] } 8... Bd6
+{ [%eval 0.67] } 9. Bb5+ { [%eval 0.54] } 9... Bd7 { [%eval 0.63] } 10. O-O
+{ [%eval 0.59] } 10... O-O { [%eval 0.71] } 11. Re1 { [%eval 0.29] } 11... Re8
+$6 { [%eval 1.65] } ( 11... Bxb5 12. Nxb5 Na6 13. a3 Re8 14. Ng5 Be7 15. Rxe5
+$10 ) 12. Bxd7 $6 { [%eval 0.22] } ( 12. Ng5 h6 13. Qh5 hxg5 14. Bd3 f5 15. Ne4
+fxe4 $16 ) ( 12. Ng5 h6 13. Qh5 hxg5 14. Bd3 f5 15. Ne4 fxe4 $16 ) 12... Qxd7
+{ [%eval 0.33] } ( 12... N8xd7 13. Bg5 f6 14. Be3 Rc8 15. Qb3 Nc5 16. Bxc5 $10
+) 13. Be3 { [%eval 0.31] } 13... Nc4 { [%eval 0.64] } 14. Qc2 { [%eval 0.17] }
+14... Na6 { [%eval 0.08] } 15. a3 { [%eval -0.38] } 15... f5 { [%eval -0.26] }
+16. Ng5 { [%eval -0.51] } 16... e4 { [%eval -0.22] } 17. Ne6 { [%eval -0.70] }
+17... Ne5 { [%eval -0.02] } 18. Qe2 { [%eval -0.99] } 18... Nc7
+{ [%eval -1.00] } 19. Nf4 { [%eval -1.00] } 19... Qe7 { [%eval -0.89] } 20.
+Rad1 { [%eval -0.83] } 20... Rad8 { [%eval -0.89] } 21. Nb5 { [%eval -1.74] }
+21... Nxb5 { [%eval -1.77] } 22. Qxb5 { [%eval -1.80] } 22... Bb8 $6
+{ [%eval 0.43] } ( 22... Qg5 23. Kh1 Ng4 24. Nh3 Qg6 25. Bxa7 Nxh2 26. Bb6 $17
+) 23. Bc5 $4 { [%eval -3.67] } ( 23. Ne6 Rc8 24. Bd4 Qf7 25. Re3 Re7 26. f4 Nd3
+$14 ) ( 23. Ne6 Rc8 24. Bd4 Qf7 25. Re3 Re7 26. f4 Nd3 $14 ) 23... Qh4
+{ [%eval -4.00] } ( 23... Qh4 24. Nh3 Qg4 25. Kh1 f4 26. Ng1 f3 27. g3 $19 )
+24. Ne6 $6 { [%eval -6.66] } ( 24. Nh3 Qg4 25. Kh1 f4 26. Ng1 f3 27. g3 b6 $19
+) 24... Nf3+ { [%eval -6.93] } ( 24... Nf3+ 25. Kf1 Nxh2+ 26. Ke2 Rxe6 27. Kd2
+b6 28. Kc1 $19 ) 25. Kf1 { [%eval -6.95] } 25... Nxh2+ { [%eval -7.31] } 26.
+Ke2 { [%eval -8.22] } 26... Rxe6 { [%eval -8.28] } 27. dxe6 { [%eval #-3] }
+27... Qg4+ { [%eval #-2] } 28. f3 { [%eval #-2] } 28... Qxg2+ { [%eval #-1] }
+0-1

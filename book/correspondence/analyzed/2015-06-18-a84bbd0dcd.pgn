@@ -1,0 +1,25 @@
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2015.06.18"]
+[Round "?"]
+[White "diegoami"]
+[Black "billysk"]
+[Result "1-0"]
+[ECO "C43"]
+[WhiteElo "1634"]
+[BlackElo "1527"]
+[TimeControl "1 in 3 days"]
+[EndDate "2015.06.21"]
+[Termination "diegoami won by resignation"]
+[PostmortemId "a84bbd0dcd"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. e4 { [%eval 0.19] } 1... e5 { [%eval 0.26] } 2. Nf3 { [%eval 0.23] } 2...
+Nf6 { [%eval 0.35] } 3. d4 { [%eval 0.31] } 3... Nxe4 { [%eval 0.30] } 4. Bd3
+{ [%eval 0.29] } 4... d5 { [%eval 0.26] } 5. Nxe5 { [%eval 0.24] } 5... Bd6
+{ [%eval 0.34] } 6. O-O { [%eval 0.30] } 6... O-O { [%eval 0.35] } 7. Nd2
+{ [%eval 0.14] } 7... Nc5 { [%eval 0.63] } 8. dxc5 { [%eval 0.58] } 8... Bxe5
+{ [%eval 0.66] } 9. Qh5 { [%eval 0.55] } 9... Bxh2+ $4 { [%eval 6.90] } ( 9...
+f5 10. Re1 Bf6 11. Nf3 g6 12. Qh6 Bg7 13. Qf4 $14 ) 10. Qxh2 { [%eval 6.86] } (
+10. Qxh2 h6 11. Nf3 Na6 12. Bxa6 bxa6 13. Bf4 c6 $18 ) 10... Nc6 { [%eval #1] }
+1-0

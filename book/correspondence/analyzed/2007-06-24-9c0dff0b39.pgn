@@ -1,0 +1,37 @@
+[Event "www.ChessWorld.net server game"]
+[Site "www.ChessWorld.net "]
+[Date "2007.06.24"]
+[Round "?.16"]
+[White "Diego Amicabile"]
+[Black "Orobias"]
+[Result "1-0"]
+[ECO "A20"]
+[WhiteElo "2072"]
+[BlackElo "1943"]
+[EventDate "2007.??.??"]
+[PostmortemId "9c0dff0b39"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. c4 { [%eval 0.18] } 1... e5 { [%eval 0.19] } 2. h4 { [%eval -0.39] } 2...
+Nf6 { [%eval -0.44] } 3. d3 { [%eval -0.48] } 3... h6 { [%eval -0.45] } 4. Nc3
+{ [%eval -0.42] } 4... Bb4 { [%eval -0.36] } 5. Bd2 { [%eval -0.51] } 5... Nc6
+{ [%eval -0.28] } 6. Nf3 { [%eval -0.25] } 6... O-O { [%eval -0.24] } 7. Qb3
+{ [%eval -0.56] } 7... a5 { [%eval -0.51] } 8. a3 { [%eval -0.60] } 8... Bc5
+{ [%eval -0.46] } 9. e3 { [%eval -0.42] } 9... Re8 { [%eval -0.16] } 10. Be2
+{ [%eval -0.15] } 10... d6 { [%eval 0.27] } 11. Nh2 { [%eval 0.20] } 11... Ne7
+{ [%eval 0.96] } 12. g4 { [%eval 1.03] } 12... Ng6 { [%eval 1.02] } 13. g5
+{ [%eval 1.09] } 13... hxg5 { [%eval 1.01] } 14. hxg5 { [%eval 0.95] } 14...
+Nh7 { [%eval 0.93] } 15. O-O-O { [%eval 0.90] } 15... Qxg5 $6 { [%eval 2.48] }
+( 15... c6 16. Nf3 Nhf8 17. Kb1 Rb8 18. d4 exd4 19. Nxd4 $14 ) 16. d4
+{ [%eval 1.91] } ( 16. Rdg1 Qe7 17. Bh5 c6 18. Bxg6 fxg6 19. Rxg6 Bf5 $16 )
+16... Bb6 { [%eval 2.96] } 17. Rdg1 { [%eval 1.81] } 17... Qf6 $6
+{ [%eval 3.74] } ( 17... Qf5 18. dxe5 dxe5 19. Nf3 a4 20. Qd1 Ba5 21. Qf1 $16 )
+18. Ng4 { [%eval 3.11] } ( 18. Bd3 a4 19. Qd1 Ba5 20. Qh5 Bxc3 21. Bxc3 e4 $18
+) 18... Bxg4 { [%eval 3.15] } 19. Bxg4 { [%eval 3.47] } 19... Rab8 $6
+{ [%eval 6.95] } ( 19... exd4 20. Nd5 Qxf2 21. e4 d3 22. Bf5 Nhf8 23. Qxd3 $18
+) 20. Bh5 { [%eval 4.76] } ( 20. Nd5 Qd8 21. Bf5 a4 22. Qc2 Nhf8 23. Bxg6 fxg6
+$18 ) 20... exd4 { [%eval 5.79] } 21. Nd5 { [%eval 6.11] } 21... Qxf2
+{ [%eval 7.68] } 22. Bxg6 { [%eval 8.18] } 22... fxg6 { [%eval 7.79] } 23. c5
+{ [%eval 8.49] } 23... Kh8 { [%eval #5] } 24. Rxh7+ { [%eval #4] } 24... Kxh7
+{ [%eval #4] } 25. Rh1+ { [%eval #3] } 25... Kg8 { [%eval #2] } 26. Ne7+
+{ [%eval #1] } 26... Kf8 { [%eval #1] } 27. Nxg6# 1-0

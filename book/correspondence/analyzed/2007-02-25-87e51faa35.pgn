@@ -1,0 +1,31 @@
+[Event "www.ChessWorld.net server game"]
+[Site "www.ChessWorld.net "]
+[Date "2007.02.25"]
+[Round "?.216"]
+[White "Diego Amicabile"]
+[Black "Paulo Moreno"]
+[Result "1-0"]
+[ECO "D17"]
+[WhiteElo "2019"]
+[BlackElo "1878"]
+[EventDate "2007.??.??"]
+[PostmortemId "87e51faa35"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. d4 { [%eval 0.19] } 1... d5 { [%eval 0.23] } 2. c4 { [%eval 0.17] } 2... c6
+{ [%eval 0.23] } 3. Nf3 { [%eval 0.24] } 3... Nf6 { [%eval 0.30] } 4. Nc3
+{ [%eval 0.24] } 4... dxc4 { [%eval 0.33] } 5. a4 { [%eval 0.34] } 5... Bf5
+{ [%eval 0.37] } 6. Ne5 { [%eval 0.37] } 6... Nbd7 { [%eval 0.32] } 7. Nxc4
+{ [%eval 0.40] } 7... e6 { [%eval 0.73] } 8. f3 { [%eval 0.66] } 8... Bb4
+{ [%eval 0.83] } 9. e4 { [%eval 0.85] } 9... Bxe4 $2 { [%eval 4.59] } ( 9...
+Bg6 10. Be2 a5 11. Bg5 h6 12. Bh4 Bh7 13. O-O $14 ) 10. fxe4 { [%eval 4.69] } (
+10. fxe4 O-O 11. Bd3 c5 12. O-O cxd4 13. Na2 Be7 $18 ) 10... Nxe4
+{ [%eval 4.70] } 11. Qd3 { [%eval 4.85] } 11... Ndf6 { [%eval 4.83] } 12. Be2
+{ [%eval 4.16] } 12... Nd5 { [%eval 4.27] } 13. O-O { [%eval 4.46] } 13...
+Nexc3 { [%eval 4.50] } 14. bxc3 { [%eval 4.47] } 14... Nxc3 { [%eval 4.58] }
+15. Bf3 { [%eval 4.76] } 15... Nd5 { [%eval 4.59] } 16. Bd2 $6 { [%eval 2.78] }
+( 16. Ba3 a5 17. Bxd5 cxd5 18. Bxb4 axb4 19. Ne5 O-O $18 ) 16... Bxd2
+{ [%eval 2.67] } ( 16... Bxd2 17. Qxd2 Rc8 18. h3 O-O 19. Qf2 b6 20. Rad1 $16 )
+17. Qxd2 { [%eval 2.68] } 17... O-O { [%eval 2.73] } 18. a5 { [%eval 2.85] }
+18... Qd6 $2 { [%eval 10.35] } ( 18... Rc8 19. a6 b6 20. h3 h6 21. Rad1 Rc7 22.
+Qf2 $16 ) 1-0

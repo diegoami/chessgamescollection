@@ -1,0 +1,42 @@
+[Event "The Road To Mastery"]
+[Site "Chess.com"]
+[Date "2012.01.10"]
+[Round "?"]
+[White "diegoami"]
+[Black "kevinsmithstudio"]
+[Result "0-1"]
+[ECO "C44"]
+[WhiteElo "1888"]
+[BlackElo "2025"]
+[EventDate "2012.??.??"]
+[PostmortemId "db29a567be"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. e4 { [%eval 0.19] } 1... e5 { [%eval 0.26] } 2. Nf3 { [%eval 0.23] } 2...
+Nc6 { [%eval 0.19] } 3. d4 { [%eval -0.02] } 3... exd4 { [%eval 0.03] } 4. Bc4
+{ [%eval -0.02] } 4... Bc5 { [%eval -0.01] } 5. c3 { [%eval -0.02] } 5... dxc3
+{ [%eval 0.84] } 6. Bxf7+ { [%eval 0.87] } 6... Kxf7 { [%eval 0.92] } 7. Qd5+
+{ [%eval 0.80] } 7... Kf8 { [%eval 0.89] } 8. Qxc5+ { [%eval 0.87] } 8... d6
+{ [%eval 1.13] } 9. Qxc3 { [%eval 0.99] } 9... Qf6 { [%eval 1.14] } 10. Bg5
+{ [%eval 0.57] } 10... Qg6 { [%eval 0.87] } 11. Nbd2 { [%eval 0.66] } 11... Be6
+{ [%eval 1.76] } 12. O-O { [%eval 1.82] } 12... h6 { [%eval 1.74] } 13. Be3
+{ [%eval 1.48] } 13... Nf6 { [%eval 1.67] } 14. e5 $6 { [%eval 0.19] } ( 14. b4
+a6 15. a4 Ne8 16. b5 Ne7 17. b6 Rc8 $16 ) 14... Nd5 { [%eval 0.16] } ( 14...
+Nd5 15. Qa3 Kf7 16. exd6 cxd6 17. Qxd6 Rhd8 18. Qxc6 $10 ) 15. Qa3
+{ [%eval 0.21] } 15... Rd8 { [%eval 0.18] } 16. exd6 { [%eval 0.15] } 16...
+cxd6 { [%eval 0.12] } 17. Bxa7 { [%eval -0.03] } 17... Nxa7 { [%eval 0.00] }
+18. Qxa7 { [%eval 0.00] } 18... Nf4 { [%eval 0.00] } 19. g3 { [%eval 0.07] }
+19... Ne2+ { [%eval 0.00] } 20. Kh1 { [%eval -0.21] } 20... Qf7 $4
+{ [%eval 5.91] } ( 20... Bd5 21. h3 Qd3 22. Kh2 Re8 23. Qa3 Qxa3 24. bxa3 $10 )
+21. Rfe1 { [%eval 3.79] } ( 21. Qe3 Bc4 22. Nxc4 Qxc4 23. Nh4 Kg8 24. Rae1 Nd4
+$18 ) 21... Bd5 { [%eval 5.04] } 22. Qe3 { [%eval 5.22] } 22... g5
+{ [%eval 6.86] } 23. Rxe2 { [%eval 6.82] } 23... g4 { [%eval 6.63] } 24. Kg1
+{ [%eval 4.68] } 24... gxf3 { [%eval 4.86] } 25. Nxf3 $4 { [%eval -2.80] } (
+25. Ree1 Kg7 26. Qd4+ Kh7 27. Ne4 Rhf8 28. h3 Bc4 $18 ) 25... Bxf3
+{ [%eval -3.18] } ( 25... Bxf3 26. Qc3 Kg8 27. Re3 Rf8 28. Qd3 Bc6 29. f3 $17 )
+26. Rd2 { [%eval -4.21] } 26... Kg7 { [%eval -4.05] } 27. Rc1 { [%eval -4.83] }
+27... Rhe8 { [%eval -5.07] } 28. Qc3+ { [%eval -5.17] } 28... Kg8
+{ [%eval -4.37] } 29. a3 { [%eval -5.97] } 29... d5 { [%eval -6.13] } 30. Qd4
+{ [%eval -7.21] } 30... Re4 { [%eval -6.90] } 31. Qd3 { [%eval -6.84] } 31...
+Rde8 { [%eval -6.92] } 32. Qf1 { [%eval -7.01] } 32... Qe6 { [%eval -6.63] }
+0-1

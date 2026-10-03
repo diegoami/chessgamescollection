@@ -1,0 +1,36 @@
+[Event "www.ChessWorld.net server game"]
+[Site "www.ChessWorld.net "]
+[Date "2006.01.25"]
+[Round "?"]
+[White "goffy"]
+[Black "Diego Amicabile"]
+[Result "0-1"]
+[BlackElo "1961"]
+[EventDate "2006.??.??"]
+[PostmortemId "20f4d28798"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. e4 { [%eval 0.19] } 1... c6 { [%eval 0.31] } 2. d4 { [%eval 0.26] } 2... d5
+{ [%eval 0.25] } 3. exd5 { [%eval 0.14] } 3... cxd5 { [%eval 0.18] } 4. Nf3
+{ [%eval 0.16] } 4... Nc6 { [%eval 0.29] } 5. c3 { [%eval 0.00] } 5... Nf6
+{ [%eval 0.30] } 6. Bd3 { [%eval 0.17] } 6... Bg4 { [%eval 0.18] } 7. O-O
+{ [%eval 0.08] } 7... e6 { [%eval 0.16] } 8. h3 { [%eval 0.13] } 8... Bh5
+{ [%eval 0.20] } 9. Bg5 { [%eval -0.22] } 9... Be7 { [%eval 0.17] } 10. Nbd2
+{ [%eval 0.13] } 10... O-O { [%eval 0.21] } 11. Qc2 { [%eval 0.08] } 11... Bg6
+{ [%eval 0.18] } 12. Bxg6 { [%eval 0.16] } 12... hxg6 { [%eval 0.16] } 13. Rae1
+{ [%eval 0.00] } 13... b5 { [%eval 0.06] } 14. a3 { [%eval -0.04] } 14... a5
+{ [%eval 0.00] } 15. Ne5 { [%eval -0.10] } 15... Qc7 { [%eval -0.02] } 16. Ndf3
+{ [%eval -0.12] } 16... Rfc8 { [%eval 0.13] } 17. Rc1 $6 { [%eval -1.66] } (
+17. Bxf6 Bxf6 18. Nxc6 Qxc6 19. Rc1 b4 20. axb4 axb4 $10 ) 17... Ne4 $6
+{ [%eval 0.13] } ( 17... Nxd4 18. Nxd4 Qxe5 19. Bxf6 gxf6 20. Rfe1 Qg5 21. Nxb5
+$17 ) ( 17... Nxd4 18. Nxd4 Qxe5 19. Bxf6 gxf6 20. Rfe1 Qg5 21. Nxb5 $17 ) 18.
+Bf4 { [%eval -0.61] } ( 18. Nxc6 Nxg5 19. Nxe7+ Qxe7 20. Nd2 b4 21. axb4 axb4
+$10 ) 18... Bd6 { [%eval -0.59] } 19. Rfe1 $2 { [%eval -4.38] } ( 19. Bh2 Nxd4
+20. Nxd4 Bxe5 21. Bxe5 Qxe5 22. Nxb5 a4 $15 ) 19... b4 $2 { [%eval -0.98] } (
+19... f6 20. c4 bxc4 21. Rxe4 dxe4 22. Qxe4 fxe5 23. dxe5 $19 ) ( 19... f6 20.
+c4 bxc4 21. Rxe4 dxe4 22. Qxe4 fxe5 23. dxe5 $19 ) 20. cxb4 $2
+{ [%eval -3.89] } ( 20. axb4 axb4 21. Nxc6 Bxf4 22. Nxb4 Bxc1 23. Qxc1 Ra4 $15
+) ( 20. axb4 axb4 21. Nxc6 Bxf4 22. Nxb4 Bxc1 23. Qxc1 Ra4 $15 ) 20... axb4 $4
+{ [%eval 5.29] } ( 20... Nxe5 21. dxe5 Qxc2 22. Rxc2 Rxc2 23. exd6 axb4 24.
+axb4 $19 ) ( 20... Nxe5 21. dxe5 Qxc2 22. Rxc2 Rxc2 23. exd6 axb4 24. axb4 $19
+) 0-1

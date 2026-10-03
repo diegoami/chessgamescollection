@@ -1,0 +1,27 @@
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2013.11.17"]
+[Round "?"]
+[White "aromas"]
+[Black "diegoami"]
+[Result "1-0"]
+[ECO "B40"]
+[WhiteElo "1689"]
+[BlackElo "1671"]
+[TimeControl "1 in 7 days"]
+[EndDate "2013.11.23"]
+[Termination "aromas won by resignation"]
+[PostmortemId "a0122ac19b"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. e4 { [%eval 0.19] } 1... c5 { [%eval 0.32] } 2. Nf3 { [%eval 0.31] } 2... e6
+{ [%eval 0.50] } 3. Bc4 { [%eval -0.02] } 3... Nc6 { [%eval 0.02] } 4. O-O
+{ [%eval 0.05] } 4... Qc7 { [%eval 0.58] } 5. Nc3 { [%eval 0.03] } 5... Nf6
+{ [%eval 0.16] } 6. d3 { [%eval -0.04] } 6... a6 { [%eval -0.04] } 7. a4
+{ [%eval -0.18] } 7... Be7 { [%eval -0.07] } 8. Bg5 { [%eval -0.23] } 8... O-O
+{ [%eval -0.22] } 9. Re1 { [%eval -0.12] } 9... b6 { [%eval -0.02] } 10. e5
+{ [%eval 0.00] } 10... Ng4 { [%eval 0.34] } 11. Bxe7 { [%eval 0.39] } 11...
+Nxe7 { [%eval 0.25] } 12. h3 { [%eval -0.19] } 12... Nh6 { [%eval -0.14] } 13.
+Ne4 { [%eval -0.30] } 13... d5 $4 { [%eval 6.92] } ( 13... Nhf5 14. c3 Ng6 15.
+a5 Bb7 16. axb6 Qxb6 17. Bb3 $10 ) 14. exd6 { [%eval 6.77] } ( 14. exd6 Qb7 15.
+dxe7 Qxe7 16. Ng3 Bb7 17. Ba2 Qf6 $18 ) 1-0

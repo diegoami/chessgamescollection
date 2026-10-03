@@ -1,0 +1,31 @@
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2015.01.09"]
+[Round "?"]
+[White "TheMrLandon"]
+[Black "diegoami"]
+[Result "1-0"]
+[ECO "B23"]
+[WhiteElo "1700"]
+[BlackElo "1536"]
+[TimeControl "1 in 1 day"]
+[EndDate "2015.01.10"]
+[Termination "TheMrLandon won by resignation"]
+[PostmortemId "3b3b912f08"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. e4 { [%eval 0.19] } 1... c5 { [%eval 0.32] } 2. Nc3 { [%eval 0.19] } 2... e6
+{ [%eval 0.31] } 3. f4 { [%eval -0.05] } 3... d5 { [%eval -0.13] } 4. Bb5+
+{ [%eval -0.10] } 4... Nc6 { [%eval 0.19] } 5. Nf3 { [%eval 0.07] } 5... Ne7
+{ [%eval -0.02] } 6. O-O { [%eval -0.16] } 6... a6 { [%eval -0.09] } 7. Bxc6+
+{ [%eval -0.06] } 7... Nxc6 { [%eval -0.13] } 8. exd5 { [%eval -0.10] } 8...
+exd5 { [%eval -0.08] } 9. d4 { [%eval -0.08] } 9... Be6 { [%eval 0.34] } 10.
+Be3 { [%eval 0.37] } 10... c4 { [%eval 0.76] } 11. Ne5 { [%eval 0.39] } 11...
+g6 { [%eval 0.96] } 12. Nxc4 { [%eval 0.53] } 12... dxc4 { [%eval 0.72] } 13.
+d5 { [%eval 0.74] } 13... Bxd5 $2 { [%eval 4.31] } ( 13... Bf5 14. g4 Bb4 15.
+dxc6 Qxd1 16. Raxd1 Bxg4 17. Rfe1 $14 ) 14. Nxd5 { [%eval 4.98] } ( 14. Nxd5
+Nb4 15. Nb6 Qxd1 16. Raxd1 Rd8 17. Rxd8+ Kxd8 $18 ) 14... Bg7 { [%eval 7.40] }
+15. Bb6 { [%eval 6.83] } 15... Qc8 { [%eval 6.96] } 16. Nc7+ { [%eval 6.91] }
+16... Kf8 { [%eval 7.04] } 17. Nxa8 { [%eval 6.87] } 17... Qxa8
+{ [%eval 6.72] } 18. Qd6+ { [%eval 6.95] } 18... Kg8 { [%eval 6.92] } 19. c3
+{ [%eval 7.02] } 1-0

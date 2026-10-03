@@ -1,0 +1,38 @@
+[Event "www.ChessWorld.net server game"]
+[Site "www.ChessWorld.net "]
+[Date "2005.09.02"]
+[Round "?"]
+[White "Diego Amicabile"]
+[Black "the little rascal"]
+[Result "1-0"]
+[ECO "B00"]
+[WhiteElo "2021"]
+[BlackElo "1510"]
+[EventDate "2005.??.??"]
+[PostmortemId "ad6a56cc78"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. e4 { [%eval 0.19] } 1... Nc6 { [%eval 0.52] } 2. d4 { [%eval 0.56] } 2... e6
+{ [%eval 0.82] } 3. c4 { [%eval 0.02] } 3... Bb4+ { [%eval 0.42] } 4. Bd2
+{ [%eval 0.08] } 4... Bxd2+ { [%eval 0.16] } 5. Qxd2 { [%eval 0.05] } 5... Qh4
+$6 { [%eval 2.12] } ( 5... d5 6. cxd5 exd5 7. e5 f6 8. f4 Nge7 9. Nf3 $10 ) 6.
+Nc3 { [%eval 2.00] } ( 6. Nc3 d6 7. O-O-O e5 8. dxe5 dxe5 9. Nf3 Qf6 $16 ) 6...
+Nf6 { [%eval 2.71] } 7. Nf3 { [%eval 2.77] } 7... Qg4 { [%eval 3.59] } 8. h3
+{ [%eval 3.48] } 8... Qg6 { [%eval 3.67] } 9. O-O-O { [%eval 3.67] } 9... h5 $6
+{ [%eval 5.97] } ( 9... d6 10. e5 dxe5 11. d5 Nb4 12. Nxe5 Qh6 13. Qxh6 $18 )
+10. Bd3 { [%eval 4.35] } ( 10. e5 Nh7 11. Nb5 O-O 12. Nxc7 Rb8 13. d5 Ne7 $18 )
+10... Qxg2 $6 { [%eval 8.30] } ( 10... Nb4 11. Bb1 Qh6 12. a3 Qxd2+ 13. Rxd2
+Na6 14. e5 $18 ) 11. Nh4 { [%eval 8.46] } ( 11. Nh4 Qxh1 12. Rxh1 b6 13. d5 Ne5
+14. Bc2 Nxc4 $18 ) 11... Nxe4 { [%eval 9.67] } 12. Bxe4 { [%eval 9.54] } 12...
+Qxh1 { [%eval 9.67] } 13. Rxh1 { [%eval 9.56] } 13... b6 { [%eval 10.50] } 14.
+Rg1 { [%eval 9.33] } 14... g6 { [%eval 10.78] } 15. Nxg6 { [%eval 10.52] }
+15... fxg6 { [%eval 10.64] } 16. Bxg6+ { [%eval 10.48] } 16... Kd8
+{ [%eval 10.63] } 17. Qg5+ { [%eval 10.26] } 17... Ne7 { [%eval 10.64] } 18.
+Bxh5 { [%eval 8.16] } 18... Bb7 { [%eval 15.52] } 19. Qg7 { [%eval 8.24] }
+19... Rg8 { [%eval 8.22] } 20. Qxg8+ { [%eval 8.34] } 20... Nxg8
+{ [%eval 8.21] } 21. Rxg8+ { [%eval 8.15] } 21... Ke7 { [%eval 8.22] } 22. Rxa8
+{ [%eval 7.22] } 22... Bxa8 { [%eval 7.11] } 23. d5 { [%eval 7.24] } 23... e5
+{ [%eval 7.59] } 24. Bf3 { [%eval 7.48] } 24... Kd6 { [%eval 8.22] } 25. h4
+{ [%eval 7.78] } 25... Ke7 { [%eval 8.14] } 26. d6+ { [%eval 8.15] } 26... Kxd6
+{ [%eval 8.21] } 27. Bxa8 { [%eval 8.13] } 27... c6 { [%eval 8.19] } 28. h5
+{ [%eval 8.15] } 1-0

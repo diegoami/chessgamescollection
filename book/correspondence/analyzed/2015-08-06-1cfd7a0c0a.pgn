@@ -1,0 +1,24 @@
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2015.08.06"]
+[Round "?"]
+[White "diegoami"]
+[Black "jacek_malolepszy"]
+[Result "1-0"]
+[ECO "C55"]
+[WhiteElo "1696"]
+[BlackElo "1576"]
+[TimeControl "1 in 3 days"]
+[EndDate "2015.08.14"]
+[Termination "diegoami won by resignation"]
+[PostmortemId "1cfd7a0c0a"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. e4 { [%eval 0.19] } 1... e5 { [%eval 0.26] } 2. Nf3 { [%eval 0.23] } 2...
+Nc6 { [%eval 0.19] } 3. d4 { [%eval -0.02] } 3... exd4 { [%eval 0.03] } 4. Bc4
+{ [%eval -0.02] } 4... Nf6 { [%eval 0.01] } 5. e5 { [%eval 0.00] } 5... d5
+{ [%eval 0.00] } 6. Bb5 { [%eval 0.02] } 6... Ne4 { [%eval 0.04] } 7. Nxd4
+{ [%eval 0.06] } 7... Bd7 { [%eval 0.00] } 8. Bxc6 { [%eval -0.08] } 8... bxc6
+{ [%eval -0.07] } 9. c3 { [%eval -0.25] } 9... Be7 { [%eval -0.31] } 10. O-O
+{ [%eval -0.24] } 10... O-O { [%eval -0.29] } 11. Nd2 { [%eval -0.47] } 11...
+f5 { [%eval 0.00] } 12. e6 { [%eval -0.63] } 1-0

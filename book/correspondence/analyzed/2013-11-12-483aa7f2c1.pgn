@@ -1,0 +1,40 @@
+[Event "Karpov-like tournament - Round 2"]
+[Site "Chess.com"]
+[Date "2013.11.12"]
+[Round "?"]
+[White "diegoami"]
+[Black "nat_novice"]
+[Result "0-1"]
+[ECO "B18"]
+[WhiteElo "1745"]
+[BlackElo "2022"]
+[TimeControl "1 in 7 days"]
+[EndDate "2013.12.13"]
+[Termination "nat_novice won by resignation"]
+[PostmortemId "483aa7f2c1"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. e4 { [%eval 0.19] } 1... c6 { [%eval 0.31] } 2. d4 { [%eval 0.26] } 2... d5
+{ [%eval 0.25] } 3. Nc3 { [%eval 0.33] } 3... dxe4 { [%eval 0.39] } 4. Nxe4
+{ [%eval 0.39] } 4... Bf5 { [%eval 0.34] } 5. Ng3 { [%eval 0.34] } 5... Bg6
+{ [%eval 0.30] } 6. Nf3 { [%eval 0.30] } 6... Nd7 { [%eval 0.28] } 7. Bc4
+{ [%eval 0.11] } 7... e6 { [%eval 0.08] } 8. c3 { [%eval 0.09] } 8... Ngf6
+{ [%eval 0.05] } 9. Qe2 { [%eval 0.07] } 9... Be7 { [%eval 0.08] } 10. Bg5
+{ [%eval 0.03] } 10... Nd5 { [%eval 0.14] } 11. Bd2 { [%eval -0.04] } 11... O-O
+{ [%eval 0.01] } 12. O-O { [%eval -0.03] } 12... Re8 { [%eval -0.02] } 13. Ne5
+{ [%eval -0.64] } 13... Nxe5 { [%eval -0.56] } 14. dxe5 { [%eval -0.59] } 14...
+Nb6 { [%eval -0.57] } 15. Bb3 { [%eval -1.05] } 15... Bd3 { [%eval -1.08] } 16.
+Qe3 { [%eval -2.05] } 16... Bxf1 { [%eval -1.95] } 17. Kxf1 { [%eval -2.46] }
+17... Nd5 { [%eval -2.03] } 18. Qe2 { [%eval -3.25] } 18... Bg5
+{ [%eval -3.49] } 19. Bxg5 { [%eval -4.95] } 19... Qxg5 { [%eval -5.02] } 20.
+Rd1 { [%eval -5.64] } 20... Rad8 { [%eval -5.61] } 21. Bc2 { [%eval -6.32] }
+21... Nf4 { [%eval -6.63] } 22. Qf3 { [%eval -6.77] } 22... Qxe5
+{ [%eval -6.48] } 23. Ne4 { [%eval -7.55] } 23... Rxd1+ { [%eval -6.81] } 24.
+Qxd1 { [%eval -6.77] } 24... Qb5+ { [%eval -6.58] } 25. Kg1 { [%eval -6.86] }
+25... Qxb2 { [%eval -6.94] } 26. a4 { [%eval -7.22] } 26... Nd5
+{ [%eval -7.26] } 27. c4 { [%eval -7.45] } 27... Nf6 { [%eval -7.18] } 28.
+Nxf6+ { [%eval -7.43] } 28... Qxf6 { [%eval -7.47] } 29. h3 { [%eval -7.53] }
+29... Rd8 { [%eval -7.59] } 30. Qc1 { [%eval -7.57] } 30... Qd4
+{ [%eval -7.48] } 31. Bb3 { [%eval -7.67] } 31... c5 { [%eval -7.27] } 32. a5
+{ [%eval -7.48] } 32... g6 { [%eval -7.48] } 33. g3 { [%eval -7.56] } 33... Qd2
+{ [%eval -7.43] } 34. Qa1 { [%eval -7.86] } 34... Rd4 { [%eval -8.11] } 0-1

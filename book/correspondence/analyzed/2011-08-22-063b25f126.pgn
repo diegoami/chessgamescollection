@@ -1,0 +1,37 @@
+[Event "www.ChessWorld.net server game"]
+[Site "www.ChessWorld.net "]
+[Date "2011.08.22"]
+[Round "?.171"]
+[White "biohuman"]
+[Black "Diego Amicabile"]
+[Result "0-1"]
+[ECO "B44"]
+[WhiteElo "2025"]
+[BlackElo "2106"]
+[EventDate "2011.??.??"]
+[PostmortemId "063b25f126"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. e4 { [%eval 0.19] } 1... c5 { [%eval 0.32] } 2. Nf3 { [%eval 0.31] } 2... e6
+{ [%eval 0.50] } 3. d4 { [%eval 0.46] } 3... cxd4 { [%eval 0.44] } 4. Nxd4
+{ [%eval 0.38] } 4... Nc6 { [%eval 0.41] } 5. Be2 { [%eval 0.21] } 5... Nf6
+{ [%eval 0.18] } 6. O-O { [%eval -0.76] } 6... Nxe4 { [%eval -0.57] } 7. c4
+{ [%eval -0.85] } 7... Bc5 { [%eval -0.92] } 8. Be3 $6 { [%eval -2.30] } ( 8.
+Nb3 Be7 9. Qc2 f5 10. Be3 b6 11. Nc3 Nf6 $15 ) 8... Qb6 { [%eval -2.60] } (
+8... Qb6 9. Bf3 Nxf2 10. Bxf2 Bxd4 11. Nc3 O-O 12. Qb3 $17 ) 9. Nc2
+{ [%eval -3.60] } 9... Bxe3 { [%eval -3.49] } 10. fxe3 { [%eval -3.71] } 10...
+O-O $6 { [%eval -1.42] } ( 10... Qxb2 11. Bf3 Qe5 12. Bxe4 Qxe4 13. Nd2 Qd3 14.
+Rb1 $19 ) 11. b3 { [%eval -2.13] } ( 11. Qd3 f5 12. Nc3 Ne5 13. Qd4 Qxb2 14.
+Nxe4 Qxc2 $17 ) 11... Rd8 { [%eval -1.91] } 12. Bf3 { [%eval -2.57] } 12... d5
+{ [%eval -2.48] } 13. Qe2 { [%eval -2.74] } 13... Bd7 { [%eval -1.87] } 14. Rd1
+{ [%eval -3.20] } 14... Be8 $6 { [%eval -1.42] } ( 14... Qc5 15. Ne1 Ne5 16.
+Nd3 Nxd3 17. Qxd3 Ng5 18. cxd5 $19 ) 15. cxd5 { [%eval -1.70] } ( 15. cxd5 exd5
+16. Bxe4 dxe4 17. Nc3 Qa5 18. Nxe4 Rxd1+ $17 ) 15... exd5 { [%eval -1.63] } 16.
+Nd4 { [%eval -2.80] } 16... Nxd4 { [%eval -1.73] } 17. exd4 $6
+{ [%eval -4.47] } ( 17. Rxd4 Ng5 18. Nc3 Ne6 19. Rdd1 d4 20. Nd5 Qd6 $17 )
+17... Bb5 { [%eval -2.92] } ( 17... f5 18. Qb2 Rac8 19. Na3 Qh6 20. Re1 Bh5 21.
+Bxh5 $19 ) 18. Qb2 { [%eval -4.14] } 18... Rac8 { [%eval -4.29] } 19. a4
+{ [%eval -4.39] } 19... Bc6 { [%eval -3.05] } 20. Nd2 { [%eval -3.50] } 20...
+Re8 { [%eval -2.29] } 21. Rac1 $6 { [%eval -3.99] } ( 21. Bxe4 dxe4 22. Nc4 Qb4
+23. Ne3 Bd7 24. Qf2 h6 $17 ) 21... Bxa4 { [%eval -4.52] } ( 21... Nf6 22. Rc2
+Bd7 23. Nf1 Rxc2 24. Qxc2 g6 25. Qd3 $19 ) 0-1

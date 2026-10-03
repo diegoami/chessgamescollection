@@ -1,0 +1,34 @@
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2013.05.15"]
+[Round "?"]
+[White "animeshshah"]
+[Black "diegoami"]
+[Result "1-0"]
+[ECO "B48"]
+[WhiteElo "1771"]
+[BlackElo "1686"]
+[TimeControl "1 in 2 days"]
+[EndDate "2013.06.29"]
+[Termination "animeshshah won by resignation"]
+[PostmortemId "84d6cfe777"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. e4 { [%eval 0.19] } 1... c5 { [%eval 0.32] } 2. Nf3 { [%eval 0.31] } 2... e6
+{ [%eval 0.50] } 3. d4 { [%eval 0.46] } 3... cxd4 { [%eval 0.44] } 4. Nxd4
+{ [%eval 0.38] } 4... Nc6 { [%eval 0.41] } 5. Nc3 { [%eval 0.41] } 5... Qc7
+{ [%eval 0.39] } 6. Be3 { [%eval 0.32] } 6... Nf6 { [%eval 0.72] } 7. Bd3
+{ [%eval 0.36] } 7... Bc5 $4 { [%eval 6.26] } ( 7... a6 8. Qe2 b5 9. Nxc6 Qxc6
+10. e5 Nd5 11. Nxd5 $10 ) 8. Ndb5 { [%eval 6.41] } ( 8. Ndb5 Qb6 9. Bxc5 Qxc5
+10. Nc7+ Ke7 11. Nxa8 d6 $18 ) 8... Qb6 { [%eval 6.45] } 9. Bxc5
+{ [%eval 6.37] } 9... Qxc5 { [%eval 6.30] } 10. Nc7+ { [%eval 6.35] } 10... Ke7
+{ [%eval 6.48] } 11. Nxa8 { [%eval 6.37] } 11... Ne5 { [%eval 6.63] } 12. Qe2
+{ [%eval 6.24] } 12... b6 { [%eval 6.19] } 13. Bb5 { [%eval 5.37] } 13... Bb7
+{ [%eval 5.49] } 14. f4 { [%eval 5.57] } 14... Ng6 { [%eval 5.52] } 15. f5
+{ [%eval 4.81] } 15... Ne5 { [%eval 5.37] } 16. fxe6 { [%eval 5.32] } 16...
+dxe6 { [%eval 5.63] } 17. Nxb6 { [%eval 5.50] } 17... axb6 { [%eval 5.84] } 18.
+O-O-O { [%eval 5.99] } 18... Rc8 { [%eval 5.93] } 19. Rd2 { [%eval 5.43] }
+19... Ra8 { [%eval 6.48] } 20. Rhd1 { [%eval 6.55] } 20... h6 { [%eval 6.61] }
+21. Na4 { [%eval 6.82] } 21... Qb4 { [%eval 6.81] } 22. Rd4 { [%eval 6.51] }
+22... Qa5 { [%eval 6.81] } 23. Nc3 { [%eval 6.90] } 23... Rc8 { [%eval 9.76] }
+24. Ra4 { [%eval 9.96] } 1-0

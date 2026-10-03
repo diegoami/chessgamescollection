@@ -1,0 +1,40 @@
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2015.07.28"]
+[Round "?"]
+[White "xyz7"]
+[Black "diegoami"]
+[Result "0-1"]
+[ECO "B44"]
+[WhiteElo "1828"]
+[BlackElo "1687"]
+[TimeControl "1 in 3 days"]
+[EndDate "2015.08.08"]
+[Termination "diegoami won by resignation"]
+[PostmortemId "02c2fba7bf"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. e4 { [%eval 0.19] } 1... c5 { [%eval 0.32] } 2. Nf3 { [%eval 0.31] } 2... e6
+{ [%eval 0.50] } 3. d4 { [%eval 0.46] } 3... cxd4 { [%eval 0.44] } 4. Nxd4
+{ [%eval 0.38] } 4... Nc6 { [%eval 0.41] } 5. Be2 { [%eval 0.21] } 5... Qc7
+{ [%eval 0.40] } 6. Nb5 { [%eval 0.20] } 6... Qb8 { [%eval 0.23] } 7. c4
+{ [%eval 0.20] } 7... a6 { [%eval 0.52] } 8. N5c3 { [%eval 0.38] } 8... Nf6
+{ [%eval 0.64] } 9. O-O { [%eval 0.37] } 9... Bc5 { [%eval 0.37] } 10. a3
+{ [%eval 0.31] } 10... O-O { [%eval 0.34] } 11. b4 { [%eval 0.46] } 11... Ba7
+{ [%eval 0.41] } 12. Bg5 { [%eval -0.15] } 12... Qe5 { [%eval -0.25] } 13. Bxf6
+{ [%eval -0.51] } 13... Qxf6 { [%eval -0.54] } 14. c5 { [%eval -1.24] } 14...
+b6 { [%eval -1.13] } 15. cxb6 { [%eval -1.16] } 15... Bxb6 { [%eval -1.17] }
+16. Ra2 { [%eval -1.09] } 16... Rd8 { [%eval -0.58] } 17. Na4 { [%eval -0.62] }
+17... Bc7 { [%eval -0.47] } 18. Nd2 { [%eval -0.47] } 18... Bb7
+{ [%eval 0.02] } 19. Nc5 { [%eval 0.03] } 19... Ra7 { [%eval 0.20] } 20. Nxb7
+{ [%eval 0.14] } 20... Rxb7 { [%eval 0.10] } 21. Bxa6 { [%eval 0.09] } 21...
+Ra7 { [%eval 0.10] } 22. Bd3 $4 { [%eval -5.06] } ( 22. Bc4 h5 23. Qxh5 Rda8
+24. Qh3 Nxb4 25. axb4 Rxa2 $10 ) 22... Nxb4 { [%eval -5.44] } ( 22... Nxb4 23.
+e5 Bxe5 24. Bxh7+ Kf8 25. Ne4 Bxh2+ 26. Kxh2 $19 ) 23. axb4 { [%eval -5.45] }
+23... Rxa2 { [%eval -5.78] } 24. Nf3 { [%eval -5.98] } 24... d5
+{ [%eval -4.54] } 25. exd5 { [%eval -5.14] } 25... Rxd5 { [%eval -5.17] } 26.
+Bxh7+ { [%eval -5.22] } 26... Kf8 { [%eval -5.13] } 27. Qb1 { [%eval -5.97] }
+27... Qb2 { [%eval -5.30] } 28. Be4 { [%eval -5.67] } 28... Qxb1
+{ [%eval -5.60] } 29. Rxb1 { [%eval -5.56] } 29... Rb5 { [%eval -4.64] } 30.
+Bc6 { [%eval -6.96] } 30... Rxb4 { [%eval -6.96] } 31. Rd1 { [%eval -7.79] }
+31... Bb6 { [%eval -6.83] } 0-1

@@ -1,0 +1,38 @@
+[Event "www.ChessWorld.net server game"]
+[Site "www.ChessWorld.net "]
+[Date "2007.02.18"]
+[Round "?.11"]
+[White "megamoff"]
+[Black "Diego Amicabile"]
+[Result "1-0"]
+[ECO "B14"]
+[WhiteElo "2221"]
+[BlackElo "2003"]
+[EventDate "2007.??.??"]
+[PostmortemId "480e8f7b31"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. c4 { [%eval 0.18] } 1... e6 { [%eval 0.26] } 2. d4 { [%eval 0.22] } 2... Nf6
+{ [%eval 0.24] } 3. Nc3 { [%eval 0.15] } 3... Bb4 { [%eval 0.14] } 4. Qc2
+{ [%eval 0.16] } 4... O-O { [%eval 0.15] } 5. Nf3 { [%eval 0.08] } 5... c5
+{ [%eval 0.08] } 6. e3 { [%eval -0.03] } 6... d5 { [%eval 0.09] } 7. cxd5
+{ [%eval -0.02] } 7... cxd4 { [%eval 0.01] } 8. exd4 { [%eval -0.18] } 8...
+Nxd5 { [%eval 0.08] } 9. Bd2 { [%eval 0.00] } 9... Bxc3 { [%eval 0.71] } 10.
+bxc3 { [%eval 0.68] } 10... Nc6 { [%eval 0.62] } 11. Be2 { [%eval 0.46] } 11...
+b6 { [%eval 0.48] } 12. O-O { [%eval 0.48] } 12... Bb7 { [%eval 0.55] } 13. Bd3
+{ [%eval 0.17] } 13... h6 { [%eval 0.10] } 14. Rfe1 { [%eval 0.05] } 14... Rc8
+{ [%eval 0.04] } 15. a3 { [%eval 0.02] } 15... Na5 { [%eval 0.16] } 16. Qb2
+{ [%eval -0.12] } 16... Nc4 { [%eval -0.11] } 17. Bxc4 { [%eval -0.09] } 17...
+Rxc4 { [%eval -0.17] } 18. Ne5 { [%eval -0.26] } 18... Rc8 { [%eval -0.24] }
+19. c4 { [%eval -0.42] } 19... Nf6 { [%eval -0.02] } 20. f3 { [%eval 0.02] }
+20... Nd7 { [%eval 0.00] } 21. Nxd7 { [%eval 0.02] } 21... Qxd7
+{ [%eval 0.00] } 22. Rac1 { [%eval 0.00] } 22... Rfd8 { [%eval 0.00] } 23. Be3
+{ [%eval 0.00] } 23... Qa4 { [%eval 0.04] } 24. Qb4 { [%eval 0.01] } 24... Qxb4
+{ [%eval 0.06] } 25. axb4 { [%eval 0.00] } 25... Ba6 { [%eval 0.90] } 26. b5
+{ [%eval 1.12] } 26... Bb7 { [%eval 1.27] } 27. Re2 $6 { [%eval -0.05] } ( 27.
+c5 a6 28. bxa6 Bxa6 29. Ra1 Bb7 30. cxb6 Rc3 $16 ) 27... g5 $2 { [%eval 3.28] }
+( 27... a6 28. Rb2 Rd7 29. bxa6 Bxa6 30. Rbc2 Rc6 31. h4 $10 ) ( 27... a6 28.
+Rb2 Rd7 29. bxa6 Bxa6 30. Rbc2 Rc6 31. h4 $10 ) 28. Ra2 { [%eval 4.14] } ( 28.
+Ra2 Ra8 29. Rca1 f5 30. Rxa7 Rxa7 31. Rxa7 Rd7 $18 ) 28... Bd5 { [%eval 5.42] }
+29. cxd5 { [%eval 5.51] } 29... exd5 { [%eval 6.39] } 30. Rac2 { [%eval 6.38] }
+30... Rxc2 { [%eval 6.28] } 1-0

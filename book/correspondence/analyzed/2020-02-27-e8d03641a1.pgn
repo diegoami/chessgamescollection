@@ -1,0 +1,38 @@
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2020.02.27"]
+[Round "?"]
+[White "ChessRaise"]
+[Black "diegoami"]
+[Result "1-0"]
+[ECO "B49"]
+[WhiteElo "1938"]
+[BlackElo "1825"]
+[EventDate "2020.??.??"]
+[TimeControl "1/259200:0"]
+[PostmortemId "e8d03641a1"]
+[PostmortemAnalysis "Stockfish 16, depth 22"]
+
+1. e4 { [%eval 0.23] } 1... c5 { [%eval 0.37] } 2. Nf3 { [%eval 0.41] } 2... e6
+{ [%eval 0.45] } 3. Nc3 { [%eval 0.42] } 3... Nc6 { [%eval 0.54] } 4. d4
+{ [%eval 0.43] } 4... cxd4 { [%eval 0.38] } 5. Nxd4 { [%eval 0.51] } 5... Qc7
+{ [%eval 0.42] } 6. Be2 { [%eval 0.41] } 6... a6 { [%eval 0.40] } 7. O-O
+{ [%eval 0.37] } 7... Nf6 { [%eval 0.39] } 8. Be3 { [%eval 0.34] } 8... Bb4
+{ [%eval 0.43] } 9. Na4 { [%eval 0.47] } 9... Be7 { [%eval 0.34] } 10. Nxc6
+{ [%eval 0.49] } 10... bxc6 { [%eval 0.49] } 11. Nb6 { [%eval 0.46] } 11... Rb8
+{ [%eval 0.43] } 12. Nxc8 { [%eval 0.47] } 12... Rxc8 { [%eval 1.15] } 13. Bxa6
+{ [%eval 1.12] } 13... Ra8 { [%eval 1.10] } 14. Bd3 { [%eval 1.14] } 14... d5
+{ [%eval 1.55] } 15. exd5 { [%eval 1.80] } 15... cxd5 { [%eval 2.39] } 16. Bb5+
+{ [%eval 2.39] } 16... Nd7 { [%eval 3.20] } 17. c4 { [%eval 3.32] } 17... dxc4
+{ [%eval 3.38] } 18. Rc1 { [%eval 3.19] } 18... Rd8 { [%eval 4.10] } 19. Rxc4
+{ [%eval 4.17] } 19... Qb7 { [%eval 4.18] } 20. a4 { [%eval 3.16] } 20... O-O
+{ [%eval 3.21] } 21. Qc2 { [%eval 3.39] } 21... Rc8 { [%eval 3.81] } 22. Rc1
+{ [%eval 3.85] } 22... Rxc4 { [%eval 3.90] } 23. Qxc4 { [%eval 4.07] } 23...
+Ne5 { [%eval 4.17] } 24. Qc7 { [%eval 4.08] } 24... Qxc7 { [%eval 4.10] } 25.
+Rxc7 { [%eval 4.20] } 25... Bd6 { [%eval 4.10] } 26. Rb7 { [%eval 4.27] } 26...
+h6 { [%eval 4.80] } 27. a5 { [%eval 4.82] } 27... Ra8 { [%eval 5.28] } 28. a6
+{ [%eval 5.31] } 28... Ng4 { [%eval 5.05] } 29. h3 { [%eval 4.12] } 29... Nxe3
+{ [%eval 4.06] } 30. fxe3 { [%eval 4.07] } 30... Bc5 { [%eval 4.44] } 31. Kf2
+{ [%eval 4.48] } 31... Ra7 { [%eval 5.16] } 32. Rb8+ { [%eval 5.28] } 32... Kh7
+{ [%eval 5.21] } 33. b4 { [%eval 5.19] } 33... Bd6 { [%eval 5.30] } 34. Rb6
+{ [%eval 5.27] } 1-0

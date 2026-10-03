@@ -1,0 +1,35 @@
+[Event "www.ChessWorld.net server game"]
+[Site "www.ChessWorld.net "]
+[Date "2007.05.20"]
+[Round "?.197"]
+[White "Diego Amicabile"]
+[Black "wuh"]
+[Result "0-1"]
+[ECO "D85"]
+[EventDate "2007.??.??"]
+[PostmortemId "f15f6cd149"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. d4 { [%eval 0.19] } 1... Nf6 { [%eval 0.20] } 2. c4 { [%eval 0.22] } 2... g6
+{ [%eval 0.26] } 3. Nc3 { [%eval 0.26] } 3... d5 { [%eval 0.22] } 4. cxd5
+{ [%eval 0.36] } 4... Nxd5 { [%eval 0.22] } 5. e4 { [%eval 0.23] } 5... Nxc3
+{ [%eval 0.28] } 6. bxc3 { [%eval 0.32] } 6... Bg7 { [%eval 0.23] } 7. Be3
+{ [%eval 0.21] } 7... c5 { [%eval 0.19] } 8. Bb5+ { [%eval -0.03] } 8... Bd7
+{ [%eval 0.24] } 9. Bxd7+ { [%eval 0.21] } 9... Nxd7 { [%eval 0.22] } 10. Ne2
+{ [%eval 0.09] } 10... O-O { [%eval 0.13] } 11. O-O { [%eval 0.13] } 11... cxd4
+{ [%eval 0.16] } 12. cxd4 { [%eval 0.12] } 12... Nb6 { [%eval 0.29] } 13. Qb3
+{ [%eval 0.28] } 13... Rc8 { [%eval 0.21] } 14. Rfc1 { [%eval 0.14] } 14... Qd7
+{ [%eval 0.10] } 15. Rab1 { [%eval 0.12] } 15... Rxc1+ { [%eval 0.18] } 16.
+Rxc1 { [%eval 0.12] } 16... Rc8 { [%eval 0.08] } 17. d5 { [%eval 0.18] } 17...
+Rxc1+ { [%eval 0.10] } 18. Bxc1 { [%eval -0.10] } 18... Qg4 { [%eval 0.13] }
+19. Qd3 { [%eval -0.07] } 19... Nd7 { [%eval 0.39] } 20. f3 { [%eval 0.17] }
+20... Qh4 { [%eval 0.21] } 21. Bd2 { [%eval 0.18] } 21... Ne5 { [%eval 0.74] }
+22. Qb5 { [%eval 0.89] } 22... Bh6 { [%eval 0.80] } 23. Qe8+ { [%eval 1.12] }
+23... Kg7 $2 { [%eval 4.43] } ( 23... Bf8 24. Qc8 b6 25. h3 b5 26. Nd4 h6 27.
+Kh2 $16 ) 24. Bxh6+ $4 { [%eval 0.00] } ( 24. Bc3 Bf4 25. h3 b5 26. Kf1 b4 27.
+Bd4 h5 $18 ) ( 24. Bc3 Bf4 25. h3 b5 26. Kf1 b4 27. Bd4 h5 $18 ) 24... Qxh6
+{ [%eval 0.00] } ( 24... Qxh6 25. f4 Qh4 26. g3 Qh5 27. Qxe7 Nc4 28. e5 $10 )
+25. Qxe7 $4 { [%eval -5.91] } ( 25. f4 Qh4 26. g3 Qh5 27. Qxe7 Nc4 28. e5 Qxe2
+$10 ) 25... Qe3+ { [%eval -6.18] } ( 25... Qe3+ 26. Kh1 Nd3 27. h3 Qxe2 28. Kh2
+Qb2 29. Qg5 $19 ) 26. Kf1 { [%eval -7.49] } 26... Nd3 { [%eval -7.58] } 27. Qh4
+{ [%eval -7.77] } 27... Qd2 { [%eval -7.46] } 0-1

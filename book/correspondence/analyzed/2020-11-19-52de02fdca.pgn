@@ -1,0 +1,36 @@
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2020.11.19"]
+[Round "?"]
+[White "diegoami"]
+[Black "ppac51"]
+[Result "1-0"]
+[ECO "C78"]
+[WhiteElo "1811"]
+[BlackElo "1452"]
+[EventDate "2020.??.??"]
+[TimeControl "1/604800:0"]
+[PostmortemId "52de02fdca"]
+[PostmortemAnalysis "Stockfish 16, depth 22"]
+
+1. e4 { [%eval 0.23] } 1... e5 { [%eval 0.23] } 2. Nf3 { [%eval 0.14] } 2...
+Nc6 { [%eval 0.21] } 3. Bb5 { [%eval 0.17] } 3... a6 { [%eval 0.42] } 4. Ba4
+{ [%eval 0.38] } 4... b5 { [%eval 0.47] } 5. Bb3 { [%eval 0.47] } 5... Nf6
+{ [%eval 0.50] } 6. O-O { [%eval 0.43] } 6... Bc5 { [%eval 0.41] } 7. a4
+{ [%eval 0.41] } 7... bxa4 { [%eval 0.78] } 8. Bxa4 { [%eval 0.76] } 8... Bb7
+{ [%eval 0.97] } 9. d3 { [%eval 0.91] } 9... O-O { [%eval 1.57] } 10. Bg5
+{ [%eval 0.83] } 10... h6 { [%eval 0.97] } 11. Bh4 { [%eval 0.82] } 11... d6
+{ [%eval 0.79] } 12. Nbd2 { [%eval 0.82] } 12... Nb8 { [%eval 1.71] } 13. Nc4
+{ [%eval 1.59] } 13... Bc6 { [%eval 1.45] } 14. Ne3 { [%eval 0.65] } 14... Bxa4
+{ [%eval 0.61] } 15. Rxa4 { [%eval 0.55] } 15... Qe8 $2 { [%eval 4.00] } (
+15... Bxe3 16. fxe3 Nbd7 17. h3 Qb8 18. b3 Re8 19. Nd2 $14 ) 16. Bxf6
+{ [%eval 4.52] } ( 16. Bxf6 Bxe3 17. fxe3 Qxa4 18. Nh4 Kh7 19. Bxg7 Rg8 $18 )
+16... Qxa4 { [%eval 5.44] } 17. Nh4 { [%eval 4.40] } 17... Nd7 { [%eval 5.23] }
+18. Bxg7 { [%eval 5.34] } 18... Kxg7 $6 { [%eval #5] } ( 18... Bxe3 19. fxe3
+Kxg7 20. Qh5 f5 21. Qg6+ Kh8 22. Nxf5 $18 ) 19. Qg4+ $2 { [%eval 3.25] } ( 19.
+Nhf5+ Kh7 20. Qh5 Bxe3 21. fxe3 Nf6 22. Qxh6+ Kg8 $18 ) ( 19. Nhf5+ Kh7 20. Qh5
+Bxe3 21. fxe3 Nf6 22. Qxh6+ Kg8 $18 ) 19... Kh7 $2 { [%eval #8] } ( 19... Kh8
+20. Qh5 Nf6 21. Qxh6+ Nh7 22. Nd5 Rg8 23. Nf6 $18 ) ( 19... Kh8 20. Qh5 Nf6 21.
+Qxh6+ Nh7 22. Nd5 Rg8 23. Nf6 $18 ) 20. Nef5 { [%eval #7] } ( 20. Nef5 Rg8 21.
+Qh5 Rg6 22. Nxg6 Bxf2+ 23. Rxf2 Qa1+ $18 ) 20... Rg8 { [%eval #7] } 21. Qh5
+{ [%eval #6] } 21... Rg6 { [%eval #6] } 22. Nxg6 { [%eval #5] } 1-0

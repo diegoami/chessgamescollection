@@ -1,0 +1,37 @@
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2016.03.31"]
+[Round "?"]
+[White "diegoami"]
+[Black "conejitosuavecito"]
+[Result "1-0"]
+[ECO "B30"]
+[WhiteElo "1871"]
+[BlackElo "1751"]
+[TimeControl "1 in 3 days"]
+[EndDate "2016.04.09"]
+[Termination "diegoami won by resignation"]
+[PostmortemId "27ce2dbce8"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. e4 { [%eval 0.19] } 1... c5 { [%eval 0.32] } 2. Nf3 { [%eval 0.31] } 2...
+Nc6 { [%eval 0.35] } 3. d4 { [%eval 0.37] } 3... cxd4 { [%eval 0.21] } 4. Bc4
+{ [%eval -0.45] } 4... e6 { [%eval 0.13] } 5. O-O { [%eval -0.21] } 5... Bc5
+{ [%eval -0.10] } 6. c3 { [%eval -0.20] } 6... dxc3 { [%eval -0.28] } 7. Nxc3
+{ [%eval -0.25] } 7... Nge7 { [%eval -0.19] } 8. Bf4 { [%eval -0.25] } 8... O-O
+{ [%eval -0.21] } 9. Qe2 { [%eval -0.80] } 9... Ng6 { [%eval -0.85] } 10. Bg3
+{ [%eval -0.86] } 10... b6 { [%eval 0.21] } 11. Rfd1 { [%eval 0.15] } 11... e5
+{ [%eval 0.50] } 12. Rac1 { [%eval 0.02] } 12... Nd4 $6 { [%eval 1.75] } (
+12... d6 13. Bd5 Qd7 14. a3 a5 15. b4 axb4 16. axb4 $10 ) 13. Nxd4
+{ [%eval 1.72] } ( 13. Nxd4 Bxd4 14. Bd5 Rb8 15. Rxd4 exd4 16. Bxb8 d6 $16 )
+13... Bxd4 { [%eval 1.63] } 14. Bd5 { [%eval 1.69] } 14... Rb8 { [%eval 1.75] }
+15. Nb5 $2 { [%eval -0.57] } ( 15. Rxd4 exd4 16. Bxb8 d6 17. Rd1 Be6 18. Bxd6
+Qxd6 $16 ) 15... Ba6 { [%eval -0.57] } ( 15... Ba6 16. h4 Qf6 17. a4 Bxb5 18.
+axb5 Nxh4 19. Qg4 $15 ) 16. Bc4 { [%eval -0.64] } 16... Bxb5 { [%eval -0.71] }
+17. Bxb5 { [%eval -0.56] } 17... d5 { [%eval 0.03] } 18. Rxd4 { [%eval 0.00] }
+18... exd4 { [%eval 0.08] } 19. Bxb8 { [%eval 0.01] } 19... Qxb8
+{ [%eval 0.00] } 20. exd5 { [%eval 0.00] } 20... Rd8 { [%eval 0.02] } 21. Qe4
+{ [%eval 0.06] } 21... Nf4 { [%eval 0.12] } 22. Qxd4 { [%eval 0.03] } 22... a6
+$2 { [%eval 2.81] } ( 22... g6 23. Bc4 b5 24. g3 Rxd5 25. Qxf4 Qxf4 26. gxf4
+$10 ) 23. Bxa6 { [%eval 3.38] } ( 23. Bxa6 b5 24. Bxb5 Qxb5 25. Qxf4 Qxd5 26.
+Qa4 g6 $16 ) 23... b5 { [%eval 2.98] } 24. Bxb5 { [%eval 3.38] } 1-0

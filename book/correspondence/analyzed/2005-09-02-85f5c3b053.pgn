@@ -1,0 +1,22 @@
+[Event "www.ChessWorld.net server game"]
+[Site "www.ChessWorld.net "]
+[Date "2005.09.02"]
+[Round "?"]
+[White "Diego Amicabile"]
+[Black "Stantonee"]
+[Result "1-0"]
+[ECO "B21"]
+[WhiteElo "1978"]
+[BlackElo "1722"]
+[EventDate "2005.??.??"]
+[PostmortemId "85f5c3b053"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. e4 { [%eval 0.19] } 1... c5 { [%eval 0.32] } 2. d4 { [%eval 0.03] } 2...
+cxd4 { [%eval 0.10] } 3. c3 { [%eval -0.27] } 3... dxc3 { [%eval -0.25] } 4.
+Nxc3 { [%eval -0.27] } 4... Nc6 { [%eval -0.21] } 5. Nf3 { [%eval -0.16] } 5...
+d6 { [%eval -0.17] } 6. Bc4 { [%eval -0.20] } 6... Nf6 { [%eval 0.04] } 7. e5
+{ [%eval 0.08] } 7... Nxe5 $4 { [%eval 5.32] } ( 7... Ng4 8. exd6 exd6 9. O-O
+Be7 10. h3 Nf6 11. Re1 $10 ) 8. Nxe5 { [%eval 5.40] } ( 8. Nxe5 e6 9. Bb5+ Nd7
+10. Bxd7+ Bxd7 11. Nxd7 Qxd7 $18 ) 8... dxe5 { [%eval 8.42] } 9. Bxf7+
+{ [%eval 8.43] } 9... Kxf7 { [%eval 8.37] } 10. Qxd8 { [%eval 8.30] } 1-0

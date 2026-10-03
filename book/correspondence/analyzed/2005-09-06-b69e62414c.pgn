@@ -1,0 +1,15 @@
+[Event "www.ChessWorld.net server game"]
+[Site "www.ChessWorld.net "]
+[Date "2005.09.06"]
+[Round "?"]
+[White "Philippe"]
+[Black "Diego Amicabile"]
+[Result "0-1"]
+[ECO "C00"]
+[WhiteElo "1903"]
+[BlackElo "1937"]
+[EventDate "2005.??.??"]
+[PostmortemId "b69e62414c"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. e4 { [%eval 0.19] } 1... e6 { [%eval 0.38] } 2. d4 { [%eval 0.38] } 0-1

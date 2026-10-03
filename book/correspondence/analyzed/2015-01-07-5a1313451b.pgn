@@ -1,0 +1,43 @@
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2015.01.07"]
+[Round "?"]
+[White "kjellhof"]
+[Black "diegoami"]
+[Result "0-1"]
+[ECO "B20"]
+[WhiteElo "1547"]
+[BlackElo "1522"]
+[TimeControl "1 in 1 day"]
+[EndDate "2015.01.19"]
+[Termination "diegoami won by resignation"]
+[PostmortemId "5a1313451b"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. e4 { [%eval 0.19] } 1... c5 { [%eval 0.32] } 2. Bc4 { [%eval -0.04] } 2...
+d6 { [%eval 0.15] } 3. Nf3 { [%eval 0.10] } 3... Nf6 { [%eval 0.10] } 4. d3
+{ [%eval 0.06] } 4... g6 { [%eval 0.44] } 5. h3 { [%eval -0.02] } 5... Bg7
+{ [%eval 0.02] } 6. O-O { [%eval 0.07] } 6... O-O { [%eval 0.01] } 7. Nc3
+{ [%eval -0.07] } 7... a6 { [%eval 0.06] } 8. a4 { [%eval 0.00] } 8... Nc6
+{ [%eval 0.03] } 9. Qd2 { [%eval -0.28] } 9... Bd7 { [%eval -0.09] } 10. b3 $6
+{ [%eval -1.98] } ( 10. Qg5 Nb4 11. Bb3 Be6 12. Bxe6 Nxc2 13. Bxf7+ Rxf7 $10 )
+10... Na5 $6 { [%eval -0.58] } ( 10... e6 11. Rb1 Nd4 12. b4 d5 13. Ba2 Nxf3+
+14. gxf3 $17 ) ( 10... e6 11. Rb1 Nd4 12. b4 d5 13. Ba2 Nxf3+ 14. gxf3 $17 )
+11. Bb2 { [%eval -0.50] } ( 11. Bb2 e6 12. e5 Ne8 13. Ne4 Nc6 14. d4 d5 $15 )
+11... Nxc4 { [%eval 0.20] } 12. bxc4 { [%eval 0.02] } 12... Bc6
+{ [%eval 0.07] } 13. Rae1 { [%eval -0.24] } 13... Nd7 { [%eval -0.15] } 14. d4
+$6 { [%eval -1.68] } ( 14. Ra1 e6 15. Rfe1 h6 16. Nh2 Qa5 17. Nf1 h5 $10 )
+14... cxd4 { [%eval -1.81] } ( 14... Nb6 15. Qd3 cxd4 16. Nxd4 Nxa4 17. Ba1 Nc5
+18. Qe3 $17 ) 15. Nxd4 { [%eval -1.87] } 15... Ne5 { [%eval -1.64] } 16. Nxc6
+{ [%eval -2.00] } 16... bxc6 { [%eval -1.97] } 17. Qe2 { [%eval -2.05] } 17...
+Rb8 { [%eval -1.52] } 18. Bc1 $6 { [%eval -3.06] } ( 18. Nd1 Qb6 19. Kh1 Qc5
+20. f4 Nxc4 21. Bxg7 Kxg7 $17 ) 18... Qa5 { [%eval -2.21] } ( 18... Rb4 19. c5
+Nd7 20. e5 d5 21. f4 Rc4 22. Nd1 $19 ) 19. f4 $6 { [%eval -4.77] } ( 19. Nd1
+Qxa4 20. Ne3 Qb4 21. Bd2 Qb6 22. Kh2 Nd7 $17 ) 19... Qxc3 { [%eval -4.87] } (
+19... Qxc3 20. fxe5 Bxe5 21. Rf3 Qa5 22. Ref1 Rb1 23. g4 $19 ) 20. fxe5
+{ [%eval -5.14] } 20... Bxe5 { [%eval -5.12] } 21. Bh6 { [%eval -5.14] } 21...
+Rfc8 { [%eval -4.64] } 22. Bg5 { [%eval -5.06] } 22... Rb2 { [%eval -5.30] }
+23. Bxe7 { [%eval -5.32] } 23... Rxc2 { [%eval -5.52] } 24. Qf3
+{ [%eval -5.54] } 24... Qxf3 { [%eval -5.61] } 25. Rxf3 { [%eval -5.54] } 25...
+Rxc4 { [%eval -5.31] } 26. Ref1 { [%eval -6.51] } 26... Rxe4 { [%eval -6.40] }
+27. Bf6 { [%eval -6.87] } 27... Rc7 { [%eval -6.91] } 0-1

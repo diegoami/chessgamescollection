@@ -1,0 +1,32 @@
+[Event "Hafnarfj&ouml;r&eth;ur open - Round 2"]
+[Site "Chess.com"]
+[Date "2011.11.14"]
+[Round "?"]
+[White "jarekdudziak"]
+[Black "diegoami"]
+[Result "*"]
+[ECO "A85"]
+[WhiteElo "1985"]
+[BlackElo "1854"]
+[EventDate "2011.??.??"]
+[TimeControl "1"]
+[PostmortemId "f59df23cfd"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. d4 { [%eval 0.19] } 1... f5 { [%eval 0.53] } 2. c4 { [%eval 0.47] } 2... e6
+{ [%eval 0.42] } 3. Nf3 { [%eval 0.52] } 3... Nf6 { [%eval 0.55] } 4. Nc3
+{ [%eval 0.33] } 4... Bb4 { [%eval 0.32] } 5. Qb3 { [%eval 0.39] } 5... a5
+{ [%eval 0.26] } 6. g3 { [%eval 0.28] } 6... O-O { [%eval 0.27] } 7. Bg2
+{ [%eval 0.23] } 7... Ne4 { [%eval 0.62] } 8. O-O { [%eval 0.59] } 8... Bxc3
+{ [%eval 0.57] } 9. bxc3 { [%eval 0.61] } 9... d6 { [%eval 0.56] } 10. Nd2
+{ [%eval 0.38] } 10... Nxd2 { [%eval 0.40] } 11. Bxd2 { [%eval 0.36] } 11...
+Nc6 { [%eval 0.83] } 12. Rab1 { [%eval 0.19] } 12... Kh8 { [%eval 0.64] } 13.
+Qb5 { [%eval 0.23] } 13... a4 { [%eval 0.34] } 14. Bxc6 { [%eval 0.06] } 14...
+bxc6 { [%eval 0.00] } 15. Qxc6 { [%eval 0.09] } 15... Bd7 { [%eval 0.07] } 16.
+Qf3 { [%eval -0.12] } 16... Qe8 { [%eval 0.00] } 17. Qb7 { [%eval -0.26] }
+17... c5 $2 { [%eval 2.75] } ( 17... Rc8 18. c5 Bc6 19. Qb4 f4 20. cxd6 f3 21.
+exf3 $10 ) 18. Qc7 { [%eval 2.85] } ( 18. Qc7 e5 19. Qxd6 cxd4 20. cxd4 exd4
+21. Qxd4 Bc6 $16 ) 18... e5 { [%eval 2.82] } 19. Rb7 { [%eval 3.14] } 19... Rd8
+$6 { [%eval 7.05] } ( 19... Rf7 20. Qxd6 cxd4 21. cxd4 exd4 22. Rfb1 Rd8 23.
+Bg5 $18 ) 20. Bg5 { [%eval 7.00] } ( 20. Bg5 Rc8 21. Qxd7 Qxd7 22. Rxd7 h6 23.
+Bd2 cxd4 $18 ) *

@@ -1,0 +1,31 @@
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2017.07.28"]
+[Round "?"]
+[White "superwaldan"]
+[Black "diegoami"]
+[Result "1-0"]
+[ECO "C02"]
+[WhiteElo "1635"]
+[BlackElo "1774"]
+[TimeControl "1 in 10 days"]
+[EndDate "2017.08.18"]
+[Termination "superwaldan won by resignation"]
+[PostmortemId "66c9d836de"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. d4 { [%eval 0.19] } 1... e6 { [%eval 0.44] } 2. e4 { [%eval 0.41] } 2... d5
+{ [%eval 0.47] } 3. e5 { [%eval 0.19] } 3... a6 { [%eval 0.37] } 4. c3
+{ [%eval 0.41] } 4... Ne7 { [%eval 0.60] } 5. Bg5 { [%eval 0.00] } 5... c5
+{ [%eval 0.00] } 6. Bd3 { [%eval 0.04] } 6... cxd4 { [%eval 0.72] } 7. cxd4
+{ [%eval 0.74] } 7... Nbc6 { [%eval 0.68] } 8. Ne2 { [%eval 0.45] } 8... Qb6
+{ [%eval 1.08] } 9. O-O { [%eval 0.03] } 9... Nxd4 $4 { [%eval 5.62] } ( 9...
+Bd7 10. Be3 Nb4 11. Nbc3 Nxd3 12. Qxd3 Rc8 13. Qd2 $10 ) 10. Nxd4
+{ [%eval 5.49] } ( 10. Nxd4 Qxb2 11. Be3 Nc6 12. Nxc6 bxc6 13. Qc1 Qxc1 $18 )
+10... Bd7 { [%eval 6.48] } 11. Be3 { [%eval 5.97] } 11... Qxb2 { [%eval 6.07] }
+12. Nd2 { [%eval 6.04] } 12... Ng6 { [%eval 6.65] } 13. Rb1 { [%eval 6.77] }
+13... Qxa2 { [%eval 6.80] } 14. Rxb7 { [%eval 6.13] } 14... Nxe5
+{ [%eval 6.23] } 15. N2f3 { [%eval 6.44] } 15... Bd6 { [%eval 8.42] } 16. Nxe5
+{ [%eval 8.60] } 16... Bxe5 { [%eval 8.32] } 17. Qh5 { [%eval 8.43] } 17... Bf6
+{ [%eval 10.29] } 18. Rxd7 { [%eval 10.24] } 18... Kxd7 { [%eval 16.42] } 19.
+Qxf7+ { [%eval 21.23] } 1-0

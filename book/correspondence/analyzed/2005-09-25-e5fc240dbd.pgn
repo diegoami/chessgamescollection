@@ -1,0 +1,36 @@
+[Event "www.ChessWorld.net server game"]
+[Site "www.ChessWorld.net "]
+[Date "2005.09.25"]
+[Round "?"]
+[White "HaydenJames"]
+[Black "Diego Amicabile"]
+[Result "0-1"]
+[BlackElo "2093"]
+[EventDate "2005.??.??"]
+[PostmortemId "e5fc240dbd"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. e4 { [%eval 0.19] } 1... e6 { [%eval 0.38] } 2. d4 { [%eval 0.38] } 2... d5
+{ [%eval 0.50] } 3. Nc3 { [%eval 0.47] } 3... dxe4 { [%eval 0.38] } 4. Nxe4
+{ [%eval 0.37] } 4... Bd7 { [%eval 0.51] } 5. Nf3 { [%eval 0.51] } 5... Bc6
+{ [%eval 0.50] } 6. Bd3 { [%eval 0.54] } 6... Nd7 { [%eval 0.54] } 7. O-O
+{ [%eval 0.59] } 7... Ngf6 { [%eval 0.49] } 8. Bg5 { [%eval 0.33] } 8... Be7
+{ [%eval 0.32] } 9. Re1 { [%eval -0.54] } 9... Nxe4 { [%eval -0.48] } 10. Bxe7
+{ [%eval -0.43] } 10... Qxe7 { [%eval 0.00] } 11. Bxe4 { [%eval 0.04] } 11...
+Bxe4 { [%eval 0.16] } 12. Rxe4 { [%eval 0.14] } 12... Nf6 { [%eval 0.15] } 13.
+Re3 { [%eval 0.06] } 13... O-O { [%eval 0.13] } 14. c3 { [%eval 0.07] } 14...
+Rad8 { [%eval 0.09] } 15. Qb3 { [%eval 0.05] } 15... c5 { [%eval 0.04] } 16.
+Rd1 { [%eval -0.01] } 16... cxd4 { [%eval 0.00] } 17. Nxd4 { [%eval -0.09] }
+17... Qc5 { [%eval 0.11] } 18. Rde1 { [%eval -0.07] } 18... Qd5
+{ [%eval 0.13] } 19. Qa4 { [%eval 0.01] } 19... Rfe8 { [%eval 0.05] } 20. Re5
+{ [%eval -0.07] } 20... Qd7 { [%eval 0.22] } 21. Qxa7 { [%eval 0.08] } 21...
+Ra8 { [%eval 0.08] } 22. Qb6 { [%eval 0.09] } 22... Rxa2 { [%eval 0.07] } 23.
+h3 { [%eval 0.06] } 23... Nd5 { [%eval 0.13] } 24. Qb3 { [%eval 0.09] } 24...
+Rea8 { [%eval 0.04] } 25. f4 $2 { [%eval -2.60] } ( 25. Nf3 Ra1 26. Re4 h6 27.
+g3 Nf6 28. Rd4 Qc6 $10 ) 25... Nxf4 { [%eval -2.68] } ( 25... Nxf4 26. Qb5 Qc7
+27. Qf1 Ng6 28. Rb5 h6 29. Qf3 $17 ) 26. Qb5 { [%eval -2.69] } 26... Qxb5 $6
+{ [%eval -0.74] } ( 26... Qc7 27. Qf1 Ng6 28. Rb5 h6 29. Kh1 R2a4 30. Nf3 $17 )
+27. Nxb5 $4 { [%eval -6.80] } ( 27. Rxb5 R2a7 28. Nf3 Kf8 29. Re4 Nd5 30. Kf2
+Rc8 $15 ) ( 27. Rxb5 R2a7 28. Nf3 Kf8 29. Re4 Nd5 30. Kf2 Rc8 $15 ) 27... Rxb2
+{ [%eval -6.75] } ( 27... Nd3 28. Nc7 Rf8 29. b4 Nxe1 30. Rxe1 Rd8 31. Re5 $19
+) 0-1

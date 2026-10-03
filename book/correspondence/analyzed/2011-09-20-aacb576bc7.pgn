@@ -1,0 +1,24 @@
+[Event "Six Pack"]
+[Site "Chess.com"]
+[Date "2011.09.20"]
+[Round "?"]
+[White "diegoami"]
+[Black "PaulStopa"]
+[Result "1-0"]
+[ECO "B50"]
+[WhiteElo "1868"]
+[BlackElo "1578"]
+[EventDate "2011.??.??"]
+[TimeControl "1"]
+[PostmortemId "aacb576bc7"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. e4 { [%eval 0.19] } 1... c5 { [%eval 0.32] } 2. Nf3 { [%eval 0.31] } 2... d6
+{ [%eval 0.26] } 3. c3 { [%eval -0.02] } 3... Nf6 { [%eval -0.01] } 4. h3
+{ [%eval 0.01] } 4... Nc6 { [%eval 0.01] } 5. Bd3 { [%eval 0.00] } 5... g6
+{ [%eval 0.05] } 6. O-O { [%eval 0.09] } 6... Bg7 { [%eval 0.07] } 7. Bc2
+{ [%eval 0.06] } 7... O-O { [%eval 0.05] } 8. d4 { [%eval 0.07] } 8... cxd4
+{ [%eval 0.06] } 9. cxd4 { [%eval 0.00] } 9... e5 { [%eval 0.05] } 10. Be3
+{ [%eval -0.01] } 10... Bd7 { [%eval 0.69] } 11. Nc3 { [%eval 0.63] } 11... a6
+{ [%eval 0.92] } 12. a3 { [%eval 0.48] } 12... b5 { [%eval 0.71] } 13. d5
+{ [%eval 0.57] } 1-0

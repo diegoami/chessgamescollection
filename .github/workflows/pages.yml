@@ -1,12 +1,13 @@
 name: Pages
 
-# Publishes the book site that pgn-postmortem builds into book/site/.
+# Publishes the workspace (a landing page over the OTB and correspondence
+# collections) that pgn-postmortem builds into book/workspace/.
 # The site is plain static HTML (relative links, no Jekyll), so it is
 # uploaded as is.
 on:
   push:
     branches: [main]
-    paths: ["book/site/**", ".github/workflows/pages.yml"]
+    paths: ["book/workspace/**", ".github/workflows/pages.yml"]
   workflow_dispatch:
 
 permissions:
@@ -29,6 +30,6 @@ jobs:
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: book/site
+          path: book/workspace
       - id: deployment
         uses: actions/deploy-pages@v4

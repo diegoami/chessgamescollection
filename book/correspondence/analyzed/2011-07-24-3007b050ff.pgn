@@ -1,0 +1,36 @@
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2011.07.24"]
+[Round "?"]
+[White "diegoami"]
+[Black "AlastairBridle"]
+[Result "1-0"]
+[ECO "B30"]
+[WhiteElo "1707"]
+[BlackElo "1595"]
+[EventDate "2011.??.??"]
+[PostmortemId "3007b050ff"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. e4 { [%eval 0.19] } 1... c5 { [%eval 0.32] } 2. Nf3 { [%eval 0.31] } 2...
+Nc6 { [%eval 0.35] } 3. Bb5 { [%eval 0.39] } 3... Qb6 { [%eval 0.66] } 4. Nc3
+{ [%eval 0.65] } 4... d6 { [%eval 1.15] } 5. O-O { [%eval 0.93] } 5... a6
+{ [%eval 0.96] } 6. Bxc6+ { [%eval 0.89] } 6... Qxc6 { [%eval 0.89] } 7. d4
+{ [%eval 0.92] } 7... Bd7 { [%eval 2.07] } 8. Re1 { [%eval 1.60] } 8... O-O-O
+$6 { [%eval 3.61] } ( 8... Bg4 9. d5 Qc7 10. h3 Bxf3 11. Qxf3 g6 12. Bf4 $16 )
+9. d5 { [%eval 3.61] } ( 9. b4 cxb4 10. Nd5 e6 11. Nxb4 Qa4 12. Nd3 Nf6 $18 )
+9... Qb6 { [%eval 4.49] } 10. a3 { [%eval 3.50] } 10... e6 { [%eval 3.79] } 11.
+Rb1 { [%eval 4.18] } 11... Ne7 { [%eval 6.26] } 12. b4 { [%eval 6.17] } 12...
+f5 { [%eval 6.91] } 13. bxc5 { [%eval 7.06] } 13... Qxc5 { [%eval 7.05] } 14.
+Qd3 { [%eval 6.36] } 14... fxe4 { [%eval 6.91] } 15. Nxe4 { [%eval 6.73] }
+15... Qc7 { [%eval 6.83] } 16. dxe6 { [%eval 4.71] } 16... Bxe6
+{ [%eval 5.10] } 17. Be3 $6 { [%eval 3.05] } ( 17. Nc3 Bg8 18. Be3 Re8 19. Bf4
+Rd8 20. Nd4 h6 $18 ) 17... Bc4 { [%eval 3.78] } ( 17... Bc4 18. Qd1 Nd5 19. Bd4
+Be7 20. Nfd2 Kb8 21. Bxg7 $18 ) 18. Qd2 { [%eval 2.86] } 18... Nd5
+{ [%eval 2.87] } 19. Bd4 { [%eval 2.64] } 19... Rg8 $6 { [%eval 5.73] } ( 19...
+Be7 20. Nfg5 Bxg5 21. Qxg5 Rd7 22. f3 Rf8 23. Qd2 $16 ) 20. Neg5 $6
+{ [%eval 2.46] } ( 20. Nc3 Qd7 21. Nxd5 Bxd5 22. Bb6 Bxf3 23. gxf3 Be7 $18 ) (
+20. Nc3 Qd7 21. Nxd5 Bxd5 22. Bb6 Bxf3 23. gxf3 Be7 $18 ) 20... h6 $2
+{ [%eval 6.71] } ( 20... Qc6 21. Nxh7 Be7 22. Nhg5 Kb8 23. h3 Qd7 24. Ne4 $16 )
+( 20... Qc6 21. Nxh7 Be7 22. Nhg5 Kb8 23. h3 Qd7 24. Ne4 $16 ) 21. Ne6
+{ [%eval 6.78] } ( 21. Ne6 Qc6 22. Nxd8 Kxd8 23. Ba1 Be7 24. Qd4 Ba2 $18 ) 1-0

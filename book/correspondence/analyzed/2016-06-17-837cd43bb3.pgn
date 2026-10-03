@@ -1,0 +1,25 @@
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2016.06.17"]
+[Round "?"]
+[White "diegoami"]
+[Black "FrankieJay"]
+[Result "0-1"]
+[ECO "B13"]
+[WhiteElo "1875"]
+[BlackElo "2017"]
+[TimeControl "1 in 3 days"]
+[EndDate "2016.07.05"]
+[Termination "FrankieJay won by resignation"]
+[PostmortemId "837cd43bb3"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. e4 { [%eval 0.19] } 1... c6 { [%eval 0.31] } 2. d4 { [%eval 0.26] } 2... d5
+{ [%eval 0.25] } 3. exd5 { [%eval 0.14] } 3... cxd5 { [%eval 0.18] } 4. Bd3
+{ [%eval 0.15] } 4... Nc6 { [%eval 0.13] } 5. Ne2 { [%eval 0.00] } 5... Nf6
+{ [%eval 0.08] } 6. O-O { [%eval 0.00] } 6... Bg4 { [%eval 0.07] } 7. f3
+{ [%eval -0.12] } 7... Bh5 { [%eval -0.07] } 8. c3 { [%eval 0.03] } 8... Bg6
+{ [%eval 0.05] } 9. Bf4 { [%eval -0.28] } 9... e6 { [%eval -0.22] } 10. Nd2 $4
+{ [%eval -7.54] } ( 10. Nc1 Nh5 11. Be3 Bd6 12. g3 Qc7 13. Qe2 Nf6 $10 ) 10...
+Bxd3 { [%eval -7.45] } ( 10... Bxd3 11. Nb3 Bg6 12. Bg5 Be7 13. Nf4 Bd6 14. Qe2
+$19 ) 0-1

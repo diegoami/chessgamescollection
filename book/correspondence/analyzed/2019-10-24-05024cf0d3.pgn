@@ -1,0 +1,39 @@
+[Event "Let's Play!"]
+[Site "Chess.com"]
+[Date "2019.10.24"]
+[Round "?"]
+[White "Winser101"]
+[Black "diegoami"]
+[Result "1-0"]
+[ECO "B20"]
+[WhiteElo "1800"]
+[BlackElo "1765"]
+[EventDate "2019.??.??"]
+[PostmortemId "05024cf0d3"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. e4 { [%eval 0.19] } 1... c5 { [%eval 0.32] } 2. b4 { [%eval -0.26] } 2...
+cxb4 { [%eval -0.25] } 3. a3 { [%eval -0.28] } 3... bxa3 { [%eval -0.19] } 4.
+d4 { [%eval -0.25] } 4... e6 { [%eval -0.16] } 5. Nxa3 { [%eval -0.20] } 5...
+Ne7 $6 { [%eval 1.30] } ( 5... Bb4+ 6. Bd2 Bxd2+ 7. Qxd2 Ne7 8. Nb5 d5 9. e5
+$10 ) 6. Bd3 { [%eval 0.40] } ( 6. Nb5 d6 7. Nxa7 Na6 8. Nxc8 Qxc8 9. Nf3 Nc7
+$16 ) 6... Nbc6 { [%eval 0.95] } 7. c3 { [%eval 0.24] } 7... Ng6 $6
+{ [%eval 1.48] } ( 7... d5 8. Nb5 a6 9. Bf4 e5 10. Bxe5 Nxe5 11. dxe5 $10 ) 8.
+Ne2 { [%eval 0.55] } ( 8. h4 Nxh4 9. Nb5 a6 10. Rxh4 Rb8 11. Rh3 axb5 $16 )
+8... d5 { [%eval 0.55] } 9. e5 { [%eval 0.09] } 9... Be7 { [%eval 0.58] } 10.
+O-O { [%eval 0.01] } 10... O-O { [%eval 0.00] } 11. f4 { [%eval -0.10] } 11...
+f5 { [%eval -0.10] } 12. g4 { [%eval -0.72] } 12... fxg4 { [%eval -0.57] } 13.
+Bxg6 { [%eval -0.99] } 13... hxg6 { [%eval -1.04] } 14. Ng3 { [%eval -1.08] }
+14... a6 { [%eval -0.23] } 15. Qxg4 { [%eval -0.18] } 15... Qe8
+{ [%eval 0.32] } 16. Ra2 { [%eval 0.04] } 16... Bd7 { [%eval 0.22] } 17. Rg2
+{ [%eval 0.14] } 17... Qf7 $6 { [%eval 1.42] } ( 17... Nd8 18. Nc2 Rc8 19. Bd2
+Nf7 20. Qxg6 Nh6 21. Qh5 $10 ) 18. h4 { [%eval 1.30] } ( 18. h4 Bd8 19. h5 Ne7
+20. Nc2 Rc8 21. Rf3 Rc6 $16 ) 18... Rfc8 $2 { [%eval 4.96] } ( 18... Bd8 19.
+Nc2 Rc8 20. h5 Ne7 21. Rf3 Rc6 22. Ba3 $16 ) 19. h5 { [%eval 5.22] } ( 19. h5
+Be8 20. hxg6 Qxg6 21. Qf3 Qh7 22. f5 Nxe5 $18 ) 19... Be8 { [%eval 5.62] } 20.
+hxg6 { [%eval 6.03] } 20... Qxg6 { [%eval 5.91] } 21. Qf3 { [%eval 5.96] }
+21... Qf7 { [%eval 6.42] } 22. f5 { [%eval 6.65] } 22... exf5 { [%eval 9.11] }
+23. Nxf5 { [%eval 8.95] } 23... Kh8 { [%eval 9.71] } 24. Rxg7 { [%eval 8.29] }
+24... Qxg7+ { [%eval 8.91] } 25. Nxg7 { [%eval 8.68] } 25... Kxg7
+{ [%eval 10.32] } 26. Qf4 { [%eval 10.32] } 26... Bg6 { [%eval #4] } 27. Qh6+
+{ [%eval #3] } 1-0

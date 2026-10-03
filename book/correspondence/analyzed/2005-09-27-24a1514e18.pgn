@@ -1,0 +1,21 @@
+[Event "www.ChessWorld.net server game"]
+[Site "www.ChessWorld.net "]
+[Date "2005.09.27"]
+[Round "?"]
+[White "Diego Amicabile"]
+[Black "dualandabdul"]
+[Result "1-0"]
+[BlackElo "1916"]
+[EventDate "2005.??.??"]
+[PostmortemId "24a1514e18"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. d4 { [%eval 0.19] } 1... f5 { [%eval 0.53] } 2. e4 { [%eval 0.04] } 2...
+fxe4 { [%eval 0.06] } 3. Nc3 { [%eval 0.08] } 3... Nf6 { [%eval 0.01] } 4. f3
+{ [%eval 0.01] } 4... d5 { [%eval 0.00] } 5. fxe4 { [%eval -0.10] } 5... dxe4
+{ [%eval -0.07] } 6. Bg5 { [%eval -0.04] } 6... Bf5 { [%eval -0.12] } 7. Bc4
+{ [%eval -0.23] } 7... Nc6 { [%eval -0.24] } 8. Nge2 { [%eval -0.54] } 8... Qd7
+{ [%eval 0.26] } 9. O-O { [%eval -0.70] } 9... e6 { [%eval -0.60] } 10. Qe1
+{ [%eval -0.63] } 10... O-O-O { [%eval -0.77] } 11. Rd1 { [%eval -0.74] } 11...
+Na5 { [%eval -0.78] } 12. Bb5 { [%eval -0.68] } 12... c6 { [%eval -0.90] } 13.
+Ba4 { [%eval -0.72] } 1-0

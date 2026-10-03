@@ -1,0 +1,30 @@
+[Event "www.ChessWorld.net server game"]
+[Site "www.ChessWorld.net "]
+[Date "2006.12.12"]
+[Round "?.129"]
+[White "Diego Amicabile"]
+[Black "Gary Karpov"]
+[Result "1-0"]
+[ECO "E19"]
+[EventDate "2006.??.??"]
+[PostmortemId "dcc5040ab2"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. d4 { [%eval 0.19] } 1... Nf6 { [%eval 0.20] } 2. c4 { [%eval 0.22] } 2... e6
+{ [%eval 0.29] } 3. Nf3 { [%eval 0.30] } 3... b6 { [%eval 0.39] } 4. g3
+{ [%eval 0.29] } 4... Bb7 { [%eval 0.38] } 5. Bg2 { [%eval 0.31] } 5... Be7
+{ [%eval 0.29] } 6. O-O { [%eval 0.31] } 6... d6 { [%eval 0.65] } 7. Nc3
+{ [%eval 0.23] } 7... O-O { [%eval 0.95] } 8. Re1 { [%eval 0.64] } 8... Ne4
+{ [%eval 0.85] } 9. Qc2 { [%eval 0.43] } 9... Nxc3 $6 { [%eval 1.75] } ( 9...
+f5 10. Nd2 d5 11. Ndxe4 dxe4 12. Be3 Nd7 13. Rad1 $14 ) 10. Qxc3 $6
+{ [%eval 0.15] } ( 10. Ng5 Nxe2+ 11. Rxe2 Bxg5 12. Bxb7 Bxc1 13. Bxa8 Bg5 $16 )
+( 10. Ng5 Nxe2+ 11. Rxe2 Bxg5 12. Bxb7 Bxc1 13. Bxa8 Bg5 $16 ) 10... Nd7
+{ [%eval 0.39] } ( 10... Be4 11. b4 d5 12. Rd1 c6 13. Bf4 dxc4 14. Qxc4 $10 )
+11. e4 { [%eval 0.32] } 11... a5 { [%eval 0.37] } 12. b3 { [%eval -0.53] }
+12... e5 { [%eval 0.38] } 13. Bb2 { [%eval 0.35] } 13... exd4 { [%eval 0.50] }
+14. Qxd4 { [%eval 0.22] } 14... Bf6 { [%eval 0.23] } 15. Qd2 { [%eval 0.20] }
+15... Ne5 { [%eval 1.10] } 16. Rad1 $6 { [%eval -0.09] } ( 16. Nd4 Rb8 17. Rad1
+Nd7 18. f4 Bxd4+ 19. Qxd4 f6 $16 ) 16... Nxf3+ { [%eval -0.04] } ( 16... Nxf3+
+17. Bxf3 Bxb2 18. Qxb2 Qg5 19. h4 Qc5 20. Bg2 $10 ) 17. Bxf3 { [%eval -0.03] }
+17... Bxb2 { [%eval -0.05] } 18. Qxb2 { [%eval -0.02] } 18... f5
+{ [%eval 0.25] } 19. Qd2 { [%eval 0.00] } 1-0
