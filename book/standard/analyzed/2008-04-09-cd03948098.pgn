@@ -1,0 +1,39 @@
+[Event "ICC 15 0"]
+[Site "Internet Chess Club"]
+[Date "2008.04.09"]
+[Round "?"]
+[White "doctor-peter"]
+[Black "diegoami"]
+[Result "0-1"]
+[ECO "A03"]
+[WhiteElo "1663"]
+[BlackElo "1831"]
+[EventDate "2008.??.??"]
+[TimeControl "900"]
+[PostmortemId "cd03948098"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. f4 { [%eval -0.29] } 1... d5 { [%eval -0.22] } 2. d4 { [%eval -0.54] } 2...
+e6 { [%eval -0.24] } 3. e3 { [%eval -0.34] } 3... c5 { [%eval -0.31] } 4. c3
+{ [%eval -0.26] } 4... Nc6 { [%eval -0.17] } 5. Nf3 { [%eval -0.14] } 5... Nf6
+{ [%eval -0.07] } 6. Bd3 { [%eval -0.05] } 6... Bd6 { [%eval -0.05] } 7. O-O
+{ [%eval -0.17] } 7... b6 { [%eval -0.09] } 8. Ne5 { [%eval -0.15] } 8... Bb7
+{ [%eval -0.12] } 9. Qf3 { [%eval -0.21] } 9... Qc7 { [%eval -0.10] } 10. Nd2
+{ [%eval -0.07] } 10... O-O-O { [%eval 0.00] } 11. a4 { [%eval -0.35] } 11...
+c4 { [%eval -0.45] } 12. Bc2 { [%eval -0.24] } 12... Na5 { [%eval -0.09] } 13.
+b4 $6 { [%eval -1.50] } ( 13. Rb1 Kb8 14. b4 cxb3 15. Nxb3 Nxb3 16. Rxb3 Ne4
+$10 ) 13... cxb3 { [%eval -1.68] } ( 13... cxb3 14. Nxb3 Nxb3 15. Bxb3 Ne4 16.
+Qe2 f6 17. Nf3 $17 ) 14. Nxb3 { [%eval -1.68] } 14... Nxb3 { [%eval -1.66] }
+15. Bxb3 { [%eval -1.61] } 15... Ne4 { [%eval -1.65] } 16. Bb2 $6
+{ [%eval -3.91] } ( 16. Qe2 f6 17. Nf3 Kb8 18. c4 Rc8 19. a5 dxc4 $17 ) 16...
+f6 { [%eval -3.96] } ( 16... Nd2 17. Qd1 Nxf1 18. Qxf1 f6 19. Nd3 Kb8 20. a5
+$19 ) 17. Qh3 { [%eval -5.51] } 17... fxe5 { [%eval -4.07] } 18. fxe5
+{ [%eval -4.34] } 18... Ng5 { [%eval -3.73] } 19. Qg4 { [%eval -3.85] } 19...
+Be7 { [%eval -3.96] } 20. h4 { [%eval -4.82] } 20... h5 { [%eval -4.89] } 21.
+Qe2 { [%eval -5.53] } 21... Ne4 { [%eval -5.57] } 22. c4 { [%eval -5.70] }
+22... Kb8 { [%eval -5.94] } 23. Rfc1 { [%eval -7.16] } 23... Bxh4
+{ [%eval -7.54] } 24. cxd5 { [%eval -7.90] } 24... Qf7 { [%eval -6.41] } 25. d6
+{ [%eval -10.99] } 25... Bf2+ { [%eval -12.02] } 26. Kh2 { [%eval -12.46] }
+26... Qg6 { [%eval -12.38] } 27. Qf3 { [%eval -17.17] } 27... Bg3+
+{ [%eval -11.79] } 28. Kg1 { [%eval -13.06] } 28... Rdf8 { [%eval -16.06] } 29.
+Qe2 { [%eval #-5] } 29... Bf2+ { [%eval #-4] } 0-1

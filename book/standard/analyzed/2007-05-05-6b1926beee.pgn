@@ -1,0 +1,29 @@
+[Event "ICC w20 20 10 u"]
+[Site "Internet Chess Club"]
+[Date "2007.05.05"]
+[Round "?"]
+[White "diegoami"]
+[Black "TrainingBot"]
+[Result "1-0"]
+[WhiteElo "1298"]
+[BlackElo "1600"]
+[SetUp "1"]
+[FEN "1r4k1/5pp1/3Pp2p/8/p4PP1/1n6/1B5P/2R3K1 w - - 0 1"]
+[EventDate "2007.??.??"]
+[TimeControl "1200+10"]
+[PostmortemId "6b1926beee"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. Rc7 { [%eval 2.44] } 1... Rd8 { [%eval 3.15] } 2. d7 { [%eval 3.16] } 2...
+Nc5 $6 { [%eval 6.43] } ( 2... Na5 3. Kf2 Nc6 4. Bc1 f5 5. gxf5 exf5 6. Rxc6
+$18 ) 3. Rc8 { [%eval 6.50] } ( 3. Rc8 Nb7 4. Ba3 Kh7 5. Rc7 Na5 6. Be7 Rb8 $18
+) 3... Nb7 { [%eval 6.65] } 4. Ba3 { [%eval 6.68] } 4... Kh7 { [%eval 6.76] }
+5. Rc7 { [%eval 6.65] } 5... Na5 { [%eval 6.60] } 6. Be7 { [%eval 6.49] } 6...
+Rb8 { [%eval 6.45] } 7. Kf2 { [%eval 6.80] } 7... Rb2+ { [%eval 7.06] } 8. Ke3
+{ [%eval 7.13] } 8... Rb8 { [%eval 7.07] } 9. Rc8 { [%eval 6.24] } 9... Rb3+
+{ [%eval 6.24] } 10. Kd2 { [%eval 6.38] } 10... Nb7 { [%eval 6.68] } 11. Kc2
+{ [%eval 6.37] } 11... Rh3 { [%eval 6.49] } 12. Rc7 { [%eval 6.53] } 12...
+Rxh2+ { [%eval 6.56] } 13. Kc3 { [%eval 6.70] } 13... Rh3+ { [%eval 6.89] } 14.
+Kb4 { [%eval 6.78] } 14... f5 { [%eval 7.79] } 15. gxf5 { [%eval 7.57] } 15...
+exf5 { [%eval 8.07] } 16. Rxb7 { [%eval 7.85] } 16... Rb3+ { [%eval 8.10] } 17.
+Kxa4 { [%eval 7.47] } 17... Rxb7 { [%eval 8.15] } 18. d8=Q { [%eval 8.77] } 1-0

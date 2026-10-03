@@ -3,6 +3,7 @@
   "generator": "pgn-postmortem workspace",
   "slugs": [
     "otb",
-    "correspondence"
+    "correspondence",
+    "standard"
   ]
 }

@@ -1,0 +1,37 @@
+[Event "Team 45 45 League T66"]
+[Site "Internet Chess Club"]
+[Date "2015.09.27"]
+[Round "4"]
+[White "diegoami"]
+[Black "Gojira"]
+[Result "1-0"]
+[ECO "B31"]
+[WhiteElo "1772"]
+[BlackElo "1630"]
+[EventDate "2015.??.??"]
+[PostmortemId "533fed11ff"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. e4 { [%eval 0.19] } 1... c5 { [%eval 0.32] } 2. Nf3 { [%eval 0.31] } 2...
+Nc6 { [%eval 0.35] } 3. Bb5 { [%eval 0.39] } 3... g6 { [%eval 0.30] } 4. O-O
+{ [%eval 0.30] } 4... Bg7 { [%eval 0.31] } 5. c3 { [%eval 0.27] } 5... d5
+{ [%eval 0.66] } 6. exd5 { [%eval 0.31] } 6... Qxd5 { [%eval 0.28] } 7. h3
+{ [%eval -0.02] } 7... e5 { [%eval 0.98] } 8. d3 { [%eval 0.18] } 8... Ne7
+{ [%eval 0.32] } 9. Nbd2 { [%eval 0.23] } 9... Bf5 { [%eval 0.75] } 10. Bc4
+{ [%eval 0.49] } 10... Qd7 { [%eval 0.50] } 11. Ne4 { [%eval 0.49] } 11... b6
+{ [%eval 0.50] } 12. Bg5 { [%eval 0.20] } 12... Bxe4 $6 { [%eval 2.11] } (
+12... O-O 13. Nf6+ Bxf6 14. Bxf6 Qd6 15. Bg5 Rfd8 16. Re1 $10 ) 13. dxe4
+{ [%eval 2.20] } ( 13. dxe4 Qxd1 14. Raxd1 h6 15. Bh4 a6 16. a4 Na5 $16 ) 13...
+f6 $6 { [%eval 4.69] } ( 13... Qxd1 14. Rfxd1 h6 15. Bh4 g5 16. Bg3 O-O 17. h4
+$16 ) 14. Qxd7+ $2 { [%eval 0.95] } ( 14. Bf7+ Kd8 15. Qc2 Nf5 16. Rad1 Nfd4
+17. cxd4 exd4 $18 ) ( 14. Bf7+ Kd8 15. Qc2 Nf5 16. Rad1 Nfd4 17. cxd4 exd4 $18
+) 14... Kxd7 { [%eval 0.99] } ( 14... Kxd7 15. Be3 Kc7 16. g4 Rad8 17. a4 Nc8
+18. Bd5 $14 ) 15. Rfd1+ { [%eval 0.61] } 15... Kc7 { [%eval 0.55] } 16. Be3
+{ [%eval 0.51] } 16... Na5 { [%eval 1.07] } 17. Be6 { [%eval 0.80] } 17... Rhd8
+{ [%eval 0.93] } 18. a3 { [%eval 0.72] } 18... Rd6 { [%eval 1.02] } 19. Ba2
+{ [%eval 0.55] } 19... Rad8 { [%eval 0.82] } 20. Rxd6 { [%eval 0.73] } 20...
+Rxd6 { [%eval 0.70] } 21. b4 { [%eval 0.48] } 21... Nb7 { [%eval 0.54] } 22.
+Bc4 { [%eval 0.41] } 22... f5 { [%eval 0.42] } 23. g3 { [%eval 0.43] } 23...
+Rd8 $4 { [%eval 5.87] } ( 23... fxe4 24. Ng5 Nf5 25. bxc5 bxc5 26. Re1 Nxe3 27.
+fxe3 $14 ) 24. Ng5 { [%eval 5.76] } ( 24. Ng5 Rd6 25. Ne6+ Rxe6 26. Bxe6 Nd6
+27. Bg5 Nc6 $18 ) 1-0

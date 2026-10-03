@@ -1,0 +1,36 @@
+[Event "ICC 45 45"]
+[Site "Internet Chess Club"]
+[Date "2017.10.08"]
+[Round "-"]
+[White "ascoli"]
+[Black "diegoami"]
+[Result "1-0"]
+[WhiteElo "1630"]
+[BlackElo "1630"]
+[ECO "A40"]
+[TimeControl "2700+45"]
+[Opening "French: advance variation"]
+[Iccresult "Black resigns"]
+[NIC "FR.03"]
+[Time "14:00:59"]
+[PostmortemId "4a3844891c"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. d4 { [%eval 0.19] } 1... e6 { [%eval 0.44] } 2. e4 { [%eval 0.41] } 2... d5
+{ [%eval 0.47] } 3. e5 { [%eval 0.19] } 3... a6 { [%eval 0.37] } 4. f4
+{ [%eval 0.19] } 4... Ne7 { [%eval 0.28] } 5. Nf3 { [%eval 0.25] } 5... Ng6
+{ [%eval 0.91] } 6. Bd3 { [%eval 0.61] } 6... c5 { [%eval 0.61] } 7. c3
+{ [%eval 0.76] } 7... Nc6 { [%eval 0.72] } 8. O-O { [%eval 0.65] } 8... Bd7
+{ [%eval 0.55] } 9. Be3 { [%eval 0.64] } 9... c4 { [%eval 0.70] } 10. Bc2
+{ [%eval 0.61] } 10... Be7 { [%eval 1.00] } 11. Kh1 { [%eval 0.91] } 11... Nh4
+{ [%eval 1.30] } 12. Nxh4 { [%eval 1.47] } 12... Bxh4 { [%eval 1.37] } 13. Qg4
+{ [%eval 1.10] } 13... g6 { [%eval 1.08] } 14. Nd2 { [%eval 1.13] } 14... h5
+{ [%eval 1.27] } 15. Qh3 { [%eval 1.29] } 15... Be7 { [%eval 1.26] } 16. Nf3
+{ [%eval 1.28] } 16... Rg8 { [%eval 1.53] } 17. Ng5 { [%eval 1.85] } 17... Rg7
+{ [%eval 2.75] } 18. g4 { [%eval 3.14] } 18... hxg4 { [%eval 2.89] } 19. Qh8+
+{ [%eval 2.94] } 19... Bf8 { [%eval 3.11] } 20. Nh7 { [%eval 3.03] } 20... Qe7
+$6 { [%eval 5.88] } ( 20... Rxh7 21. Qxh7 Ne7 22. Bf2 Nf5 23. a4 Qe7 24. Rg1
+$18 ) 21. Nf6+ { [%eval 6.24] } ( 21. Nf6+ Kd8 22. Bf2 Kc7 23. Bh4 Rc8 24. Rf2
+g3 $18 ) 21... Kd8 { [%eval 6.33] } 22. f5 { [%eval 5.41] } 22... g5
+{ [%eval 9.32] } 23. Nh5 { [%eval 7.03] } 23... Kc7 { [%eval 9.53] } 24. f6
+{ [%eval 9.33] } 1-0

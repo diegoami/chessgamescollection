@@ -1,0 +1,38 @@
+[Event "ICC 30 30"]
+[Site "Internet Chess Club"]
+[Date "2007.05.31"]
+[Round "?"]
+[White "diegoami"]
+[Black "Gloopy"]
+[Result "0-1"]
+[ECO "B34"]
+[WhiteElo "1728"]
+[BlackElo "1961"]
+[EventDate "2007.??.??"]
+[TimeControl "1800+30"]
+[PostmortemId "3eeb6b2658"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. e4 { [%eval 0.19] } 1... c5 { [%eval 0.32] } 2. Nf3 { [%eval 0.31] } 2...
+Nc6 { [%eval 0.35] } 3. d4 { [%eval 0.37] } 3... cxd4 { [%eval 0.21] } 4. Nxd4
+{ [%eval 0.19] } 4... g6 { [%eval 0.52] } 5. Be2 { [%eval 0.20] } 5... Bg7
+{ [%eval 0.15] } 6. Be3 { [%eval 0.15] } 6... Nxd4 { [%eval 0.62] } 7. Bxd4
+{ [%eval 0.64] } 7... Nf6 { [%eval 0.60] } 8. Nc3 { [%eval 0.56] } 8... d6
+{ [%eval 0.70] } 9. O-O { [%eval 0.33] } 9... O-O { [%eval 0.36] } 10. f4
+{ [%eval 0.23] } 10... Qa5 { [%eval 0.38] } 11. b4 { [%eval -0.33] } 11... Qxb4
+{ [%eval -0.43] } 12. Rb1 { [%eval -0.48] } 12... Qa5 { [%eval -0.34] } 13. Rb5
+{ [%eval -0.49] } 13... Qd8 { [%eval -0.58] } 14. f5 { [%eval -0.67] } 14... b6
+{ [%eval -0.84] } 15. fxg6 { [%eval -1.56] } 15... hxg6 { [%eval -1.47] } 16.
+Bf3 $2 { [%eval -5.18] } ( 16. h4 Ba6 17. Rg5 Bxe2 18. Qxe2 e6 19. Qd3 a6 $17 )
+16... e5 { [%eval -3.84] } ( 16... Ba6 17. e5 dxe5 18. Rxe5 Bxf1 19. Bxa8 Qxa8
+20. Kxf1 $19 ) 17. Be3 { [%eval -4.29] } 17... Ba6 { [%eval -3.96] } 18. Be2
+{ [%eval -4.45] } 18... Bxb5 { [%eval -4.53] } 19. Nxb5 { [%eval -5.31] } 19...
+Nxe4 { [%eval -5.67] } 20. Bf3 { [%eval -5.87] } 20... d5 { [%eval -6.22] } 21.
+c4 { [%eval -6.33] } 21... a6 { [%eval -6.48] } 22. cxd5 { [%eval -6.42] }
+22... Ng5 { [%eval -4.92] } 23. Bxg5 { [%eval -6.44] } 23... Qxg5
+{ [%eval -6.64] } 24. Nc7 { [%eval -7.74] } 24... Ra7 { [%eval -7.05] } 25. d6
+{ [%eval -7.09] } 25... e4 { [%eval -7.16] } 26. Bg4 { [%eval -7.42] } 26...
+Qc5+ { [%eval -7.46] } 27. Kh1 { [%eval -7.63] } 27... Bd4 { [%eval -7.76] }
+28. Qe1 { [%eval -8.96] } 28... Qxd6 { [%eval -9.00] } 29. Qxe4
+{ [%eval -8.99] } 29... Rxc7 { [%eval -9.00] } 30. Rd1 { [%eval -9.46] } 30...
+f5 { [%eval -9.83] } 0-1

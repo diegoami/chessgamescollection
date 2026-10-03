@@ -1,0 +1,24 @@
+[Event "ICC tourney 316633 (20 20)"]
+[Site "Internet Chess Club"]
+[Date "2008.01.29"]
+[Round "4"]
+[White "diegoami"]
+[Black "Ecuadorian"]
+[Result "0-1"]
+[ECO "B01"]
+[WhiteElo "1888"]
+[BlackElo "2088"]
+[EventDate "2008.??.??"]
+[TimeControl "1200+20"]
+[PostmortemId "8ecab07231"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. e4 { [%eval 0.19] } 1... d5 { [%eval 0.70] } 2. exd5 { [%eval 0.60] } 2...
+Nf6 { [%eval 0.56] } 3. d4 { [%eval 0.62] } 3... Bg4 { [%eval 0.60] } 4. Be2
+{ [%eval 0.31] } 4... Bxe2 { [%eval 0.32] } 5. Qxe2 { [%eval 0.32] } 5... Qxd5
+{ [%eval 0.27] } 6. Nf3 { [%eval 0.27] } 6... e6 { [%eval 0.25] } 7. O-O
+{ [%eval 0.22] } 7... Bd6 { [%eval 0.37] } 8. c4 { [%eval 0.26] } 8... Qh5
+{ [%eval 0.25] } 9. Nc3 { [%eval 0.28] } 9... Nc6 { [%eval 0.25] } 10. a3 $4
+{ [%eval -8.49] } ( 10. Be3 O-O 11. h3 h6 12. Rad1 b6 13. Rfe1 Rfd8 $10 ) 10...
+Nxd4 { [%eval -8.60] } ( 10... Nxd4 11. Re1 Nxe2+ 12. Nxe2 O-O-O 13. b4 Ng4 14.
+Nf4 $19 ) 0-1

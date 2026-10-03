@@ -1,0 +1,30 @@
+[Event "Rated game, 20m + 10s"]
+[Site "Main Playing Hall"]
+[Date "2008.02.01"]
+[Round "?"]
+[White "Diegoami"]
+[Black "Koolkoolkatking"]
+[Result "1-0"]
+[ECO "B07"]
+[WhiteElo "1698"]
+[BlackElo "1401"]
+[EventDate "2008.02.01"]
+[SourceTitle "playchess.com"]
+[TimeControl "1200+10"]
+[PostmortemId "1803ddc6ad"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. e4 { [%eval 0.19] } 1... d6 { [%eval 0.49] } 2. d4 { [%eval 0.55] } 2... c5
+{ [%eval 1.32] } 3. dxc5 { [%eval 1.23] } 3... dxc5 { [%eval 1.86] } 4. Qxd8+
+{ [%eval 1.88] } 4... Kxd8 { [%eval 1.90] } 5. Be3 { [%eval 1.64] } 5... b6
+{ [%eval 1.67] } 6. Bc4 { [%eval 1.07] } 6... Nc6 { [%eval 1.70] } 7. Bxf7
+{ [%eval 1.81] } 7... Bb7 $6 { [%eval 4.27] } ( 7... e6 8. Bh5 g6 9. Be2 Bh6
+10. Bxh6 Nxh6 11. h4 $16 ) 8. Nc3 { [%eval 4.87] } ( 8. Nc3 Nd4 9. O-O-O e5 10.
+Bd5 Bxd5 11. Nxd5 Kc8 $18 ) 8... Nd4 { [%eval 4.94] } 9. O-O-O { [%eval 5.23] }
+9... Kc7 { [%eval 6.82] } 10. Bxd4 { [%eval 6.26] } 10... cxd4 { [%eval 6.31] }
+11. Rxd4 { [%eval 6.39] } 11... e5 { [%eval 6.61] } 12. Rc4+ { [%eval 6.61] }
+12... Kd8 { [%eval 7.76] } 13. Nf3 { [%eval 7.64] } 13... Bc5 { [%eval 7.90] }
+14. Nxe5 { [%eval 6.83] } 14... Bxf2 { [%eval 10.48] } 15. Rd1+
+{ [%eval 10.10] } 15... Ke7 { [%eval 9.97] } 16. Rd7+ { [%eval 9.93] } 16...
+Kf6 { [%eval 9.93] } 17. Ng4+ { [%eval 10.30] } 17... Kg5 { [%eval 10.35] } 18.
+Nxf2 { [%eval 10.29] } 1-0

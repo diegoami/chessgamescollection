@@ -1,0 +1,38 @@
+[Event "Team 45 45 League T66"]
+[Site "Internet Chess Club"]
+[Date "2015.09.25"]
+[Round "4"]
+[White "room-matt"]
+[Black "diegoami"]
+[Result "1/2-1/2"]
+[ECO "B21"]
+[WhiteElo "1856"]
+[BlackElo "1761"]
+[EventDate "2015.??.??"]
+[PostmortemId "031881517e"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. e4 { [%eval 0.19] } 1... c5 { [%eval 0.32] } 2. f4 { [%eval -0.06] } 2... e6
+{ [%eval -0.15] } 3. Nf3 { [%eval -0.16] } 3... d5 { [%eval -0.13] } 4. Bb5+
+{ [%eval -0.10] } 4... Bd7 { [%eval 0.00] } 5. Bxd7+ { [%eval 0.05] } 5... Qxd7
+{ [%eval 0.03] } 6. exd5 { [%eval -0.16] } 6... exd5 { [%eval -0.16] } 7. Ne5
+{ [%eval -0.11] } 7... Qc7 { [%eval 0.25] } 8. O-O { [%eval -0.10] } 8... Bd6
+{ [%eval 0.34] } 9. Re1 { [%eval -0.19] } 9... Ne7 { [%eval -0.15] } 10. Nc3
+{ [%eval -0.16] } 10... O-O { [%eval -0.04] } 11. Nb5 { [%eval -0.13] } 11...
+Qb6 { [%eval -0.04] } 12. Nxd6 { [%eval -0.02] } 12... Qxd6 { [%eval -0.01] }
+13. b3 { [%eval -0.31] } 13... Nbc6 { [%eval -0.27] } 14. Bb2 { [%eval -0.31] }
+14... f6 { [%eval -0.29] } 15. Nxc6 { [%eval -0.17] } 15... Nxc6
+{ [%eval -0.23] } 16. Qg4 { [%eval -0.22] } 16... Rfe8 { [%eval -0.19] } 17. a3
+{ [%eval -0.22] } 17... b5 { [%eval -0.01] } 18. Qh5 { [%eval -0.06] } 18...
+Re7 { [%eval 0.00] } 19. Rxe7 { [%eval 0.00] } 19... Nxe7 { [%eval 0.09] } 20.
+Re1 { [%eval 0.00] } 20... Rd8 $6 { [%eval 1.20] } ( 20... Rb8 21. Qe2 Rb7 22.
+d4 h6 23. dxc5 Qxc5+ 24. Kf1 $10 ) 21. f5 $6 { [%eval 0.00] } ( 21. Qe2 Kf7 22.
+Qxb5 Nf5 23. Qe2 g6 24. g4 Ng7 $16 ) ( 21. Qe2 Kf7 22. Qxb5 Nf5 23. Qe2 g6 24.
+g4 Ng7 $16 ) 21... d4 { [%eval 0.19] } ( 21... Qd7 22. Re6 d4 23. Qf3 Kf7 24.
+Qh5+ $10 ) 22. Re6 { [%eval 0.00] } 22... Qd7 { [%eval 0.00] } 23. Bc1 $6
+{ [%eval -1.40] } ( 23. Qf3 Kf7 24. Qh5+ Kg8 $10 ) 23... d3 { [%eval -1.17] } (
+23... d3 24. cxd3 Qd4+ 25. Re3 g6 26. fxg6 hxg6 27. Qh6 $17 ) 24. cxd3
+{ [%eval -1.13] } 24... Qd4+ { [%eval -1.13] } 25. Re3 { [%eval -1.08] } 25...
+Qa1 { [%eval 0.00] } 26. Re1 { [%eval -1.08] } 26... Qd4+ { [%eval -1.16] } 27.
+Re3 { [%eval -1.10] } 27... Qa1 { [%eval 0.00] } 28. Re1 { [%eval -0.14] }
+28... Qd4+ { [%eval 0.00] } 1/2-1/2

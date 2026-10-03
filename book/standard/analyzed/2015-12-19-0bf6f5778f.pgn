@@ -1,0 +1,66 @@
+[Event "Team 45 45 League T67"]
+[Site "Internet Chess Club"]
+[Date "2015.12.19"]
+[Round "3"]
+[White "diegoami"]
+[Black "Tobiasdelmonte"]
+[Result "1-0"]
+[ECO "B03"]
+[WhiteElo "1745"]
+[BlackElo "1832"]
+[EventDate "2015.??.??"]
+[PostmortemId "0bf6f5778f"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. e4 { [%eval 0.19] } 1... Nf6 { [%eval 0.74] } 2. e5 { [%eval 0.59] } 2...
+Nd5 { [%eval 0.54] } 3. d4 { [%eval 0.71] } 3... d6 { [%eval 0.88] } 4. exd6
+{ [%eval 0.34] } 4... exd6 { [%eval 0.41] } 5. Nf3 { [%eval 0.32] } 5... Be7
+{ [%eval 0.42] } 6. c4 { [%eval 0.40] } 6... Nb6 { [%eval 0.58] } 7. Nc3
+{ [%eval 0.46] } 7... Nc6 { [%eval 0.67] } 8. h3 { [%eval 0.66] } 8... O-O
+{ [%eval 0.65] } 9. Bd3 { [%eval 0.66] } 9... Nb4 { [%eval 1.14] } 10. Bb1
+{ [%eval 1.13] } 10... Bf6 { [%eval 1.31] } 11. a3 { [%eval 0.92] } 11... Re8+
+{ [%eval 0.90] } 12. Be3 { [%eval 0.91] } 12... Nc6 { [%eval 1.06] } 13. O-O
+{ [%eval 1.11] } 13... g6 { [%eval 2.21] } 14. Bd3 $6 { [%eval 0.53] } ( 14.
+Ba2 Bf5 15. Qd2 Qd7 16. Rfe1 Bg7 17. Rad1 Na5 $16 ) 14... Bg7 { [%eval 1.40] }
+( 14... d5 15. c5 Nc4 16. Bxc4 dxc4 17. Re1 Be6 18. Qa4 $14 ) 15. Qc2
+{ [%eval 0.67] } 15... Qf6 $2 { [%eval 3.82] } ( 15... d5 16. c5 Nc4 17. Bf4
+Nxd4 18. Nxd4 Bxd4 19. Rad1 $14 ) 16. Rfe1 { [%eval 2.58] } ( 16. Rae1 Rf8 17.
+d5 Ne5 18. Nxe5 dxe5 19. c5 Nd7 $18 ) 16... h6 { [%eval 2.37] } 17. Qd2 $6
+{ [%eval 0.71] } ( 17. c5 dxc5 18. dxc5 Nd7 19. Nb5 Nde5 20. Nxe5 Rxe5 $16 )
+17... Kh7 $4 { [%eval 5.98] } ( 17... Bf5 18. Rad1 Bxd3 19. Qxd3 a6 20. Re2 Qd8
+21. d5 $14 ) ( 17... Bf5 18. Rad1 Bxd3 19. Qxd3 a6 20. Re2 Qd8 21. d5 $14 ) 18.
+Nb5 $2 { [%eval 2.17] } ( 18. Bg5 Qxf3 19. gxf3 Rxe1+ 20. Rxe1 Nxd4 21. Kg2
+hxg5 $18 ) ( 18. Bg5 Qxf3 19. gxf3 Rxe1+ 20. Rxe1 Nxd4 21. Kg2 hxg5 $18 ) 18...
+Re7 { [%eval 3.00] } ( 18... Qd8 19. Bf4 Re7 20. Rad1 a6 21. Nc3 Qf8 22. b4 $16
+) 19. Bf4 $6 { [%eval 0.69] } ( 19. d5 Ne5 20. Nxe5 dxe5 21. Bf1 Bf5 22. g4 c6
+$18 ) 19... Rxe1+ $6 { [%eval 2.69] } ( 19... Bf5 20. Rxe7 Nxe7 21. Re1 Bxd3
+22. Qxd3 c6 23. Nc3 $14 ) ( 19... Bf5 20. Rxe7 Nxe7 21. Re1 Bxd3 22. Qxd3 c6
+23. Nc3 $14 ) 20. Rxe1 { [%eval 2.87] } ( 20. Rxe1 Bf5 21. d5 Na5 22. Nxc7 Rd8
+23. Ne8 Rxe8 $16 ) 20... Bf5 { [%eval 2.87] } 21. d5 { [%eval 2.74] } 21...
+Bxd3 $6 { [%eval 4.37] } ( 21... Na5 22. Nxc7 Rc8 23. Ne8 Rxe8 24. Rxe8 Bxd3
+25. Be3 $16 ) 22. dxc6 { [%eval 4.68] } ( 22. dxc6 Nxc4 23. Qxd3 Qxf4 24. Nxc7
+Nxb2 25. Qb3 Rb8 $18 ) 22... bxc6 { [%eval 5.05] } 23. Nxc7 { [%eval 5.32] }
+23... Rc8 { [%eval 5.67] } 24. Ne8 { [%eval 5.52] } 24... Rxe8 { [%eval 5.65] }
+25. Rxe8 { [%eval 5.58] } 25... Bxc4 { [%eval 5.84] } 26. Qxd6 { [%eval 6.13] }
+26... Qxd6 { [%eval 6.11] } 27. Bxd6 { [%eval 5.87] } 27... Bxb2
+{ [%eval 6.28] } 28. Be5 { [%eval 6.34] } 28... Bxe5 { [%eval 6.26] } 29. Nxe5
+{ [%eval 6.14] } 29... Bd5 { [%eval 6.28] } 30. Re7 { [%eval 6.30] } 30... Kg7
+{ [%eval 6.61] } 31. Rxa7 { [%eval 6.50] } 31... Kf6 { [%eval 7.02] } 32. Nd7+
+{ [%eval 6.12] } 32... Nxd7 { [%eval 6.09] } 33. Rxd7 { [%eval 6.14] } 33...
+Ke6 { [%eval 6.00] } 34. Rd8 { [%eval 6.32] } 34... Ke7 { [%eval 6.25] } 35.
+Rb8 { [%eval 6.25] } 35... c5 { [%eval 6.38] } 36. f3 { [%eval 6.50] } 36...
+Kd6 { [%eval 6.43] } 37. Kf2 { [%eval 6.49] } 37... Kc7 { [%eval 6.47] } 38.
+Rb5 { [%eval 6.34] } 38... Kc6 { [%eval 6.60] } 39. Rb2 { [%eval 6.38] } 39...
+c4 { [%eval 6.54] } 40. Ke3 { [%eval 6.62] } 40... Kc5 { [%eval 6.71] } 41. Rb4
+{ [%eval 6.35] } 41... h5 { [%eval 6.56] } 42. Kd2 { [%eval 6.72] } 42... Kd4
+{ [%eval 6.47] } 43. a4 { [%eval 6.77] } 43... g5 { [%eval 6.83] } 44. a5
+{ [%eval 6.80] } 44... f5 { [%eval 7.01] } 45. a6 { [%eval 7.13] } 45... g4
+{ [%eval 7.16] } 46. hxg4 { [%eval 6.49] } 46... fxg4 { [%eval 6.79] } 47. fxg4
+{ [%eval 6.58] } 47... h4 { [%eval 6.45] } 48. g5 { [%eval 6.17] } 48... Bxg2
+{ [%eval 6.38] } 49. g6 { [%eval 6.93] } 49... h3 { [%eval 8.18] } 50. g7
+{ [%eval 9.56] } 50... h2 { [%eval 10.97] } 51. g8=Q { [%eval 8.40] } 51...
+h1=Q { [%eval 11.36] } 52. Qxc4+ { [%eval 15.35] } 52... Ke5 { [%eval 18.85] }
+53. Rb5+ { [%eval 7.18] } 53... Kd6 { [%eval 15.29] } 54. Qd4+
+{ [%eval 20.89] } 54... Ke6 { [%eval #5] } 55. Rb6+ { [%eval 9.67] } 55... Kf5
+{ [%eval #3] } 56. Rf6+ { [%eval #2] } 56... Kg5 { [%eval #2] } 57. Qf4+
+{ [%eval #1] } 1-0

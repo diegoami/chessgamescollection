@@ -1,0 +1,32 @@
+[Event "ICC 20 20"]
+[Site "Internet Chess Club"]
+[Date "2008.02.20"]
+[Round "?"]
+[White "diegoami"]
+[Black "Peacenick"]
+[Result "1-0"]
+[ECO "C07"]
+[WhiteElo "1825"]
+[BlackElo "1883"]
+[EventDate "2008.??.??"]
+[TimeControl "1200+20"]
+[PostmortemId "f5e0bc680a"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. e4 { [%eval 0.19] } 1... e6 { [%eval 0.38] } 2. d4 { [%eval 0.38] } 2... d5
+{ [%eval 0.50] } 3. Nd2 { [%eval 0.22] } 3... c5 { [%eval 0.24] } 4. exd5
+{ [%eval 0.12] } 4... Qxd5 { [%eval 0.15] } 5. Ngf3 { [%eval 0.12] } 5... cxd4
+{ [%eval 0.22] } 6. Nb3 { [%eval -0.45] } 6... e5 { [%eval -0.40] } 7. c3
+{ [%eval -0.37] } 7... Nc6 { [%eval -0.40] } 8. Be2 { [%eval -1.08] } 8... Be6
+{ [%eval -0.25] } 9. cxd4 { [%eval -0.20] } 9... exd4 { [%eval 0.11] } 10. O-O
+{ [%eval 0.04] } 10... Rd8 { [%eval 0.00] } 11. Re1 { [%eval -0.37] } 11... Be7
+{ [%eval -0.35] } 12. Bf4 { [%eval -0.61] } 12... Bf6 $6 { [%eval 0.76] } (
+12... Nf6 13. Bd3 Bb4 14. Bd2 Bxd2 15. Qxd2 O-O 16. Rac1 $15 ) 13. Bd3
+{ [%eval 0.73] } ( 13. Bd3 Nge7 14. Rc1 O-O 15. Nc5 Bc8 16. Bc7 Rde8 $14 )
+13... Nge7 { [%eval 0.76] } 14. Rc1 { [%eval 0.57] } 14... O-O { [%eval 0.69] }
+15. Nc5 { [%eval 0.68] } 15... Bc8 { [%eval 0.70] } 16. Bc7 { [%eval 0.55] }
+16... Rde8 { [%eval 0.68] } 17. Ne4 { [%eval -0.15] } 17... Be5 $4
+{ [%eval 4.69] } ( 17... Ng6 18. h3 Be7 19. Bc4 Qd7 20. Bg3 h6 21. a3 $10 ) 18.
+Bc4 { [%eval 4.67] } ( 18. Bc4 Qxc4 19. Rxc4 Bxc7 20. Nxd4 Rd8 21. Nxc6 Nxc6
+$18 ) 18... Bxh2+ { [%eval 7.02] } 19. Bxh2 { [%eval 7.05] } 19... Qd8
+{ [%eval 8.37] } 20. Nd6 { [%eval 8.47] } 1-0

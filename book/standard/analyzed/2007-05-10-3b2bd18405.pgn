@@ -1,0 +1,38 @@
+[Event "ICC 20 20"]
+[Site "Internet Chess Club"]
+[Date "2007.05.10"]
+[Round "?"]
+[White "diegoami"]
+[Black "erb"]
+[Result "1-0"]
+[ECO "B31"]
+[WhiteElo "1713"]
+[BlackElo "1595"]
+[EventDate "2007.??.??"]
+[TimeControl "1200+20"]
+[PostmortemId "3b2bd18405"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. e4 { [%eval 0.19] } 1... c5 { [%eval 0.32] } 2. Nf3 { [%eval 0.31] } 2...
+Nc6 { [%eval 0.35] } 3. Bb5 { [%eval 0.39] } 3... g6 { [%eval 0.30] } 4. c3
+{ [%eval 0.13] } 4... Bg7 { [%eval 0.31] } 5. d4 { [%eval 0.17] } 5... Qa5
+{ [%eval 0.28] } 6. Bxc6 { [%eval 0.28] } 6... bxc6 { [%eval 0.20] } 7. O-O
+{ [%eval 0.28] } 7... Nf6 { [%eval 0.69] } 8. dxc5 { [%eval 0.21] } 8... Nxe4
+{ [%eval 0.43] } 9. b4 { [%eval -0.03] } 9... Qc7 { [%eval 0.01] } 10. Qd3
+{ [%eval -0.44] } 10... Nf6 { [%eval -0.34] } 11. Re1 { [%eval -0.23] } 11...
+O-O { [%eval -0.17] } 12. Rxe7 $6 { [%eval -1.30] } ( 12. Be3 Nd5 13. Bd4 f6
+14. Qd2 e5 15. c4 Nxb4 $10 ) 12... Nd5 { [%eval -0.25] } ( 12... a5 13. Re1 Ba6
+14. Qc2 axb4 15. c4 Nd5 16. Bb2 $17 ) 13. Re1 { [%eval -0.23] } 13... a5
+{ [%eval 0.20] } 14. b5 { [%eval 0.32] } 14... Nb4 $2 { [%eval 3.44] } ( 14...
+d6 15. cxd6 Qxd6 16. Ba3 c5 17. Nbd2 Bf5 18. Qc4 $10 ) 15. cxb4
+{ [%eval 3.62] } ( 15. cxb4 Bxa1 16. Bh6 Bg7 17. Bxg7 Kxg7 18. Qd4+ f6 $18 )
+15... Bxa1 { [%eval 3.72] } 16. b6 { [%eval 2.68] } 16... Qb7 $6
+{ [%eval 6.51] } ( 16... Qd8 17. Nc3 axb4 18. Bg5 f6 19. Ne4 fxg5 20. Rxa1 $16
+) 17. Nc3 { [%eval 4.45] } ( 17. Bh6 Qa6 18. Qd2 Bg7 19. Bxg7 Kxg7 20. Qd4+ f6
+$18 ) 17... axb4 { [%eval 5.71] } 18. Ne4 $2 { [%eval 1.78] } ( 18. Bh6 Bxc3
+19. Qd6 Bg7 20. Bxg7 Kxg7 21. Ng5 Qa6 $18 ) 18... Re8 $4 { [%eval #7] } ( 18...
+d5 19. Nd6 Qa6 20. Qe3 Qxa2 21. Ne5 Qc2 22. Nxc6 $16 ) ( 18... d5 19. Nd6 Qa6
+20. Qe3 Qxa2 21. Ne5 Qc2 22. Nxc6 $16 ) 19. Nf6+ { [%eval #6] } ( 19. Nf6+ Bxf6
+20. Rxe8+ Kg7 21. Qd6 g5 22. Nh4 gxh4 $18 ) 19... Bxf6 { [%eval #6] } 20. Rxe8+
+{ [%eval #5] } 20... Kg7 { [%eval #5] } 21. Qd6 { [%eval #4] } 21... Rxa2
+{ [%eval #1] } 22. Qf8# 1-0

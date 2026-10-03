@@ -1,0 +1,38 @@
+[Event "ICC 20 20"]
+[Site "Internet Chess Club"]
+[Date "2007.05.04"]
+[Round "?"]
+[White "letriflutiste"]
+[Black "diegoami"]
+[Result "0-1"]
+[ECO "B12"]
+[WhiteElo "1641"]
+[BlackElo "1720"]
+[EventDate "2007.??.??"]
+[TimeControl "1200+20"]
+[PostmortemId "8f7c846229"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. e4 { [%eval 0.19] } 1... c6 { [%eval 0.31] } 2. d4 { [%eval 0.26] } 2... d5
+{ [%eval 0.25] } 3. e5 { [%eval 0.43] } 3... c5 { [%eval 0.41] } 4. Be3
+{ [%eval -0.05] } 4... cxd4 { [%eval -0.05] } 5. Bxd4 { [%eval 0.00] } 5... Bf5
+{ [%eval 0.00] } 6. Bd3 { [%eval 0.00] } 6... Bxd3 { [%eval 0.10] } 7. Qxd3
+{ [%eval -0.03] } 7... e6 { [%eval -0.03] } 8. Nc3 { [%eval -0.08] } 8... Nh6
+{ [%eval 0.03] } 9. f3 { [%eval -0.78] } 9... Be7 { [%eval -0.25] } 10. O-O-O
+{ [%eval -0.24] } 10... Nf5 { [%eval -0.01] } 11. Bf2 { [%eval -0.11] } 11...
+Nc6 { [%eval 0.01] } 12. f4 { [%eval -0.02] } 12... h5 { [%eval -0.06] } 13.
+Qb5 { [%eval -0.35] } 13... Qc7 { [%eval -0.28] } 14. Nf3 { [%eval -0.40] }
+14... a6 { [%eval -0.28] } 15. Qb6 { [%eval -0.30] } 15... O-O-O
+{ [%eval -0.22] } 16. Qxc7+ { [%eval -0.03] } 16... Kxc7 { [%eval -0.04] } 17.
+Na4 { [%eval -0.70] } 17... d4 { [%eval -0.57] } 18. Rd3 $4 { [%eval -5.38] } (
+18. b3 Rhg8 19. g3 g5 20. fxg5 Bxg5+ 21. Nxg5 Rxg5 $15 ) 18... b5
+{ [%eval -5.74] } ( 18... b5 19. a3 bxa4 20. c3 dxc3 21. Rxc3 Kb7 22. Rc4 $19 )
+19. Nc3 { [%eval -5.94] } 19... dxc3 { [%eval -5.85] } 20. Rxd8
+{ [%eval -6.71] } 20... cxb2+ { [%eval -6.72] } 21. Kxb2 { [%eval -6.67] }
+21... Rxd8 { [%eval -6.72] } 22. Be1 { [%eval -7.34] } 22... f6
+{ [%eval -7.13] } 23. c3 { [%eval -7.49] } 23... Ne3 { [%eval -7.39] } 24. Bf2
+{ [%eval -7.81] } 24... Nc4+ { [%eval -7.28] } 25. Kb3 { [%eval -7.53] } 25...
+N6a5+ { [%eval -7.13] } 26. Kc2 { [%eval -7.20] } 26... fxe5 { [%eval -7.04] }
+27. fxe5 { [%eval -7.05] } 27... Nc6 { [%eval -7.09] } 28. Nd4
+{ [%eval -7.21] } 28... Nxd4+ { [%eval -7.12] } 29. Bxd4 { [%eval -7.15] }
+29... b4 { [%eval -7.10] } 30. Rb1 { [%eval -8.43] } 0-1

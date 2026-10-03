@@ -1,0 +1,32 @@
+[Event "ICC 30 30"]
+[Site "Internet Chess Club"]
+[Date "2007.08.24"]
+[Round "?"]
+[White "diegoami"]
+[Black "yyaa"]
+[Result "1-0"]
+[ECO "C44"]
+[WhiteElo "1800"]
+[BlackElo "1679"]
+[EventDate "2007.??.??"]
+[TimeControl "1800+30"]
+[PostmortemId "def0d893d0"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. e4 { [%eval 0.19] } 1... e5 { [%eval 0.26] } 2. Nf3 { [%eval 0.23] } 2...
+Nc6 { [%eval 0.19] } 3. d4 { [%eval -0.02] } 3... exd4 { [%eval 0.03] } 4. Bc4
+{ [%eval -0.02] } 4... Na5 { [%eval 0.76] } 5. Qxd4 { [%eval 0.66] } 5... Nxc4
+{ [%eval 0.88] } 6. Qxc4 { [%eval 0.88] } 6... d6 { [%eval 0.92] } 7. Nc3
+{ [%eval 1.16] } 7... Nf6 { [%eval 1.02] } 8. Bg5 { [%eval 0.91] } 8... Be7 $6
+{ [%eval 2.25] } ( 8... c6 9. O-O-O Be6 10. Qa4 b5 11. Qd4 Qc7 12. Rhe1 $14 )
+9. O-O-O { [%eval 2.52] } ( 9. O-O-O c6 10. e5 Be6 11. Qa4 Nd5 12. Bxe7 Nxc3
+$16 ) 9... Bg4 $6 { [%eval 5.30] } ( 9... O-O 10. e5 Ne8 11. h4 Kh8 12. Rhe1 f6
+13. Bf4 $16 ) 10. e5 { [%eval 5.48] } ( 10. e5 Be6 11. Qb5+ Nd7 12. exd6 cxd6
+13. Rxd6 a6 $18 ) 10... Bxf3 { [%eval 6.61] } 11. exf6 $6 { [%eval 2.73] } (
+11. gxf3 Ng8 12. Bf4 Rc8 13. Qe4 Qd7 14. Qxb7 f6 $18 ) 11... Bxd1 $2
+{ [%eval 7.98] } ( 11... gxf6 12. gxf3 fxg5 13. Nd5 c6 14. Nxe7 Kxe7 15. Qb4
+$16 ) ( 11... gxf6 12. gxf3 fxg5 13. Nd5 c6 14. Nxe7 Kxe7 15. Qb4 $16 ) 12.
+fxe7 { [%eval 7.01] } ( 12. Re1 gxf6 13. Bxf6 O-O 14. Bxe7 Qd7 15. Kxd1 Rae8
+$18 ) 12... Qd7 { [%eval 7.04] } 13. Rxd1 { [%eval 7.08] } 13... f6
+{ [%eval 8.16] } 14. Bf4 { [%eval 7.26] } 14... Qxe7 { [%eval 8.77] } 15. Nd5
+{ [%eval 8.83] } 15... Rc8 { [%eval 10.26] } 16. Nxe7 { [%eval 12.26] } 1-0

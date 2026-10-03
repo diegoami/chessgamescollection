@@ -1,0 +1,20 @@
+[Event "ICC 45 45"]
+[Site "Internet Chess Club"]
+[Date "2007.03.23"]
+[Round "?"]
+[White "diegoami"]
+[Black "knt456"]
+[Result "0-1"]
+[ECO "A03"]
+[WhiteElo "1638"]
+[BlackElo "1570"]
+[EventDate "2007.??.??"]
+[TimeControl "2700+45"]
+[PostmortemId "805b7e4ce2"]
+[PostmortemAnalysis "Stockfish 16, depth 22"]
+
+1. f4 { [%eval -0.35] } 1... d5 { [%eval -0.34] } 2. b3 { [%eval -0.42] } 2...
+Bg4 { [%eval -0.39] } 3. Bb2 { [%eval -0.48] } 3... e6 { [%eval -0.46] } 4. h3
+$4 { [%eval #-2] } ( 4. g3 Nc6 5. Bg2 Qd7 6. Nf3 h5 7. e3 h4 $15 ) 4... Qh4+
+{ [%eval #-1] } ( 4... Qh4+ 5. g3 Qxg3# $19 ) 5. g3 { [%eval #-1] } 5... Qxg3#
+0-1

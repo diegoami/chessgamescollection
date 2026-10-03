@@ -1,0 +1,32 @@
+[Event "ICC 20 20"]
+[Site "Internet Chess Club"]
+[Date "2007.05.13"]
+[Round "?"]
+[White "Sasuke"]
+[Black "diegoami"]
+[Result "0-1"]
+[ECO "C16"]
+[WhiteElo "1661"]
+[BlackElo "1704"]
+[EventDate "2007.??.??"]
+[TimeControl "1200+20"]
+[PostmortemId "83a54a81cb"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. e4 { [%eval 0.19] } 1... e6 { [%eval 0.38] } 2. d4 { [%eval 0.38] } 2... d5
+{ [%eval 0.50] } 3. Nc3 { [%eval 0.47] } 3... Bb4 { [%eval 0.61] } 4. e5
+{ [%eval 0.72] } 4... Ne7 { [%eval 0.61] } 5. Qg4 { [%eval 0.00] } 5... Ng6
+{ [%eval 0.67] } 6. Bd3 { [%eval 0.53] } 6... Nd7 $6 { [%eval 1.73] } ( 6...
+Qh4 7. Qxh4 Nxh4 8. g3 Nf5 9. Ne2 b6 10. Bxf5 $14 ) 7. Nf3 { [%eval 1.95] } (
+7. h4 c5 8. h5 Ne7 9. Kf1 c4 10. Be2 Nf5 $16 ) 7... c5 { [%eval 2.05] } 8. a3
+{ [%eval 2.06] } 8... Bxc3+ { [%eval 2.20] } 9. bxc3 { [%eval 2.20] } 9... O-O
+{ [%eval 2.96] } 10. h4 { [%eval 2.51] } 10... f5 { [%eval 2.89] } 11. exf6 $6
+{ [%eval 0.67] } ( 11. Qg3 Nb6 12. h5 Nh8 13. a4 c4 14. Be2 a5 $16 ) 11... Nxf6
+{ [%eval 0.64] } ( 11... Nxf6 12. Qg3 Ne4 13. Qh2 h6 14. h5 Ne7 15. O-O $14 )
+12. Qg3 { [%eval 0.74] } 12... Nh5 { [%eval 1.55] } 13. Qg4 { [%eval 0.72] }
+13... Ngf4 { [%eval 0.85] } 14. Bxh7+ $6 { [%eval -0.76] } ( 14. Ne5 Bd7 15.
+Bxf4 Nxf4 16. g3 Nxd3+ 17. cxd3 Rc8 $14 ) 14... Kxh7 { [%eval -0.62] } ( 14...
+Kxh7 15. Ne5 Qe8 16. g3 Ng2+ 17. Kf1 Nf6 18. Qh3 $15 ) 15. g3 $4
+{ [%eval -5.57] } ( 15. Ne5 Qe8 16. g3 Ng2+ 17. Kf1 Nf6 18. Qh3 Nd7 $15 ) 15...
+e5 { [%eval -5.95] } ( 15... e5 16. Qg5 Qa5 17. Bd2 Rf5 18. Qg4 Nf6 19. Ng5+
+$19 ) 16. gxf4 { [%eval -9.48] } 16... Bxg4 { [%eval -9.36] } 0-1

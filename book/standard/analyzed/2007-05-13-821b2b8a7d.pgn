@@ -1,0 +1,38 @@
+[Event "ICC 20 20"]
+[Site "Internet Chess Club"]
+[Date "2007.05.13"]
+[Round "?"]
+[White "diegoami"]
+[Black "Damionmfarrar"]
+[Result "0-1"]
+[ECO "B90"]
+[WhiteElo "1690"]
+[BlackElo "1752"]
+[EventDate "2007.??.??"]
+[TimeControl "1200+20"]
+[PostmortemId "821b2b8a7d"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. e4 { [%eval 0.19] } 1... c5 { [%eval 0.32] } 2. Nf3 { [%eval 0.31] } 2... d6
+{ [%eval 0.26] } 3. d4 { [%eval 0.37] } 3... cxd4 { [%eval 0.27] } 4. Nxd4
+{ [%eval 0.25] } 4... Nf6 { [%eval 0.28] } 5. Nc3 { [%eval 0.27] } 5... a6
+{ [%eval 0.24] } 6. Be3 { [%eval 0.30] } 6... e6 { [%eval 0.39] } 7. Be2
+{ [%eval 0.38] } 7... b5 { [%eval 0.54] } 8. O-O { [%eval 0.18] } 8... Bb7
+{ [%eval 0.08] } 9. f3 { [%eval -0.14] } 9... Be7 { [%eval 0.27] } 10. Qd2
+{ [%eval 0.39] } 10... Nbd7 { [%eval 0.43] } 11. Rfd1 { [%eval -0.09] } 11...
+Rc8 { [%eval 0.16] } 12. Ncxb5 $6 { [%eval -1.63] } ( 12. a4 b4 13. Na2 d5 14.
+Nxb4 dxe4 15. Nxa6 O-O $10 ) 12... axb5 { [%eval -1.99] } ( 12... axb5 13. Bxb5
+O-O 14. c4 Ne5 15. b3 Kh8 16. a4 $17 ) 13. Nxb5 { [%eval -2.16] } 13... O-O $2
+{ [%eval 0.59] } ( 13... d5 14. c4 O-O 15. b4 dxc4 16. Qc3 Ra8 17. a4 $17 ) 14.
+c3 $4 { [%eval -3.01] } ( 14. Nxd6 Bxd6 15. Qxd6 Rxc2 16. Bb5 Qa8 17. a4 h6 $14
+) ( 14. Nxd6 Bxd6 15. Qxd6 Rxc2 16. Bb5 Qa8 17. a4 h6 $14 ) 14... d5
+{ [%eval -3.02] } ( 14... d5 15. exd5 Nxd5 16. Bf2 Ne5 17. a4 Bg5 18. Qe1 $19 )
+15. e5 $6 { [%eval -4.82] } ( 15. exd5 Nxd5 16. Bf2 Ne5 17. Qe1 Bc5 18. Bxc5
+Rxc5 $19 ) 15... Nxe5 { [%eval -5.28] } ( 15... Nxe5 16. b3 Ng6 17. a4 e5 18.
+a5 d4 19. cxd4 $19 ) 16. Bd4 { [%eval -5.88] } 16... Nc4 { [%eval -5.80] } 17.
+Qc2 { [%eval -6.73] } 17... Qa5 { [%eval -4.57] } 18. a4 { [%eval -4.61] }
+18... e5 { [%eval -4.65] } 19. b4 { [%eval -5.42] } 19... Qa8 { [%eval -5.59] }
+20. Ba7 { [%eval -6.07] } 20... Ba6 { [%eval -6.07] } 21. Bxc4
+{ [%eval -6.51] } 21... Rxc4 { [%eval -6.61] } 22. Qf5 { [%eval -6.79] } 22...
+Re8 { [%eval -6.85] } 23. Qxe5 { [%eval -8.12] } 23... Bc5+ { [%eval -8.22] }
+0-1

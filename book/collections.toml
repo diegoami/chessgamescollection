@@ -15,3 +15,12 @@ analyzed_dir = "correspondence/analyzed"
 player = "Diego Amicabile"
 aliases = ["diegoami", "Amicabile, Diego", "DiegoAmicabile"]
 description = "Correspondence chess games, analyzed with Stockfish at depth 22."
+
+[[collection]]
+slug = "standard"
+title = "Standard games"
+inputs = ["../../DA_chessgames/standard/*.pgn"]
+analyzed_dir = "standard/analyzed"
+player = "Diego Amicabile"
+aliases = ["diegoami", "Amicabile, Diego", "DiegoAmicabile", "Damicabi"]
+description = "Online standard-time-control games on the Internet Chess Club, analyzed with Stockfish at depth 22."

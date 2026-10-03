@@ -1,0 +1,23 @@
+[Event "ICC 30 30"]
+[Site "Internet Chess Club"]
+[Date "2007.08.05"]
+[Round "?"]
+[White "lavendelia"]
+[Black "diegoami"]
+[Result "1-0"]
+[ECO "A57"]
+[WhiteElo "1712"]
+[BlackElo "1775"]
+[EventDate "2007.??.??"]
+[TimeControl "1800+30"]
+[PostmortemId "4b787d8252"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. d4 { [%eval 0.19] } 1... Nf6 { [%eval 0.20] } 2. c4 { [%eval 0.22] } 2... c5
+{ [%eval 0.77] } 3. d5 { [%eval 0.69] } 3... b5 { [%eval 0.51] } 4. cxb5
+{ [%eval 0.58] } 4... a6 { [%eval 0.58] } 5. Nc3 { [%eval 0.39] } 5... axb5
+{ [%eval 0.42] } 6. e4 { [%eval 0.02] } 6... b4 { [%eval -0.01] } 7. Nb5
+{ [%eval -0.05] } 7... Nxe4 $4 { [%eval 4.33] } ( 7... d6 8. Bd3 g6 9. a4 Bg7
+10. Nf3 O-O 11. O-O $10 ) 8. Qe2 { [%eval 4.59] } ( 8. Qe2 f5 9. f3 Ra5 10.
+fxe4 Ba6 11. exf5 Qb6 $18 ) 8... Nf6 $6 { [%eval #1] } ( 8... d6 9. Qxe4 g6 10.
+Bf4 Ra6 11. Bc4 Bg7 12. Qe2 $18 ) 9. Nd6# ( 9. Nd6# $18 ) 1-0

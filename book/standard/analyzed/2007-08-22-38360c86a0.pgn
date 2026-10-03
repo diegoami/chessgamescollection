@@ -1,0 +1,39 @@
+[Event "ICC 30 30"]
+[Site "Internet Chess Club"]
+[Date "2007.08.22"]
+[Round "?"]
+[White "kipmennn"]
+[Black "diegoami"]
+[Result "0-1"]
+[ECO "B41"]
+[WhiteElo "1611"]
+[BlackElo "1800"]
+[EventDate "2007.??.??"]
+[TimeControl "1800+30"]
+[PostmortemId "38360c86a0"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. e4 { [%eval 0.19] } 1... c5 { [%eval 0.32] } 2. d4 { [%eval 0.03] } 2...
+cxd4 { [%eval 0.10] } 3. Nf3 { [%eval 0.07] } 3... e6 { [%eval 0.37] } 4. c3
+{ [%eval -0.30] } 4... Nf6 { [%eval 0.30] } 5. e5 { [%eval 0.31] } 5... Nd5
+{ [%eval 0.19] } 6. cxd4 { [%eval 0.18] } 6... Nc6 { [%eval 0.24] } 7. Nc3
+{ [%eval 0.28] } 7... Bb4 { [%eval 0.25] } 8. Bd2 { [%eval 0.27] } 8... Nxc3
+{ [%eval 1.05] } 9. bxc3 { [%eval 1.13] } 9... Be7 { [%eval 1.07] } 10. h4
+{ [%eval 0.43] } 10... a6 { [%eval 1.51] } 11. a4 $6 { [%eval 0.31] } ( 11. Bd3
+d6 12. exd6 Bxd6 13. Qe2 h6 14. O-O Ne7 $16 ) 11... d6 { [%eval 0.31] } ( 11...
+d6 12. exd6 Qxd6 13. Be3 O-O 14. Be2 Rd8 15. O-O $10 ) 12. h5 { [%eval 0.11] }
+12... h6 { [%eval 0.26] } 13. exd6 { [%eval -0.05] } 13... Qxd6
+{ [%eval 0.26] } 14. Be3 { [%eval 0.24] } 14... Bd7 { [%eval 0.53] } 15. Qd2
+{ [%eval -0.06] } 15... Rc8 { [%eval 0.00] } 16. Bf4 { [%eval -0.15] } 16...
+Qd5 { [%eval -0.02] } 17. Ne5 $6 { [%eval -1.53] } ( 17. Be2 Na5 18. Qd3 Bc6
+19. Rh3 Qe4 20. Qxe4 Bxe4 $10 ) 17... Nxe5 { [%eval -1.33] } ( 17... Nxe5 18.
+dxe5 Qe4+ 19. Qe3 Qxe3+ 20. Bxe3 Rxc3 21. Be2 $17 ) 18. Bxe5 { [%eval -2.16] }
+18... Qe4+ { [%eval -1.56] } 19. Kd1 { [%eval -1.68] } 19... f6
+{ [%eval -1.03] } 20. f3 $6 { [%eval -2.59] } ( 20. Bg3 Qd5 21. Bd3 O-O 22. f3
+e5 23. Ke2 exd4 $17 ) 20... Qc6 { [%eval -1.52] } ( 20... Qd5 21. Bf4 Qb3+ 22.
+Qc2 Rxc3 23. Qxb3 Rxb3 24. Bd2 $17 ) 21. Bg3 { [%eval -2.09] } 21... Qxc3
+{ [%eval -2.18] } 22. Bd3 $2 { [%eval -8.87] } ( 22. Qxc3 Rxc3 23. Kd2 Bb4 24.
+Bd3 Ra3+ 25. Ke3 Rxa4 $17 ) 22... Qxa1+ { [%eval -10.00] } ( 22... Qxa1+ 23.
+Ke2 Qxh1 24. Bg6+ Kf8 25. Kf2 Qa1 26. Bf4 $19 ) 23. Ke2 { [%eval -10.10] }
+23... Qxh1 { [%eval -10.37] } 24. Bg6+ { [%eval -10.61] } 24... Kf8
+{ [%eval -10.61] } 0-1

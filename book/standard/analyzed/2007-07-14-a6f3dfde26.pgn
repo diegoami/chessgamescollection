@@ -1,0 +1,38 @@
+[Event "ICC 45 45"]
+[Site "Internet Chess Club"]
+[Date "2007.07.14"]
+[Round "?"]
+[White "Quizmo"]
+[Black "diegoami"]
+[Result "0-1"]
+[ECO "B20"]
+[WhiteElo "1655"]
+[BlackElo "1760"]
+[EventDate "2007.??.??"]
+[TimeControl "2700+45"]
+[PostmortemId "a6f3dfde26"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. e4 { [%eval 0.19] } 1... c5 { [%eval 0.32] } 2. e5 { [%eval -0.65] } 2...
+Nc6 { [%eval -0.57] } 3. f4 { [%eval -0.59] } 3... Nh6 { [%eval -0.48] } 4. Nf3
+{ [%eval -0.47] } 4... d5 { [%eval -0.50] } 5. Bb5 { [%eval -0.48] } 5... Bg4
+{ [%eval -0.28] } 6. Bxc6+ { [%eval -0.43] } 6... bxc6 { [%eval -0.46] } 7. O-O
+{ [%eval -0.29] } 7... Qb6 { [%eval -0.01] } 8. Nc3 { [%eval -0.47] } 8... e6
+{ [%eval 0.00] } 9. Kh1 { [%eval -0.75] } 9... Be7 { [%eval -0.37] } 10. Ne2
+{ [%eval -1.01] } 10... O-O { [%eval -0.59] } 11. h3 { [%eval -0.58] } 11...
+Bxf3 { [%eval -0.62] } 12. Rxf3 { [%eval -0.40] } 12... f6 { [%eval -0.48] }
+13. exf6 { [%eval -0.34] } 13... Bxf6 { [%eval -0.41] } 14. c3
+{ [%eval -0.77] } 14... e5 { [%eval 0.00] } 15. d4 $6 { [%eval -2.18] } ( 15.
+fxe5 Bxe5 16. Rxf8+ Rxf8 17. d4 cxd4 18. Bxh6 dxc3 $10 ) 15... e4
+{ [%eval -2.21] } ( 15... e4 16. Rf2 cxd4 17. cxd4 Nf5 18. g4 Nh4 19. Rb1 $17 )
+16. dxc5 { [%eval -2.72] } 16... Qxc5 { [%eval -2.87] } 17. Be3
+{ [%eval -3.26] } 17... Qb5 { [%eval -3.49] } 18. Rf1 { [%eval -4.16] } 18...
+Nf5 { [%eval -4.50] } 19. Bg1 { [%eval -7.17] } 19... Qxb2 $6 { [%eval -3.45] }
+( 19... Qxe2 20. Qxe2 Ng3+ 21. Kh2 Nxe2 22. Bc5 Rf7 23. Be3 $19 ) 20. g4 $6
+{ [%eval -5.78] } ( 20. Kh2 Rfe8 21. a4 Qb8 22. Bc5 a5 23. Rb1 Qc7 $19 ) ( 20.
+Kh2 Rfe8 21. a4 Qb8 22. Bc5 a5 23. Rb1 Qc7 $19 ) 20... Qxe2 { [%eval -5.88] } (
+20... Qxe2 21. gxf5 Qxd1 22. Rfxd1 Bxc3 23. Rac1 Bf6 24. Bf2 $19 ) 21. gxf5
+{ [%eval -5.85] } 21... Qxd1 { [%eval -5.97] } 22. Raxd1 { [%eval -6.84] }
+22... Bxc3 { [%eval -7.04] } 23. Bc5 { [%eval -7.16] } 23... Rxf5
+{ [%eval -7.26] } 24. Rb1 { [%eval -7.80] } 24... d4 { [%eval -8.27] } 25. Rb7
+{ [%eval -9.20] } 25... Rxc5 { [%eval -9.28] } 0-1

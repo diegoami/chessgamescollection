@@ -1,0 +1,39 @@
+[Event "ICC 30 30"]
+[Site "Internet Chess Club"]
+[Date "2007.07.07"]
+[Round "?"]
+[White "diegoami"]
+[Black "Douglas911"]
+[Result "0-1"]
+[ECO "C41"]
+[WhiteElo "1769"]
+[BlackElo "1784"]
+[EventDate "2007.??.??"]
+[TimeControl "1800+30"]
+[PostmortemId "6f9448f41a"]
+[PostmortemAnalysis "Stockfish 19, depth 22"]
+
+1. e4 { [%eval 0.19] } 1... e5 { [%eval 0.26] } 2. Nf3 { [%eval 0.23] } 2... d6
+{ [%eval 0.67] } 3. d4 { [%eval 0.58] } 3... exd4 { [%eval 0.66] } 4. Bc4
+{ [%eval 0.12] } 4... Be7 { [%eval 0.28] } 5. O-O { [%eval 0.07] } 5... c5
+{ [%eval 0.23] } 6. c3 { [%eval 0.29] } 6... Nc6 { [%eval 0.85] } 7. cxd4
+{ [%eval 0.88] } 7... cxd4 { [%eval 0.80] } 8. Nxd4 { [%eval 0.84] } 8... Nf6
+{ [%eval 0.86] } 9. Nc3 { [%eval 0.84] } 9... Ne5 $6 { [%eval 2.44] } ( 9...
+O-O 10. Be3 a6 11. Rc1 Bd7 12. Nxc6 Bxc6 13. f3 $14 ) 10. Bb5+ { [%eval 2.49] }
+( 10. Bb5+ Bd7 11. Bxd7+ Qxd7 12. Nf5 O-O 13. Bg5 Bd8 $16 ) 10... Bd7
+{ [%eval 2.32] } 11. Nf5 { [%eval 2.39] } 11... O-O { [%eval 2.40] } 12. Nxd6
+$2 { [%eval -0.77] } ( 12. Bxd7 Qxd7 13. Bg5 Bd8 14. Bxf6 Bxf6 15. Nd5 Qd8 $16
+) 12... Bxb5 $6 { [%eval 0.80] } ( 12... Bg4 13. f3 Qb6+ 14. Kh1 Bxd6 15. fxg4
+Nexg4 16. Qe1 $15 ) ( 12... Bg4 13. f3 Qb6+ 14. Kh1 Bxd6 15. fxg4 Nexg4 16. Qe1
+$15 ) 13. Ncxb5 $4 { [%eval -4.19] } ( 13. Ndxb5 a6 14. Nd4 Bc5 15. Nb3 Bb4 16.
+f4 Qxd1 $14 ) ( 13. Ndxb5 a6 14. Nd4 Bc5 15. Nb3 Bb4 16. f4 Qxd1 $14 ) 13... a6
+{ [%eval -4.37] } ( 13... a6 14. Bf4 Ng6 15. e5 Ne8 16. Bg3 axb5 17. Nf5 $19 )
+14. Bf4 { [%eval -4.35] } 14... Ng6 { [%eval -4.51] } 15. e5 { [%eval -4.49] }
+15... Nxf4 $2 { [%eval -1.07] } ( 15... Ne8 16. Nf5 axb5 17. Bg3 Qb6 18. a3 Qe6
+19. Qf3 $19 ) 16. exf6 { [%eval -1.02] } ( 16. exf6 Bxf6 17. Nc3 Qb6 18. Nce4
+Be5 19. g3 Rad8 $17 ) 16... Bxf6 { [%eval -1.00] } 17. Nc3 { [%eval -0.95] }
+17... Bxc3 { [%eval -0.53] } 18. bxc3 { [%eval -0.37] } 18... Qc7
+{ [%eval -0.35] } 19. Ne4 { [%eval -0.90] } 19... Rad8 { [%eval -0.93] } 20.
+Qg4 $4 { [%eval -7.38] } ( 20. Qc2 h6 21. Rad1 Qc6 22. f3 b5 23. Rfe1 Rfe8 $15
+) 20... f5 { [%eval -7.57] } ( 20... f5 21. Qh4 fxe4 22. Rae1 Qc4 23. Qe7 Ne2+
+24. Kh1 $19 ) 0-1
