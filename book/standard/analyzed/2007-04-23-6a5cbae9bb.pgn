@@ -4,7 +4,7 @@
 [Round "?"]
 [White "slotmachine"]
 [Black "diegoami"]
-[Result "1-0"]
+[Result "1/2-1/2"]
 [ECO "D04"]
 [WhiteElo "1621"]
 [BlackElo "1716"]
@@ -12,6 +12,7 @@
 [TimeControl "1200+20"]
 [PostmortemId "6a5cbae9bb"]
 [PostmortemAnalysis "Stockfish 16, depth 22"]
+[OriginalResult "1-0"]
 
 1. Nf3 { [%eval 0.31] } 1... d5 { [%eval 0.32] } 2. d4 { [%eval 0.38] } 2...
 Nf6 { [%eval 0.30] } 3. e3 { [%eval 0.10] } 3... c5 { [%eval 0.23] } 4. c4
@@ -31,4 +32,5 @@ Nb3 { [%eval 3.22] } ( 18... Nb3 19. Rb1 Rc5 20. Qd3 Qxd3 21. Bxd3 Rd8 22. Be4
 $18 ) 19. Rb1 { [%eval 3.24] } 19... Qc7 { [%eval 4.69] } 20. Bd3
 { [%eval 4.59] } 20... g6 { [%eval 4.66] } 21. Qd5 { [%eval 4.74] } 21... Nc5
 { [%eval 4.87] } 22. Be2 { [%eval 4.76] } 22... Rfd8 { [%eval 4.73] } 23. Qf3
-$2 { [%eval 1.52] } ( 23. Qc4 Qe7 24. e4 Nxe4 25. Qb3 Nd6 26. Bg4 Rc4 $18 ) 1-0
+$2 { [%eval 1.52] } ( 23. Qc4 Qe7 24. e4 Nxe4 25. Qb3 Nd6 26. Bg4 Rc4 $18 )
+1/2-1/2

@@ -4,11 +4,12 @@
 [Round "?.242"]
 [White "Diego Amicabile"]
 [Black "draiggoch"]
-[Result "0-1"]
+[Result "1-0"]
 [ECO "C03"]
 [EventDate "2011.??.??"]
 [PostmortemId "204c1a4d67"]
 [PostmortemAnalysis "Stockfish 19, depth 22"]
+[OriginalResult "0-1"]
 
 1. e4 { [%eval 0.19] } 1... e6 { [%eval 0.38] } 2. d4 { [%eval 0.38] } 2... d5
 { [%eval 0.50] } 3. Nd2 { [%eval 0.22] } 3... a6 { [%eval 0.40] } 4. Ngf3
@@ -27,4 +28,4 @@ Qa5 17. Qc2 Qf5 18. Qc3 Qh5 19. Rfe1 Ne8 $18 ) 16... Qe8 { [%eval 3.56] } (
 { [%eval 3.13] } 17... Ra7 { [%eval 4.15] } 18. Rfe1 { [%eval 4.86] } 18... g6
 { [%eval 6.66] } 19. Qf4 { [%eval 6.67] } 19... Kh7 { [%eval 6.83] } 20. Nf3
 { [%eval 6.83] } 20... Nh5 { [%eval 7.80] } 21. Qe3 { [%eval 5.48] } 21... Ra8
-{ [%eval 5.86] } 0-1
+{ [%eval 5.86] } 1-0

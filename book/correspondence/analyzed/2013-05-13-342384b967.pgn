@@ -4,7 +4,7 @@
 [Round "?"]
 [White "RabbitCold"]
 [Black "diegoami"]
-[Result "0-1"]
+[Result "1-0"]
 [ECO "A80"]
 [WhiteElo "1637"]
 [BlackElo "1718"]
@@ -13,6 +13,7 @@
 [Termination "diegoami won on time"]
 [PostmortemId "342384b967"]
 [PostmortemAnalysis "Stockfish 19, depth 22"]
+[OriginalResult "0-1"]
 
 1. d4 { [%eval 0.19] } 1... f5 { [%eval 0.53] } 2. Bg5 { [%eval 0.56] } 2... g6
 { [%eval 0.59] } 3. Nc3 { [%eval 0.57] } 3... Bg7 { [%eval 0.52] } 4. e4
@@ -23,4 +24,4 @@
 { [%eval 1.43] } 10... Nbd7 { [%eval 1.57] } 11. Rae1 { [%eval 1.63] } 11...
 Qe8 { [%eval 1.56] } 12. Ng3 { [%eval 1.80] } 12... a5 { [%eval 2.43] } 13.
 Qxe7 { [%eval 2.33] } 13... Qxe7 { [%eval 2.36] } 14. Rxe7 { [%eval 2.44] }
-14... Rac8 { [%eval 3.38] } 0-1
+14... Rac8 { [%eval 3.38] } 1-0

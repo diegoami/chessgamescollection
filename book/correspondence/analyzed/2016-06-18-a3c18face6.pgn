@@ -4,7 +4,7 @@
 [Round "?"]
 [White "mohsen1358"]
 [Black "diegoami"]
-[Result "1-0"]
+[Result "1/2-1/2"]
 [ECO "B14"]
 [WhiteElo "1831"]
 [BlackElo "1843"]
@@ -13,6 +13,7 @@
 [Termination "mohsen1358 won on time"]
 [PostmortemId "a3c18face6"]
 [PostmortemAnalysis "Stockfish 19, depth 22"]
+[OriginalResult "1-0"]
 
 1. Nf3 { [%eval 0.16] } 1... c5 { [%eval 0.35] } 2. c4 { [%eval 0.27] } 2...
 Nf6 { [%eval 0.24] } 3. Nc3 { [%eval 0.31] } 3... Nc6 { [%eval 0.12] } 4. e3
@@ -41,4 +42,5 @@ Qd8 { [%eval 0.00] } 30. Qc1 { [%eval 0.00] } 30... Ke8 $2 { [%eval 3.44] } (
 31. Bc6+ Bxc6 32. Qxc6+ Kf8 33. Qxa4 Bd6 34. Nc6 Qd7 $18 ) 31... Qe7 $6
 { [%eval 1.14] } ( 31... Qc7 32. Qf3 Bd6 33. Bc6+ Bxc6 34. Nxc6 Qb6 35. Ne5 $10
 ) ( 31... Qc7 32. Qf3 Bd6 33. Bc6+ Bxc6 34. Nxc6 Qb6 35. Ne5 $10 ) 32. Nxf7
-{ [%eval 0.32] } ( 32. Qf3 Qc7 33. Qh5 g6 34. Qxh6 Bd6 35. Ng4 Qc4 $16 ) 1-0
+{ [%eval 0.32] } ( 32. Qf3 Qc7 33. Qh5 g6 34. Qxh6 Bd6 35. Ng4 Qc4 $16 )
+1/2-1/2

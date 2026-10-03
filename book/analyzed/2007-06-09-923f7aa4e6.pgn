@@ -4,13 +4,14 @@
 [Round "?"]
 [White "Michaela Bergmann"]
 [Black "Diego Amicabile"]
-[Result "1/2-1/2"]
+[Result "0-1"]
 [ECO "E91"]
 [WhiteElo "1556"]
 [BlackElo "1687"]
 [EventDate "2007.??.??"]
 [PostmortemId "923f7aa4e6"]
 [PostmortemAnalysis "Stockfish 19, depth 22"]
+[OriginalResult "1/2-1/2"]
 
 1. d4 { [%eval 0.19] } 1... c5 { [%eval 0.64] } 2. d5 { [%eval 0.67] } 2... d6
 { [%eval 0.67] } 3. c4 { [%eval 0.66] } 3... Nf6 { [%eval 0.77] } 4. Nc3
@@ -43,4 +44,4 @@ a5 32. axb4 axb4 33. g4 Nd4 $15 ) 30... Kg7 { [%eval -3.83] } ( 30... Kg7 31.
 Ng4 h5 32. Nf2 Ng3 33. h4 a5 34. Nh3 $19 ) 31. Nd7 { [%eval -4.24] } 31... Ne3
 { [%eval -4.49] } 32. g4 { [%eval -4.71] } 32... Rg2+ { [%eval -3.77] } 33. Kh1
 { [%eval -4.21] } 33... Rg3 { [%eval -3.14] } 34. Kh2 { [%eval -4.62] } 34...
-Rg2+ { [%eval -4.79] } 35. Kh1 { [%eval -4.84] } 1/2-1/2
+Rg2+ { [%eval -4.79] } 35. Kh1 { [%eval -4.84] } 0-1

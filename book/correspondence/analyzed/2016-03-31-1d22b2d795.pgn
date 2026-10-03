@@ -4,7 +4,7 @@
 [Round "?"]
 [White "conejitosuavecito"]
 [Black "diegoami"]
-[Result "0-1"]
+[Result "1/2-1/2"]
 [ECO "D33"]
 [WhiteElo "1761"]
 [BlackElo "1862"]
@@ -13,6 +13,7 @@
 [Termination "diegoami won by resignation"]
 [PostmortemId "1d22b2d795"]
 [PostmortemAnalysis "Stockfish 19, depth 22"]
+[OriginalResult "0-1"]
 
 1. Nf3 { [%eval 0.16] } 1... c5 { [%eval 0.35] } 2. c4 { [%eval 0.27] } 2...
 Nf6 { [%eval 0.24] } 3. Nc3 { [%eval 0.31] } 3... Nc6 { [%eval 0.12] } 4. g3
@@ -33,4 +34,4 @@ Qxd5+ { [%eval 3.70] } 18... Kh8 { [%eval 3.72] } 19. Rac1 $6 { [%eval 1.54] }
 $16 ) 20. Qh5 $6 { [%eval 0.00] } ( 20. Rxc8 Nxe2+ 21. Kh1 Rxc8 22. Qd7 Rd8 23.
 Qxa7 Nc3 $16 ) 20... Rxc1 { [%eval 0.00] } ( 20... Rxc1 21. Rxc1 Qxf2+ 22. Kh1
 Qe3 23. Rf1 Rxf1+ 24. Bxf1 $10 ) 21. Rxc1 { [%eval 0.00] } 21... Qxf2+
-{ [%eval 0.00] } 0-1
+{ [%eval 0.00] } 1/2-1/2

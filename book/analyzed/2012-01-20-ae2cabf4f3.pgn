@@ -4,10 +4,11 @@
 [Round "?"]
 [White "Kraft "]
 [Black "Amicabile"]
-[Result "*"]
+[Result "1/2-1/2"]
 [ECO "A85"]
 [PostmortemId "ae2cabf4f3"]
 [PostmortemAnalysis "Stockfish 19, depth 22"]
+[OriginalResult "*"]
 
 1. d4 { [%eval 0.19] } 1... f5 { [%eval 0.53] } 2. c4 { [%eval 0.47] } 2... e6
 { [%eval 0.42] } 3. Nf3 { [%eval 0.52] } 3... Nf6 { [%eval 0.55] } 4. Bg5
@@ -41,4 +42,4 @@ Qxc7 $10 ) 33. Qb5 { [%eval 0.00] } 33... Qd6 { [%eval 0.00] } 34. a4
 { [%eval -0.08] } 39. Qc4 { [%eval 0.00] } 39... c6 { [%eval 0.00] } 40. Qb3
 { [%eval 0.00] } 40... Qd5 { [%eval 0.00] } 41. Qb7+ { [%eval 0.00] } 41... Kg6
 { [%eval 0.00] } 42. Qe7 { [%eval 0.00] } 42... c4 { [%eval 0.00] } 43. Qe8+
-{ [%eval 0.00] } 43... Kg7 { [%eval 0.00] } *
+{ [%eval 0.00] } 43... Kg7 { [%eval 0.00] } 1/2-1/2

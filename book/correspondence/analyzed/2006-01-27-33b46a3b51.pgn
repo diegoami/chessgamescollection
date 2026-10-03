@@ -4,11 +4,12 @@
 [Round "?"]
 [White "Diego Amicabile"]
 [Black "Chess Giant"]
-[Result "0-1"]
+[Result "1/2-1/2"]
 [BlackElo "1880"]
 [EventDate "2006.??.??"]
 [PostmortemId "33b46a3b51"]
 [PostmortemAnalysis "Stockfish 19, depth 22"]
+[OriginalResult "0-1"]
 
 1. e4 { [%eval 0.19] } 1... c5 { [%eval 0.32] } 2. Ne2 { [%eval 0.08] } 2...
 Nc6 { [%eval 0.34] } 3. Nbc3 { [%eval 0.19] } 3... e6 { [%eval 0.40] } 4. d4
@@ -25,4 +26,4 @@ Rac1 h5 $18 ) 13... Qb8 { [%eval 6.73] } 14. f6 { [%eval 6.95] } 14... g6
 { [%eval 7.01] } 15. Bb6 { [%eval 6.63] } 15... Rd7 { [%eval 6.58] } 16. c3
 { [%eval 5.36] } 16... Nd8 { [%eval 5.84] } 17. a4 $4 { [%eval -1.23] } ( 17.
 Be3 Bxd5 18. exd5 h5 19. a4 bxa4 20. Nd2 Bh6 $18 ) 17... Bxd5 { [%eval -1.41] }
-( 17... Bxd5 18. exd5 Qxb6+ 19. Kh1 Bh6 20. axb5 axb5 21. h4 $17 ) 0-1
+( 17... Bxd5 18. exd5 Qxb6+ 19. Kh1 Bh6 20. axb5 axb5 21. h4 $17 ) 1/2-1/2

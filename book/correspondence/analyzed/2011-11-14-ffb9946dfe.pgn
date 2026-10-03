@@ -4,7 +4,7 @@
 [Round "?"]
 [White "diegoami"]
 [Black "Rafa2001"]
-[Result "1-0"]
+[Result "1/2-1/2"]
 [ECO "C50"]
 [WhiteElo "1840"]
 [BlackElo "1893"]
@@ -12,9 +12,10 @@
 [TimeControl "1"]
 [PostmortemId "ffb9946dfe"]
 [PostmortemAnalysis "Stockfish 19, depth 22"]
+[OriginalResult "1-0"]
 
 1. e4 { [%eval 0.19] } 1... e5 { [%eval 0.26] } 2. Nf3 { [%eval 0.23] } 2...
 Nc6 { [%eval 0.19] } 3. d4 { [%eval -0.02] } 3... exd4 { [%eval 0.03] } 4. Bc4
 { [%eval -0.02] } 4... Nf6 { [%eval 0.01] } 5. O-O { [%eval -0.14] } 5... d6
 { [%eval 0.31] } 6. Nxd4 { [%eval 0.41] } 6... Be7 { [%eval 0.44] } 7. Nc3
-{ [%eval 0.41] } 7... O-O { [%eval 0.44] } 8. Re1 { [%eval 0.39] } 1-0
+{ [%eval 0.41] } 7... O-O { [%eval 0.44] } 8. Re1 { [%eval 0.39] } 1/2-1/2

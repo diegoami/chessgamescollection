@@ -4,11 +4,12 @@
 [Round "?.49"]
 [White "Diego Amicabile"]
 [Black "UConnKid"]
-[Result "*"]
+[Result "0-1"]
 [ECO "C07"]
 [EventDate "2011.??.??"]
 [PostmortemId "bf141ee7e3"]
 [PostmortemAnalysis "Stockfish 19, depth 22"]
+[OriginalResult "*"]
 
 1. e4 { [%eval 0.19] } 1... e6 { [%eval 0.38] } 2. d4 { [%eval 0.38] } 2... d5
 { [%eval 0.50] } 3. Nd2 { [%eval 0.22] } 3... c5 { [%eval 0.24] } 4. Ngf3
@@ -65,4 +66,4 @@ $4 { [%eval -6.63] } ( 43. c5 Rd7 44. b4 axb4 45. axb4 Bb8 46. Re8 Bh2 $18 ) (
 $19 ) 44. Rxd4 { [%eval -6.57] } 44... Rxd4 { [%eval -6.47] } 45. Kxd4
 { [%eval -5.83] } 45... Kf4 { [%eval -6.47] } 46. b4 { [%eval -6.80] } 46...
 axb4 { [%eval -7.30] } 47. axb4 { [%eval -7.38] } 47... Kxf3 { [%eval -7.47] }
-*
+0-1

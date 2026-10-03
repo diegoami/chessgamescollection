@@ -4,13 +4,14 @@
 [Round "?"]
 [White "Kabelbruch"]
 [Black "diegoami"]
-[Result "0-1"]
+[Result "1/2-1/2"]
 [ECO "B22"]
 [WhiteElo "1829"]
 [BlackElo "1757"]
 [EventDate "2011.??.??"]
 [PostmortemId "159e35038e"]
 [PostmortemAnalysis "Stockfish 19, depth 22"]
+[OriginalResult "0-1"]
 
 1. e4 { [%eval 0.19] } 1... c5 { [%eval 0.32] } 2. c3 { [%eval 0.10] } 2... e6
 { [%eval 0.30] } 3. d4 { [%eval 0.24] } 3... d5 { [%eval 0.34] } 4. exd5
@@ -19,4 +20,4 @@
 { [%eval -0.02] } 7... Be7 { [%eval 0.13] } 8. dxc5 { [%eval 0.07] } 8... Bxc5
 { [%eval 0.08] } 9. Nbd2 { [%eval -0.14] } 9... O-O { [%eval -0.14] } 10. Nb3
 { [%eval -0.11] } 10... Bb6 { [%eval -0.12] } 11. Bg5 { [%eval -0.08] } 11...
-Be6 { [%eval 0.07] } 12. Nfd4 { [%eval -0.12] } 0-1
+Be6 { [%eval 0.07] } 12. Nfd4 { [%eval -0.12] } 1/2-1/2

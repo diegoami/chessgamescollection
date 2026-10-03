@@ -4,11 +4,12 @@
 [Round "?"]
 [White "Winter, Michael"]
 [Black "Amicabile, Diego"]
-[Result "*"]
+[Result "0-1"]
 [ECO "A25"]
 [SourceDate "2012.04.06"]
 [PostmortemId "a3a6328812"]
 [PostmortemAnalysis "Stockfish 19, depth 22"]
+[OriginalResult "*"]
 
 1. c4 { [%eval 0.18] } 1... f5 { [%eval 0.47] } 2. Nc3 { [%eval 0.33] } 2... e5
 { [%eval 0.29] } 3. g3 { [%eval 0.31] } 3... Nf6 { [%eval 0.30] } 4. Bg2
@@ -64,4 +65,4 @@ a3 49. e6 a2 50. e7 $19 ) 47. Kxf6 { [%eval -6.65] } 47... a4 { [%eval -6.20] }
 52... Qd3+ { [%eval -0.20] } 53. Kg4 $4 { [%eval -7.16] } ( 53. Kf4 Qd6+ 54.
 Kf3 Kg7 55. Ke3 b5 56. h5 b4 $10 ) 53... Qg6+ { [%eval -7.16] } ( 53... Qg6+
 54. Qxg6+ Kxg6 55. h5+ Kh6 56. Kf5 c5 57. Ke6 $19 ) 54. Qxg6+ { [%eval -7.05] }
-54... Kxg6 { [%eval -7.16] } *
+54... Kxg6 { [%eval -7.16] } 0-1

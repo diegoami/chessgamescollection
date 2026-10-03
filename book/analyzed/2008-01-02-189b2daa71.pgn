@@ -4,13 +4,14 @@
 [Round "?"]
 [White "Pegoraro Nicola"]
 [Black "Amicabile Diego"]
-[Result "1/2-1/2"]
+[Result "0-1"]
 [ECO "B44"]
 [WhiteElo "2028"]
 [BlackElo "1874"]
 [EventDate "2008.??.??"]
 [PostmortemId "189b2daa71"]
 [PostmortemAnalysis "Stockfish 19, depth 22"]
+[OriginalResult "1/2-1/2"]
 
 1. e4 { [%eval 0.19] } 1... c5 { [%eval 0.32] } 2. Nf3 { [%eval 0.31] } 2... e6
 { [%eval 0.50] } 3. d4 { [%eval 0.46] } 3... cxd4 { [%eval 0.44] } 4. Nxd4
@@ -55,4 +56,4 @@ Kf2 38. b4 Kxg2 39. c5 g4 40. fxg4 $10 ) 37. a3 { [%eval 0.00] } 37... Kf2
 { [%eval -0.01] } 44. d8=Q { [%eval -0.01] } 44... f1=Q { [%eval -0.05] } 45.
 Qxh4 $4 { [%eval -4.85] } ( 45. Qg5+ Kh1 46. d6 f3 47. Qd5 Qc1+ 48. Kb4 Qf4+
 $10 ) 45... Qf3+ { [%eval -5.18] } ( 45... Qf3+ 46. Kc4 Qe4+ 47. Kc5 Qe3+ 48.
-Kc6 f3 49. Qg4+ $19 ) 46. Kb4 { [%eval -5.68] } 1/2-1/2
+Kc6 f3 49. Qg4+ $19 ) 46. Kb4 { [%eval -5.68] } 0-1

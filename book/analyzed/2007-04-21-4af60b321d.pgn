@@ -4,13 +4,14 @@
 [Round "?"]
 [White "Lothar Stadler"]
 [Black "Diego Amicabile"]
-[Result "0-1"]
+[Result "1-0"]
 [ECO "A28"]
 [WhiteElo "1797"]
 [BlackElo "1717"]
 [TimeControl "40/6300:100/1800:1800"]
 [PostmortemId "4af60b321d"]
 [PostmortemAnalysis "Stockfish 19, depth 22"]
+[OriginalResult "0-1"]
 
 1. c4 { [%eval 0.18] } 1... e5 { [%eval 0.19] } 2. Nc3 { [%eval 0.05] } 2...
 Nf6 { [%eval 0.08] } 3. Nf3 { [%eval 0.04] } 3... Nc6 { [%eval 0.05] } 4. e3
@@ -41,4 +42,4 @@ Qb4 { [%eval -8.58] } 25... Qg3 { [%eval -7.53] } 26. Re1 { [%eval -9.32] }
 { [%eval -7.72] } 28. Rxe1 { [%eval #-8] } 28... Bxh3 { [%eval #-7] } 29. Qe4
 { [%eval #-7] } 29... Bxg2 { [%eval #-6] } 30. Qxg2 { [%eval #-6] } 30... Rd2
 $4 { [%eval 9.51] } ( 30... Qxe1+ 31. Qf1 Qg3+ 32. Kh1 Rd2 33. Qxf7+ Kxf7 34.
-e6+ $19 ) 0-1
+e6+ $19 ) 1-0

@@ -4,11 +4,12 @@
 [Round "?.218"]
 [White "Antibody1"]
 [Black "Diego Amicabile"]
-[Result "0-1"]
+[Result "1/2-1/2"]
 [ECO "A80"]
 [EventDate "2007.??.??"]
 [PostmortemId "75c7a6f982"]
 [PostmortemAnalysis "Stockfish 19, depth 22"]
+[OriginalResult "0-1"]
 
 1. d4 { [%eval 0.19] } 1... f5 { [%eval 0.53] } 2. Bg5 { [%eval 0.56] } 2... g6
 { [%eval 0.59] } 3. Nd2 { [%eval 0.34] } 3... Bg7 { [%eval 0.37] } 4. e4
@@ -32,4 +33,4 @@ Raxd8 { [%eval 0.03] } 18. Rad1 { [%eval -0.03] } 18... e4 { [%eval -0.04] }
 e3 { [%eval -2.30] } ( 20... e3 21. f3 e2 22. Bxe2 Ne3 23. b4 g5 24. Kf2 $17 )
 21. f3 { [%eval -2.43] } 21... Ne5 $2 { [%eval 0.48] } ( 21... e2 22. Bxe2 Ne3
 23. b4 g5 24. h3 Nxf1 25. Bxf1 $17 ) 22. Be2 { [%eval 0.49] } ( 22. Be2 Rfe8
-23. Rfe1 c5 24. Nc2 Be6 25. Nxe3 Bxa2 $14 ) 22... Rfe8 { [%eval 0.54] } 0-1
+23. Rfe1 c5 24. Nc2 Be6 25. Nxe3 Bxa2 $14 ) 22... Rfe8 { [%eval 0.54] } 1/2-1/2

@@ -4,13 +4,14 @@
 [Round "?"]
 [White "diegoami"]
 [Black "kiteman"]
-[Result "1-0"]
+[Result "1/2-1/2"]
 [ECO "C44"]
 [WhiteElo "1755"]
 [BlackElo "1527"]
 [EventDate "2011.??.??"]
 [PostmortemId "67dd671af1"]
 [PostmortemAnalysis "Stockfish 19, depth 22"]
+[OriginalResult "1-0"]
 
 1. e4 { [%eval 0.19] } 1... e5 { [%eval 0.26] } 2. Nf3 { [%eval 0.23] } 2...
 Nc6 { [%eval 0.19] } 3. d4 { [%eval -0.02] } 3... exd4 { [%eval 0.03] } 4. Bc4
@@ -23,4 +24,4 @@ Nc6 { [%eval 0.19] } 3. d4 { [%eval -0.02] } 3... exd4 { [%eval 0.03] } 4. Bc4
 { [%eval 1.94] } 13... Kd7 $6 { [%eval 3.50] } ( 13... Bxf3 14. Nxf3 Kd7 15.
 O-O Re8 16. e5 Ne4 17. Qd3 $16 ) 14. O-O-O $6 { [%eval 1.39] } ( 14. Nd4 Nxd4
 15. Qxd4 Kc8 16. O-O Rf8 17. f4 b6 $18 ) ( 14. Nd4 Nxd4 15. Qxd4 Kc8 16. O-O
-Rf8 17. f4 b6 $18 ) 1-0
+Rf8 17. f4 b6 $18 ) 1/2-1/2

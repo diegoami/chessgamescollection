@@ -4,11 +4,12 @@
 [Round "?"]
 [White "English Knight"]
 [Black "Diego Amicabile"]
-[Result "0-1"]
+[Result "1-0"]
 [BlackElo "2071"]
 [EventDate "2005.??.??"]
 [PostmortemId "a680ce99c2"]
 [PostmortemAnalysis "Stockfish 19, depth 22"]
+[OriginalResult "0-1"]
 
 1. d4 { [%eval 0.19] } 1... Nf6 { [%eval 0.20] } 2. c4 { [%eval 0.22] } 2... e6
 { [%eval 0.29] } 3. Nf3 { [%eval 0.30] } 3... b6 { [%eval 0.39] } 4. g3
@@ -28,4 +29,4 @@ Qxh7+ Kxh7 21. Nxb7 Rc2 22. Rxd4 Rxe2 23. a4 f5 $16 ) 20... Kxh7
 { [%eval 2.92] } 21. Nxb7 { [%eval 3.01] } 21... Rc7 { [%eval 3.71] } 22. Na5
 { [%eval 3.70] } 22... Bb4 { [%eval 4.51] } 23. Nc4 { [%eval 4.59] } 23... Rd8
 { [%eval 4.78] } 24. Rd3 { [%eval 4.95] } 24... Re7 { [%eval 5.07] } 25. e3
-{ [%eval 5.04] } 25... Red7 { [%eval 6.49] } 0-1
+{ [%eval 5.04] } 25... Red7 { [%eval 6.49] } 1-0

@@ -4,11 +4,12 @@
 [Round "?.154"]
 [White "Diego Amicabile"]
 [Black "Sexsomniac"]
-[Result "1-0"]
+[Result "1/2-1/2"]
 [ECO "C40"]
 [EventDate "2006.??.??"]
 [PostmortemId "d4995ca4af"]
 [PostmortemAnalysis "Stockfish 19, depth 22"]
+[OriginalResult "1-0"]
 
 1. e4 { [%eval 0.19] } 1... e5 { [%eval 0.26] } 2. Nf3 { [%eval 0.23] } 2...
 Bd6 { [%eval 0.91] } 3. Bc4 { [%eval 0.87] } 3... h6 { [%eval 1.51] } 4. O-O
@@ -23,4 +24,4 @@ $10 ) ( 10... Nxb3 11. Nxb3 O-O 12. a4 c4 13. Nbd2 Rb8 14. Nf1 $10 ) 11. Bc2
 Qb6 { [%eval 2.08] } 12. Nf1 { [%eval 1.57] } 12... Nb7 { [%eval 2.17] } 13.
 Ng3 { [%eval 1.40] } 13... Ng4 $6 { [%eval 2.68] } ( 13... Bc5 14. Rf1 d6 15.
 h3 Bd7 16. Qe2 Rc8 17. Kh1 $16 ) 14. Qe2 { [%eval 2.25] } ( 14. Re2 Bc5 15. Qe1
-Qc7 16. b4 cxb3 17. axb3 O-O $16 ) 1-0
+Qc7 16. b4 cxb3 17. axb3 O-O $16 ) 1/2-1/2

@@ -4,12 +4,13 @@
 [Round "?"]
 [White "Amicabile, Diego"]
 [Black "Renner, David"]
-[Result "1-0"]
+[Result "1/2-1/2"]
 [ECO "C00"]
 [WhiteElo "1693"]
 [BlackElo "1508"]
 [PostmortemId "a5b171f34e"]
 [PostmortemAnalysis "Stockfish 19, depth 22"]
+[OriginalResult "1-0"]
 
 1. e4 { [%eval 0.19] } 1... e6 { [%eval 0.38] } 2. b3 { [%eval -0.19] } 2... d5
 { [%eval -0.15] } 3. Bb2 { [%eval -0.18] } 3... Nf6 { [%eval 0.14] } 4. Nc3
@@ -60,4 +61,4 @@ cxd5 47. Kd4 Kg4 48. b5 $10 ) 45. Kc4 { [%eval 0.15] } 45... Kxf4
 { [%eval 0.00] } 47... Kg3 { [%eval 0.06] } 48. b5 { [%eval 0.01] } 48... axb5
 { [%eval 0.01] } 49. axb5 { [%eval 0.00] } 49... f4 { [%eval 0.01] } 50. b6
 { [%eval 0.00] } 50... f3 { [%eval 0.00] } 51. b7 { [%eval 0.00] } 51... f2
-{ [%eval 0.00] } 52. b8=Q+ { [%eval 0.00] } 1-0
+{ [%eval 0.00] } 52. b8=Q+ { [%eval 0.00] } 1/2-1/2

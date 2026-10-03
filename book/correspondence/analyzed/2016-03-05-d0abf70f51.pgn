@@ -4,7 +4,7 @@
 [Round "?"]
 [White "dayandeste"]
 [Black "diegoami"]
-[Result "1/2-1/2"]
+[Result "0-1"]
 [ECO "B44"]
 [WhiteElo "1773"]
 [BlackElo "1822"]
@@ -13,6 +13,7 @@
 [Termination "Game drawn by agreement"]
 [PostmortemId "d0abf70f51"]
 [PostmortemAnalysis "Stockfish 19, depth 22"]
+[OriginalResult "1/2-1/2"]
 
 1. e4 { [%eval 0.19] } 1... c5 { [%eval 0.32] } 2. Nf3 { [%eval 0.31] } 2... e6
 { [%eval 0.50] } 3. d4 { [%eval 0.46] } 3... cxd4 { [%eval 0.44] } 4. Nxd4
@@ -39,4 +40,4 @@ Qxd8 Rfxd8 21. Bc3 Bxh2+ 22. Kxh2 Rxd3 23. Na3 Nf4 $17 ) 20... Nf6 $2
 ) ( 20... Nf4 21. Nc3 Nxd3 22. Rxe6 Kh7 23. Re3 Nf4 24. Rd1 $19 ) 21. Qh4
 { [%eval -1.85] } ( 21. Bxf6 Qxf6 22. Nc3 Rab8 23. Rab1 Rfd8 24. Ne4 Qd4 $17 )
 21... Nh5 { [%eval -1.50] } 22. Qg4 $2 { [%eval -6.99] } ( 22. Qxd8 Rfxd8 23.
-Bc3 Bxh2+ 24. Kxh2 Rxd3 25. f3 Nf4 $17 ) 1/2-1/2
+Bc3 Bxh2+ 24. Kxh2 Rxd3 25. f3 Nf4 $17 ) 0-1

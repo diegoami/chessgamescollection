@@ -4,7 +4,7 @@
 [Round "?"]
 [White "SATELLITE-DAN"]
 [Black "diegoami"]
-[Result "0-1"]
+[Result "1-0"]
 [ECO "B01"]
 [WhiteElo "1568"]
 [BlackElo "1710"]
@@ -12,6 +12,7 @@
 [TimeControl "2700+45"]
 [PostmortemId "9d3a0c9a3f"]
 [PostmortemAnalysis "Stockfish 16, depth 22"]
+[OriginalResult "0-1"]
 
 1. e4 { [%eval 0.23] } 1... d5 { [%eval 0.70] } 2. exd5 { [%eval 0.75] } 2...
 Qxd5 { [%eval 0.62] } 3. Nc3 { [%eval 0.75] } 3... Qa5 { [%eval 0.68] } 4. Nf3
@@ -39,4 +40,4 @@ Nd5 23. Nxg6 hxg6 24. h4 Rad8 25. h5 f6 26. Qg4 $16 ) 23. Qe3 $6
 { [%eval 5.34] } ( 23... Nf6 24. Qg5 Nd5 25. Nxg6 hxg6 26. h4 Rad8 27. h5 $16 )
 ( 23... Nf6 24. Qg5 Nd5 25. Nxg6 hxg6 26. h4 Rad8 27. h5 $16 ) 24. Nxg6
 { [%eval 5.41] } ( 24. Nxg6 Qxg6 25. Qxe4 Qxe4 26. Rxe4 b5 27. dxc5 a5 $18 )
-24... hxg6 { [%eval 5.93] } 25. Qxe4 { [%eval 5.94] } 0-1
+24... hxg6 { [%eval 5.93] } 25. Qxe4 { [%eval 5.94] } 1-0

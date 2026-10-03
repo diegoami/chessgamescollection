@@ -4,7 +4,7 @@
 [Round "?"]
 [White "abhi_Lash"]
 [Black "diegoami"]
-[Result "0-1"]
+[Result "1-0"]
 [ECO "A84"]
 [WhiteElo "1816"]
 [BlackElo "1854"]
@@ -13,6 +13,7 @@
 [Termination "diegoami won on time"]
 [PostmortemId "ba811d71b6"]
 [PostmortemAnalysis "Stockfish 19, depth 22"]
+[OriginalResult "0-1"]
 
 1. c4 { [%eval 0.18] } 1... e6 { [%eval 0.26] } 2. Nc3 { [%eval 0.26] } 2... f5
 { [%eval 0.43] } 3. d4 { [%eval 0.48] } 3... Nf6 { [%eval 0.42] } 4. Nf3
@@ -28,4 +29,4 @@
 $6 { [%eval 1.86] } ( 17... h5 18. Nf3 h4 19. h3 Qh5 20. Qe1 g5 21. Nh2 $14 )
 18. f3 { [%eval 1.76] } ( 18. f3 Ng5 19. d5 exd5 20. b5 axb5 21. Rxa8 Rxa8 $16
 ) 18... Ng5 { [%eval 1.85] } 19. Bc2 { [%eval 1.71] } 19... Nd7
-{ [%eval 2.32] } 0-1
+{ [%eval 2.32] } 1-0

@@ -4,10 +4,11 @@
 [Round "?"]
 [White "Amicabile"]
 [Black "Janda"]
-[Result "*"]
+[Result "0-1"]
 [ECO "C40"]
 [PostmortemId "4bf049a96d"]
 [PostmortemAnalysis "Stockfish 19, depth 22"]
+[OriginalResult "*"]
 
 1. e4 { [%eval 0.19] } 1... e5 { [%eval 0.26] } 2. Nf3 { [%eval 0.23] } 2...
 Qe7 { [%eval 1.11] } 3. Bc4 { [%eval 1.02] } 3... g6 { [%eval 1.71] } 4. O-O
@@ -56,4 +57,4 @@ Nxg4 Qf7 37. Ne3 Qxf1 38. Nxf1 $19 ) 35. Nxf1 { [%eval -5.77] } 35... Qc8
 39... Kg5 { [%eval -5.83] } 40. Nf5 { [%eval -6.93] } 40... Bxf5
 { [%eval -7.23] } 41. exf5 { [%eval -7.39] } 41... Qxf5 { [%eval -7.35] } 42.
 Be3 { [%eval -8.55] } 42... Rxg4 { [%eval -8.03] } 43. hxg4 { [%eval #-4] }
-43... Qb1+ { [%eval #-3] } *
+43... Qb1+ { [%eval #-3] } 0-1

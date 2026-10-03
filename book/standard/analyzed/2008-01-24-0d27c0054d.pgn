@@ -4,7 +4,7 @@
 [Round "1"]
 [White "Jezro"]
 [Black "diegoami"]
-[Result "0-1"]
+[Result "1-0"]
 [ECO "B47"]
 [WhiteElo "1667"]
 [BlackElo "1852"]
@@ -12,6 +12,7 @@
 [TimeControl "1020+5"]
 [PostmortemId "0d27c0054d"]
 [PostmortemAnalysis "Stockfish 19, depth 22"]
+[OriginalResult "0-1"]
 
 1. e4 { [%eval 0.19] } 1... c5 { [%eval 0.32] } 2. Nf3 { [%eval 0.31] } 2... e6
 { [%eval 0.50] } 3. d4 { [%eval 0.46] } 3... cxd4 { [%eval 0.44] } 4. Nxd4
@@ -64,4 +65,4 @@ Kg1 h6 34. Qb3 $10 ) 31. a3 { [%eval 1.33] } ( 31. Nc5 h6 32. a3 Rb8 33. a4
 Rb2+ 34. Kg1 Qb8 $16 ) 31... Rc4 { [%eval 2.48] } 32. Nc5 { [%eval 3.33] }
 32... Rxc5 $6 { [%eval 7.15] } ( 32... Qe8 33. Bf2 h5 34. h4 Kh7 35. Qe2 e5 36.
 Qxe5 $18 ) 33. Bxc5 { [%eval 7.15] } ( 33. Bxc5 Ne4 34. Qd7 Qxd7 35. cxd7 Nxc5
-36. Ra8+ Kf7 $18 ) 0-1
+36. Ra8+ Kf7 $18 ) 1-0

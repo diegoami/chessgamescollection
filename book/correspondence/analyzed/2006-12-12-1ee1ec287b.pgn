@@ -4,11 +4,12 @@
 [Round "?.130"]
 [White "Gary Karpov"]
 [Black "Diego Amicabile"]
-[Result "0-1"]
+[Result "1/2-1/2"]
 [ECO "C00"]
 [EventDate "2006.??.??"]
 [PostmortemId "1ee1ec287b"]
 [PostmortemAnalysis "Stockfish 19, depth 22"]
+[OriginalResult "0-1"]
 
 1. e4 { [%eval 0.19] } 1... e6 { [%eval 0.38] } 2. d3 { [%eval -0.09] } 2... d5
 { [%eval -0.01] } 3. Nd2 { [%eval -0.03] } 3... c5 { [%eval 0.02] } 4. Ngf3
@@ -23,4 +24,4 @@ bxa4 15. N1h2 d4 $10 ) 12... cxd4 { [%eval -1.63] } ( 12... cxd4 13. Nxd4 Ncxe5
 { [%eval -0.27] } ( 13... Nb4 14. Qd1 Nc2 15. Rb1 Nxe1 16. Nxe1 a5 17. Nf1 $17
 ) 14. a3 { [%eval -0.36] } ( 14. Nb1 b5 15. Be3 a4 16. Nbd2 Nb6 17. b3 Ba6 $10
 ) 14... Ba6 { [%eval -0.43] } 15. Qd1 { [%eval -0.50] } 15... b5
-{ [%eval -0.03] } 0-1
+{ [%eval -0.03] } 1/2-1/2

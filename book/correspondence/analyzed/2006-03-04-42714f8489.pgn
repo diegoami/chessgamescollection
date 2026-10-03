@@ -4,13 +4,14 @@
 [Round "?"]
 [White "Diego Amicabile"]
 [Black "swijs"]
-[Result "0-1"]
+[Result "1/2-1/2"]
 [ECO "B33"]
 [WhiteElo "1950"]
 [BlackElo "2147"]
 [EventDate "2006.??.??"]
 [PostmortemId "42714f8489"]
 [PostmortemAnalysis "Stockfish 19, depth 22"]
+[OriginalResult "0-1"]
 
 1. e4 { [%eval 0.19] } 1... c5 { [%eval 0.32] } 2. Ne2 { [%eval 0.08] } 2...
 Nc6 { [%eval 0.34] } 3. Nbc3 { [%eval 0.19] } 3... e6 { [%eval 0.40] } 4. d4
@@ -53,4 +54,4 @@ Kf3 { [%eval -4.03] } 43... Nd4+ { [%eval -3.61] } 44. Kg3 { [%eval -3.86] }
 44... Rc6 $6 { [%eval -2.22] } ( 44... Bg5 45. Ng7 Be7 46. Ra4 Rc8 47. Kh3 Rg8
 48. Nh5 $19 ) 45. f3 { [%eval -3.30] } ( 45. Nf6 Rc2 46. Nd5 Bc1 47. Ra5 h6 48.
 f3 h5 $17 ) 45... Nb5 $6 { [%eval -1.60] } ( 45... Bg5 46. Kh3 Be7 47. g3 Rc8
-48. Ng7 Rg8 49. Nh5 $19 ) 0-1
+48. Ng7 Rg8 49. Nh5 $19 ) 1/2-1/2

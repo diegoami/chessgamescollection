@@ -4,11 +4,12 @@
 [Round "?"]
 [White "Diego Amicabile"]
 [Black "josephsalmond"]
-[Result "1-0"]
+[Result "1/2-1/2"]
 [WhiteElo "1980"]
 [BlackElo "1537"]
 [EventDate "2005.??.??"]
 [PostmortemId "3b2e9a536c"]
 [PostmortemAnalysis "Stockfish 19, depth 22"]
+[OriginalResult "1-0"]
 
-1. d4 { [%eval 0.19] } 1... d5 { [%eval 0.23] } 2. c4 { [%eval 0.17] } 1-0
+1. d4 { [%eval 0.19] } 1... d5 { [%eval 0.23] } 2. c4 { [%eval 0.17] } 1/2-1/2

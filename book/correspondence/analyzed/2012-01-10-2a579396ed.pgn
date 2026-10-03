@@ -4,7 +4,7 @@
 [Round "?"]
 [White "gr-al01"]
 [Black "diegoami"]
-[Result "*"]
+[Result "1-0"]
 [ECO "A90"]
 [WhiteElo "2109"]
 [BlackElo "1875"]
@@ -12,6 +12,7 @@
 [TimeControl "1"]
 [PostmortemId "2a579396ed"]
 [PostmortemAnalysis "Stockfish 19, depth 22"]
+[OriginalResult "*"]
 
 1. d4 { [%eval 0.19] } 1... f5 { [%eval 0.53] } 2. g3 { [%eval 0.57] } 2... Nf6
 { [%eval 0.54] } 3. Bg2 { [%eval 0.43] } 3... e6 { [%eval 0.47] } 4. c4
@@ -38,4 +39,4 @@ Nxe5 { [%eval 6.43] } 17... Bxd6 { [%eval 6.59] } 18. Nxf7 { [%eval 6.56] }
 hxg5 { [%eval 6.19] } 29. Rcd4 { [%eval 5.90] } 29... Rd8 { [%eval 6.23] } 30.
 Kg2 { [%eval 6.23] } 30... Be7 { [%eval 6.39] } 31. R4d2 { [%eval 6.11] } 31...
 b5 { [%eval 6.76] } 32. Re2 { [%eval 6.76] } 32... c5 { [%eval 8.89] } 33. Rf1+
-{ [%eval 8.89] } *
+{ [%eval 8.89] } 1-0

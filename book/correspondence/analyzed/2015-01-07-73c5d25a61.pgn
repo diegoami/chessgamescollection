@@ -4,7 +4,7 @@
 [Round "?"]
 [White "diegoami"]
 [Black "XnewM"]
-[Result "0-1"]
+[Result "1/2-1/2"]
 [ECO "C40"]
 [WhiteElo "1496"]
 [BlackElo "1503"]
@@ -13,6 +13,7 @@
 [Termination "XnewM won on time"]
 [PostmortemId "73c5d25a61"]
 [PostmortemAnalysis "Stockfish 19, depth 22"]
+[OriginalResult "0-1"]
 
 1. e4 { [%eval 0.19] } 1... e5 { [%eval 0.26] } 2. Nf3 { [%eval 0.23] } 2...
 Bc5 $6 { [%eval 1.62] } ( 2... Nc6 3. Bb5 Nf6 4. O-O Nxe4 5. Re1 Nd6 6. Nxe5
@@ -54,4 +55,5 @@ Rxe4 Bc7 23. g3 g5 24. Ke2 Rae8 $18 ) 21... Rae8 { [%eval -1.10] } ( 21... Rae8
 22... Nxe4 { [%eval -1.20] } 23. Bg1 { [%eval -1.11] } 23... Nd6
 { [%eval -0.93] } 24. Kd3 { [%eval -0.88] } 24... Nf5 { [%eval -0.55] } 25. g3
 { [%eval -1.06] } 25... Nh6 { [%eval -0.50] } 26. Rxe8 { [%eval -0.48] } 26...
-Rxe8 { [%eval -0.50] } 27. Rf1 { [%eval -0.60] } 27... g5 { [%eval -0.44] } 0-1
+Rxe8 { [%eval -0.50] } 27. Rf1 { [%eval -0.60] } 27... g5 { [%eval -0.44] }
+1/2-1/2

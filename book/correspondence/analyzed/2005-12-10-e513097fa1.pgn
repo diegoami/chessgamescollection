@@ -4,11 +4,12 @@
 [Round "?"]
 [White "adi beavis"]
 [Black "Diego Amicabile"]
-[Result "0-1"]
+[Result "1/2-1/2"]
 [BlackElo "2071"]
 [EventDate "2005.??.??"]
 [PostmortemId "e513097fa1"]
 [PostmortemAnalysis "Stockfish 19, depth 22"]
+[OriginalResult "0-1"]
 
 1. d4 { [%eval 0.19] } 1... Nf6 { [%eval 0.20] } 2. c4 { [%eval 0.22] } 2... e6
 { [%eval 0.29] } 3. Nc3 { [%eval 0.15] } 3... Bb4 { [%eval 0.17] } 4. Bd2
@@ -27,4 +28,4 @@ exf6 { [%eval 0.00] } 16... cxd3 { [%eval 0.00] } 17. Qd2 { [%eval -0.16] }
 Re3 Ba6 23. Rde1 e5 24. Rxe5 $10 ) 21. Rad1 $4 { [%eval 0.00] } ( 21. Re5 Qg6
 22. Rg5 Rd5 23. Rxg6+ hxg6 24. Qh6 e5 $18 ) ( 21. Re5 Qg6 22. Rg5 Rd5 23. Rxg6+
 hxg6 24. Qh6 e5 $18 ) 21... f6 { [%eval 0.00] } ( 21... f6 22. Re3 Ba6 23. Rde1
-e5 24. Rxe5 fxe5 25. Rxe5 $10 ) 0-1
+e5 24. Rxe5 fxe5 25. Rxe5 $10 ) 1/2-1/2

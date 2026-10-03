@@ -4,7 +4,7 @@
 [Round "?"]
 [White "pakikay"]
 [Black "diegoami"]
-[Result "1-0"]
+[Result "0-1"]
 [WhiteElo "1796"]
 [BlackElo "1796"]
 [ECO "B44"]
@@ -13,6 +13,7 @@
 [EndDate "2017.08.30"]
 [PostmortemId "9b8d02a61a"]
 [PostmortemAnalysis "Stockfish 19, depth 22"]
+[OriginalResult "1-0"]
 
 1. e4 { [%eval 0.19] } 1... c5 { [%eval 0.32] } 2. Nf3 { [%eval 0.31] } 2... e6
 { [%eval 0.50] } 3. d4 { [%eval 0.46] } 3... cxd4 { [%eval 0.44] } 4. Nxd4
@@ -36,4 +37,4 @@ h3 Ngf6 20. a4 Nxg3 21. Nxg3 Ne4 22. a5 Bc5 $17 ) 19... Nc5 { [%eval -3.78] } (
 Qf6 { [%eval -4.55] } 22. Rd3 { [%eval -4.60] } 22... Nxd4 { [%eval -3.59] }
 23. cxd4 { [%eval -4.05] } 23... Rc4 { [%eval -4.08] } 24. Bxg4
 { [%eval -4.84] } 24... Rxd4 { [%eval -4.90] } 25. Rxd4 { [%eval -4.91] } 25...
-Bxg4 { [%eval -5.22] } 1-0
+Bxg4 { [%eval -5.22] } 0-1

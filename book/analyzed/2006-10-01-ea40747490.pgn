@@ -4,13 +4,14 @@
 [Round "?"]
 [White "Arthur Wachelka"]
 [Black "Diego Amicabile"]
-[Result "1-0"]
+[Result "1/2-1/2"]
 [ECO "E21"]
 [WhiteElo "1740"]
 [BlackElo "1718"]
 [EventDate "2006.??.??"]
 [PostmortemId "ea40747490"]
 [PostmortemAnalysis "Stockfish 19, depth 22"]
+[OriginalResult "1-0"]
 
 1. d4 { [%eval 0.19] } 1... e6 { [%eval 0.44] } 2. c4 { [%eval 0.28] } 2... Nf6
 { [%eval 0.22] } 3. Nc3 { [%eval 0.19] } 3... Bb4 { [%eval 0.16] } 4. Qc2
@@ -42,4 +43,4 @@ Rc5 axb4 32. Rxc8+ Rxc8 33. Bf4 h6 34. d5 $17 ) ( 30... cxb2 31. Rc5 axb4 32.
 Rxc8+ Rxc8 33. Bf4 h6 34. d5 $17 ) 31. bxc3 { [%eval -0.45] } ( 31. bxc3 Ba6
 32. Qd2 Nxc3 33. Kh1 Bc4 34. d5 Qd7 $10 ) 31... Nxc3 { [%eval -0.36] } 32. Qb2
 { [%eval -0.26] } 32... Ba6 { [%eval -0.22] } 33. Kh1 { [%eval -0.73] } 33...
-Ra7 { [%eval 0.13] } 34. d5 { [%eval 0.10] } 1-0
+Ra7 { [%eval 0.13] } 34. d5 { [%eval 0.10] } 1/2-1/2

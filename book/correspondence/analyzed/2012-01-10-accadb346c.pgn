@@ -4,7 +4,7 @@
 [Round "?"]
 [White "AronNimzovich"]
 [Black "diegoami"]
-[Result "0-1"]
+[Result "1/2-1/2"]
 [ECO "A03"]
 [WhiteElo "1824"]
 [BlackElo "1892"]
@@ -12,6 +12,7 @@
 [TimeControl "1"]
 [PostmortemId "accadb346c"]
 [PostmortemAnalysis "Stockfish 19, depth 22"]
+[OriginalResult "0-1"]
 
 1. f4 { [%eval -0.29] } 1... d5 { [%eval -0.22] } 2. Nf3 { [%eval -0.16] } 2...
 c5 { [%eval -0.18] } 3. b3 { [%eval -0.22] } 3... Nc6 { [%eval -0.16] } 4. Bb2
@@ -28,4 +29,4 @@ c5 { [%eval -0.18] } 3. b3 { [%eval -0.22] } 3... Nc6 { [%eval -0.16] } 4. Bb2
 { [%eval 0.13] } 19... Rae8 { [%eval 0.65] } 20. Nh4 { [%eval 0.62] } 20... Qe6
 { [%eval 1.39] } 21. Nxg6 { [%eval 0.76] } 21... Qxg6 { [%eval 1.69] } 22. Qxg6
 { [%eval 1.19] } 22... hxg6 { [%eval 1.19] } 23. Bc3 { [%eval 1.46] } 23... Ra8
-{ [%eval 1.24] } 0-1
+{ [%eval 1.24] } 1/2-1/2

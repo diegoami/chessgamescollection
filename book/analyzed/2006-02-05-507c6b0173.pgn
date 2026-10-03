@@ -4,13 +4,14 @@
 [Round "?"]
 [White "Diego Amicabile"]
 [Black "Dirk Rother"]
-[Result "1/2-1/2"]
+[Result "0-1"]
 [ECO "B12"]
 [WhiteElo "1708"]
 [BlackElo "1718"]
 [EventDate "2006.??.??"]
 [PostmortemId "507c6b0173"]
 [PostmortemAnalysis "Stockfish 19, depth 22"]
+[OriginalResult "1/2-1/2"]
 
 1. e4 { [%eval 0.19] } 1... c6 { [%eval 0.31] } 2. d4 { [%eval 0.26] } 2... d5
 { [%eval 0.25] } 3. e5 { [%eval 0.43] } 3... Bf5 { [%eval 0.47] } 4. Bd3
@@ -92,4 +93,4 @@ Na4 { [%eval -3.20] } 53... Nb5 $6 { [%eval -1.57] } ( 53... Nd7 54. Kh4 Kf7
 Kf7 { [%eval -3.99] } 57. Kh4 { [%eval -5.07] } 57... Kg6 { [%eval -6.29] } 58.
 Ne3 { [%eval -6.30] } 58... Ne7 { [%eval -6.28] } 59. Nc2 { [%eval -6.31] }
 59... Nc8 { [%eval -6.33] } 60. Na3 { [%eval -6.43] } 60... Na7
-{ [%eval -6.03] } 61. Nc2 { [%eval -6.48] } 1/2-1/2
+{ [%eval -6.03] } 61. Nc2 { [%eval -6.48] } 0-1

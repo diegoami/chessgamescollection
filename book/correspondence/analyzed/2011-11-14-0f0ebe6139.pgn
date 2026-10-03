@@ -4,13 +4,14 @@
 [Round "?"]
 [White "Oraekja"]
 [Black "diegoami"]
-[Result "1/2-1/2"]
+[Result "0-1"]
 [ECO "A80"]
 [WhiteElo "1935"]
 [BlackElo "1852"]
 [EventDate "2011.??.??"]
 [PostmortemId "0f0ebe6139"]
 [PostmortemAnalysis "Stockfish 19, depth 22"]
+[OriginalResult "1/2-1/2"]
 
 1. d4 { [%eval 0.19] } 1... f5 { [%eval 0.53] } 2. f4 { [%eval 0.06] } 2... e6
 { [%eval 0.04] } 3. Nf3 { [%eval 0.04] } 3... Nf6 { [%eval 0.10] } 4. e3
@@ -24,5 +25,4 @@ Nxd4 Ndc5 15. Be2 Qe8 $10 ) 12... cxd4 { [%eval -3.22] } ( 12... cxd4 13. Ne2
 dxe3 14. Bxe3 Rc8 15. Nxd7 Qxd7 16. Rad1 $17 ) 13. Nb5 { [%eval -3.00] } 13...
 Nxe5 { [%eval -3.08] } 14. fxe5 { [%eval -3.08] } 14... dxe3 { [%eval -3.24] }
 15. Bxe3 { [%eval -3.15] } 15... a6 { [%eval -2.47] } 16. Bxe4
-{ [%eval -2.63] } 16... axb5 { [%eval -2.78] } 17. Bf3 { [%eval -2.73] }
-1/2-1/2
+{ [%eval -2.63] } 16... axb5 { [%eval -2.78] } 17. Bf3 { [%eval -2.73] } 0-1

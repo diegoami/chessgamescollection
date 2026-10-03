@@ -4,9 +4,10 @@
 [Round "?"]
 [White "Diego Amicabile"]
 [Black "Johnny G"]
-[Result "*"]
+[Result "1/2-1/2"]
 [EventDate "2006.??.??"]
 [PostmortemId "67e7a05f8b"]
 [PostmortemAnalysis "Stockfish 19, depth 22"]
+[OriginalResult "*"]
 
-1. e4 { [%eval 0.19] } *
+1. e4 { [%eval 0.19] } 1/2-1/2

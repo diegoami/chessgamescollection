@@ -4,11 +4,12 @@
 [Round "?"]
 [White "Knight1118"]
 [Black "Diego Amicabile"]
-[Result "0-1"]
+[Result "1/2-1/2"]
 [BlackElo "1961"]
 [EventDate "2006.??.??"]
 [PostmortemId "9648fc37e6"]
 [PostmortemAnalysis "Stockfish 19, depth 22"]
+[OriginalResult "0-1"]
 
 1. e4 { [%eval 0.19] } 1... c6 { [%eval 0.31] } 2. d4 { [%eval 0.26] } 2... d5
 { [%eval 0.25] } 3. Nc3 { [%eval 0.33] } 3... dxe4 { [%eval 0.39] } 4. Nxe4
@@ -23,4 +24,4 @@
 { [%eval 0.41] } 16... Nb6 { [%eval 1.35] } 17. Nb3 { [%eval 0.48] } 17... Nd5
 { [%eval 0.68] } 18. c4 { [%eval 0.37] } 18... Nf6 { [%eval 0.93] } 19. Qd3
 { [%eval 0.37] } 19... Bf4 { [%eval 0.31] } 20. g3 { [%eval 0.30] } 20... Bxe3
-{ [%eval 0.32] } 21. Qxe3 { [%eval 0.28] } 21... Rhe8 { [%eval 0.27] } 0-1
+{ [%eval 0.32] } 21. Qxe3 { [%eval 0.28] } 21... Rhe8 { [%eval 0.27] } 1/2-1/2

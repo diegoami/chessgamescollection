@@ -4,7 +4,7 @@
 [Round "?"]
 [White "rsbarge"]
 [Black "diegoami"]
-[Result "*"]
+[Result "1/2-1/2"]
 [ECO "B11"]
 [WhiteElo "1763"]
 [BlackElo "1804"]
@@ -12,9 +12,10 @@
 [TimeControl "1800+30"]
 [PostmortemId "fb0b600a40"]
 [PostmortemAnalysis "Stockfish 19, depth 22"]
+[OriginalResult "*"]
 
 1. e4 { [%eval 0.19] } 1... c6 { [%eval 0.31] } 2. Nc3 { [%eval 0.23] } 2... d5
 { [%eval 0.31] } 3. Nf3 { [%eval 0.18] } 3... dxe4 { [%eval 0.32] } 4. Nxe4
 { [%eval 0.31] } 4... Bf5 { [%eval 0.49] } 5. Ng3 { [%eval 0.52] } 5... Bg6
 { [%eval 1.22] } 6. h4 { [%eval 1.20] } 6... h6 { [%eval 1.09] } 7. Bc4
-{ [%eval -0.01] } 7... Nd7 { [%eval -0.02] } *
+{ [%eval -0.01] } 7... Nd7 { [%eval -0.02] } 1/2-1/2

@@ -4,13 +4,14 @@
 [Round "?"]
 [White "diegoami"]
 [Black "TerryMalloy"]
-[Result "1/2-1/2"]
+[Result "0-1"]
 [ECO "B90"]
 [WhiteElo "1763"]
 [BlackElo "2035"]
 [EventDate "2015.??.??"]
 [PostmortemId "4fd4a75b60"]
 [PostmortemAnalysis "Stockfish 19, depth 22"]
+[OriginalResult "1/2-1/2"]
 
 1. e4 { [%eval 0.19] } 1... c5 { [%eval 0.32] } 2. Nf3 { [%eval 0.31] } 2... d6
 { [%eval 0.26] } 3. d4 { [%eval 0.37] } 3... cxd4 { [%eval 0.27] } 4. Nxd4
@@ -57,4 +58,4 @@ Bc1 42. a4 Bxb2 43. Kf2 Kf6 44. Be2 Ke5 45. Bg4 $19 ) 42. a4 { [%eval -4.83] }
 { [%eval -6.30] } 45... Bc1+ { [%eval -5.86] } 46. Kg4 { [%eval -6.31] } 46...
 Kf6 $6 { [%eval -3.53] } ( 46... Bd2 47. Kf3 Bg5 48. Bf1 Bd8 49. Bc4 Bc7 50.
 Bb3 $19 ) 47. Kxh4 { [%eval -4.23] } ( 47. Kxh4 Ke5 48. Kg4 Bh6 49. Kf3 Bg5 50.
-Kg4 Bd8 $19 ) 1/2-1/2
+Kg4 Bd8 $19 ) 0-1

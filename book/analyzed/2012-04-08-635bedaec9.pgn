@@ -4,11 +4,12 @@
 [Round "?"]
 [White "Frühsorger"]
 [Black "Amicabile"]
-[Result "*"]
+[Result "1-0"]
 [ECO "B40"]
 [SourceDate "2012.04.06"]
 [PostmortemId "635bedaec9"]
 [PostmortemAnalysis "Stockfish 19, depth 22"]
+[OriginalResult "*"]
 
 1. e4 { [%eval 0.19] } 1... c5 { [%eval 0.32] } 2. Nf3 { [%eval 0.31] } 2... e6
 { [%eval 0.50] } 3. d4 { [%eval 0.46] } 3... cxd4 { [%eval 0.44] } 4. c3
@@ -49,4 +50,4 @@ h5 40. g3 Re2 41. h4 e4 42. Kg2 $16 ) 39. Rg6+ { [%eval 0.46] } 39... Kf8 $4
 $18 ) 40... Kg7 { [%eval 5.89] } 41. Rxf2 { [%eval 6.07] } 41... Rxe4
 { [%eval 5.97] } 42. Rc2 { [%eval 6.02] } 42... Rd4 { [%eval 6.63] } 43. c5
 { [%eval 6.21] } 43... Rd8 { [%eval 6.38] } 44. c6 { [%eval 6.83] } 44... Rc8
-{ [%eval 6.85] } *
+{ [%eval 6.85] } 1-0

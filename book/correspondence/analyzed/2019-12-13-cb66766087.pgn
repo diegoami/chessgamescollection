@@ -4,13 +4,14 @@
 [Round "?"]
 [White "Kastamonulu"]
 [Black "diegoami"]
-[Result "0-1"]
+[Result "1/2-1/2"]
 [ECO "B40"]
 [WhiteElo "1686"]
 [BlackElo "1827"]
 [EventDate "2019.??.??"]
 [PostmortemId "cb66766087"]
 [PostmortemAnalysis "Stockfish 16, depth 22"]
+[OriginalResult "0-1"]
 
 1. e4 { [%eval 0.23] } 1... c5 { [%eval 0.37] } 2. Nf3 { [%eval 0.41] } 2... e6
 { [%eval 0.45] } 3. d4 { [%eval 0.36] } 3... cxd4 { [%eval 0.47] } 4. Bg5
@@ -32,4 +33,4 @@ Qd7 { [%eval -0.64] } 18. Nxc6 { [%eval -1.03] } 18... Bxc6 { [%eval -1.00] }
 Rac8 { [%eval -1.42] } 22. Nf4 { [%eval -2.01] } 22... Nxf4 { [%eval -1.97] }
 23. Bxf4 { [%eval -1.91] } 23... d5 { [%eval -1.97] } 24. e5 { [%eval -2.03] }
 24... f6 $6 { [%eval -0.64] } ( 24... d4 25. Qd3 Bd5 26. Rxc8 Qxc8 27. h4 Bc4
-28. Qe4 $17 ) 0-1
+28. Qe4 $17 ) 1/2-1/2

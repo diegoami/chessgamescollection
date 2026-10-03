@@ -4,10 +4,12 @@
 [Round "?"]
 [White "Diego Amicabile"]
 [Black "ANGEL OF MUSIC"]
-[Result "1-0"]
+[Result "1/2-1/2"]
 [BlackElo "2069"]
 [EventDate "2005.??.??"]
 [PostmortemId "8f9d29e436"]
 [PostmortemAnalysis "Stockfish 19, depth 22"]
+[OriginalResult "1-0"]
 
-1. Nf3 { [%eval 0.16] } 1... d5 { [%eval 0.21] } 2. c4 { [%eval -0.10] } 1-0
+1. Nf3 { [%eval 0.16] } 1... d5 { [%eval 0.21] } 2. c4 { [%eval -0.10] }
+1/2-1/2

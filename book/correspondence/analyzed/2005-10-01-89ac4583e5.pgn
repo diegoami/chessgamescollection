@@ -4,15 +4,16 @@
 [Round "?"]
 [White "Diego Amicabile"]
 [Black "reteip sreinyer"]
-[Result "1-0"]
+[Result "1/2-1/2"]
 [BlackElo "2015"]
 [EventDate "2005.??.??"]
 [PostmortemId "89ac4583e5"]
 [PostmortemAnalysis "Stockfish 19, depth 22"]
+[OriginalResult "1-0"]
 
 1. e4 { [%eval 0.19] } 1... c5 { [%eval 0.32] } 2. d4 { [%eval 0.03] } 2...
 cxd4 { [%eval 0.10] } 3. c3 { [%eval -0.27] } 3... d5 { [%eval 0.24] } 4. exd5
 { [%eval 0.21] } 4... Qxd5 { [%eval 0.14] } 5. cxd4 { [%eval 0.16] } 5... Nc6
 { [%eval 0.40] } 6. Nf3 { [%eval 0.32] } 6... Bg4 { [%eval 0.35] } 7. Be2
 { [%eval 0.24] } 7... e6 { [%eval 0.23] } 8. Nc3 { [%eval 0.13] } 8... Qa5
-{ [%eval 0.17] } 9. O-O { [%eval 0.23] } 1-0
+{ [%eval 0.17] } 9. O-O { [%eval 0.23] } 1/2-1/2

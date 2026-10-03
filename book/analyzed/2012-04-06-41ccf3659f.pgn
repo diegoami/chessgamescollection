@@ -4,11 +4,12 @@
 [Round "?"]
 [White "Götzfried, Rudolf"]
 [Black "Amicabile, Diego"]
-[Result "*"]
+[Result "1-0"]
 [ECO "A83"]
 [SourceDate "2012.04.06"]
 [PostmortemId "41ccf3659f"]
 [PostmortemAnalysis "Stockfish 19, depth 22"]
+[OriginalResult "*"]
 
 1. d4 { [%eval 0.19] } 1... f5 { [%eval 0.53] } 2. e4 { [%eval 0.04] } 2...
 fxe4 { [%eval 0.06] } 3. Nc3 { [%eval 0.08] } 3... Nf6 { [%eval 0.01] } 4. Bg5
@@ -44,4 +45,5 @@ Qf3 Be6 25. cxd5 Ne5 26. dxe6 Nxf3+ 27. Rxf3 $19 ) 24. c5 { [%eval 6.47] } (
 { [%eval 7.37] } 25. Qc1 { [%eval 7.54] } 25... Nd5 { [%eval 8.19] } 26. cxd6
 { [%eval 8.37] } 26... Ne3 { [%eval 8.87] } 27. Rf3 { [%eval 7.40] } 27... g5
 { [%eval 9.00] } 28. fxg5 { [%eval 7.95] } 28... Qxd6 { [%eval 8.06] } 29.
-Rxf8+ { [%eval 8.12] } 29... Qxf8 { [%eval 9.21] } 30. Qxc7 { [%eval 10.07] } *
+Rxf8+ { [%eval 8.12] } 29... Qxf8 { [%eval 9.21] } 30. Qxc7 { [%eval 10.07] }
+1-0

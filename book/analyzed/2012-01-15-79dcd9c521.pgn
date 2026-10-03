@@ -4,10 +4,11 @@
 [Round "?"]
 [White "Amicabile"]
 [Black "Warwinsky"]
-[Result "*"]
+[Result "1-0"]
 [ECO "B00"]
 [PostmortemId "79dcd9c521"]
 [PostmortemAnalysis "Stockfish 19, depth 22"]
+[OriginalResult "*"]
 
 1. e4 { [%eval 0.19] } 1... e6 { [%eval 0.38] } 2. d4 { [%eval 0.38] } 2... b6
 { [%eval 1.05] } 3. Bd3 { [%eval 1.03] } 3... Bb7 { [%eval 0.94] } 4. Ne2
@@ -77,4 +78,4 @@ Rc6 { [%eval 0.12] } 70. Kh5 { [%eval 0.08] } 70... Rxf6 $4 { [%eval 7.11] } (
 { [%eval 6.75] } ( 71. gxf6 Kxh7 72. Kg5 Kh8 73. Kh6 Kg8 74. Kg6 Kf8 $18 )
 71... Kxh7 { [%eval 9.05] } 72. Kg5 { [%eval #16] } 72... Kg8 { [%eval #15] }
 73. Kg6 { [%eval #12] } 73... Kf8 { [%eval #11] } 74. f7 { [%eval #10] } 74...
-Ke7 { [%eval #10] } 75. Kg7 { [%eval #9] } *
+Ke7 { [%eval #10] } 75. Kg7 { [%eval #9] } 1-0
